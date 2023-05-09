@@ -1,0 +1,15 @@
+bricks
+cover
+donkey
+firefighter
+junk vehicles
+plants
+police
+polices
+rabbit
+soldier
+
+
+metal : junk vehicles
+unimaterial : bricks
+unicolor : bricks, junk vehicles

@@ -1,0 +1,12 @@
+
+1. Replace drive, folder addresses for each .py file (current version : 07)
+2. Run 1_Attribute Detector shell fix.py to obtain processed csv files (process 1)
+3. Find and remove the csv file of the duplicate image in the 0_Image_Detected folder through the program in the 2_attribute folder
+4. After modifying the folder in Comparer - Class.py, run #1 to note the newly added class separately
+5. Run #2 of Comparer - Class.py to overwrite the newly changed class_list
+6. After modifying the folder in Comparer - Attribute.py, run #1 to make a separate note of the newly added attributes
+7. Run #2 of Comparer - Attribute.py to overwrite the newly changed attribute_list
+8. Modify the folder in Specific Attribute Remove.py and apply it to 2_Attribute Checker - Mouse.py for the new class from the results you run
+9. Check class_list.txt to see if there are any attributes that will go in unconditionally
+10. Check class_list.txt for new additions to metallic, unimaterial, and unicolor
+11. Look at attribute_list.txt to see if there is anything new to apply to an existing class

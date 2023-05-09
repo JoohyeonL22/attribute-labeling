@@ -1,0 +1,11 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0847.jpg,1.0002,1,1200.0006,608,1,building,building_1.00,"brick, large, red, brown, old, white","brick, red"
+00070007_0847.jpg,1.0002,605,1200.0006,800,1,water,water_1.00,"brown, wet, calm, dark, murky, large","brown, wet"
+00070007_0847.jpg,1.0002,589,162.0006,625,1,sacks,sacks_1.00,"red, white, yellow, black, pink, long",white
+00070007_0847.jpg,210.9996,586,456.9996,620,1,sacks,sacks_211.00,"white, red, yellow, long, blue, black",white
+00070007_0847.jpg,506.0004,560,734.0004,618,1,sacks,sacks_506.00,"white, yellow, large, red, small, long","white, small"
+00070007_0847.jpg,770.0004,570,881.0004,606,1,sacks,sacks_770.00,"white, small, red, large, blue, black","white, small"
+00070007_0847.jpg,1149,545,1200,601,1,sacks,sacks_1149.00,"white, black, parked, orange, red, small","white, small"
+00070007_0847.jpg,492.9996,221,597.9996,288,1,woman,woman_493.00,"black, white, metal, green, red, large","white, red"
+00070007_0847.jpg,597.9996,219,666.9996,319,1,woman,woman_598.00,"pink, purple, standing, black, red, sitting",sitting
+00070007_0847.jpg,863.0004,481,1190.0004,608,1,tractor,tractor_863.00,"orange, red, black, white, small, large","orange, large"

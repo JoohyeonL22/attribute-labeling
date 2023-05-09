@@ -1,0 +1,8 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0256.jpg,289.00014,242.000167,635.00008,350.999941,1,car,car_289.00,"metal, green, blue, silver, purple, white","metal, green, blue, silver, purple, white"
+00070007_0256.jpg,332.00024,204.99986,382.00019,400.999936,1,police,police_332.00,"standing, walking, green, wearing, young, leaning","standing, walking, green, wearing, young, leaning"
+00070007_0256.jpg,374.999625,193.000148,460.999825,398.999984,1,firefighter,firefighter_375.00,"standing, skiing, yellow, wearing, young, snowboarding","standing, skiing, yellow, wearing, young, snowboarding"
+00070007_0256.jpg,2.0002125000000035,1.0002149999999972,167.0000475,107.000061,1,tree,tree_2.00,"green, purple, pink, white, large, tall","green, purple, pink, white, large, tall"
+00070007_0256.jpg,0.9999275000000124,66.99982600000003,481.0001625,307.999778,1,truck,truck_1.00,"green, blue, white, purple, large, metal","green, blue, white, purple, large, metal"
+00070007_0256.jpg,69.99957249999997,1.0002149999999972,496.9997175,342.00015700000006,1,tree,tree_70.00,"purple, green, white, blue, black, pink","purple, green, white, blue, black, pink"
+00070007_0256.jpg,209.99979,1.0002149999999972,715.0,344.00010899999995,1,trees,trees_210.00,"green, tall, black, blue, purple, white","green, tall, black, blue, purple, white"

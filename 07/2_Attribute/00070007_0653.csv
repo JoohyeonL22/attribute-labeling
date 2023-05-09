@@ -1,0 +1,9 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0653.jpg,643.0,283.000328,998.0,546.000562,1,bush,bush_643.00,"green, yellow, red, small, colorful, tall","green, yellow, red, small, colorful, tall"
+00070007_0653.jpg,154.0,326.999806,712.0,639.999364,1,car,car_154.00,"white, green, parked, silver, gray, red","white, green, parked, silver, gray, red"
+00070007_0653.jpg,919.0,250.999631,967.0,303.999789,1,man,man_919.00,"green, sitting, small, blue, colorful, white","green, sitting, small, blue, colorful, white"
+00070007_0653.jpg,523.0,365.000349,583.0,664.999937,1,pole,pole_523.00,"gray, metal, blue, green, white, silver","gray, metal, blue, green, white, silver"
+00070007_0653.jpg,464.0,122.99957600000002,654.0,365.999716,1,sign,sign_464.00,"white, black, green, street, gray, blue","white, black, green, street, gray, blue"
+00070007_0653.jpg,0.9999999999999432,0.999822499999965,1000.0,467.9993755,1,trees,trees_1.00,"green, red, leafy, tall, large, growing","green, red, leafy, tall, large, growing"
+00070007_0653.jpg,664.0,299.000221,1000.0,536.000515,1,bush,bush_664.00,"green, yellow, red, small, tall, leafy","green, yellow, red, small, tall, leafy"
+00070007_0653.jpg,968.0,256.999477,1000.0,303.999789,1,firefighter,firefighter_968.00,"green, blue, parked, white, small, driving","green, blue, parked, white, small, driving"

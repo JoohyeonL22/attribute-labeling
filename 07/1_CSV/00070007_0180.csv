@@ -1,0 +1,10 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0180.jpg,411.00032,95.99976000000004,1280.0,487.00008,1,bus,bus_411.00,"['yellow', 'orange', 'parked', 'white', 'large', 'black']"
+00070007_0180.jpg,129.00032,248.0004,243.00096,514.00008,1,man,man_129.00,"['green', 'blue', 'black', 'standing', 'white', 'walking']"
+00070007_0180.jpg,214.99968,271.00044,306.99968,538.0002000000001,1,man,man_215.00,"['standing', 'black', 'walking', 'green', 'blue', 'smiling']"
+00070007_0180.jpg,149.00096000000002,1.000079999999997,183.00032,410.0004,1,pole,pole_149.00,"['metal', 'orange', 'tall', 'black', 'silver', 'gray']"
+00070007_0180.jpg,1.0003200000001016,488.0001600000001,1280.00064,720.0,1,road,road_1.00,"['gray', 'black', 'red', 'paved', 'empty', 'white']"
+00070007_0180.jpg,835.99936,267.99984,895.99936,330.99984,1,sign,sign_836.00,"['red', 'green', 'white', 'blue', 'small', 'large']"
+00070007_0180.jpg,492.9996800000001,1.000080000000004,1280.0,106.99992,1,trees,trees_493.00,"['green', 'white', 'large', 'blue', 'tall', 'clear']"
+00070007_0180.jpg,2.0,330.00048,1279.99936,506.00016,1,sidewalk,sidewalk_2.00,"['yellow', 'black', 'metal', 'gray', 'empty', 'silver']"
+00070007_0180.jpg,289.99999999999994,145.99980000000002,594.9996799999999,430.99956,1,debris,debris_290.00,"['green', 'black', 'yellow', 'metal', 'white', 'gray']"

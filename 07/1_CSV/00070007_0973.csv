@@ -1,0 +1,11 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0973.jpg,176.0,1.000079999999997,886.00064,331.99992,1,building,building_176.00,"['green', 'glass', 'large', 'blue', 'tall', 'clear']"
+00070007_0973.jpg,818.99904,0.9997200000000248,1016.99968,278.99964,1,building,building_819.00,"['green', 'tall', 'glass', 'large', 'yellow', 'clear']"
+00070007_0973.jpg,132.99968,392.00004,468.99968,469.9998,1,car,car_133.00,"['green', 'white', 'blue', 'silver', 'small', 'moving']"
+00070007_0973.jpg,0.999680000000012,0.9997200000000248,573.99936,386.99964,1,tree,tree_1.00,"['green', 'large', 'tall', 'leafy', 'glass', 'big']"
+00070007_0973.jpg,768.00064,0.9997200000000106,961.00032,242.99964,1,tree,tree_768.00,"['green', 'tall', 'glass', 'large', 'clear', 'closed']"
+00070007_0973.jpg,1.0003200000001016,229.99968,1280.00064,720.0,1,water,water_1.00,"['calm', 'clear', 'large', 'green', 'brown', 'gray']"
+00070007_0973.jpg,906.0,292.00032000000004,994.99968,308.00016,1,car,car_906.00,"['yellow', 'black', 'small', 'blue', 'white', 'gold']"
+00070007_0973.jpg,1110.0,254.00016,1154.0,263.00016,1,car,car_1110.00,"['green', 'blue', 'white', 'red', 'small', 'yellow']"
+00070007_0973.jpg,1057.99936,1.0004400000000118,1268.99968,241.0002,1,trees,trees_1058.00,"['green', 'yellow', 'large', 'tall', 'big', 'glass']"
+00070007_0973.jpg,979.00032,1.000079999999997,1144.0,259.99992,1,building,building_979.00,"['yellow', 'large', 'glass', 'green', 'tall', 'big']"

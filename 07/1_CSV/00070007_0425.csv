@@ -1,0 +1,11 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0425.jpg,150.0,140.00025999999997,589.00032,397.00008,1,van,van_150.00,"['purple', 'pink', 'black', 'white', 'gray', 'silver']"
+00070007_0425.jpg,58.00012800000001,142.99993999999998,150.000384,344.0,1,firefighter,firefighter_58.00,"['standing', 'sitting', 'white', 'wearing', 'black', 'walking']"
+00070007_0425.jpg,0.999935999999991,1.0001800000000003,284.000256,258.0,1,trees,trees_1.00,"['bare', 'brown', 'leafless', 'red', 'large', 'tall']"
+00070007_0425.jpg,566.000256,180.00015000000002,701.0000640000001,257.00025,1,debris,debris_566.00,"['black', 'metal', 'silver', 'brown', 'pink', 'large']"
+00070007_0425.jpg,575.000448,332.000205,638.000256,348.000075,1,debris,debris_575.00,"['orange', 'black', 'red', 'small', 'white', 'digital']"
+00070007_0425.jpg,537.000192,127.00007,588.0,281.00027,1,firefighter,firefighter_537.00,"['purple', 'pink', 'standing', 'sitting', 'black', 'white']"
+00070007_0425.jpg,490.0001280000001,138.000115,537.0001920000001,203.000205,1,man,man_490.00,"['sitting', 'white', 'blue', 'standing', 'smiling', 'looking']"
+00070007_0425.jpg,472.000128,8.00015000000002,768.000384,266.00015,1,fire truck,fire truck_472.00,"['large', 'pink', 'white', 'red', 'tall', 'big']"
+00070007_0425.jpg,106.99967999999996,256.99982,767.9996160000001,430.0,1,road,road_107.00,"['gray', 'purple', 'black', 'concrete', 'wet', 'pink']"
+00070007_0425.jpg,413.000064,136.00018500000002,429.999744,152.000055,1,man,man_413.00,"['pink', 'purple', 'white', 'small', 'green', 'red']"

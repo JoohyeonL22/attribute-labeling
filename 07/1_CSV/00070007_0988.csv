@@ -1,0 +1,8 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0988.jpg,297.999909,129.00017200000002,502.999779,305.000174,1,vehicle,vehicle_298.00,"['white', 'pink', 'purple', 'red', 'black', 'parked']"
+00070007_0988.jpg,562.0002390000001,147.00002149999997,572.000097,192.9999665,1,post,post_562.00,"['orange', 'wooden', 'red', 'metal', 'black', 'white']"
+00070007_0988.jpg,357.00006,315.999956,618.0,349.0,1,road,road_357.00,"['green', 'gray', 'white', 'paved', 'concrete', 'cement']"
+00070007_0988.jpg,0.9999239999999644,1.000233999999999,618.0,78.000104,1,trees,trees_1.00,"['green', 'red', 'orange', 'black', 'white', 'pink']"
+00070007_0988.jpg,69.00000899999998,37.99981800000002,497.000235,243.99986,1,van,van_69.00,"['white', 'red', 'double decker', 'parked', 'orange', 'black']"
+00070007_0988.jpg,597.000051,44.000000500000006,618.000309,79.00016350000001,1,people,people_597.00,"['pink', 'purple', 'green', 'white', 'small', 'metal']"
+00070007_0988.jpg,0.9999239999999644,63.00008399999999,618.0,349.0,1,field,field_1.00,"['green', 'white', 'red', 'long', 'tall', 'yellow']"

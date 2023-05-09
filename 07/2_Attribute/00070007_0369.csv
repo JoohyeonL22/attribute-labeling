@@ -1,0 +1,8 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0369.jpg,54.99989999999997,1.0001419999999823,512.9997000000001,381.000302,1,car,car_55.00,"green, black, white, silver, moving, parked","green, black, white, silver, moving, parked"
+00070007_0369.jpg,393.0003,177.000117,464.0001,295.000195,1,cat,cat_393.00,"green, white, silver, black, pink, blue","green, white, silver, black, pink, blue"
+00070007_0369.jpg,419.0001,0.9998729999999796,600.0003,512.999947,1,man,man_419.00,"standing, sitting, wearing, smiling, young, looking","standing, sitting, wearing, smiling, young, looking"
+00070007_0369.jpg,0.9998999999999684,279.00007500000004,491.0001,489.000305,1,debris,debris_1.00,"white, green, silver, metal, black, red","white, green, silver, metal, black, red"
+00070007_0369.jpg,0.9998999999999968,1.000142000000011,296.9997,332.99994200000003,1,grass,grass_1.00,"green, white, black, silver, tall, metal","green, white, black, silver, tall, metal"
+00070007_0369.jpg,42.0,364.000309,600.0,537.000127,1,road,road_42.00,"brown, green, tan, white, gray, beige","brown, green, tan, white, gray, beige"
+00070007_0369.jpg,0.9999000000000252,326.00029299999994,362.9997,537.000127,1,sidewalk,sidewalk_1.00,"white, green, brown, silver, gray, tan","white, green, brown, silver, gray, tan"

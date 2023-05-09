@@ -1,0 +1,10 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0150.jpg,711.00048,18.999900000000025,960.00048,435.99978,1,building,building_711.00,"tall, large, blue, brown, big, glass","large, glass"
+00070007_0150.jpg,72.99936000000002,319.00014,901.99968,468.00018,1,bus,bus_73.00,"blue, red, purple, double decker, colorful, white",blue
+00070007_0150.jpg,117.00048,362.00034,131.00016,468.00018,1,pole,pole_117.00,"red, metal, white, pink, orange, tall",metal
+00070007_0150.jpg,111.99983999999998,337.00023,149.99952,368.00001,1,sign,sign_112.00,"red, white, black, orange, digital, pink",digital
+00070007_0150.jpg,379.00032,449.00001,960.0,540.00027,1,road,road_379.00,"wet, gray, green, paved, white, empty","gray, paved"
+00070007_0150.jpg,0.9998400000000628,453.99987,662.99952,538.9996500000001,1,sidewalk,sidewalk_1.00,"gray, wet, paved, concrete, empty, black","gray, paved"
+00070007_0150.jpg,0.999840000000006,484.00011,149.00016,500.99985,1,debris,debris_1.00,"red, black, pink, metal, purple, white",
+00070007_0150.jpg,0.999840000000006,1.000079999999997,857.00016,375.99984,1,smoke,smoke_1.00,"dark, black, white, blue, large, big","dark, black"
+00070007_0150.jpg,38.99951999999996,217.00008,875.99952,461.00016,1,fire,fire_39.00,"red, white, blue, colorful, black, double decker",red

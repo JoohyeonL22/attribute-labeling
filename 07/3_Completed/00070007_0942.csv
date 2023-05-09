@@ -1,0 +1,18 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0942.jpg,1916.0,198.99936,2560.0012799999995,585.99936,1,building,building_1916.00,"large, brown, red, tall, brick, bare","brown, red"
+00070007_0942.jpg,1310.00064,104.00040000000008,1886.00064,741.0002400000001,1,car,car_1310.00,"white, gray, silver, red, black, blue",white
+00070007_0942.jpg,2036.00128,553.00032,2110.00064,602.0006400000001,1,car,car_2036.00,"green, blue, white, metal, red, teal",metal
+00070007_0942.jpg,2114.00064,547.00056,2176.99968,604.00008,1,car,car_2114.00,"blue, white, green, small, metal, light blue","blue, metal"
+00070007_0942.jpg,2205.00096,536.0004,2344.00128,615.00024,1,car,car_2205.00,"white, yellow, orange, parked, driving, silver",white
+00070007_0942.jpg,2509.00096,537.0004799999999,2555.9999999999995,645.0004799999999,1,car,car_2509.00,"small, white, metal, gray, silver, sitting","white, metal"
+00070007_0942.jpg,653.00096,326.00016000000005,1346.0006400000002,703.0008,1,car,car_653.00,"black, blue, yellow, parked, gray, red",black
+00070007_0942.jpg,0.9996799999998984,579.9995999999999,2559.99872,1432.99944,1,road,road_1.00,"gray, black, paved, asphalt, white, wet","gray, asphalt"
+00070007_0942.jpg,1171.00032,183.00024,1248.0,280.00008,1,sign,sign_1171.00,"white, red, blue, black, street, square","red, street"
+00070007_0942.jpg,0.9996799999998984,1.0000800000000254,2002.99904,538.0005600000001,1,trees,trees_1.00,"bare, white, large, gray, tall, blue","bare, large"
+00070007_0942.jpg,6.000639999999976,0.9993600000000242,1337.99936,535.99968,1,building,building_6.00,"bare, large, tall, brown, gray, leafless",gray
+00070007_0942.jpg,2159.0016,544.00032,2230.00064,607.99968,1,car,car_2159.00,"orange, white, blue, yellow, metal, silver","white, metal"
+00070007_0942.jpg,2448.00128,505.00008,2559.00032,565.99992,1,suv,suv_2448.00,"pink, purple, colorful, red, white, large",red
+00070007_0942.jpg,2348.9984,534.00024,2442.99904,572.99976,1,suv,suv_2349.00,"pink, purple, red, colorful, large, white",red
+00070007_0942.jpg,1808.0,510.99984,1878.99904,623.99952,1,cars,cars_1808.00,"red, metal, white, silver, glass, small","metal, silver"
+00070007_0942.jpg,1955.99872,546.9998400000001,2057.9993600000003,582.9998400000001,1,truck,truck_1956.00,"green, red, white, metal, yellow, orange",metal
+00070007_0942.jpg,1197.9993599999998,281.00016,1212.0,366.99984,1,pole,pole_1198.00,"blue, green, metal, white, tall, silver",metal

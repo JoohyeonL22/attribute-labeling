@@ -1,0 +1,7 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0087.jpg,1.000079999999997,501.99966,268.00055999999995,736.00002,1,bus,bus_1.00,"blue, green, white, large, docked, parked","blue, parked"
+00070007_0087.jpg,308.00016,106.00037999999996,371.00016,1062.00018,1,pole,pole_308.00,"blue, wooden, brown, tall, metal, long","wooden, brown"
+00070007_0087.jpg,188.99928,382.00032,1225.99944,846.00072,1,bus,bus_189.00,"blue, colorful, black, green, large, docked",blue
+00070007_0087.jpg,0.9993599999999674,734.0003999999999,819.0,1004.0004,1,debris,debris_1.00,"wooden, brown, red, wood, old, green","wooden, brown"
+00070007_0087.jpg,892.99944,358.00056000000006,1439.99928,870.00048,1,debris,debris_893.00,"blue, green, yellow, colorful, orange, large","blue, yellow"
+00070007_0087.jpg,182.99952,354.00024,700.9992,522.00072,1,building,building_183.00,"red, black, orange, blue, large, colorful",red

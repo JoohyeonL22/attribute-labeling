@@ -1,0 +1,9 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0218.jpg,0.9998999999999684,57.0,599.9997000000001,303.0,1,debris,debris_1.00,"white, green, black, silver, yellow, metal","white, green, black, silver, yellow, metal"
+00070007_0218.jpg,549.0,116.0,600.0,165.0,1,car,car_549.00,"white, purple, pink, red, large, small","white, purple, pink, red, large, small"
+00070007_0218.jpg,278.0001,48.0,399.0003,319.0,1,man,man_278.00,"standing, wearing, walking, watching, young, sitting","standing, wearing, walking, watching, young, sitting"
+00070007_0218.jpg,440.0001,86.00000000000001,600.0002999999999,163.0,1,suv,suv_440.00,"white, purple, pink, double decker, parked, colorful","white, purple, pink, double decker, parked, colorful"
+00070007_0218.jpg,0.9998999999999684,228.0,599.9997000000001,277.0,1,tape,tape_1.00,"yellow, green, black, long, white, metal","yellow, green, black, long, white, metal"
+00070007_0218.jpg,498.9999,93.0,599.9997000000001,159.0,1,car,car_499.00,"pink, purple, red, white, colorful, double decker","pink, purple, red, white, colorful, double decker"
+00070007_0218.jpg,0.9999000000000252,159.0,599.0001,399.0,1,road,road_1.00,"gray, empty, black, white, yellow, concrete","gray, empty, black, white, yellow, concrete"
+00070007_0218.jpg,111.00000000000004,73.0,600.0,112.0,1,tape,tape_111.00,"green, metal, white, silver, black, long","green, metal, white, silver, black, long"

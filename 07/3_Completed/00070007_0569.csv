@@ -1,0 +1,6 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0569.jpg,296.0,0.9999954999999972,500.0,117.9999625,1,building,building_296.00,"white, green, large, tan, gray, tall","white, large"
+00070007_0569.jpg,1.0,0.9999955000000114,296.0,240.9999025,1,building,building_1.00,"white, green, tan, yellow, beige, brown","white, brown"
+00070007_0569.jpg,129.0,135.9998815,342.0,248.9998665,1,car,car_129.00,"white, green, small, silver, parked, gray",white
+00070007_0569.jpg,366.0,50.000104,442.0,112.000154,1,tree,tree_366.00,"green, large, tall, black, leafy, small","green, leafy"
+00070007_0569.jpg,1.0,100.99987450000005,500.0,328.9998355,1,water,water_1.00,"wet, brown, gray, tan, white, calm","wet, brown"

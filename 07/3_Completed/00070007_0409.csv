@@ -1,0 +1,9 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0409.jpg,234.99952,226,675.99952,362,1,car,car_235.00,"black, blue, parked, green, white, silver",blue
+00070007_0409.jpg,88.99968,160.99968,214.99968,216,1,car,car_89.00,"white, parked, blue, silver, black, gray",white
+00070007_0409.jpg,0.9996,155.00032,1119.99944,640,1,grass,grass_1.00,"green, grassy, short, brown, grass, large","green, grassy"
+00070007_0409.jpg,1.00016,289.99968,155.00016,319.99968,1,debris,debris_1.00,"pink, red, black, purple, colorful, white",
+00070007_0409.jpg,441,272,1089.99968,608,1,debris,debris_441.00,"green, blue, black, brown, white, grassy",black
+00070007_0409.jpg,0.9996,156,748.99944,212,1,road,road_1.00,"yellow, metal, wooden, long, gray, brown",gray
+00070007_0409.jpg,0.9996,128,1119.99944,159.00032,1,trees,trees_1.00,"pink, red, purple, long, green, colorful",green
+00070007_0409.jpg,1.00016,108,869.00016,136.99968,1,mountain,mountain_1.00,"pink, purple, colorful, red, multi colored, large",large

@@ -1,0 +1,11 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0482.jpg,106.0003275,15.000040999999989,463.0004025,111.000047,1,building,building_106.00,"purple, pink, black, metal, silver, colorful",black
+00070007_0482.jpg,564.9998275,20.000161500000004,834.9995825000001,127.0003685,1,building,building_565.00,"yellow, brown, white, large, red, gray","white, red"
+00070007_0482.jpg,461.00016,338.0002615,834.9999999999999,641.0003205,1,car,car_461.00,"green, silver, white, black, gray, blue",white
+00070007_0482.jpg,791.9995875000001,217.9999335,834.9995825,296.0000185,1,car,car_792.00,"green, red, sitting, standing, blurry, walking",blurry
+00070007_0482.jpg,1.0003300000000763,168.00001049999997,835.0,407.0000655,1,fence,fence_1.00,"gray, concrete, paved, black, metal, green","gray, metal"
+00070007_0482.jpg,45.0002375,0.9999600000000156,94.0005425,383.00006400000007,1,pole,pole_45.00,"black, metal, gray, tall, brown, silver",brown
+00070007_0482.jpg,200.0004525,80.999965,232.0001575,115.999847,1,sign,sign_200.00,"pink, colorful, red, orange, yellow, neon",red
+00070007_0482.jpg,650.9998175000001,117.999767,834.9995825000001,212.999813,1,van,van_651.00,"purple, pink, silver, black, parked, red",silver
+00070007_0482.jpg,1.0003300000000763,96.00000600000004,835.0,641.0,1,water,water_1.00,"gray, black, empty, concrete, white, wet","gray, black"
+00070007_0482.jpg,511.9998725,382.000104,786.9996074999999,539.000234,1,man,man_512.00,"green, black, blue, dark, silver, clear",

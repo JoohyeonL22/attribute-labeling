@@ -1,0 +1,11 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0885.jpg,1138.998815,747.00045,1372.998973,1508.00055,1,man,man_1139.00,"standing, orange, walking, wearing, green, sitting","standing, orange"
+00070007_0885.jpg,184.00052,760.0005,464.000808,1464.9999,1,man,man_184.00,"standing, yellow, green, wearing, walking, young","standing, yellow"
+00070007_0885.jpg,810.998643,760.0005,1062.999481,1357.0011,1,man,man_811.00,"standing, walking, yellow, young, looking, wearing","walking, yellow"
+00070007_0885.jpg,1443.000492,338.99985,1553.001432,1080.99915,1,pole,pole_1443.00,"black, yellow, tall, wooden, metal, large","tall, wooden"
+00070007_0885.jpg,1294.999885,0.9996,2889.000615,1167.999,1,trees,trees_1295.00,"green, blue, large, brown, red, black",green
+00070007_0885.jpg,0.99843,0.9996,1854.999014,946.9992,1,trees,trees_1.00,"green, orange, tall, red, white, large",green
+00070007_0885.jpg,0.99843,26.0001,984.998946,1253.0007,1,truck,truck_1.00,"orange, white, green, red, large, black",orange
+00070007_0885.jpg,1.001324,1123.0002,2894,2100,1,road,road_1.00,"wet, gray, green, brown, dirty, concrete","wet, gray"
+00070007_0885.jpg,6.999139,3.0009,2893.998553,1610.0007,1,tree,tree_7.00,"green, black, large, brown, yellow, white",green
+00070007_0885.jpg,956.999496,1048.0008,1314.998872,1218,1,chainsaw,chainsaw_957.00,"orange, black, red, blue, metal, gray","metal, gray"

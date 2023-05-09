@@ -1,0 +1,18 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0881.jpg,271.0004265,597.0004625,316.0010015,726.0001875,1,boy,boy_271.00,"blue, standing, red, purple, colorful, white","blue, standing"
+00070007_0881.jpg,1165.000978,549.9992875,1427.000408,717.9996125,1,car,car_1165.00,"purple, black, green, yellow, pink, maroon",maroon
+00070007_0881.jpg,1416.00017,579.0006375,1509.000183,644.0004625,1,car,car_1416.00,"purple, pink, small, white, colorful, silver",small
+00070007_0881.jpg,771.9991885,526.9998375,793.9996655,666.9999125,1,pole,pole_772.00,"metal, silver, white, tall, gray, black",tall
+00070007_0881.jpg,1125.999892,485.00005,1206.999164,550.9998,1,sign,sign_1126.00,"green, white, square, blue, black, small","white, square"
+00070007_0881.jpg,745.999346,477.9999875,809.999772,527.9997625,1,sign,sign_746.00,"pink, purple, red, white, yellow, neon",white
+00070007_0881.jpg,0.999621,0.999925,1057.999219,673.999975,1,tree,tree_1.00,"green, tall, large, leafy, big, white","green, leafy"
+00070007_0881.jpg,1.0005025,686.9995875,1763.000882,1174.999413,1,water,water_1.00,"wet, calm, brown, murky, green, clear","brown, murky"
+00070007_0881.jpg,936.0005005,599.0003125,1763.000882,733.0008375,1,road,road_936.00,"yellow, wet, purple, black, white, long","wet, black"
+00070007_0881.jpg,1399.999182,1.0005125,1762.999119,461.0000875,1,tree,tree_1400.00,"green, purple, tall, large, leafy, pink","green, leafy"
+00070007_0881.jpg,516.000129,281.000075,1694.999327,647.999575,1,trees,trees_516.00,"green, tall, purple, pink, large, white",green
+00070007_0881.jpg,1681.999847,582.99975,1718.999928,612.99985,1,car,car_1682.00,"red, yellow, white, black, orange, pink",black
+00070007_0881.jpg,0.999621,395.999675,465.000065,640.000175,1,building,building_1.00,"white, blue, green, gray, small, purple",green
+00070007_0881.jpg,522.0004995,505.0003125,597.0002825,634.0000375,1,building,building_522.00,"green, small, white, open, closed, glass",white
+00070007_0881.jpg,860.999836,559.000375,941.999108,634.000625,1,building,building_861.00,"brown, wooden, small, green, white, open",brown
+00070007_0881.jpg,1276.999961,479.9998375,1366.999348,565.9992625,1,building,building_1277.00,"blue, white, green, black, tall, large","white, large"
+00070007_0881.jpg,1340.999505,516.000075,1416.998909,564.999925,1,building,building_1341.00,"pink, red, purple, large, white, glass",

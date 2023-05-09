@@ -1,0 +1,10 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0672.jpg,196.00014,48.00018,211.00026,99.00018,1,flag,flag_196.00,"blue, red, american, tall, white, metal",american
+00070007_0672.jpg,485.00014,42.000285000000005,497.0001,110.000115,1,flag,flag_485.00,"yellow, orange, red, black, tall, long",long
+00070007_0672.jpg,0.9999400000000378,0.9998550000000036,679.9996600000001,93.999885,1,trees,trees_1.00,"green, white, tall, red, cloudy, blue",green
+00070007_0672.jpg,137.00028000000003,98.000325,209.00004,263.00011500000005,1,tree,tree_137.00,"bare, green, tall, leafless, brown, small","bare, leafless"
+00070007_0672.jpg,294.00004,129.000165,365.00020000000006,260.00029500000005,1,tree,tree_294.00,"tall, bare, large, leafless, glass, black","bare, leafless"
+00070007_0672.jpg,379.00038000000006,130.000275,449.00026,272.000085,1,tree,tree_379.00,"purple, pink, large, tall, green, glass",
+00070007_0672.jpg,0.999939999999981,262.000005,679.0000600000001,510.0002549999999,1,water,water_1.00,"brown, calm, murky, wet, reflective, clear","brown, murky"
+00070007_0672.jpg,53.99981999999994,96.000105,657.00002,273.000195,1,building,building_54.00,"purple, pink, green, large, tall, blue",large
+00070007_0672.jpg,550.99958,92.999775,653.99986,149.999925,1,building,building_551.00,"pink, purple, white, black, small, colorful",white

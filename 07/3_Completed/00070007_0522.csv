@@ -1,0 +1,14 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0522.jpg,162,175.9998375,655.0002,454.9996125,1,car,car_162.00,"red, blue, parked, green, black, colorful",blue
+00070007_0522.jpg,30.9996,177.0001875,100.9998,372.0002625,1,man,man_31.00,"standing, walking, white, sitting, black, green","standing, white"
+00070007_0522.jpg,754.0002,206.99955,793.9998,334.9998,1,man,man_754.00,"standing, walking, red, green, white, blue","standing, white"
+00070007_0522.jpg,720,2.0003625,766.9998,343.0002375,1,pole,pole_720.00,"green, gray, metal, tall, blue, silver","gray, metal"
+00070007_0522.jpg,1.00035,1.0000125,900.00045,287.9998875,1,tree,tree_1.00,"green, white, blue, cloudy, tall, clear",green
+00070007_0522.jpg,0.9999,129.9999375,429.0003,346.9996125,1,ambulance,ambulance_1.00,"white, red, pink, double decker, parked, colorful",white
+00070007_0522.jpg,1.00035,322.9999875,900.00045,674.9996625,1,dirt,dirt_1.00,"brown, green, dirt, dry, dirty, red","brown, dirt"
+00070007_0522.jpg,76.99995,366.9998625,400.00005,479.9995875,1,debris,debris_77.00,"red, blue, colorful, black, white, large","black, white"
+00070007_0522.jpg,589.00005,570.0000375,631.00035,595.0000125,1,debris,debris_589.00,"purple, pink, small, colorful, blue, black","small, black"
+00070007_0522.jpg,810.00045,488.9997,858.00015,527.99985,1,debris,debris_810.00,"green, colorful, blue, small, multi colored, rainbow colored","blue, small"
+00070007_0522.jpg,678.9996,287.0002125,900,331.0000875,1,road,road_679.00,"green, white, wooden, long, red, blue",
+00070007_0522.jpg,713.00025,206.9998875,737.00055,310.0001625,1,man,man_713.00,"green, gray, white, metal, silver, tall",white
+00070007_0522.jpg,0.9999,213.9996375,18.9999,374.9999625,1,person,person_1.00,"red, blue, orange, black, white, metal",blue

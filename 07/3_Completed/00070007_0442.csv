@@ -1,0 +1,7 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0442.jpg,269.99988,279.9999975,622.00018,397.0001025,1,car,car_270.00,"red, white, parked, silver, moving, black",white
+00070007_0442.jpg,463.999785,263.0003475,523.999495,408.0002025,1,man,man_464.00,"red, blue, standing, walking, black, metal","blue, standing"
+00070007_0442.jpg,1.0001399999999876,378.9997875,790.0,554.9997225,1,road,road_1.00,"gray, black, wet, paved, concrete, asphalt","gray, paved"
+00070007_0442.jpg,1.0001399999999876,1.0001100000000065,790.0,381.99984,1,mountain,mountain_1.00,"gray, rocky, green, large, rock, stone",gray
+00070007_0442.jpg,410.99987,277.00022249999995,458.00013000000007,303.0003075,1,man,man_411.00,"green, red, white, glass, small, large",green
+00070007_0442.jpg,153.000485,265.00029,201.000095,394.00005,1,man,man_153.00,"blue, standing, green, walking, white, black","blue, walking"

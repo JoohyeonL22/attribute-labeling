@@ -1,0 +1,19 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0640.jpg,3520.999968,1321.000576,5108.999136,2284.999552,1,suv,suv_3521.00,"white, gray, parked, silver, large, black","white, parked"
+00070007_0640.jpg,2150.002464,522.001856,3082.002144,944.000576,1,ladder,ladder_2150.00,"red, white, glass, large, double decker, metal",red
+00070007_0640.jpg,2960.001696,1234.000576,3249.99984,2171.002176,1,firefighter,firefighter_2960.00,"yellow, standing, black, gray, skiing, green","standing, black"
+00070007_0640.jpg,3143.0023680000004,1244.0007040000005,3531.00288,2204.0018560000003,1,firefighter,firefighter_3143.00,"yellow, standing, black, walking, green, skiing","standing, black"
+00070007_0640.jpg,341.997696,2082.001408,834.999552,3169.001216,1,man,man_342.00,"standing, walking, yellow, black, green, wearing","walking, yellow"
+00070007_0640.jpg,4444.00176,3018.000768,5081.999903999999,3704.00064,1,man,man_4444.00,"blue, sitting, standing, walking, watching, gray","blue, standing"
+00070007_0640.jpg,4585.003008000001,1920.000448,4962.001152,3027.99904,1,firefighter,firefighter_4585.00,"standing, yellow, black, walking, young, wearing","standing, black"
+00070007_0640.jpg,5155.998624,2310.001728,5535.99792,3531.001024,1,people,people_5156.00,"walking, standing, young, yellow, wearing, black","walking, yellow"
+00070007_0640.jpg,1.0022400000002565,1.00038399999994,5568.0,3712.001856,1,road,road_1.00,"gray, white, wet, paved, concrete, busy","gray, paved"
+00070007_0640.jpg,1975.99968,271.00198400000005,2876.000064,821.0016,1,van,van_1976.00,"red, black, double decker, large, parked, white",red
+00070007_0640.jpg,2180.000064,403.9992320000001,4920.001728,1571.000064,1,fire truck,fire truck_2180.00,"red, double decker, white, large, parked, big","red, parked"
+00070007_0640.jpg,465.9998400000002,1112.0019839999998,2885.000736,3095.00064,1,truck,truck_466.00,"white, blue, large, gray, parked, black","white, large"
+00070007_0640.jpg,0.9966719999999896,1.0022400000000289,881.99904,789.000448,1,truck,truck_1.00,"colorful, red, purple, pink, black, large","black, large"
+00070007_0640.jpg,2226.000096,2683.002048,3726.002592,3327.00064,1,debris,debris_2226.00,"red, white, blue, gray, painted, orange",gray
+00070007_0640.jpg,1120.0032,3053.997888,1512.001536,3188.999616,1,debris,debris_1120.00,"blue, green, black, gray, metal, small","black, gray"
+00070007_0640.jpg,4232.00016,1891.998976,4531.998432,2985.999616,1,firefighter,firefighter_4232.00,"standing, skiing, purple, walking, young, black","standing, black"
+00070007_0640.jpg,4478.999424,3024.001216,5069.998079999999,3712.001856,1,man,man_4479.00,"blue, sitting, standing, walking, watching, gray","blue, standing"
+00070007_0640.jpg,3145.997952,1316.000512,3284.9975040000004,2112.001792,1,man,man_3146.00,"yellow, black, gray, green, ski, purple","black, green"

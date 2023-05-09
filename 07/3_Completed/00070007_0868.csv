@@ -1,0 +1,8 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0868.jpg,351.999,1095.999288,741.999,1882.00029,1,firefighter,firefighter_352.00,"sitting, blue, green, standing, young, yellow","standing, yellow"
+00070007_0868.jpg,396,217.998922,633,870.99902,1,firefighter,firefighter_396.00,"green, blue, metal, hanging, glass, colorful",
+00070007_0868.jpg,841.9995,310.000753,1312.0005,895.000463,1,firefighter,firefighter_842.00,"blue, green, stuffed, large, sitting, small",
+00070007_0868.jpg,1.0005,1609.000837,2466.0015,2467.001234,1,road,road_1.00,"gray, blue, concrete, paved, wet, white","gray, paved"
+00070007_0868.jpg,714,1.0003685,3000,2357.999306,1,smoke,smoke_714.00,"blue, white, clear, black, dark, cloudy","white, cloudy"
+00070007_0868.jpg,1352.9985,673.0013005,1618.9995,1136.00046,1,firefighter,firefighter_1353.00,"standing, walking, blue, sitting, red, young",standing
+00070007_0868.jpg,856.9995,296.999663,2765.9985,2064.999883,1,fire,fire_857.00,"blue, white, yellow, black, large, orange",yellow

@@ -1,0 +1,7 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0798.jpg,531.001344,669.0001920000001,1130.000384,838.000128,1,boat,boat_531.00,"blue, red, small, white, colorful, orange","blue, red, small, white, colorful, orange"
+00070007_0798.jpg,724.999168,565.999872,849.998848,760.99968,1,man,man_725.00,"sitting, yellow, black, standing, wearing, riding","sitting, yellow, black, standing, wearing, riding"
+00070007_0798.jpg,0.99942400000009,0.9991679999999974,2048.0,757.9998720000001,1,trees,trees_1.00,"green, large, tall, thick, leafy, yellow","green, large, tall, thick, leafy, yellow"
+00070007_0798.jpg,0.99942400000009,481.999872,2048.0,1536.0,1,water,water_1.00,"wet, brown, gray, large, dirty, clear","wet, brown, gray, large, dirty, clear"
+00070007_0798.jpg,847.000576,593.000448,958.000128,733.000704,1,man,man_847.00,"sitting, pink, purple, yellow, riding, colorful","sitting, pink, purple, yellow, riding, colorful"
+00070007_0798.jpg,400.0,1035.998976,510.000128,1122.999552,1,debris,debris_400.00,"red, small, black, white, orange, square","red, small, black, white, orange, square"

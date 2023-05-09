@@ -1,0 +1,9 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0867.jpg,681.9996,308.00013750000005,879.9996,532.9999125,1,bag,bag_682.00,"black, purple, gray, pink, white, small","black, purple, gray, pink, white, small"
+00070007_0867.jpg,37.00019999999995,353.00002500000005,1171.9998,573.000075,1,boat,boat_37.00,"red, green, black, orange, small, white","red, green, black, orange, small, white"
+00070007_0867.jpg,371.9994,97.0002,619.9997999999999,625.0000500000001,1,man,man_372.00,"standing, black, walking, young, smiling, white","standing, black, walking, young, smiling, white"
+00070007_0867.jpg,561.9996,115.00042499999998,834.9996,581.000175,1,man,man_562.00,"sitting, smiling, white, standing, black, wearing","sitting, smiling, white, standing, black, wearing"
+00070007_0867.jpg,761.0004,108.00000000000004,899.0004,587.00025,1,man,man_761.00,"standing, sitting, black, yellow, smiling, wearing","standing, sitting, black, yellow, smiling, wearing"
+00070007_0867.jpg,1.0001999999999924,0.9996750000000104,168.00060000000002,240.999975,1,tree,tree_1.00,"green, white, tall, blue, purple, large","green, white, tall, blue, purple, large"
+00070007_0867.jpg,1.0001999999999498,110.99970000000008,1200.0006,675.0,1,water,water_1.00,"green, white, wet, calm, gray, large","green, white, wet, calm, gray, large"
+00070007_0867.jpg,1.0002000000000066,1.0000124999999969,262.9998,221.9997375,1,building,building_1.00,"white, green, pink, purple, tall, large","white, green, pink, purple, tall, large"

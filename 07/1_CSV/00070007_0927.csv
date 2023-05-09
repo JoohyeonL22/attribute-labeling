@@ -1,0 +1,9 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0927.jpg,127.0002,283.000275,244.0002,325.000125,1,bags,bags_127.00,"['purple', 'pink', 'gray', 'black', 'small', 'white']"
+00070007_0927.jpg,225.0,194.000175,246.0,236.000025,1,man,man_225.00,"['black', 'green', 'yellow', 'white', 'metal', 'silver']"
+00070007_0927.jpg,225.0,0.9998999999999968,540.0,198.9999,1,trees,trees_225.00,"['white', 'cloudy', 'tall', 'gray', 'blue', 'green']"
+00070007_0927.jpg,41.00009999999992,226.9998,600.0002999999999,450.0,1,road,road_41.00,"['gray', 'concrete', 'paved', 'cement', 'black', 'asphalt']"
+00070007_0927.jpg,56.0001,84.00014999999999,210.9999,174.00015,1,people,people_56.00,"['blue', 'metal', 'silver', 'clear', 'large', 'white']"
+00070007_0927.jpg,202.9998,247.00005,244.9998,281.00025,1,tire,tire_203.00,"['black', 'silver', 'metal', 'small', 'gray', 'blue']"
+00070007_0927.jpg,240.0003,156.999825,503.0001,312.999975,1,bus,bus_240.00,"['white', 'silver', 'gray', 'large', 'blue', 'black']"
+00070007_0927.jpg,498.0002999999999,219.00015,560.0001,265.99995,1,people,people_498.00,"['orange', 'red', 'small', 'yellow', 'white', 'black']"

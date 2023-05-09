@@ -1,0 +1,7 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0765.jpg,1132.99968,1.000442000000021,2047.998976,859.000764,1,building,building_1133.00,"brick, brown, red, old, stone, large","brick, brown"
+00070007_0765.jpg,0.9994240000000332,0.9997604999999794,932.999168,854.9996775,1,building,building_1.00,"brick, stone, gray, old, brown, large","brick, stone"
+00070007_0765.jpg,1033.99936,599.999415,1214.000128,981.999247,1,man,man_1034.00,"standing, green, walking, old, smiling, sitting","green, walking"
+00070007_0765.jpg,0.99942400000009,842.9998254999999,2048.0,1362.9993184999998,1,water,water_1.00,"brown, murky, clear, green, wet, calm","brown, murky"
+00070007_0765.jpg,890.998784,258.999986,1173.999616,426.000198,1,building,building_891.00,"white, small, old, gray, brown, tall","white, old"
+00070007_0765.jpg,864.0000000000001,420.99935099999993,1254.0006400000002,797.999699,1,building,building_864.00,"green, white, gray, small, wooden, old","gray, wooden"

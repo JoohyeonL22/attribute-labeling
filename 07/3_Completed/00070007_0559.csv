@@ -1,0 +1,7 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0559.jpg,0.9999899999999684,1.0000050000000158,615.0,217.999863,1,building,building_1.00,"green, brown, tan, white, large, yellow","brown, tan"
+00070007_0559.jpg,73.0001925,140.000291,373.0002675,264.000093,1,car,car_73.00,"green, white, parked, small, silver, blue","white, small"
+00070007_0559.jpg,418.9998075,66.0001255,614.9996924999999,130.0000365,1,trees,trees_419.00,"bare, tall, blue, brown, green, leafless","bare, brown"
+00070007_0559.jpg,0.9999899999999684,143.99990199999996,615.0,409.0,1,water,water_1.00,"wet, green, calm, brown, gray, black","wet, brown"
+00070007_0559.jpg,362.9997525,127.000226,535.9998675,362.000174,1,man,man_363.00,"green, red, black, metal, sitting, white",red
+00070007_0559.jpg,448.999815,116.9999715,544.000095,314.0001385,1,man,man_449.00,"red, green, orange, black, metal, colorful",red

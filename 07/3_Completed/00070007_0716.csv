@@ -1,0 +1,10 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0716.jpg,99,159.00017,740,396.000318,1,building,building_99.00,"purple, tall, large, pink, gray, white","large, white"
+00070007_0716.jpg,1,227.999772,305,473.999764,1,bush,bush_1.00,"purple, pink, green, red, large, colorful",green
+00070007_0716.jpg,346,347.000192,413,474.000296,1,firefighter,firefighter_346.00,"standing, green, red, walking, wearing, yellow","walking, wearing"
+00070007_0716.jpg,1,100.999668,408,234.999828,1,trees,trees_1.00,"bare, red, white, tall, large, leafless","tall, large"
+00070007_0716.jpg,473,1.00016,800,532,1,tree,tree_473.00,"bare, leafless, tall, brown, dead, large","bare, leafless"
+00070007_0716.jpg,86,1.00016,799,233.00004,1,smoke,smoke_86.00,"white, cloudy, blue, gray, clear, overcast","white, cloudy"
+00070007_0716.jpg,399,393.999998,800,456.99997,1,road,road_399.00,"green, red, metal, black, brown, long",brown
+00070007_0716.jpg,1,391.999944,800,532,1,grass,grass_1.00,"green, brown, dirt, red, grassy, metal","green, brown"
+00070007_0716.jpg,543,361.999932,800,421.999956,1,grass,grass_543.00,"red, green, metal, black, brown, wooden",green

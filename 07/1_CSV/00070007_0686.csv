@@ -1,0 +1,8 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0686.jpg,657.00075,329.99967,1451.00025,611.999388,1,fence,fence_657.00,"['white', 'metal', 'purple', 'pink', 'wooden', 'long']"
+00070007_0686.jpg,165.00074999999998,144.0003565,194.00025,409.0000915,1,pole,pole_165.00,"['purple', 'pink', 'tall', 'green', 'colorful', 'blue']"
+00070007_0686.jpg,461.00025,0.9999990000000024,507.00075,516.000485,1,pole,pole_461.00,"['wooden', 'green', 'blue', 'brown', 'metal', 'tall']"
+00070007_0686.jpg,184.99949999999995,94.0004065,592.9995,365.0001355,1,trees,trees_185.00,"['purple', 'pink', 'blue', 'white', 'green', 'large']"
+00070007_0686.jpg,0.9997499999999492,377.99962199999993,1499.99925,1001.0,1,water,water_1.00,"['wet', 'gray', 'black', 'dark', 'calm', 'brown']"
+00070007_0686.jpg,357.0,32.00046850000001,1464.0,383.0001175,1,building,building_357.00,"['white', 'pink', 'gray', 'purple', 'brown', 'large']"
+00070007_0686.jpg,0.9997499999999776,287.00021350000003,362.99925,362.0001385,1,building,building_1.00,"['green', 'white', 'colorful', 'large', 'blue', 'multi colored']"

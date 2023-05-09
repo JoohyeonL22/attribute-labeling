@@ -1,0 +1,11 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0523.jpg,171.00060000000002,37.999799999999965,856.0002,365.99985,1,building,building_171.00,"green, brown, colorful, pink, white, red","green, brown, colorful, pink, white, red"
+00070007_0523.jpg,710.0004,1.0000124999999969,1106.0004,287.9998875,1,building,building_710.00,"green, tall, large, brown, brick, red","green, tall, large, brown, brick, red"
+00070007_0523.jpg,402.9996,344.999925,771.9996,455.999625,1,car,car_403.00,"green, silver, brown, gray, parked, metal","green, silver, brown, gray, parked, metal"
+00070007_0523.jpg,898.0002000000002,325.9996875,1200.0006,482.9999625,1,car,car_898.00,"purple, blue, black, pink, colorful, red","purple, blue, black, pink, colorful, red"
+00070007_0523.jpg,180.99960000000004,107.9996625,483.9996,642.9999375,1,firefighter,firefighter_181.00,"standing, black, young, purple, skiing, wearing","standing, black, young, purple, skiing, wearing"
+00070007_0523.jpg,847.9998,1.0000124999999969,1199.9994,383.9997375,1,trees,trees_848.00,"green, tall, large, leafy, purple, brown","green, tall, large, leafy, purple, brown"
+00070007_0523.jpg,1.0001999999999498,260.9998875,1200.0006,674.9996625,1,debris,debris_1.00,"brown, red, gray, large, black, pink","brown, red, gray, large, black, pink"
+00070007_0523.jpg,482.9994,154.9999125,703.9997999999999,345.99993750000004,1,debris,debris_483.00,"green, brown, wooden, white, metal, gray","green, brown, wooden, white, metal, gray"
+00070007_0523.jpg,872.9993999999999,328.00005000000004,1102.9998,425.00025,1,debris,debris_873.00,"purple, pink, colorful, large, metal, blue","purple, pink, colorful, large, metal, blue"
+00070007_0523.jpg,1.0002000000000066,2.0000249999999937,226.9998,303.000075,1,trees,trees_1.00,"green, pink, red, tall, white, purple","green, pink, red, tall, white, purple"

@@ -1,0 +1,20 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0463.jpg,1.000248000000056,0.999840000000006,852.0,225.99984,1,building,building_1.00,"pink, purple, white, gray, brown, red","gray, brown"
+00070007_0463.jpg,149.999712,120.0,637.999752,330.0,1,car,car_150.00,"black, green, yellow, metal, silver, white","black, metal"
+00070007_0463.jpg,149.000316,1.000080000000004,196.000044,87.00023999999999,1,man,man_149.00,"orange, standing, large, tall, white, gray","standing, white"
+00070007_0463.jpg,234.00009600000004,103.00008,304.00041600000003,264.00024,1,man,man_234.00,"green, yellow, black, colorful, open, white",green
+00070007_0463.jpg,554.00022,101.99976,617.000508,307.99992000000003,1,man,man_554.00,"green, blue, open, black, white, glass",
+00070007_0463.jpg,654.000312,78.00023999999999,751.000512,352.00008,1,man,man_654.00,"standing, walking, black, purple, young, wearing","standing, black"
+00070007_0463.jpg,1.000248000000056,303.0,852.0,480.0,1,road,road_1.00,"gray, concrete, white, empty, paved, cement","gray, paved"
+00070007_0463.jpg,556.00029,310.99992000000003,794.000526,347.99976,1,debris,debris_556.00,"yellow, purple, metal, black, wooden, pink","metal, black"
+00070007_0463.jpg,793.999674,229.00008000000005,851.999574,294.0002400000001,1,debris,debris_794.00,"black, gray, purple, pink, large, red","black, gray"
+00070007_0463.jpg,0.9998219999999948,225.0,849.99993,351.0,1,sidewalk,sidewalk_1.00,"metal, black, yellow, green, gray, purple",gray
+00070007_0463.jpg,614.999586,89.00016,680.999766,302.00016,1,firefighter,firefighter_615.00,"pink, standing, purple, black, white, red",standing
+00070007_0463.jpg,609.0002280000001,98.00016,637.000356,203.00016,1,woman,woman_609.00,"white, standing, glass, open, black, red",standing
+00070007_0463.jpg,550.00008,115.99992,575.999712,190.00008,1,woman,woman_550.00,"green, blue, open, glass, white, metal",
+00070007_0463.jpg,137.000322,74.99976,196.00047000000004,316.99992000000003,1,firefighter,firefighter_137.00,"purple, pink, red, green, black, metal",
+00070007_0463.jpg,179.99991,103.00008,219.00021,268.99992,1,firefighter,firefighter_180.00,"purple, pink, green, metal, black, silver",
+00070007_0463.jpg,75.000282,97.00008,145.999998,306.00024,1,firefighter,firefighter_75.00,"purple, pink, green, standing, black, colorful",standing
+00070007_0463.jpg,0.9998220000000018,82.99991999999999,44.999658,304.00008,1,firefighter,firefighter_1.00,"purple, pink, black, large, white, colorful",
+00070007_0463.jpg,14.000063999999998,94.00007999999998,69.000072,300.00024,1,firefighter,firefighter_14.00,"purple, pink, open, black, large, glass",
+00070007_0463.jpg,38.000478,90.99984,82.000314,252.99984,1,man,man_38.00,"purple, pink, open, black, large, colorful",

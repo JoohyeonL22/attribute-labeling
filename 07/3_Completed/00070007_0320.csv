@@ -1,0 +1,13 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0320.jpg,0.99958,1.0002975,919.99954,454.0000725,1,building,building_1.00,"white, pink, large, red, gray, purple","white, gray"
+00070007_0320.jpg,352.00028,233.9998125,446.00036,528.9999375,1,police,police_352.00,"standing, walking, black, purple, wearing, blue","standing, wearing"
+00070007_0320.jpg,434.00034,267.99978,508.00054,518.99973,1,man,man_434.00,"standing, purple, walking, pink, young, old","standing, old"
+00070007_0320.jpg,533.00016,271.99974,591.99976,378.9999,1,man,man_533.00,"purple, pink, sitting, standing, colorful, white","standing, white"
+00070007_0320.jpg,600.99966,269.0000775,641.99946,317.0002125,1,man,man_601.00,"white, green, blue, large, black, glass",black
+00070007_0320.jpg,0.99958,453.0000825,919.99954,615.0003075,1,road,road_1.00,"gray, paved, wet, concrete, white, painted","gray, paved"
+00070007_0320.jpg,1.00004,232.00014,157.99988,604.00011,1,truck,truck_1.00,"black, green, parked, gray, purple, red",black
+00070007_0320.jpg,2.00008,223.9999125,288.00048,540.9998175,1,suv,suv_2.00,"parked, purple, black, red, green, pink","parked, black"
+00070007_0320.jpg,331.99948,283.000245,381.99964,523.000305,1,person,person_332.00,"yellow, blue, standing, black, metal, tall","blue, standing"
+00070007_0320.jpg,594.99988,300.000075,682.99972,433.999965,1,man,man_595.00,"blue, sitting, metal, white, silver, green","blue, sitting"
+00070007_0320.jpg,847.99988,283.9999275,914.9998,449.0001225,1,man,man_848.00,"glass, red, large, white, clear, open",
+00070007_0320.jpg,790.9999,424.9997475,919.99954,469.9999125,1,debris,debris_791.00,"white, red, orange, black, metal, blue",white

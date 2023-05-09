@@ -1,0 +1,6 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0144.jpg,0.999862500000006,485.000448,524.9997375,632.000256,1,road,road_1.00,"yellow, blue, silver, glass, white, metal",
+00070007_0144.jpg,5.000100000000003,0.9999359999999626,475.00005,510.999552,1,smoke,smoke_5.00,"black, blue, large, white, clear, big",black
+00070007_0144.jpg,370.99965,519.999744,464.9998499999999,594.999552,1,debris,debris_371.00,"yellow, glass, black, white, clear, small",black
+00070007_0144.jpg,49.99995000000004,390.999936,488.9997000000001,590.000256,1,bus,bus_50.00,"blue, glass, large, metal, silver, black","metal, silver"
+00070007_0144.jpg,29.000212500000004,243.999744,456.0000375,551.0000640000001,1,fire,fire_29.00,"black, large, silver, yellow, metal, blue",yellow

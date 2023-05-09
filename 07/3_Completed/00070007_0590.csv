@@ -1,0 +1,15 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0590.jpg,113.000173,35.00017799999999,243.000095,134.00016599999998,1,building,building_113.00,"white, tall, green, large, blue, big","white, blue"
+00070007_0590.jpg,118.9996405,176.000082,187.9998055,226.00023,1,car,car_119.00,"red, pink, orange, small, parked, plastic","red, small"
+00070007_0590.jpg,384.9997905,172.000152,396.9998435,197.999976,1,cone,cone_385.00,"white, wooden, wood, metal, brown, green",
+00070007_0590.jpg,497.000192,168.000036,559.0,249.00006,1,fence,fence_497.00,"wooden, green, brown, wood, metal, old","wooden, brown"
+00070007_0590.jpg,177.0003625,142.99996199999998,238.0001195,335.999886,1,man,man_177.00,"walking, standing, young, wearing, skateboarding, looking","standing, wearing"
+00070007_0590.jpg,69.99993650000002,144.999834,128.0000995,289.999854,1,firefighter,firefighter_70.00,"pink, purple, colorful, standing, sitting, yellow","standing, yellow"
+00070007_0590.jpg,35.000108,20.000021999999987,50.000314,235.000026,1,pole,pole_35.00,"red, black, metal, tall, long, white","metal, white"
+00070007_0590.jpg,88.9997875,189.99993000000003,558.9997205,371.999814,1,road,road_89.00,"gray, paved, asphalt, concrete, black, green","gray, asphalt"
+00070007_0590.jpg,2.0001019999999983,97.00011599999998,202.00024,180.00001199999997,1,trees,trees_2.00,"green, tall, large, white, black, blue",green
+00070007_0590.jpg,1.000330500000004,232.00003200000003,161.00010550000002,372.0,1,grass,grass_1.00,"green, grassy, short, grass, tall, yellow","green, grassy"
+00070007_0590.jpg,53.999959,145.00002,91.000169,282.00018,1,firefighter,firefighter_54.00,"purple, pink, standing, yellow, colorful, sitting","standing, yellow"
+00070007_0590.jpg,223.000193,171.00002999999998,307.000005,222.000114,1,car,car_223.00,"green, parked, white, blue, black, large",black
+00070007_0590.jpg,393.9999700000001,42.00010199999999,559.0,151.000194,1,hill,hill_394.00,"green, grassy, large, tall, short, yellow","green, short"
+00070007_0590.jpg,187.000034,35.999928,490.999886,199.999848,1,debris,debris_187.00,"green, large, white, colorful, blue, yellow",green

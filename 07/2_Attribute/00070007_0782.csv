@@ -1,0 +1,11 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0782.jpg,1.0001999999999498,1.0,1200.0006,314.0,1,building,building_1.00,"green, brown, brick, tall, red, large","green, brown, brick, tall, red, large"
+00070007_0782.jpg,14.0004,226.0,167.0004,307.0,1,bush,bush_14.00,"green, yellow, white, large, small, black","green, yellow, white, large, small, black"
+00070007_0782.jpg,290.0004,137.00000000000003,467.0004,274.0,1,bush,bush_290.00,"green, white, tall, large, blue, metal","green, white, tall, large, blue, metal"
+00070007_0782.jpg,251.9994,196.0,787.9998,532.0,1,cage,cage_252.00,"green, metal, black, white, large, red","green, metal, black, white, large, red"
+00070007_0782.jpg,948.0,243.0,1200.0,452.0,1,car,car_948.00,"blue, black, parked, silver, gray, green","blue, black, parked, silver, gray, green"
+00070007_0782.jpg,319.0002,205.00000000000003,796.9998,694.0,1,woman,woman_319.00,"green, white, large, clear, blue, metal","green, white, large, clear, blue, metal"
+00070007_0782.jpg,438.0,345.0,633.0,443.0,1,rabbit,rabbit_438.00,"white, large, gray, small, big, sitting","white, large, gray, small, big, sitting"
+00070007_0782.jpg,312.9996,106.0,360.9996,174.0,1,sign,sign_313.00,"white, green, blue, red, street, black","white, green, blue, red, street, black"
+00070007_0782.jpg,787.9998,1.0000000000000142,1199.9994,217.0,1,trees,trees_788.00,"green, large, tall, leafy, purple, pink","green, large, tall, leafy, purple, pink"
+00070007_0782.jpg,1.0001999999999498,291.0,1200.0006,800.0,1,water,water_1.00,"brown, calm, wet, clear, blue, murky","brown, calm, wet, clear, blue, murky"

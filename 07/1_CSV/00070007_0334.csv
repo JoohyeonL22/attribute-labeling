@@ -1,0 +1,11 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0334.jpg,1.0,113.00003999999998,151.0,331.00019999999995,1,car,car_1.00,"['pink', 'purple', 'black', 'green', 'red', 'colorful']"
+00070007_0334.jpg,144.99968,115.99992,280.0,357.99984,1,firefighter,firefighter_145.00,"['red', 'black', 'sitting', 'green', 'standing', 'metal']"
+00070007_0334.jpg,205.00032,1.000079999999997,297.00032,245.00016,1,man,man_205.00,"['standing', 'black', 'sitting', 'green', 'wearing', 'smiling']"
+00070007_0334.jpg,283.0,0.9999000000000252,453.0,358.00002,1,firefighter,firefighter_283.00,"['standing', 'black', 'green', 'walking', 'wearing', 'young']"
+00070007_0334.jpg,468.0,5.999940000000009,640.0,359.99982,1,firefighter,firefighter_468.00,"['standing', 'black', 'green', 'walking', 'young', 'wearing']"
+00070007_0334.jpg,83.00031999999999,1.000079999999997,200.0,199.00008000000005,1,police,police_83.00,"['standing', 'black', 'sitting', 'young', 'watching', 'wearing']"
+00070007_0334.jpg,437.00032,62.0001,477.00032,109.99998,1,man,man_437.00,"['green', 'black', 'blue', 'white', 'red', 'metal']"
+00070007_0334.jpg,226.99968,254.99988,366.99968,354.99996000000004,1,stretcher,stretcher_227.00,"['black', 'green', 'blue', 'dark', 'sitting', 'red']"
+00070007_0334.jpg,1.0,160.99991999999995,139.0,360.0,1,firefighter,firefighter_1.00,"['black', 'purple', 'pink', 'dark', 'red', 'green']"
+00070007_0334.jpg,1.0,18.00000000000003,639.99968,205.99992,1,grass,grass_1.00,"['black', 'green', 'metal', 'white', 'yellow', 'gray']"

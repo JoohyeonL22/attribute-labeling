@@ -1,0 +1,8 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0411.jpg,0.999990000000011,34.000029,135.99987,96.999973,1,cars,cars_1.00,"['green', 'double decker', 'white', 'lit', 'large', 'colorful']"
+00070007_0411.jpg,63.000189999999975,70.00001749999998,323.00005,203.0001225,1,car,car_63.00,"['red', 'black', 'metal', 'purple', 'white', 'silver']"
+00070007_0411.jpg,91.000115,65.999955,164.000205,121.00006100000002,1,car,car_91.00,"['green', 'white', 'pink', 'silver', 'metal', 'double decker']"
+00070007_0411.jpg,142.00001500000002,64.9999035,410.000205,136.99988050000002,1,field,field_142.00,"['pink', 'purple', 'metal', 'white', 'black', 'green']"
+00070007_0411.jpg,195.0001,159.999917,376.99992,278.99987500000003,1,debris,debris_195.00,"['black', 'green', 'white', 'silver', 'metal', 'gray']"
+00070007_0411.jpg,60.00001500000002,87.000032,410.000205,287.0,1,road,road_60.00,"['green', 'white', 'metal', 'black', 'brown', 'silver']"
+00070007_0411.jpg,103.99998499999998,1.000051500000005,409.999795,90.00018650000001,1,trees,trees_104.00,"['bare', 'brown', 'green', 'tall', 'leafless', 'white']"

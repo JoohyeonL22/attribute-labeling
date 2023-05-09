@@ -1,0 +1,9 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0949.jpg,77.0,91.99995900000005,352.0,253.000005,1,suv,suv_77.00,"black, parked, white, red, green, blue","black, parked, white, red, green, blue"
+00070007_0949.jpg,39.00001599999999,1.00009,205.000048,262.00003,1,sign,sign_39.00,"blue, white, green, red, tall, double decker","blue, white, green, red, tall, double decker"
+00070007_0949.jpg,321.000064,0.9999329999999986,336.000192,100.000051,1,pole,pole_321.00,"brown, wooden, tall, green, gray, metal","brown, wooden, tall, green, gray, metal"
+00070007_0949.jpg,0.9998560000000012,172.000094,69.99995200000001,208.000194,1,road,road_1.00,"yellow, gray, metal, blue, white, black","yellow, gray, metal, blue, white, black"
+00070007_0949.jpg,41.00008000000001,269.000032,262.000112,313.99999999999994,1,sign,sign_41.00,"blue, white, black, metal, glass, square","blue, white, black, metal, glass, square"
+00070007_0949.jpg,0.999855999999994,0.9999330000000128,351.999824,173.999803,1,trees,trees_1.00,"green, red, blue, white, black, tall","green, red, blue, white, black, tall"
+00070007_0949.jpg,1.0000320000000045,259.00007400000004,69.000096,292.999994,1,debris,debris_1.00,"red, pink, white, black, purple, metal","red, pink, white, black, purple, metal"
+00070007_0949.jpg,218.999968,238.999844,350.999968,314.0,1,road,road_219.00,"gray, brown, concrete, green, black, cement","gray, brown, concrete, green, black, cement"

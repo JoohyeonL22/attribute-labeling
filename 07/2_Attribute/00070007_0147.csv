@@ -1,0 +1,8 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0147.jpg,0.9998080000000016,305.9999925,428.0,344.9998275,1,road,road_1.00,"yellow, black, gray, wet, metal, empty","yellow, black, gray, wet, metal, empty"
+00070007_0147.jpg,49.00000800000001,0.9998099999999964,428.0,192.9999,1,smoke,smoke_49.00,"green, black, white, dark, yellow, red","green, black, white, dark, yellow, red"
+00070007_0147.jpg,21.99984200000003,134.00007,326.999918,345.0,1,truck,truck_22.00,"white, yellow, green, silver, gray, moving","white, yellow, green, silver, gray, moving"
+00070007_0147.jpg,37.00017200000002,6.999877499999982,349.000188,251.9999025,1,fire,fire_37.00,"white, green, yellow, red, black, double decker","white, green, yellow, red, black, double decker"
+00070007_0147.jpg,331.00022,221.0001,407.00018,264.00021,1,building,building_331.00,"black, square, blue, white, framed, glass","black, square, blue, white, framed, glass"
+00070007_0147.jpg,1.0000220000000049,150.99994500000005,39.99981,256.999815,1,building,building_1.00,"green, red, glass, pink, metal, black","green, red, glass, pink, metal, black"
+00070007_0147.jpg,1.0000220000000013,47.00004,159.999882,97.0002,1,trees,trees_1.00,"red, black, white, bare, large, green","red, black, white, bare, large, green"

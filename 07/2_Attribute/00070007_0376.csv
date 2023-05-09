@@ -1,0 +1,10 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0376.jpg,154.9999,329.99988400000007,508.9997,526.000218,1,suv,suv_155.00,"yellow, black, green, parked, gray, white","yellow, black, green, parked, gray, white"
+00070007_0376.jpg,429.0,336.0002965,617.9998,474.0001215,1,suv,suv_429.00,"black, green, gray, yellow, silver, parked","black, green, gray, yellow, silver, parked"
+00070007_0376.jpg,587.0001500000001,347.99996200000004,958.00045,579.00019,1,car,car_587.00,"black, parked, blue, yellow, gray, large","black, parked, blue, yellow, gray, large"
+00070007_0376.jpg,931.0004,332.999897,1100.0,461.999683,1,car,car_931.00,"black, red, parked, white, yellow, blue","black, red, parked, white, yellow, blue"
+00070007_0376.jpg,1.0004500000000007,433.99969049999993,1100.00055,772.9996135,1,road,road_1.00,"gray, black, paved, yellow, asphalt, concrete","gray, black, paved, yellow, asphalt, concrete"
+00070007_0376.jpg,747.0001,349.999713,913.9999,409.999973,1,car,car_747.00,"blue, clear, glass, open, small, white","blue, clear, glass, open, small, white"
+00070007_0376.jpg,865.9997500000001,550.9994244999999,947.99925,578.9998035,1,debris,debris_866.00,"orange, black, white, small, red, blue","orange, black, white, small, red, blue"
+00070007_0376.jpg,503.99965,514.000166,603.99955,544.0002959999999,1,debris,debris_504.00,"blue, green, white, small, metal, empty","blue, green, white, small, metal, empty"
+00070007_0376.jpg,0.9999000000000038,565.9998760000001,81.99949999999998,579.00019,1,debris,debris_1.00,"pink, purple, red, black, white, small","pink, purple, red, black, white, small"

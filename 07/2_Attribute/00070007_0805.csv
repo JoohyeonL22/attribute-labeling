@@ -1,0 +1,12 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0805.jpg,444.0001025,117.00018,895.0004475,451.99998,1,building,building_444.00,"large, white, blue, red, colorful, gray","large, white, blue, red, colorful, gray"
+00070007_0805.jpg,1.0001625,222.99975,455.0005475,539.99973,1,fire truck,fire truck_1.00,"red, double decker, white, parked, large, big","red, double decker, white, parked, large, big"
+00070007_0805.jpg,399.0003975,331.99983,518.0004925,539.99973,1,firefighter,firefighter_399.00,"standing, walking, black, skiing, purple, red","standing, walking, black, skiing, purple, red"
+00070007_0805.jpg,562.000035,329.00013,665.000215,540.00027,1,firefighter,firefighter_562.00,"standing, purple, walking, green, black, pink","standing, purple, walking, green, black, pink"
+00070007_0805.jpg,691.99968,327.00024,782.9997,540,1,firefighter,firefighter_692.00,"standing, walking, black, wearing, looking, young","standing, walking, black, wearing, looking, young"
+00070007_0805.jpg,251.000065,0.99981,279.999855,227.00007,1,pole,pole_251.00,"green, metal, gray, tall, silver, long","green, metal, gray, tall, silver, long"
+00070007_0805.jpg,1.0001625,1.00008,895.0004475,348.99984,1,smoke,smoke_1.00,"blue, white, cloudy, gray, clear, large","blue, white, cloudy, gray, clear, large"
+00070007_0805.jpg,411.00011,0.99981,831.00034,132.00003,1,tree,tree_411.00,"purple, bare, white, pink, blue, leafless","purple, bare, white, pink, blue, leafless"
+00070007_0805.jpg,547.99955,328.00005,597.99962,540.00027,1,fire,firef_548.00,"purple, standing, black, pink, green, long","purple, standing, black, pink, green, long"
+00070007_0805.jpg,475.9999325,347.99976,519.0002075,540,1,firefighter,firefighter_476.00,"standing, black, walking, red, skiing, wearing","standing, black, walking, red, skiing, wearing"
+00070007_0805.jpg,394.9997475,108.99981,786.9999025,358.99983,1,fire,fire_395.00,"large, white, red, pink, brick, orange","large, white, red, pink, brick, orange"

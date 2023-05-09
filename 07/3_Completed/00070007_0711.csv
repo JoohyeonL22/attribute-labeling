@@ -1,0 +1,17 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0711.jpg,0.99975,53,306.99975,217,1,building,building_1.00,"white, large, green, blue, tall, big","white, large"
+00070007_0711.jpg,360.000375,177,409.000125,249,1,man,man_360.00,"green, blue, standing, open, sitting, walking","blue, standing"
+00070007_0711.jpg,461.999625,196,517.999875,343,1,man,man_462.00,"red, standing, blue, walking, sitting, black","standing, blue"
+00070007_0711.jpg,96,148,204,435,1,man,man_96.00,"standing, walking, young, green, old, looking","standing, looking"
+00070007_0711.jpg,1.000125,169,750.000375,500,1,tree,tree_1.00,"green, brown, gray, black, wet, dirty","green, brown"
+00070007_0711.jpg,306,1,750,171,1,tree,tree_306.00,"green, large, tall, white, blue, leafy",green
+00070007_0711.jpg,711,206,747,227,1,umbrella,umbrella_711.00,"green, white, street, blue, small, neon",small
+00070007_0711.jpg,285,175,387,258,1,jeep,jeep_285.00,"gray, sitting, large, white, standing, long","gray, standing"
+00070007_0711.jpg,42,252,591,500,1,road,road_42.00,"gray, green, black, concrete, wet, brown",gray
+00070007_0711.jpg,448.999875,121,749.999625,267,1,building,building_449.00,"green, double decker, white, large, red, tall",green
+00070007_0711.jpg,703.999875,229,749.999625,353,1,person,person_704.00,"green, blue, metal, wooden, white, small",green
+00070007_0711.jpg,428.00025,185,470.00025,286,1,people,people_428.00,"green, red, open, metal, glass, white",
+00070007_0711.jpg,416.00025,195,437.00025,255,1,man,man_416.00,"green, metal, white, blue, glass, open",
+00070007_0711.jpg,414.000375,188,451.000125,219,1,umbrella,umbrella_414.00,"green, glass, white, small, open, metal",small
+00070007_0711.jpg,392.00025,184,413.00025,241,1,man,man_392.00,"green, standing, blue, open, small, glass",standing
+00070007_0711.jpg,245.00025,180,281.00025,262,1,man,man_245.00,"green, white, stuffed, standing, gray, brown","standing, gray"

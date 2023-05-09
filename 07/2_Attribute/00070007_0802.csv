@@ -1,0 +1,9 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0802.jpg,1.0,0.999960499999986,379.0,305.0002555,1,building,building_1.00,"white, pink, red, gray, black, brown","white, pink, red, gray, black, brown"
+00070007_0802.jpg,902.0,450.0006795000001,1023.0,834.0005485,1,man,man_902.00,"red, open, glass, standing, blue, black","red, open, glass, standing, blue, black"
+00070007_0802.jpg,267.0,1.000643999999994,2000.0,336.000398,1,building,building_267.00,"blue, large, green, tall, white, brown","blue, large, green, tall, white, brown"
+00070007_0802.jpg,1.0,777.0000660000001,2000.0,1367.0,1,water,water_1.00,"brown, calm, dark, murky, green, gray","brown, calm, dark, murky, green, gray"
+00070007_0802.jpg,969.0,532.9994515,1080.0,836.9997465,1,woman,woman_969.00,"standing, open, red, blue, white, walking","standing, open, red, blue, white, walking"
+00070007_0802.jpg,450.0,0.9999605000000144,1288.0,335.0004375,1,tree,tree_450.00,"green, tall, large, leafy, blue, big","green, tall, large, leafy, blue, big"
+00070007_0802.jpg,398.0,262.00058700000005,1997.0,809.0001690000001,1,building,building_398.00,"white, blue, large, yellow, red, black","white, blue, large, yellow, red, black"
+00070007_0802.jpg,1.0,97.0002695,473.0,795.0000385000001,1,building,building_1.00,"blue, red, orange, colorful, white, large","blue, red, orange, colorful, white, large"

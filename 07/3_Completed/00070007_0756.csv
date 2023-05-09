@@ -1,0 +1,12 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0756.jpg,0.9999,426.000025,402.9993,631.000405,1,building,building_1.00,"yellow, red, gray, black, white, brown","gray, brown"
+00070007_0756.jpg,1136.9996,557.000325,2200,1025.000435,1,boat,boat_1137.00,"wooden, brown, long, wood, large, green",brown
+00070007_0756.jpg,471.0002,506.999875,654.9994,826.999825,1,man,man_471.00,"pink, white, sitting, red, standing, gray","white, standing"
+00070007_0756.jpg,1191.9985,644.0000825,1698.9995,898.0003175,1,paddle,paddle_1192.00,"wooden, brown, wood, yellow, white, large","wooden, brown"
+00070007_0756.jpg,0.9999,0.9998625,2199.9989,595.9993575,1,trees,trees_1.00,"green, white, tall, blue, large, cloudy","green, large"
+00070007_0756.jpg,1156.001,0.9998625,2198.0002,541.0003275,1,tree,tree_1156.00,"green, large, tall, leafy, brown, big","green, leafy"
+00070007_0756.jpg,1.001,1.000595,1149.0006,665.000125,1,trees,trees_1.00,"green, tall, large, brown, big, white","green, brown"
+00070007_0756.jpg,0.9999,555.0006,2199.9989,1465,1,water,water_1.00,"brown, calm, wet, clear, murky, dark","brown, wet"
+00070007_0756.jpg,1421.9997,266.9999125,1988.0003,797.9994175,1,woman,woman_1422.00,"sitting, young, smiling, green, wearing, blue","sitting, smiling"
+00070007_0756.jpg,0.9999,0.9998625,956.9989,649.0001275,1,tree,tree_1.00,"green, large, tall, brown, big, leafy","green, brown"
+00070007_0756.jpg,1284.9991,362.000035,1594.9989,570.000735,1,building,building_1285.00,"red, metal, white, black, pink, tall",white

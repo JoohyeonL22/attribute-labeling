@@ -1,0 +1,18 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0298.jpg,1.0001599999999655,109.00018349999996,486.00024,437.0002845,1,car,car_1.00,"white, green, parked, black, silver, blue","white, parked"
+00070007_0298.jpg,376.9999,152.999925,697.00018,245.999949,1,cars,cars_377.00,"metal, white, yellow, pink, purple, colorful","metal, white"
+00070007_0298.jpg,452.0005,202.999758,740.00022,367.999866,1,car,car_452.00,"black, gray, silver, metal, white, blue","gray, metal"
+00070007_0298.jpg,406.9997600000001,186.000048,635.9999200000001,507.0,1,man,man_407.00,"standing, sitting, young, purple, black, blue","standing, black"
+00070007_0298.jpg,669.00026,146.00002949999998,703.00038,247.0000065,1,man,man_669.00,"yellow, blue, sitting, orange, open, white",blue
+00070007_0298.jpg,545.9999600000001,1.000057499999997,686.99972,158.0002125,1,tree,tree_546.00,"tall, large, green, palm, bare, leafless","green, palm"
+00070007_0298.jpg,1.0001600000000082,325.9997325,212.00048,456.9999135,1,car,car_1.00,"green, black, gray, white, blue, dark",white
+00070007_0298.jpg,648.0003200000001,318.999837,760.0,494.999817,1,debris,debris_648.00,"red, metal, brown, wooden, gray, black","metal, brown"
+00070007_0298.jpg,410.0002400000001,186.999852,638.0002400000001,507.0,1,firefighter,firefighter_410.00,"standing, sitting, young, purple, black, blue",sitting
+00070007_0298.jpg,118.00026,207.999792,205.9999,507.0,1,man,man_118.00,"standing, black, green, smiling, blue, wearing","standing, wearing"
+00070007_0298.jpg,205.00012,134.999904,282.00028,507.0,1,woman,woman_205.00,"standing, white, smiling, black, looking, walking","standing, white"
+00070007_0298.jpg,333.99986,190.0000245,356.99974,223.9999515,1,person,person_334.00,"green, white, blue, standing, small, colorful","white, small"
+00070007_0298.jpg,675.99986,160.000074,687.9995,206.999988,1,woman,woman_676.00,"blue, orange, red, open, colorful, glass",blue
+00070007_0298.jpg,635.00014,165.00010799999998,666.99994,196.99992,1,woman,woman_635.00,"sitting, blue, standing, white, yellow, blonde","blue, standing"
+00070007_0298.jpg,549.00006,168.000027,579.9997,225.999813,1,man,man_549.00,"purple, pink, colorful, wooden, white, metal",white
+00070007_0298.jpg,585.9999,163.0002465,616.99954,197.0001735,1,man,man_586.00,"sitting, standing, watching, white, black, yellow","standing, black"
+00070007_0298.jpg,420.00032,18.999824999999987,760.0,204.999873,1,fence,fence_420.00,"blue, white, green, tall, black, large","black, large"

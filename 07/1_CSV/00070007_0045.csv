@@ -1,0 +1,10 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0045.jpg,507.999695,52.9998545,669.999665,229.9999175,1,building,building_508.00,"['white', 'pink', 'purple', 'large', 'gray', 'black']"
+00070007_0045.jpg,44.00023999999996,344.99998400000004,670.0,431.0,1,bush,bush_44.00,"['purple', 'pink', 'green', 'colorful', 'metal', 'white']"
+00070007_0045.jpg,24.000069999999997,274.000061,53.99999,326.000211,1,car,car_24.00,"['white', 'metal', 'black', 'silver', 'gray', 'purple']"
+00070007_0045.jpg,558.9997599999999,1.000135499999999,670.0,384.0000965,1,tree,tree_559.00,"['purple', 'pink', 'white', 'metal', 'colorful', 'gray']"
+00070007_0045.jpg,193.00019999999995,0.999920000000003,383.00014,193.999996,1,tree,tree_193.00,"['white', 'gray', 'silver', 'black', 'metal', 'blue']"
+00070007_0045.jpg,1.0003099999999954,0.999920000000003,50.00009,430.00008,1,tree,tree_1.00,"['gray', 'wooden', 'tall', 'brown', 'blue', 'metal']"
+00070007_0045.jpg,48.99977999999993,142.0000615,592.9995799999999,382.0002565,1,bus,bus_49.00,"['purple', 'white', 'pink', 'black', 'gray', 'silver']"
+00070007_0045.jpg,258.99988999999994,72.999763,437.00013,157.999859,1,debris,debris_259.00,"['red', 'pink', 'white', 'black', 'metal', 'large']"
+00070007_0045.jpg,547.0000600000001,333.000082,670.0,388.999912,1,road,road_547.00,"['pink', 'purple', 'metal', 'colorful', 'green', 'white']"

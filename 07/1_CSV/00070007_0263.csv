@@ -1,0 +1,11 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0263.jpg,397.0,180.0003,481.0,251.0001,1,fire truck,fire truck_397.00,"['red', 'double decker', 'white', 'blue', 'yellow', 'large']"
+00070007_0263.jpg,480.0,201.0003,502.0,239.0001,1,fire truck,fire truck_480.00,"['yellow', 'wooden', 'pink', 'small', 'white', 'colorful']"
+00070007_0263.jpg,510.0,210.00000000000003,597.0,273.0,1,car,car_510.00,"['pink', 'purple', 'white', 'large', 'lit', 'black']"
+00070007_0263.jpg,269.0,0.9998999999999968,299.0,200.0001,1,pole,pole_269.00,"['tall', 'black', 'metal', 'gray', 'long', 'silver']"
+00070007_0263.jpg,1.0,233.99999999999997,567.0,600.0,1,road,road_1.00,"['gray', 'yellow', 'paved', 'black', 'asphalt', 'concrete']"
+00070007_0263.jpg,96.0,131.00009999999995,137.0,183.0003,1,sign,sign_96.00,"['green', 'white', 'black', 'street', 'traffic', 'blue']"
+00070007_0263.jpg,345.0,0.9998999999999684,800.0,341.0001,1,tree,tree_345.00,"['green', 'tall', 'large', 'leafy', 'dark', 'big']"
+00070007_0263.jpg,149.0,203.0001,459.0,333.9999,1,truck,truck_149.00,"['red', 'white', 'green', 'silver', 'moving', 'yellow']"
+00070007_0263.jpg,115.0,156.9999,134.0,302.9997,1,pole,pole_115.00,"['green', 'blue', 'metal', 'white', 'tall', 'long']"
+00070007_0263.jpg,1.0000000000000284,0.9998999999999968,464.0,260.9997,1,trees,trees_1.00,"['green', 'red', 'tall', 'large', 'black', 'big']"

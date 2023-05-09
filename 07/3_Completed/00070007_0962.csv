@@ -1,0 +1,15 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0962.jpg,1862.998951,468.998907,3181.998409,770.999385,1,building,building_1863.00,"brown, brick, tan, large, gray, beige","brown, brick"
+00070007_0962.jpg,96.00094,26.999247,1740.99948,873.000201,1,building,building_96.00,"white, gray, large, brown, tan, beige","white, gray"
+00070007_0962.jpg,2396.001452,693.000699,3009.001024,868.000161,1,suv,suv_2396.00,"black, blue, yellow, purple, parked, red",black
+00070007_0962.jpg,161.998802,772.999401,2266.99999,1039.999599,1,fence,fence_162.00,"yellow, white, long, wooden, metal, gray","white, wooden"
+00070007_0962.jpg,676.001581,425.000493,1255.001483,1609.000275,1,man,man_676.00,"young, standing, smiling, wearing, riding, sitting","standing, wearing"
+00070007_0962.jpg,2459.000279,16.999167,2567.000541,864.000129,1,pole,pole_2459.00,"tall, black, metal, wooden, brown, large","metal, brown"
+00070007_0962.jpg,2681.998021,221.999838,3057.999051,769.000338,1,tree,tree_2682.00,"green, palm, tall, large, leafy, small","green, palm"
+00070007_0962.jpg,0.999148,819.999777,3182,1937.999031,1,water,water_1.00,"wet, brown, gray, large, dark, calm","wet, brown"
+00070007_0962.jpg,509.000675,372.999108,1215.999709,1325.99898,1,girl,girl_509.00,"young, standing, wearing, black, white, riding","young, wearing"
+00070007_0962.jpg,1.000739,595.000884,207.000237,1099.00104,1,van,van_1.00,"gray, silver, white, parked, black, small","silver, parked"
+00070007_0962.jpg,2812.001813,728.000979,2884.000927,869.000169,1,woman,woman_2812.00,"green, blue, colorful, red, pink, yellow",blue
+00070007_0962.jpg,1623.998931,492.999099,1910.000273,747.999201,1,building,building_1624.00,"green, glass, purple, large, black, pink",large
+00070007_0962.jpg,3049.999503,0.999039,3091.998721,822.999801,1,pole,pole_3050.00,"red, tall, black, metal, long, large","black, metal"
+00070007_0962.jpg,506.000049,1.000008,636.000659,1002.000264,1,pole,pole_506.00,"black, tall, metal, brown, large, green",black

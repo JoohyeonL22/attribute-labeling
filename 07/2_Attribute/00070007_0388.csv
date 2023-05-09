@@ -1,0 +1,7 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0388.jpg,22.999970000000005,97.999944,152.999862,161.99995800000002,1,car,car_23.00,"yellow, white, metal, silver, black, green","yellow, white, metal, silver, black, green"
+00070007_0388.jpg,0.9999320000000012,54.000045,41.000044,91.000125,1,fence,fence_1.00,"glass, large, white, blue, clear, open","glass, large, white, blue, clear, open"
+00070007_0388.jpg,105.99999,1.0000500000000017,234.000018,44.000076,1,tree,tree_106.00,"green, white, black, yellow, silver, large","green, white, black, yellow, silver, large"
+00070007_0388.jpg,34.00004799999999,1.0000500000000088,236.0,121.000032,1,truck,truck_34.00,"white, yellow, black, green, gray, large","white, yellow, black, green, gray, large"
+00070007_0388.jpg,1.0000500000000017,111.999936,236.000118,177.0,1,parking lot,parking lot_1.00,"yellow, white, empty, gray, red, metal","yellow, white, empty, gray, red, metal"
+00070007_0388.jpg,1.0000500000000017,106.9999515,236.000118,140.0000085,1,sidewalk,sidewalk_1.00,"green, yellow, white, metal, silver, empty","green, yellow, white, metal, silver, empty"

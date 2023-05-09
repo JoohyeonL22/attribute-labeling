@@ -1,0 +1,10 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0776.jpg,1.0009600000000205,0.9997199999999822,451.00032,224.99964,1,building,building_1.00,"black, pink, gray, purple, red, white",red
+00070007_0776.jpg,36.0,95.00004,93.99936,174.99996,1,sign,sign_36.00,"yellow, black, green, white, red, neon",yellow
+00070007_0776.jpg,372.99968,3.9999600000000015,508.99968,140.00004,1,sign,sign_373.00,"pink, orange, purple, black, colorful, red",red
+00070007_0776.jpg,235.00096,133.99991999999995,537.0003200000001,345.9996,1,suv,suv_235.00,"yellow, black, red, double decker, white, parked",black
+00070007_0776.jpg,475.9999999999999,14.999760000000007,813.9993599999999,275.99976000000004,1,tree,tree_476.00,"green, tall, large, leafy, small, big",green
+00070007_0776.jpg,790.0,37.00008,1066.0,291.00024,1,tree,tree_790.00,"green, tall, large, orange, brown, leafy","green, brown"
+00070007_0776.jpg,1.0003200000001016,258.99984000000006,1280.00064,720.0,1,water,water_1.00,"clear, glass, reflective, blurry, reflecting, wet","reflective, blurry"
+00070007_0776.jpg,736.0,266.0004,1228.99968,453.0002400000001,1,barricade,barricade_736.00,"red, white, yellow, long, large, moving",red
+00070007_0776.jpg,449.00031999999993,1.000079999999997,1280.00064,246.00024,1,building,building_449.00,"green, large, orange, brown, tall, red",brown

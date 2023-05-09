@@ -1,0 +1,9 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0457.jpg,266.0,1.0000800000000003,374.0,39.000240000000005,1,car,car_266.00,"white, pink, purple, parked, silver, small","white, small"
+00070007_0457.jpg,235.0,10.000079999999995,285.0,92.00016,1,man,man_235.00,"yellow, black, metal, open, blue, silver",black
+00070007_0457.jpg,69.99967999999998,0.9999000000000038,283.99968,97.00002,1,suv,suv_70.00,"yellow, black, parked, double decker, blue, large",black
+00070007_0457.jpg,1.0,115.99992,251.0,360.0,1,grass,grass_1.00,"green, grassy, black, brown, dirt, large","green, grassy"
+00070007_0457.jpg,0.999680000000012,46.00008,252.0,97.99992,1,road,road_1.00,"black, yellow, parked, red, large, gray",gray
+00070007_0457.jpg,0.999680000000012,100.00008,252.0,117.0,1,sidewalk,sidewalk_1.00,"white, green, long, black, red, yellow",black
+00070007_0457.jpg,374.00032,1.000079999999997,640.00032,259.99992,1,building,building_374.00,"red, black, green, blue, gray, white",gray
+00070007_0457.jpg,187.0,35.99982000000003,593.0,356.99994000000004,1,car,car_187.00,"black, parked, red, gray, silver, white",black

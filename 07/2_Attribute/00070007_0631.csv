@@ -1,0 +1,8 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0631.jpg,1.0,218.000154,136.0,378.000262,1,building,building_1.00,"brown, brick, large, tall, red, dark","brown, brick, large, tall, red, dark"
+00070007_0631.jpg,292.0,0.9998259999999846,777.0,493.999806,1,building,building_292.00,"brick, brown, pink, purple, gray, white","brick, brown, pink, purple, gray, white"
+00070007_0631.jpg,308.0,360.000106,685.0,498.000206,1,car,car_308.00,"brown, green, parked, orange, red, silver","brown, green, parked, orange, red, silver"
+00070007_0631.jpg,79.0,356.00025400000004,337.0,492.00015400000007,1,car,car_79.00,"green, white, parked, blue, silver, purple","green, white, parked, blue, silver, purple"
+00070007_0631.jpg,169.0,90.00023200000001,327.0,325.00016800000003,1,tree,tree_169.00,"purple, pink, black, large, tall, dark","purple, pink, black, large, tall, dark"
+00070007_0631.jpg,42.0,437.99996,445.0,548.0,1,debris,debris_42.00,"green, metal, brown, black, wooden, white","green, metal, brown, black, wooden, white"
+00070007_0631.jpg,545.0,498.000206,600.0,514.000162,1,debris,debris_545.00,"pink, purple, white, red, small, black","pink, purple, white, red, small, black"

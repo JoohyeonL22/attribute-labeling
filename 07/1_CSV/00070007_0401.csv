@@ -1,0 +1,13 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0401.jpg,86.00006250000001,340.00028999999995,615.0003075,735.0000299999999,1,debris,debris_86.00,"['gray', 'concrete', 'black', 'dirty', 'cement', 'wet']"
+00070007_0401.jpg,246.0,0.9999899999999968,615.0,141.99981,1,building,building_246.00,"['red', 'brick', 'green', 'brown', 'white', 'large']"
+00070007_0401.jpg,405.9999375,98.00025,614.9996924999999,354.00015,1,bush,bush_406.00,"['green', 'tall', 'potted', 'small', 'white', 'growing']"
+00070007_0401.jpg,106.00017000000004,97.00026,233.00013,151.00054,1,car,car_106.00,"['purple', 'pink', 'blue', 'red', 'black', 'small']"
+00070007_0401.jpg,162.99990749999995,42.00039999999999,475.9998525,304.00024,1,suv,suv_163.00,"['green', 'white', 'metal', 'blue', 'colorful', 'silver']"
+00070007_0401.jpg,215.0000025,1.0004000000000133,250.00026750000004,259.00028000000003,1,pole,pole_215.00,"['red', 'metal', 'gray', 'silver', 'orange', 'wooden']"
+00070007_0401.jpg,0.9999899999999684,164.0,615.0,820.0,1,road,road_1.00,"['gray', 'concrete', 'paved', 'black', 'cement', 'wet']"
+00070007_0401.jpg,0.9999899999999968,0.9999899999999968,222.00024,139.00025,1,trees,trees_1.00,"['green', 'red', 'leafy', 'large', 'tall', 'small']"
+00070007_0401.jpg,0.9996824999999988,115.00008,32.9999775,193.00012,1,woman,woman_1.00,"['sitting', 'blue', 'blonde', 'little', 'yellow', 'young']"
+00070007_0401.jpg,106.00017,304.00024,255.9999,398.00012,1,debris,debris_106.00,"['green', 'pink', 'metal', 'gray', 'blue', 'small']"
+00070007_0401.jpg,24.0000675,95.99985999999998,72.00020249999999,189.99974,1,woman,woman_24.00,"['blue', 'white', 'standing', 'orange', 'black', 'metal']"
+00070007_0401.jpg,106.00017,94.00029,225.00021,149.00015,1,suv,suv_106.00,"['purple', 'pink', 'blue', 'red', 'black', 'small']"

@@ -1,0 +1,9 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0736.jpg,205.999712,296.0000965,374.999808,392.9998635,1,building,building_206.00,"orange, glass, large, white, yellow, clear","orange, glass, large, white, yellow, clear"
+00070007_0736.jpg,1.0001839999999973,307.9998905,69.00029599999999,367.0000895,1,fire,fire_1.00,"orange, yellow, red, large, colorful, blue","orange, yellow, red, large, colorful, blue"
+00070007_0736.jpg,1.0001840000000186,1.0000929999999926,444.000104,401.000277,1,smoke,smoke_1.00,"blue, clear, white, black, glass, large","blue, clear, white, black, glass, large"
+00070007_0736.jpg,0.9999360000000052,19.999877,77.000032,317.999829,1,tree,tree_1.00,"blue, black, white, green, large, big","blue, black, white, green, large, big"
+00070007_0736.jpg,275.000008,119.99959250000003,496.000248,385.9998735,1,trees,trees_275.00,"tall, blue, large, white, bare, green","tall, blue, large, white, bare, green"
+00070007_0736.jpg,0.999935999999991,418.999968,496.0,661.0,1,grass,grass_1.00,"green, brown, gray, yellow, grassy, dirty","green, brown, gray, yellow, grassy, dirty"
+00070007_0736.jpg,0.999935999999991,361.999955,496.0,464.000187,1,road,road_1.00,"yellow, blue, black, white, gray, metal","yellow, blue, black, white, gray, metal"
+00070007_0736.jpg,162.000048,176.9996055,379.000048,398.9997605,1,fire,fire_162.00,"orange, blue, large, red, clear, yellow","orange, blue, large, red, clear, yellow"

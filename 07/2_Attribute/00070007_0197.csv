@@ -1,0 +1,13 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0197.jpg,252.0,107.99999999999996,842.00064,438.99984,1,bus,bus_252.00,"double decker, yellow, green, moving, parked, large","double decker, yellow, green, moving, parked, large"
+00070007_0197.jpg,725.0003199999999,330.00012000000004,1124.00064,506.9998800000001,1,car,car_725.00,"blue, green, parked, black, silver, red","blue, green, parked, black, silver, red"
+00070007_0197.jpg,1076.0006400000002,276.99984,1154.0,470.99952,1,man,man_1076.00,"standing, blue, sitting, red, walking, white","standing, blue, sitting, red, walking, white"
+00070007_0197.jpg,1.0003200000001016,256.00032,1280.00064,720.0,1,road,road_1.00,"gray, empty, paved, white, black, yellow","gray, empty, paved, white, black, yellow"
+00070007_0197.jpg,300.99968,232.99992,320.0,273.9996,1,sign,sign_301.00,"pink, purple, red, small, green, colorful","pink, purple, red, small, green, colorful"
+00070007_0197.jpg,22.00000000000003,3.000240000000005,328.00064,255.00024,1,tree,tree_22.00,"green, tall, large, leafy, big, brown","green, tall, large, leafy, big, brown"
+00070007_0197.jpg,907.00032,1.0000800000000254,958.00064,284.0004,1,tree,tree_907.00,"red, black, tall, metal, blue, gray","red, black, tall, metal, blue, gray"
+00070007_0197.jpg,23.00032,211.99968,173.00096000000002,328.99968,1,truck,truck_23.00,"yellow, green, parked, red, white, double decker","yellow, green, parked, red, white, double decker"
+00070007_0197.jpg,876.9996799999999,272.99952,1280.0,465.99984,1,grass,grass_877.00,"green, blue, large, white, tall, black","green, blue, large, white, tall, black"
+00070007_0197.jpg,1121.99936,450.99972,1280.0000000000002,498.99996,1,sidewalk,sidewalk_1122.00,"white, green, metal, blue, gray, silver","white, green, metal, blue, gray, silver"
+00070007_0197.jpg,1.0003200000001016,1.000079999999997,1280.00064,266.0004,1,trees,trees_1.00,"green, tall, red, large, leafy, white","green, tall, red, large, leafy, white"
+00070007_0197.jpg,1.000319999999988,555.0001199999999,661.00032,720.00036,1,grass,grass_1.00,"green, tall, grassy, short, long, small","green, tall, grassy, short, long, small"

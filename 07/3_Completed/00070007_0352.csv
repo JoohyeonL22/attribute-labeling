@@ -1,0 +1,6 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0352.jpg,0.9999425000000032,57.00004050000001,230.9999975,227.0001135,1,road,road_1.00,"gray, paved, concrete, empty, black, asphalt","gray, asphalt"
+00070007_0352.jpg,218.0001225,1.000162000000003,415.0002075,90.000052,1,trees,trees_218.00,"green, tall, dark, large, black, brown",green
+00070007_0352.jpg,0.9999425000000032,0.9999350000000008,130.99993750000002,104.999985,1,truck,truck_1.00,"green, white, large, gray, silver, yellow","large, silver"
+00070007_0352.jpg,84.00015,80.000021,200.00012,145.000109,1,debris,debris_84.00,"red, gray, black, white, silver, open",white
+00070007_0352.jpg,119.99994750000002,34.9998815,245.0000225,75.9999405,1,debris,debris_120.00,"black, glass, yellow, large, white, small",

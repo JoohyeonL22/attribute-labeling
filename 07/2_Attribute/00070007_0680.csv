@@ -1,0 +1,6 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0680.jpg,335.00006399999995,88.00008000000003,1008.000512,535.000368,1,boat,boat_335.00,"red, old, white, metal, brown, large","red, old, white, metal, brown, large"
+00070007_0680.jpg,142.99955199999997,259.999824,519.000064,479.9998559999999,1,car,car_143.00,"pink, purple, red, parked, maroon, old","pink, purple, red, parked, maroon, old"
+00070007_0680.jpg,477.999616,56.000112,1023.999488,212.000208,1,trailer,trailer_478.00,"red, pink, green, metal, brown, white","red, pink, green, metal, brown, white"
+00070007_0680.jpg,16.99993599999999,0.999935999999991,996.000256,273.999936,1,tree,tree_17.00,"green, red, pink, white, metal, brown","green, red, pink, white, metal, brown"
+00070007_0680.jpg,0.999936000000048,212.99980800000003,1023.999488,672.0,1,water,water_1.00,"wet, brown, dirty, red, white, large","wet, brown, dirty, red, white, large"

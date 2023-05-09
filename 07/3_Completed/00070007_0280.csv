@@ -1,0 +1,7 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0280.jpg,113.99975999999998,177.00040799999996,840.0,598.000104,1,car,car_114.00,"black, white, gray, silver, metal, yellow","silver, metal"
+00070007_0280.jpg,1.0000200000000063,194.00004,540.0002999999999,289.999944,1,fence,fence_1.00,"brown, wooden, wood, brick, green, red","brown, wood"
+00070007_0280.jpg,1.000440000000026,1.0001160000000198,716.00004,339.99965999999995,1,tree,tree_1.00,"brown, large, bare, black, red, green","brown, green"
+00070007_0280.jpg,533.9997599999999,1.0001159999999911,840.0,205.00038,1,tree,tree_534.00,"brown, orange, green, red, pink, large","brown, green"
+00070007_0280.jpg,0.9995999999999868,366.999984,840.0,936.0,1,road,road_1.00,"black, wet, gray, concrete, dark, paved","black, gray"
+00070007_0280.jpg,425.0001,608.999976,532.00014,705.9995279999999,1,debris,debris_425.00,"blue, green, silver, metal, white, small","silver, metal"

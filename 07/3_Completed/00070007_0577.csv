@@ -1,0 +1,11 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0577.jpg,0.9999360000000196,1.0002239999999745,290.99980800000003,298.000224,1,building,building_1.00,"brown, pink, gray, concrete, brick, red","brown, red"
+00070007_0577.jpg,289.000448,82.999872,414.000128,261.999936,1,building,building_289.00,"brown, pink, purple, large, tall, black","brown, large"
+00070007_0577.jpg,440.0,288.0,548.99968,378.99993599999993,1,man,man_440.00,"red, black, white, colorful, yellow, small","white, yellow"
+00070007_0577.jpg,715.0003200000001,156.000096,777.000448,328.999968,1,man,man_715.00,"blue, standing, colorful, green, white, red","standing, white"
+00070007_0577.jpg,918.999552,0.9999360000000196,1023.999488,396.9999360000001,1,tree,tree_919.00,"green, purple, tall, leafy, large, dark","green, leafy"
+00070007_0577.jpg,0.999936000000048,247.000032,1023.999488,576.000288,1,water,water_1.00,"wet, dark, black, brown, calm, reflective","wet, dark"
+00070007_0577.jpg,760.9999359999999,188.000064,832.0,353.999808,1,firefighter,firefighter_761.00,"white, black, standing, blue, walking, silver","black, standing"
+00070007_0577.jpg,653.9996160000001,251.000352,747.999744,354.000096,1,firefighter,firefighter_654.00,"green, blue, black, white, silver, small","black, white"
+00070007_0577.jpg,475.00032,181.999872,527.0000640000001,235.999872,1,truck,truck_475.00,"green, colorful, blue, framed, yellow, white",green
+00070007_0577.jpg,814.999552,150.00019200000003,952.999936,297.0,1,building,building_815.00,"purple, black, white, pink, gray, silver","black, white"

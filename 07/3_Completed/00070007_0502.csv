@@ -1,0 +1,11 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0502.jpg,666.99968,211.999956,922,359.999788,1,car,car_667.00,"white, parked, purple, silver, blue, pink",silver
+00070007_0502.jpg,834.99968,216.000044,1179.99936,389.000212,1,car,car_835.00,"purple, pink, parked, red, maroon, black",maroon
+00070007_0502.jpg,70,563.000188,758.99968,603.000212,1,paddle,paddle_70.00,"blue, long, wooden, brown, white, yellow","long, brown"
+00070007_0502.jpg,663.99936,1.000236,838.99968,256.000068,1,tree,tree_664.00,"green, brown, tall, large, leafy, dark","green, leafy"
+00070007_0502.jpg,868.00064,1.000236,954,218.000516,1,tree,tree_868.00,"brown, tall, large, gray, green, thick",brown
+00070007_0502.jpg,1.00032,185.000004,1280.00064,856.000428,1,water,water_1.00,"calm, brown, wet, murky, reflective, clear","brown, wet"
+00070007_0502.jpg,289.99936,386.00036,456,583.0002,1,woman,woman_290.00,"sitting, black, smiling, pink, purple, young","sitting, black"
+00070007_0502.jpg,254,566.00004,530,662.00044,1,boat,boat_254.00,"pink, red, white, blue, purple, small",pink
+00070007_0502.jpg,150.00064,64.000124,208,123.999732,1,sign,sign_150.00,"red, white, stop, black, street, written","red, stop"
+00070007_0502.jpg,214.00064,1.000236,1280,309.000164,1,building,building_214.00,"white, green, pink, purple, tall, blurry",white

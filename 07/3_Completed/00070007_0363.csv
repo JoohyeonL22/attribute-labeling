@@ -1,0 +1,14 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0363.jpg,1.0,1.0,639.99968,164.0,1,building,building_1.00,"tall, white, large, pink, tan, brown","white, brown"
+00070007_0363.jpg,132.00032,158.0,359.0,347.0,1,car,car_132.00,"black, parked, white, dark, moving, driving",black
+00070007_0363.jpg,15.0,138.0,181.0,226.0,1,car,car_15.00,"pink, purple, white, red, double decker, green",white
+00070007_0363.jpg,1.0,165.0,127.0,315.0,1,car,car_1.00,"silver, black, green, white, parked, gray",white
+00070007_0363.jpg,321.0,214.0,639.99968,398.0,1,car,car_321.00,"black, parked, silver, gray, dark, white","parked, silver"
+00070007_0363.jpg,158.99967999999998,1.0,174.99967999999998,169.0,1,pole,pole_159.00,"purple, pink, tall, metal, long, black","metal, long"
+00070007_0363.jpg,210.0,328.0,298.0,370.0,1,debris,debris_210.00,"purple, pink, small, black, metal, silver","small, black"
+00070007_0363.jpg,63.99967999999999,131.0,101.0,195.0,1,person,person_64.00,"green, blue, sitting, yellow, white, blurry","green, blurry"
+00070007_0363.jpg,194.00032,136.0,217.0,169.0,1,person,person_194.00,"orange, green, white, small, blue, red",
+00070007_0363.jpg,348.99968,196.0,640.0,224.0,1,sidewalk,sidewalk_349.00,"pink, purple, metal, white, long, red",
+00070007_0363.jpg,1.0,322.0,402.00032,400.0,1,road,road_1.00,"black, gray, yellow, metal, wet, white",gray
+00070007_0363.jpg,342.00032,141.0,640.00032,218.0,1,people,people_342.00,"metal, pink, purple, silver, green, white",
+00070007_0363.jpg,512.0,1.0,640.0,103.0,1,tree,tree_512.00,"green, large, leafy, tall, small, big","green, leafy"

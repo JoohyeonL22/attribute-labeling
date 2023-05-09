@@ -1,0 +1,6 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0262.jpg,130.99994999999998,175.00005,363.00015,245.00025,1,suv,suv_131.00,"white, blue, open, large, silver, gray","white, blue, open, large, silver, gray"
+00070007_0262.jpg,1.0000125000000253,175.99994999999998,675.0003375,246.00015,1,fence,fence_1.00,"yellow, blue, green, metal, large, long","yellow, blue, green, metal, large, long"
+00070007_0262.jpg,1.0000125000000253,279.9999,675.0003375,450.0,1,road,road_1.00,"yellow, gray, wet, paved, concrete, black","yellow, gray, wet, paved, concrete, black"
+00070007_0262.jpg,44.00021250000003,186.000075,389.0001375,388.000125,1,truck,truck_44.00,"yellow, blue, white, parked, large, gray","yellow, blue, white, parked, large, gray"
+00070007_0262.jpg,405.999675,193.99995,618.999975,300.00015,1,truck,truck_406.00,"green, blue, yellow, white, black, parked","green, blue, yellow, white, black, parked"

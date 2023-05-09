@@ -1,0 +1,13 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0291.jpg,157.99942999999996,117.999798,635.99977,389.99996,1,suv,suv_158.00,"green, silver, white, parked, gray, black","green, silver, white, parked, gray, black"
+00070007_0291.jpg,92.99936999999998,169.999969,183.99983,270.000013,1,car,car_93.00,"green, white, red, silver, parked, gray","green, white, red, silver, parked, gray"
+00070007_0291.jpg,1.000160000000001,155.00017400000002,62.00052,473.00006,1,man,man_1.00,"walking, standing, gray, black, young, wearing","walking, standing, gray, black, young, wearing"
+00070007_0291.jpg,1.000159999999994,1.0000745000000109,835.0001199999999,198.0002035,1,trees,trees_1.00,"green, white, cloudy, red, blue, tall","green, white, cloudy, red, blue, tall"
+00070007_0291.jpg,853.99987,11.999835999999997,939.99953,116.999988,1,tree,tree_854.00,"green, tall, white, large, bare, gray","green, tall, white, large, bare, gray"
+00070007_0291.jpg,1.000159999999994,256.99983799999995,577.0002,529.0,1,road,road_1.00,"gray, wet, brown, concrete, yellow, paved","gray, wet, brown, concrete, yellow, paved"
+00070007_0291.jpg,5.999549999999999,155.99998399999998,107.99989,311.000158,1,suv,suv_6.00,"black, purple, gray, pink, red, silver","black, purple, gray, pink, red, silver"
+00070007_0291.jpg,410.00027000000006,248.999771,742.9999700000001,425.999997,1,debris,debris_410.00,"black, red, metal, gray, white, orange","black, red, metal, gray, white, orange"
+00070007_0291.jpg,740.99965,107.99984650000002,933.99951,528.9997355,1,woman,woman_741.00,"standing, gray, green, young, blue, walking","standing, gray, green, young, blue, walking"
+00070007_0291.jpg,739.99949,133.000122,816.99959,260.00032600000003,1,man,man_740.00,"purple, pink, black, sitting, white, red","purple, pink, black, sitting, white, red"
+00070007_0291.jpg,882.0001199999999,116.99998799999996,938.99984,529.0,1,person,person_882.00,"green, blue, gray, black, white, standing","green, blue, gray, black, white, standing"
+00070007_0291.jpg,486.9994300000001,124.9997905,776.9997700000001,311.9997035,1,people,people_487.00,"metal, orange, standing, red, white, watching","metal, orange, standing, red, white, watching"

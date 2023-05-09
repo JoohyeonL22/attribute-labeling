@@ -1,0 +1,11 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0033.jpg,199.0,15.9999665,573.0,293.9999295,1,bus,bus_199.00,"yellow, green, white, black, parked, large","yellow, large"
+00070007_0033.jpg,65.0,123.00017649999998,215.0,240.0001435,1,car,car_65.00,"green, black, white, parked, double decker, blue",black
+00070007_0033.jpg,93.0,75.99980049999999,147.0,125.9998775,1,sign,sign_93.00,"green, yellow, colorful, red, multi colored, white",green
+00070007_0033.jpg,132.00032,1.0000079999999798,339.0,262.000158,1,tree,tree_132.00,"green, tall, large, brown, bare, big",brown
+00070007_0033.jpg,1.000320000000002,1.0000080000000082,109.00032,178.000132,1,trees,trees_1.00,"bare, tall, large, white, green, red",bare
+00070007_0033.jpg,1.0,177.00012399999997,83.0,323.0,1,sidewalk,sidewalk_1.00,"green, yellow, blue, white, black, parked",black
+00070007_0033.jpg,80.0,225.0000235,156.0,267.0000365,1,bin,bin_80.00,"yellow, green, metal, glass, small, empty","green, empty"
+00070007_0033.jpg,3.0,228.999894,177.0,323.0,1,debris,debris_3.00,"yellow, gray, blue, large, black, white",gray
+00070007_0033.jpg,1.0,139.9999895,19.0,175.99995449999997,1,people,people_1.00,"black, framed, white, blue, small, red",black
+00070007_0033.jpg,29.0,123.9998615,91.0,171.9999225,1,road,road_29.00,"glass, white, large, green, blue, clear",white

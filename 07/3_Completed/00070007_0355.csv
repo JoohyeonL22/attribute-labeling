@@ -1,0 +1,5 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0355.jpg,260.00011800000004,192.00024,282.000042,217.00008000000005,1,man,man_260.00,"red, white, black, blue, small, framed","white, black"
+00070007_0355.jpg,1.0000260000000054,205.0002,160.00011,432.000216,1,road,road_1.00,"black, white, yellow, dark, gray, metal","black, dark"
+00070007_0355.jpg,19.999871999999986,189.00000000000009,324.0,348.99984,1,truck,truck_20.00,"white, parked, black, silver, gray, large",white
+00070007_0355.jpg,59.00007600000001,168.999912,145.000044,209.000088,1,fire truck,fire truck_59.00,"purple, pink, white, small, colorful, open",

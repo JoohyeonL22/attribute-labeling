@@ -1,0 +1,15 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0504.jpg,82.99999249999999,1.0001670000000047,311.00018750000004,314.00015499999995,1,building,building_83.00,"green, large, tall, leafy, big, white",green
+00070007_0504.jpg,466.0001160000001,382.0003075000001,502.000084,413.0000525,1,car,car_466.00,"yellow, white, wooden, blue, red, small",white
+00070007_0504.jpg,580.0002135,382.0003075,700.0005045,482.0000325,1,car,car_580.00,"pink, gray, white, purple, silver, red",silver
+00070007_0504.jpg,650.9998189999999,338.99991650000004,1107.999943,610.9998475,1,truck,truck_651.00,"blue, parked, black, white, green, double decker","blue, parked"
+00070007_0504.jpg,534.9996570000001,400.999746,578.999883,456.999592,1,motorbike,motorbike_535.00,"purple, pink, small, open, blue, white","small, blue"
+00070007_0504.jpg,0.999734000000018,1.0001670000000047,466.0001160000001,409.000403,1,trees,trees_1.00,"green, white, red, large, blue, tall","green, large"
+00070007_0504.jpg,529.0006565,96.00041499999998,742.0000695,391.000113,1,tree,tree_529.00,"tall, green, blue, large, glass, white",green
+00070007_0504.jpg,614.000117,1.0001670000000047,1143.000177,375.00015700000006,1,tree,tree_614.00,"green, tall, large, brown, red, blue",green
+00070007_0504.jpg,1.0003304999999898,271.000443,311.00018750000004,574.0001189999999,1,van,van_1.00,"white, parked, silver, large, gray, red","white, parked"
+00070007_0504.jpg,0.9997339999998758,403.00008,1193.0,679.0,1,water,water_1.00,"wet, gray, brown, white, paved, concrete","wet, brown"
+00070007_0504.jpg,537.000318,366.000012,574.0000200000001,445.000304,1,person,person_537.00,"purple, pink, small, blue, white, colorful","small, blue"
+00070007_0504.jpg,509.000608,395.0004415,537.000318,434.0001645,1,motorbike,motorbike_509.00,"pink, purple, red, wooden, small, white",red
+00070007_0504.jpg,506.999947,381.00048,533.000189,424.000192,1,person,person_507.00,"pink, purple, red, wooden, small, brown",
+00070007_0504.jpg,650.0000849999999,1.0001670000000047,1189.999605,407.000069,1,building,building_650.00,"green, brown, large, tall, white, red","brown, large"

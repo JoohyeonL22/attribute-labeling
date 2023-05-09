@@ -1,0 +1,16 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0821.jpg,1953,568.999705,2952,935.998855,1,building,building_1953.00,"purple, pink, white, green, red, large",white
+00070007_0821.jpg,1.0005,717.00079,555.0015,1536.00015,1,bush,bush_1.00,"green, purple, tall, large, pink, red",green
+00070007_0821.jpg,1382.001,1020.000175,1745.001,1395.001105,1,car,car_1382.00,"white, parked, silver, blue, gray, red",white
+00070007_0821.jpg,1869.999,875.00024,2154.999,947.00082,1,car,car_1870.00,"purple, pink, red, white, silver, parked",parked
+00070007_0821.jpg,648.0015,946.999855,1492.0005,1474.999605,1,suv,suv_648.00,"white, blue, parked, small, large, red","white, small"
+00070007_0821.jpg,2601,0.99974,2787,625.99936,1,chain,chain_2601.00,"green, blue, hanging, purple, white, metal","hanging, metal"
+00070007_0821.jpg,522,931.999895,693,1445.999425,1,woman,woman_522.00,"standing, blue, walking, black, red, purple","standing, black"
+00070007_0821.jpg,2428.0005,1102.999825,2598.0015,1243.000095,1,sign,sign_2428.00,"yellow, black, gold, white, small, red","yellow, small"
+00070007_0821.jpg,2476.0005,1002.00003,2541.0015,1107.99949,1,sign,sign_2476.00,"yellow, orange, red, black, gold, white",yellow
+00070007_0821.jpg,2493,1.000705,3000,913.000975,1,tree,tree_2493.00,"green, tall, purple, hanging, large, brown","green, large"
+00070007_0821.jpg,1.0005,1340.999705,3000.0015,1929.999035,1,mud,mud_1.00,"gray, wet, white, rocky, dirty, sandy","gray, dirty"
+00070007_0821.jpg,151.9995,694.999755,344.9985,864.999945,1,woman,woman_152.00,"gray, purple, pink, small, blue, black",blue
+00070007_0821.jpg,2590.9995,900.99927,2999.9985,1313.00023,1,wall,wall_2591.00,"green, small, tall, brick, white, large","brick, white"
+00070007_0821.jpg,1791.0015,1156.00052,2989.0005,1395.99988,1,debris,debris_1791.00,"green, long, wooden, black, white, blue","long, wooden"
+00070007_0821.jpg,1979.9985,928.998745,2236.9995,1066.999535,1,car,car_1980.00,"red, white, glass, open, clear, small","white, small"

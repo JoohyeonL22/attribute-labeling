@@ -1,0 +1,10 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0451.jpg,1.0002969999999891,78.00015300000001,631.000067,504.000115,1,car,car_1.00,"white, parked, gray, silver, green, black",gray
+00070007_0451.jpg,403.0003850000001,45.000035,872.999963,326.99988499999995,1,suv,suv_403.00,"white, parked, green, black, blue, silver",white
+00070007_0451.jpg,825.999808,98.000107,986.0,360.999973,1,car,car_826.00,"white, parked, silver, green, gray, black",white
+00070007_0451.jpg,0.9998039999999832,303.999744,986.0,554.0,1,road,road_1.00,"gray, paved, concrete, black, asphalt, wet","gray, asphalt"
+00070007_0451.jpg,37.00063599999999,41.00015500000002,492.000196,222.000265,1,truck,truck_37.00,"pink, purple, white, green, parked, silver",
+00070007_0451.jpg,359.99993900000004,0.9999699999999976,413.000397,78.99984599999999,1,tree,tree_360.00,"black, yellow, purple, metal, dark, tall",
+00070007_0451.jpg,332.000497,476.000124,438.00042700000006,554.0,1,debris,debris_332.00,"purple, pink, black, gray, green, small","black, small"
+00070007_0451.jpg,620.9995620000001,359.000033,689.000038,409.000195,1,debris,debris_621.00,"blue, metal, silver, green, white, gray",gray
+00070007_0451.jpg,764.9999320000001,378.999987,935.000136,427.000209,1,debris,debris_765.00,"yellow, black, painted, white, metal, square",black

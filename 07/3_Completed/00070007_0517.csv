@@ -1,0 +1,12 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0517.jpg,719,231.999976,726,371.999888,1,pole,pole_719.00,"pink, purple, tall, red, colorful, long",long
+00070007_0517.jpg,234,0.999908,800,382.000034,1,smoke,smoke_234.00,"cloudy, white, gray, purple, pink, blue","cloudy, white"
+00070007_0517.jpg,232,225.9997285,567,404.9997835,1,truck,truck_232.00,"white, pink, red, gray, purple, silver",white
+00070007_0517.jpg,202,211.0000425,294,286.9999795,1,tree,tree_202.00,"pink, purple, blue, white, colorful, red",
+00070007_0517.jpg,622,301.000024,667,405.999958,1,firefighter,firefighter_622.00,"standing, green, skiing, purple, black, walking","black, walking"
+00070007_0517.jpg,732,304.9999225,762,425.0000755,1,firefighter,firefighter_732.00,"green, standing, walking, black, purple, blue","standing, black"
+00070007_0517.jpg,161,306.000097,227,444.000193,1,firefighter,firefighter_161.00,"walking, standing, skiing, black, wearing, young","walking, black"
+00070007_0517.jpg,1,346.000148,800,533,1,road,road_1.00,"wet, gray, black, concrete, paved, cement","wet, gray"
+00070007_0517.jpg,147,297.0001255,222,338.9999925,1,people,people_147.00,"blue, green, white, yellow, colorful, black",
+00070007_0517.jpg,173,283.999989,298,317.000151,1,water,water_173.00,"blue, white, green, colorful, small, red",white
+00070007_0517.jpg,88,290.0002365,135,425.0000755,1,firefighter,firefighter_88.00,"green, black, blue, white, skiing, yellow",black

@@ -1,0 +1,20 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0440.jpg,0.999844,46.999953,218.00002,210.999789,1,building,building_1.00,"pink, brown, tan, large, tall, beige","brown, tan"
+00070007_0440.jpg,267.999822,0.999999,722.999794,268.000139,1,building,building_268.00,"red, yellow, large, brown, brick, big","red, yellow"
+00070007_0440.jpg,0.999844,192.000215,22.000188,344.000063,1,police,police_1.00,"red, glass, open, black, large, white",black
+00070007_0440.jpg,151.000336,183.000224,189.0002,295.000112,1,man,man_151.00,"purple, pink, standing, sitting, black, colorful","standing, black"
+00070007_0440.jpg,1.000206,209.9999935,66.000202,356.9998465,1,police,police_1.00,"red, open, glass, black, pink, metal",black
+00070007_0440.jpg,619.00009,167.0000365,707.000118,407.0002035,1,police,police_619.00,"standing, black, walking, green, pink, sitting","standing, black"
+00070007_0440.jpg,633.00044,0.999999,681.000192,342.000065,1,pole,pole_633.00,"black, brown, tall, metal, long, glass","brown, long"
+00070007_0440.jpg,215.000126,1.0002025,354.000162,168.0000355,1,tree,tree_215.00,"brown, green, large, pink, red, tall","green, large"
+00070007_0440.jpg,0.999844,291.000116,621.00014,407,1,road,road_1.00,"wet, brown, concrete, clear, dirty, gray","wet, dirty"
+00070007_0440.jpg,39.00007,194.000213,84.00029,336.000071,1,police,police_39.00,"pink, purple, red, open, black, glass",black
+00070007_0440.jpg,79.000346,204.000203,108.000166,300.000107,1,firefighter,firefighter_79.00,"green, metal, wooden, yellow, colorful, brown",brown
+00070007_0440.jpg,197.000038,184.000223,224.00017,226.000181,1,firefighter,firefighter_197.00,"green, colorful, hanging, red, yellow, small",yellow
+00070007_0440.jpg,280.000484,177.00023,310.000148,241.000166,1,firefighter,firefighter_280.00,"green, metal, blue, white, yellow, silver",yellow
+00070007_0440.jpg,303.000154,178.000229,338.000486,276.000131,1,firefighter,firefighter_303.00,"green, standing, metal, white, blue, sitting",standing
+00070007_0440.jpg,338.999968,176.000231,399.999864,322.000085,1,firefighter,firefighter_339.00,"standing, walking, yellow, blonde, young, looking","standing, yellow"
+00070007_0440.jpg,580.00002,158.0000455,639.000228,364.0002465,1,firefighter,firefighter_580.00,"green, yellow, standing, colorful, white, walking","yellow, standing"
+00070007_0440.jpg,83.000446,1.0002025,112.000266,203.9999995,1,pole,pole_83.00,"tall, green, metal, brown, red, long",brown
+00070007_0440.jpg,202.000344,160.0000435,296.00016,195.0000085,1,cars,cars_202.00,"green, white, neon, street, black, lit",white
+00070007_0440.jpg,187.00015,263.000144,724.000362,385.000022,1,sidewalk,sidewalk_187.00,"wet, clear, metal, glass, red, black","wet, black"

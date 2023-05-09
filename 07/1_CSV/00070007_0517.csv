@@ -1,0 +1,12 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0517.jpg,719.0,231.999976,726.0,371.999888,1,pole,pole_719.00,"['pink', 'purple', 'tall', 'red', 'colorful', 'long']"
+00070007_0517.jpg,234.0,0.9999080000000332,800.0,382.000034,1,smoke,smoke_234.00,"['cloudy', 'white', 'gray', 'purple', 'pink', 'blue']"
+00070007_0517.jpg,232.0,225.9997285,567.0,404.9997835,1,truck,truck_232.00,"['white', 'pink', 'red', 'gray', 'purple', 'silver']"
+00070007_0517.jpg,202.0,211.0000425,294.0,286.9999795,1,tree,tree_202.00,"['pink', 'purple', 'blue', 'white', 'colorful', 'red']"
+00070007_0517.jpg,622.0,301.000024,667.0,405.9999580000001,1,firefighter,firefighter_622.00,"['standing', 'green', 'skiing', 'purple', 'black', 'walking']"
+00070007_0517.jpg,732.0,304.9999225,762.0,425.0000755,1,firefighter,firefighter_732.00,"['green', 'standing', 'walking', 'black', 'purple', 'blue']"
+00070007_0517.jpg,161.0,306.000097,227.0,444.000193,1,firefighter,firefighter_161.00,"['walking', 'standing', 'skiing', 'black', 'wearing', 'young']"
+00070007_0517.jpg,1.0,346.000148,800.0,533.0,1,road,road_1.00,"['wet', 'gray', 'black', 'concrete', 'paved', 'cement']"
+00070007_0517.jpg,147.0,297.0001255,222.0,338.9999925,1,people,people_147.00,"['blue', 'green', 'white', 'yellow', 'colorful', 'black']"
+00070007_0517.jpg,173.0,283.999989,298.0,317.000151,1,water,water_173.00,"['blue', 'white', 'green', 'colorful', 'small', 'red']"
+00070007_0517.jpg,88.0,290.0002365,135.0,425.0000755,1,firefighter,firefighter_88.00,"['green', 'black', 'blue', 'white', 'skiing', 'yellow']"

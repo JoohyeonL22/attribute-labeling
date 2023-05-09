@@ -1,0 +1,3 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0495.jpg,33.99989999999997,74.00000600000004,563.9997000000001,325.00008,1,car,car_34.00,"white, purple, silver, pink, red, parked","white, purple, silver, pink, red, parked"
+00070007_0495.jpg,395.0001,0.9998444999999948,600.0003,396.9998015,1,tree,tree_395.00,"green, brown, white, purple, pink, yellow","green, brown, white, purple, pink, yellow"

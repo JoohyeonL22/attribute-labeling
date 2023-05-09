@@ -1,0 +1,5 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0069.jpg,104.99970000000002,39.999912,682.99998,367.999716,1,bus,bus_105.00,"green, white, blue, black, tall, large",white
+00070007_0069.jpg,386.0001600000001,14.000013000000024,780.0,438.000219,1,trees,trees_386.00,"green, tall, white, large, brown, leafy","green, leafy"
+00070007_0069.jpg,182.00013000000004,107.00011499999997,358.00011000000006,430.000149,1,trees,trees_182.00,"green, tall, large, leafy, small, big","green, leafy"
+00070007_0069.jpg,185.99997,347.99997899999994,400.99995,437.999781,1,trash,trash_186.00,"green, metal, white, silver, blue, glass",

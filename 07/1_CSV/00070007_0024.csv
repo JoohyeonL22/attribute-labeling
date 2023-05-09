@@ -1,0 +1,4 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0024.jpg,57.0,1.0001600000000082,400.0,255.000064,1,trees,trees_57.00,"['green', 'tall', 'black', 'white', 'large', 'big']"
+00070007_0024.jpg,1.0,77.00016000000002,284.0,278.000096,1,bus,bus_1.00,"['black', 'white', 'green', 'metal', 'old', 'large']"
+00070007_0024.jpg,1.0,1.0001600000000082,52.0,111.000128,1,tree,tree_1.00,"['green', 'white', 'blue', 'large', 'tall', 'glass']"

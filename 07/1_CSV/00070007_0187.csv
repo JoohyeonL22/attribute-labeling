@@ -1,0 +1,7 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0187.jpg,48.999840000000006,58.99968799999996,504.99992,504.999968,1,bus,bus_49.00,"['purple', 'white', 'black', 'pink', 'large', 'big']"
+00070007_0187.jpg,527.0,279.000271,551.0002,367.00024900000005,1,man,man_527.00,"['purple', 'pink', 'green', 'black', 'blue', 'colorful']"
+00070007_0187.jpg,582.99995,286.000088,619.99969,421.999996,1,man,man_583.00,"['standing', 'walking', 'green', 'sitting', 'watching', 'brown']"
+00070007_0187.jpg,134.00028999999998,454.999908,620.00031,636.9996160000001,1,debris,debris_134.00,"['black', 'dirty', 'wet', 'gray', 'metal', 'old']"
+00070007_0187.jpg,533.00005,280.000017,580.9998300000001,402.000291,1,man,man_533.00,"['pink', 'purple', 'standing', 'walking', 'sitting', 'colorful']"
+00070007_0187.jpg,452.00015,295.000035,466.00037,357.000237,1,man,man_452.00,"['red', 'white', 'metal', 'silver', 'small', 'gray']"

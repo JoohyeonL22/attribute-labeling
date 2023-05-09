@@ -1,0 +1,12 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0611.jpg,1.0004480000000058,141.0002275,648.999936,522.0001665,1,car,car_1.00,"black, green, gray, parked, silver, dark","black, green, gray, parked, silver, dark"
+00070007_0611.jpg,588.9996799999999,457.999993,777.99936,538.999695,1,man,man_589.00,"yellow, colorful, white, striped, multi colored, blue","yellow, colorful, white, striped, multi colored, blue"
+00070007_0611.jpg,517.999616,1.0002534999999853,567.999488,291.9999165,1,pole,pole_518.00,"wooden, brown, wood, purple, pink, tall","wooden, brown, wood, purple, pink, tall"
+00070007_0611.jpg,497.000448,300.000237,657.000448,533.000223,1,woman,woman_497.00,"green, sitting, young, blue, smiling, standing","green, sitting, young, blue, smiling, standing"
+00070007_0611.jpg,756.9996799999999,54.99994099999998,1014.999552,628.999971,1,woman,woman_757.00,"standing, green, smiling, young, old, gray","standing, green, smiling, young, old, gray"
+00070007_0611.jpg,560.9999359999999,535.999959,683.999744,552.9998290000001,1,stretcher,stretcher_561.00,"pink, purple, red, black, colorful, small","pink, purple, red, black, colorful, small"
+00070007_0611.jpg,758.00064,241.99953550000004,933.000192,509.9998565,1,firefighter,firefighter_758.00,"white, tan, brown, yellow, gray, black","white, tan, brown, yellow, gray, black"
+00070007_0611.jpg,756.000256,507.0004620000001,946.999808,604.000122,1,bag,bag_756.00,"black, green, gray, blue, dark, small","black, green, gray, blue, dark, small"
+00070007_0611.jpg,926.00064,119.00045599999996,1021.000192,308.000216,1,man,man_926.00,"blue, green, gray, standing, black, walking","blue, green, gray, standing, black, walking"
+00070007_0611.jpg,0.999936000000048,524.0003320000001,1023.999488,683.0,1,road,road_1.00,"gray, wet, paved, concrete, white, black","gray, wet, paved, concrete, white, black"
+00070007_0611.jpg,528.9999359999999,0.9999119999999984,587.999744,49.999698,1,sign,sign_529.00,"green, hanging, white, purple, pink, blue","green, hanging, white, purple, pink, blue"

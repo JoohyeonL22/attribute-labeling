@@ -1,0 +1,11 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0984.jpg,1740.0,702.0007999999999,2400.0,1239.0007999999998,1,fence,fence_1740.00,"black, blue, metal, red, green, tall","blue, metal"
+00070007_0984.jpg,1970.0004,348.0008,2292.0012,1305.0008,1,firefighter,firefighter_1970.00,"standing, black, skiing, yellow, smiling, wearing","standing, black"
+00070007_0984.jpg,0.9996000000001004,1.0008000000000266,2192.0004,1522.0008,1,smoke,smoke_1.00,"white, black, blue, red, dark, large",white
+00070007_0984.jpg,186.9996,519.0008,1772.9987999999998,1486.0008,1,van,van_187.00,"white, black, large, orange, gray, red",white
+00070007_0984.jpg,1700.0004,1199.0008,2400.0012,1552.0008,1,sidewalk,sidewalk_1700.00,"wet, clear, black, blue, glass, metal","wet, black"
+00070007_0984.jpg,5.0003999999999,1284.0,2400.0012,1596.0,1,road,road_5.00,"wet, blue, black, gray, concrete, paved","wet, gray"
+00070007_0984.jpg,312.00120000000004,1.0008000000000266,1862.0004,1032.0008,1,fire,fire_312.00,"red, orange, white, blue, yellow, dark",red
+00070007_0984.jpg,1217.0004,1194.0,1302.9996,1254.0,1,fire,fire_1217.00,"red, digital, orange, lit, yellow, black","red, lit"
+00070007_0984.jpg,689.0004,1161.9992,858.0012,1298.9992,1,fire,fire_689.00,"orange, black, small, gray, white, red",orange
+00070007_0984.jpg,354.9996,1453.0,842.9988,1509.0,1,fire,fire_355.00,"blue, yellow, metal, colorful, small, orange",yellow

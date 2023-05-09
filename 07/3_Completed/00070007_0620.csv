@@ -1,0 +1,8 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0620.jpg,87.000203,165.00011250000003,896.000385,505.0003275,1,suv,suv_87.00,"blue, parked, gray, black, silver, green",gray
+00070007_0620.jpg,785.9997599999999,84.00008249999999,948.999364,494.0002275000001,1,man,man_786.00,"green, standing, orange, wearing, smiling, leaning","standing, orange"
+00070007_0620.jpg,322.99979599999995,1.0001100000000065,986.0,204.00024,1,rocks,rocks_323.00,"green, large, rocky, brown, tall, gray","green, rocky"
+00070007_0620.jpg,276.000134,126.9998175,337.00001,164.0000025,1,sign,sign_276.00,"white, blue, red, small, square, black","white, square"
+00070007_0620.jpg,897.9999929999999,377.0001225,985.999507,485.0003475,1,debris,debris_898.00,"brown, green, tan, gray, khaki, beige","brown, beige"
+00070007_0620.jpg,0.9998040000000116,287.9997675,142.99958,554.9997225,1,road,road_1.00,"brown, wooden, blue, black, gray, yellow","brown, gray"
+00070007_0620.jpg,2.000101000000001,1.0001100000000065,349.999927,285.00027,1,tunnel,tunnel_2.00,"red, dark, black, brick, blue, tall",dark

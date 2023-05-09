@@ -1,0 +1,10 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0614.jpg,446.000256,56.999943,624.0,148.999851,1,building,building_446.00,"tall, white, red, large, green, gray","tall, white, red, large, green, gray"
+00070007_0614.jpg,241.000032,117.999882,421.999968,323.000028,1,fire,fire_241.00,"red, black, metal, large, yellow, orange","red, black, metal, large, yellow, orange"
+00070007_0614.jpg,566.999784,0.9998235000000192,607.999704,274.9999005,1,pole,pole_567.00,"red, white, tall, glass, metal, black","red, white, tall, glass, metal, black"
+00070007_0614.jpg,181.999896,0.9998235000000192,623.999688,296.9998785,1,smoke,smoke_182.00,"pink, white, purple, red, black, clear","pink, white, purple, red, black, clear"
+00070007_0614.jpg,141.00028799999998,253.000098,624.0,351.0,1,road,road_141.00,"gray, concrete, paved, red, cement, white","gray, concrete, paved, red, cement, white"
+00070007_0614.jpg,153.999768,225.000126,240.99972,273.00007800000003,1,people,people_154.00,"white, red, small, pink, blue, large","white, red, small, pink, blue, large"
+00070007_0614.jpg,296.000328,203.9999715,415.000248,304.9998705,1,car,car_296.00,"metal, black, large, yellow, silver, glass","metal, black, large, yellow, silver, glass"
+00070007_0614.jpg,208.000104,268.9999065,217.000056,285.99988950000005,1,fire extinguisher,fire extinguisher_208.00,"small, yellow, black, square, red, orange","small, yellow, black, square, red, orange"
+00070007_0614.jpg,0.9999600000000156,1.0001745000000142,162.99972,351.0001755,1,wall,wall_1.00,"gray, brown, large, stone, tall, old","gray, brown, large, stone, tall, old"

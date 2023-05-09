@@ -1,0 +1,9 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0282.jpg,144.00076900000005,399.99943800000005,744.000319,817.999554,1,car,car_144.00,"red, parked, pink, maroon, black, purple","red, parked"
+00070007_0282.jpg,0.9997799999998732,490.000464,1754.0,1182.0,1,road,road_1.00,"gray, paved, asphalt, black, concrete, wet","gray, asphalt"
+00070007_0282.jpg,1161.000664,140.000808,1753.9999999999998,1171.000308,1,suv,suv_1161.00,"white, parked, red, black, gray, large",white
+00070007_0282.jpg,0.9997799999998732,62.00003699999996,1356.99964,533.9998229999999,1,trees,trees_1.00,"green, tall, red, leafy, large, blue","green, leafy"
+00070007_0282.jpg,602.99889,776.0007300000001,854.999578,875.000322,1,debris,debris_603.00,"black, blue, white, green, red, empty",black
+00070007_0282.jpg,318.0002,905.999454,575.999568,978.999774,1,debris,debris_318.00,"yellow, white, small, metal, wooden, empty","white, small"
+00070007_0282.jpg,8.00087099999999,907.999989,227.000049,968.999463,1,debris,debris_8.00,"green, blue, colorful, white, black, light blue",light blue
+00070007_0282.jpg,191.999856,1127.999739,273.99935600000003,1181.9994090000002,1,debris,debris_192.00,"black, blue, small, clear, square, empty",empty

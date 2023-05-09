@@ -1,0 +1,15 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0889.jpg,12.9994875,90.0000955,972.9995265,451.0003785,1,car,car_13.00,"purple, metal, black, pink, silver, gray","metal, silver"
+00070007_0889.jpg,13.999986,67.0000485,169.99983,226.9998955,1,firefighter,firefighter_14.00,"standing, pink, purple, walking, colorful, sitting",standing
+00070007_0889.jpg,241.0002585,82.0003065,322.0001775,218.0002055,1,firefighter,firefighter_241.00,"purple, pink, sitting, standing, black, older","standing, black"
+00070007_0889.jpg,401.0000985,1.0001915,999.0004995,316.0003805,1,trees,trees_401.00,"purple, green, black, metal, silver, colorful",green
+00070007_0889.jpg,235.999764,19.0001525,409.99959,201.0001455,1,fire truck,fire truck_236.00,"purple, pink, red, white, double decker, colorful",red
+00070007_0889.jpg,360.999639,94.999891,446.999553,195.999769,1,firefighter,firefighter_361.00,"purple, pink, colorful, striped, black, multi colored","striped, black"
+00070007_0889.jpg,417.999582,103.000261,507.999492,185.000277,1,people,people_418.00,"standing, walking, purple, sitting, watching, pink",standing
+00070007_0889.jpg,146.999853,52.000081,254.999745,181.999993,1,fire truck,fire truck_147.00,"green, colorful, yellow, white, multi colored, blue",yellow
+00070007_0889.jpg,200.999799,100.999878,244.999755,213.99973,1,man,man_201.00,"green, colorful, open, blue, glass, yellow",blue
+00070007_0889.jpg,169.0003305,93.000089,204.0002955,212.999829,1,man,man_169.00,"green, standing, walking, black, blue, wearing","standing, black"
+00070007_0889.jpg,28.0004715,98.9997855,69.0004305,145.9997805,1,man,man_28.00,"sitting, standing, pink, purple, white, watching","standing, watching"
+00070007_0889.jpg,1.0004985,93.000089,42.0004575,149.000355,1,firefighter,firefighter_1.00,"pink, purple, colorful, standing, sitting, white",standing
+00070007_0889.jpg,0.999999,145.00017,100.999899,393.00002,1,truck,truck_1.00,"green, black, yellow, colorful, metal, white","metal, white"
+00070007_0889.jpg,0.9994995,176.000006,744.9997545,581,1,road,road_1.00,"gray, black, white, concrete, wet, metal",gray

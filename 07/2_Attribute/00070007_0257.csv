@@ -1,0 +1,9 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0257.jpg,176.0,418.9998749999999,1128.0,893.9999249999998,1,car,car_176.00,"white, purple, black, pink, gray, silver","white, purple, black, pink, gray, silver"
+00070007_0257.jpg,828.0,332.00055,1100.0,1020.00045,1,man,man_828.00,"young, smiling, skiing, standing, little, sitting","young, smiling, skiing, standing, little, sitting"
+00070007_0257.jpg,328.9992,0.9995999999999868,479.9992,882.0,1,tree,tree_329.00,"black, brown, gray, tall, long, red","black, brown, gray, tall, long, red"
+00070007_0257.jpg,1.0008000000000266,0.9995999999999868,1600.0008,577.9998,1,trees,trees_1.00,"bare, white, black, orange, leafless, snow-covered","bare, white, black, orange, leafless, snow-covered"
+00070007_0257.jpg,728.9992,392.999775,1353.9992,762.9998249999999,1,woman,woman_729.00,"black, purple, white, pink, blue, jumping","black, purple, white, pink, blue, jumping"
+00070007_0257.jpg,1.0008000000000266,399.0,1600.0008,1050.0,1,snow,snow_1.00,"white, snow-covered, snowy, covered, ski, black","white, snow-covered, snowy, covered, ski, black"
+00070007_0257.jpg,1182.9992,567.0,1599.9992,1045.9995,1,road,road_1183.00,"white, snowy, snow-covered, gray, yellow, black","white, snowy, snow-covered, gray, yellow, black"
+00070007_0257.jpg,427.0,754.99935,603.0,895.99965,1,debris,debris_427.00,"green, white, black, colorful, blue, gray","green, white, black, colorful, blue, gray"

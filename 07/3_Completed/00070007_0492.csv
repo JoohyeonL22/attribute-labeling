@@ -1,0 +1,7 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0492.jpg,328.0,128.999865,351.00018,161.999909,1,flag,flag_328.00,"american, blue, red, striped, white, black","american, striped"
+00070007_0492.jpg,85.00017499999998,177.00008250000002,203.000225,232.00005350000004,1,junk vehicle,junk vehicle_85.00,"metal, green, silver, white, black, glass","metal, black"
+00070007_0492.jpg,2.000185000000002,1.0000525000000096,91.000115,137.0001315,1,trees,trees_2.00,"green, tall, bare, large, brown, leafy",green
+00070007_0492.jpg,0.999990000000011,99.00013199999998,229.00017000000005,215.000082,1,car,car_1.00,"white, green, silver, parked, large, black",white
+00070007_0492.jpg,150.99992500000002,148.99999400000002,409.999795,248.000126,1,debris,debris_151.00,"metal, brown, white, green, wooden, large","brown, wooden"
+00070007_0492.jpg,5.000155000000007,0.9998990000000134,410.0002050000001,176.999929,1,building,building_5.00,"white, brown, gray, large, brick, old","brown, brick"

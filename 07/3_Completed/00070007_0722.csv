@@ -1,0 +1,11 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0722.jpg,510.00066,361.000311,774.0007200000001,996.000271,1,firefighter,firefighter_510.00,"standing, walking, black, yellow, green, blue","standing, black"
+00070007_0722.jpg,818.00073,362.000597,1095.00021,988.000405,1,firefighter,firefighter_818.00,"standing, gray, walking, young, skiing, wearing","standing, gray"
+00070007_0722.jpg,0.9994949999997972,1.00028599999996,1709.999145,840.000462,1,smoke,smoke_1.00,"orange, white, cloudy, blue, large, gray","white, cloudy"
+00070007_0722.jpg,0.9994950000000244,0.999680499999954,814.998825,886.9999775,1,tree,tree_1.00,"bare, white, large, leafless, tall, gray","bare, leafless"
+00070007_0722.jpg,1074.999195,582.0005450000001,1709.999145,1106.000245,1,trees,trees_1075.00,"orange, green, red, large, tall, pink",green
+00070007_0722.jpg,1459.000215,1161.000232,1520.001045,1211.0,1,man,man_1459.00,"black, metal, small, silver, gray, white",
+00070007_0722.jpg,1496.99898,1121.0002965,1596.99978,1211.0006055,1,man,man_1497.00,"black, blue, white, small, dark, sitting",blue
+00070007_0722.jpg,1616.000445,1156.9996935,1670.000535,1210.9993945,1,man,man_1616.00,"yellow, black, small, open, blue, glass",black
+00070007_0722.jpg,784.99944,0.9996805000000109,1710.0,860.9998075000001,1,fire,fire_785.00,"orange, colorful, pink, blue, red, yellow",orange
+00070007_0722.jpg,0.9994950000000244,798.00056,1465.999245,1211.0,1,fire truck,fire truck_1.00,"red, pink, white, metal, blue, purple","red, metal"

@@ -1,0 +1,15 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0489.jpg,172.00041,133.9997355,315.00011,251.9998365,1,car,car_172.00,"white, black, parked, silver, red, driving",black
+00070007_0489.jpg,256.000415,132.000105,378.000205,217.999995,1,car,car_256.00,"purple, pink, white, black, silver, open",white
+00070007_0489.jpg,53.99956,138.000174,173.99988,231.000066,1,car,car_54.00,"green, white, black, parked, silver, moving","black, moving"
+00070007_0489.jpg,286.999865,1.0001685,351.999795,438.0000915,1,pole,pole_287.00,"black, metal, tall, gray, silver, large","black, metal"
+00070007_0489.jpg,694.999785,7.0002375,716.999795,185.0000865,1,pole,pole_695.00,"black, metal, tall, green, white, blue",black
+00070007_0489.jpg,70.9998,25.000209,99.99978,309.000021,1,pole,pole_71.00,"green, metal, black, blue, tall, long","metal, black"
+00070007_0489.jpg,1.0001,5.9998335,77.0004,279.9998445,1,tree,tree_1.00,"green, glass, black, blue, tall, large","green, large"
+00070007_0489.jpg,366.999835,0.999933,636.999825,466.999797,1,tree,tree_367.00,"green, white, purple, black, parked, dark",green
+00070007_0489.jpg,96.000475,1.0001685,246.000145,375.0000735,1,tree,tree_96.00,"black, green, white, tall, silver, large","green, tall"
+00070007_0489.jpg,515.0004,138.000174,717.00016,278.000214,1,suv,suv_515.00,"white, silver, green, parked, metal, blue","white, metal"
+00070007_0489.jpg,1.0001,211.0002285,730,471.0002355,1,water,water_1.00,"wet, white, gray, purple, black, empty","wet, gray"
+00070007_0489.jpg,377.99984,147.999975,651.9995,326.999757,1,car,car_378.00,"white, green, silver, parked, black, moving","white, moving"
+00070007_0489.jpg,465.000145,126.999969,577.000395,153.000111,1,car,car_465.00,"green, white, street, black, blue, metal","white, metal"
+00070007_0489.jpg,25.00031,160.9998105,53.00019,215.9998935,1,car,car_25.00,"white, black, large, blue, glass, small",white

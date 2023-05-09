@@ -1,0 +1,13 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0778.jpg,470.0000084999999,593.000511,635.0003055,1019.000187,1,girl,girl_470.00,"['purple', 'standing', 'walking', 'pink', 'young', 'little']"
+00070007_0778.jpg,955.9999184999998,581.9992290000001,1094.9988554999998,922.999707,1,girl,girl_956.00,"['walking', 'standing', 'purple', 'young', 'little', 'pink']"
+00070007_0778.jpg,1749.9998669999998,3.000014999999962,1827.999525,1051.000347,1,pole,pole_1750.00,"['metal', 'blue', 'gray', 'silver', 'tall', 'green']"
+00070007_0778.jpg,1963.9992405,816.000399,2051.9992515,1101.000597,1,pole,pole_1964.00,"['gray', 'white', 'metal', 'silver', 'blue', 'concrete']"
+00070007_0778.jpg,519.0001905,436.99973100000005,542.0012235,585.9992490000001,1,pole,pole_519.00,"['green', 'blue', 'metal', 'tall', 'white', 'long']"
+00070007_0778.jpg,1568.0002965,433.0003245,1649.0002815,514.0007295,1,sign,sign_1568.00,"['white', 'blue', 'black', 'green', 'street', 'red']"
+00070007_0778.jpg,1694.0007645,195.0003615,2128.0001655,816.9997905,1,sign,sign_1694.00,"['white', 'blue', 'red', 'black', 'large', 'purple']"
+00070007_0778.jpg,485.000538,359.9999595,561.001452,439.0003545,1,sign,sign_485.00,"['green', 'white', 'black', 'street', 'blue', 'traffic']"
+00070007_0778.jpg,1.000477499999988,1.00061850000003,1040.9996025,629.0000775000001,1,trees,trees_1.00,"['green', 'tall', 'red', 'leafy', 'large', 'thick']"
+00070007_0778.jpg,789.9991440000001,1.0000050000000442,2211.0,794.0002890000001,1,trees,trees_790.00,"['green', 'tall', 'white', 'black', 'yellow', 'gray']"
+00070007_0778.jpg,0.999371999999994,666.999654,2211.0,1227.0,1,water,water_1.00,"['green', 'calm', 'wet', 'brown', 'murky', 'clear']"
+00070007_0778.jpg,797.9996475,434.999721,1497.0006645,723.999939,1,road,road_798.00,"['purple', 'gray', 'white', 'black', 'red', 'green']"

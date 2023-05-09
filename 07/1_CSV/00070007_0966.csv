@@ -1,0 +1,5 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0966.jpg,269.000177,123.00001349999998,485.999991,199.9999365,1,suv,suv_269.00,"['green', 'black', 'white', 'glass', 'dark', 'small']"
+00070007_0966.jpg,127.00002699999996,121.00001550000002,298.999789,273.0001365,1,man,man_127.00,"['yellow', 'green', 'sitting', 'bright', 'standing', 'white']"
+00070007_0966.jpg,380.000263,110.999889,412.000145,154.999845,1,person,person_380.00,"['orange', 'small', 'glass', 'square', 'white', 'closed']"
+00070007_0966.jpg,1.0001350000000002,65.999934,634.000317,273.0,1,water,water_1.00,"['gray', 'white', 'yellow', 'wet', 'black', 'clear']"

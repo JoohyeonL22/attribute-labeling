@@ -1,0 +1,10 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0166.jpg,0.9996254999999792,86.99998599999999,408.9998745,321.999918,1,bus,bus_1.00,"yellow, double decker, parked, white, moving, long","yellow, parked"
+00070007_0166.jpg,283.999968,212.00001,406.999818,307.000206,1,car,car_284.00,"white, pink, purple, parked, red, blue","white, parked"
+00070007_0166.jpg,0.9998940000000404,290.000088,537.0,404.0,1,road,road_1.00,"gray, paved, white, concrete, asphalt, black","gray, asphalt"
+00070007_0166.jpg,397.0000725,206.000206,443.9999235,271.00017,1,man,man_397.00,"white, purple, pink, blue, colorful, black",blue
+00070007_0166.jpg,509.9999085,196.999894,535.9998375,240.999938,1,man,man_510.00,"green, standing, sitting, walking, watching, blue",standing
+00070007_0166.jpg,303.000102,1.0001020000000125,537.0,239.000138,1,trees,trees_303.00,"green, tall, large, leafy, big, blue","green, leafy"
+00070007_0166.jpg,400.000023,240.99993800000004,431.999853,288.000086,1,man,man_400.00,"purple, pink, sitting, yellow, white, colorful",
+00070007_0166.jpg,342.000264,216.000216,537.0,322.00012000000004,1,ramp,ramp_342.00,"blue, white, colorful, yellow, metal, purple",metal
+00070007_0166.jpg,19.000134000000017,310.999806,182.00004,354.99985,1,debris,debris_19.00,"pink, purple, red, white, black, metal","black, metal"

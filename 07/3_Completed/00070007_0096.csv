@@ -1,0 +1,10 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0096.jpg,0.9979199999999082,144.00177600000006,1052.999136,2337.000912,1,car,car_1.00,"blue, parked, yellow, white, black, gray",white
+00070007_0096.jpg,1095.9984000000002,300.000084,1954.999872,856.9987799999999,1,suv,suv_1096.00,"green, parked, blue, black, gray, silver",silver
+00070007_0096.jpg,1698.000192,372.998988,2086.999488,748.998804,1,car,car_1698.00,"parked, green, black, silver, gray, blue",silver
+00070007_0096.jpg,670.0014719999999,334.99980000000005,1805.001408,1245.998568,1,car,car_670.00,"blue, white, parked, purple, large, black","white, parked"
+00070007_0096.jpg,2066.002848,234.998868,3670.000992,971.998428,1,bus,bus_2066.00,"white, large, black, gray, blue, small",white
+00070007_0096.jpg,1.001952000000074,438.00156000000015,2083.00176,2705.000328,1,road,road_1.00,"wet, gray, blue, black, dark, paved","gray, paved"
+00070007_0096.jpg,447.999552,144.00042,730.997568,563.001708,1,man,man_448.00,"sitting, walking, standing, looking, blue, watching","standing, watching"
+00070007_0096.jpg,1770.001632,330.99960000000004,1837.001376,412.9996320000001,1,person,person_1770.00,"green, yellow, sitting, black, standing, walking",standing
+00070007_0096.jpg,1953.0,334.99980000000005,2086.999488,441.001032,1,cars,cars_1953.00,"standing, sitting, blue, yellow, black, parked",

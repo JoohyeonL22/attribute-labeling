@@ -1,0 +1,10 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0108.jpg,19.000111500000003,156.99990899999997,657.0003285,505.999747,1,bus,bus_19.00,"white, black, gray, large, clear, glass","white, black, gray, large, clear, glass"
+00070007_0108.jpg,251.00028,89.000087,341.000082,127.00018099999998,1,car,car_251.00,"green, blue, white, clear, glass, small","green, blue, white, clear, glass, small"
+00070007_0108.jpg,396.00018,82.00008300000002,425.00016,177.000065,1,pole,pole_396.00,"purple, pink, white, metal, silver, colorful","purple, pink, white, metal, silver, colorful"
+00070007_0108.jpg,364.0000095,14.000008,435.0000285,91.000052,1,sign,sign_364.00,"yellow, black, orange, white, lit, neon","yellow, black, orange, white, lit, neon"
+00070007_0108.jpg,435.0000285,8.000112999999995,509.9998635,68.000075,1,tree,tree_435.00,"green, white, blue, black, small, large","green, white, blue, black, small, large"
+00070007_0108.jpg,369.000108,66.00010999999999,653.000184,199.000186,1,people,people_369.00,"metal, black, purple, silver, standing, sitting","metal, black, purple, silver, standing, sitting"
+00070007_0108.jpg,19.000111500000003,82.999939,96.9998085,135.000041,1,van,van_19.00,"pink, purple, small, red, white, black","pink, purple, small, red, white, black"
+00070007_0108.jpg,123.000255,41.999771,263.00038500000005,94.999729,1,truck,truck_123.00,"green, blue, clear, black, large, glass","green, blue, clear, black, large, glass"
+00070007_0108.jpg,48.0000915,50.99999299999999,122.99992650000002,102.000239,1,truck,truck_48.00,"purple, pink, black, small, white, gray","purple, pink, black, small, white, gray"

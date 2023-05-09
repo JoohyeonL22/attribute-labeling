@@ -1,0 +1,6 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0666.jpg,32,174.9999,507,470.0001,1,car,car_32.00,"red, parked, black, double decker, maroon, blue",red
+00070007_0666.jpg,1,29.9997,800,351.9999,1,trees,trees_1.00,"white, red, cloudy, gray, bare, blue",
+00070007_0666.jpg,430,208.9998,800,472.9998,1,truck,truck_430.00,"white, parked, silver, black, gray, blue",white
+00070007_0666.jpg,1,375,800,600,1,road,road_1.00,"gray, concrete, wet, paved, cement, asphalt","gray, paved"
+00070007_0666.jpg,368,251.0001,469,420.0003,1,debris,debris_368.00,"red, blue, metal, sitting, black, white","red, metal"

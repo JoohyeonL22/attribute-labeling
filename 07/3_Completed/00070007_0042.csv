@@ -1,0 +1,19 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0042.jpg,0.9999000000000108,0.9998999999999968,153.0,276.9999,1,fire truck,fire truck_1.00,"red, white, black, double decker, tall, large","red, large"
+00070007_0042.jpg,173.000025,105.9999,213.999975,156.9999,1,man,man_173.00,"pink, purple, red, white, colorful, small",
+00070007_0042.jpg,274.00005,109.00005000000004,319.00005,226.99995,1,man,man_274.00,"yellow, red, black, metal, purple, tall",black
+00070007_0042.jpg,228.00015,1.0000500000000017,247.00005,132.00015000000002,1,pole,pole_228.00,"metal, tall, black, gray, white, large","metal, gray"
+00070007_0042.jpg,152.00009999999995,172.00005,431.0001,298.99995,1,sidewalk,sidewalk_152.00,"metal, black, gray, red, white, wet",gray
+00070007_0042.jpg,148.99994999999998,16.999950000000002,256.99995,79.00005,1,sign,sign_149.00,"white, large, blue, big, black, red",white
+00070007_0042.jpg,194.99985,85.00005,212.99985,114.00015,1,sign,sign_195.00,"pink, purple, red, white, small, colorful",small
+00070007_0042.jpg,264.999825,53.0001,286.999875,89.0001,1,sign,sign_265.00,"pink, purple, small, blue, black, red","small, blue"
+00070007_0042.jpg,370.9998,1.0000499999999874,450.0,292.99995,1,fire truck,fire truck_371.00,"red, black, parked, old, large, white","red, old"
+00070007_0042.jpg,110.000025,207.9999,285.999975,297.9999,1,road,road_110.00,"pink, purple, white, black, metal, gray","black, metal"
+00070007_0042.jpg,0.9999000000000038,96.9999,117.0,297.9999,1,man,man_1.00,"black, standing, sitting, white, looking, dark","black, standing"
+00070007_0042.jpg,150.999975,138.9999,254.000025,276.9999,1,woman,woman_151.00,"purple, pink, blue, white, black, red",blue
+00070007_0042.jpg,170.00010000000003,171.9999,223.0002,267.9999,1,person,person_170.00,"blue, glass, clear, open, black, large",blue
+00070007_0042.jpg,246.00015,108.0,283.00005000000004,222.0,1,man,man_246.00,"pink, purple, standing, black, red, white","standing, black"
+00070007_0042.jpg,273.00015,111.9999,292.00005,132.9999,1,woman,woman_273.00,"green, red, small, white, black, digital",black
+00070007_0042.jpg,310.99995,114.00015,365.99985,268.00005,1,woman,woman_311.00,"yellow, open, black, glass, green, dark",black
+00070007_0042.jpg,341.0001,91.00005,377.0001,220.99995,1,man,man_341.00,"yellow, green, black, orange, metal, red",black
+00070007_0042.jpg,150.99975,117.0,184.99995,198.0,1,people,people_151.00,"pink, purple, white, blue, red, black",black

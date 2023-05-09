@@ -1,0 +1,3 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0354.jpg,1.0005120000000716,0.999943999999914,2592.0,1935.999032,1,field,field_1.00,"dirty, brown, white, old, rocky, gray","dirty, brown, white, old, rocky, gray"
+00070007_0354.jpg,132.0014880000001,325.000192,2160.000432,1247.999808,1,junk vehicle,junk vehicle_132.00,"old, black, dirty, rusty, white, metal","old, black, dirty, rusty, white, metal"

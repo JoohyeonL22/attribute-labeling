@@ -1,0 +1,13 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0137.jpg,504.99968,127.99992,640.0,338.99976000000004,1,building,building_505.00,"tall, gray, large, white, glass, brown","gray, white"
+00070007_0137.jpg,1.000320000000002,123.0,185.00032,381.0,1,building,building_1.00,"white, tall, large, green, glass, big",white
+00070007_0137.jpg,102.00032,1.000079999999997,640.00032,333.00024,1,smoke,smoke_102.00,"black, dark, cloudy, white, gray, blue","black, dark"
+00070007_0137.jpg,123.99968,288.99984,505.0,396.99984,1,bus,bus_124.00,"yellow, metal, silver, large, white, black","metal, white"
+00070007_0137.jpg,52.0,15.0,260.0,297.0,1,debris,debris_52.00,"white, large, tall, green, gray, big","white, large"
+00070007_0137.jpg,1.000320000000002,346.99992,30.0,479.9997599999999,1,man,man_1.00,"blue, standing, white, walking, yellow, gray","standing, white"
+00070007_0137.jpg,44.0,381.0,284.0,438.0,1,debris,debris_44.00,"metal, concrete, gray, white, cement, black","metal, gray"
+00070007_0137.jpg,563.0,320.00016,632.0003200000001,374.00016,1,car,car_563.00,"pink, purple, yellow, colorful, red, black",black
+00070007_0137.jpg,564.00032,373.99992,610.00032,394.00008,1,debris,debris_564.00,"pink, purple, black, white, small, metal","white, small"
+00070007_0137.jpg,1.0,367.00008,639.99968,480.00024,1,road,road_1.00,"gray, concrete, wet, paved, cement, empty","gray, paved"
+00070007_0137.jpg,147.0,168.0,509.99968,393.0,1,fire,fire_147.00,"black, large, yellow, silver, white, moving",black
+00070007_0137.jpg,306.99999999999994,379.99992,400.00031999999993,401.9997599999999,1,fire,fire_307.00,"yellow, orange, black, metal, white, small","orange, small"

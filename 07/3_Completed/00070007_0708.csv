@@ -1,0 +1,16 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0708.jpg,0.99936,1.00032,1919.99904,450,1,building,building_1.00,"brown, tall, large, tan, white, brick","brown, large"
+00070007_0708.jpg,351,428,513,917.99936,1,man,man_351.00,"standing, walking, green, young, wearing, sitting",standing
+00070007_0708.jpg,0.99936,625.00032,1919.99904,1280.00064,1,water,water_1.00,"brown, wet, large, green, calm, clear","brown, wet"
+00070007_0708.jpg,169.00032,492,262.00128,732,1,woman,woman_169.00,"standing, walking, young, little, small, sitting",standing
+00070007_0708.jpg,525.00096,494,715.00032,998.99968,1,woman,woman_525.00,"standing, walking, black, young, smiling, white",standing
+00070007_0708.jpg,887.00064,366.00064,1428.00096,1238.00064,1,woman,woman_887.00,"standing, young, green, blue, smiling, large","standing, blue"
+00070007_0708.jpg,2.00064,574.00064,638.00064,632,1,road,road_2.00,"green, metal, blue, white, yellow, long",
+00070007_0708.jpg,0.99936,782,558.99936,1035.99936,1,debris,debris_1.00,"white, red, wooden, small, brown, black",white
+00070007_0708.jpg,561.99936,300.99968,1920,508.99968,1,debris,debris_562.00,"green, brown, metal, white, long, wooden","brown, metal"
+00070007_0708.jpg,1130.00064,232,1920,899.00032,1,building,building_1130.00,"metal, large, green, brown, glass, orange",metal
+00070007_0708.jpg,289.00032,560.99968,370.00128,784.99968,1,woman,woman_289.00,"green, standing, yellow, long, blue, white",standing
+00070007_0708.jpg,230.00064,471.00032,307.00032,727.00032,1,man,man_230.00,"green, standing, watching, sitting, white, blue","green, standing"
+00070007_0708.jpg,135,478.99968,186.99936,650.99968,1,man,man_135.00,"green, black, standing, blue, metal, dark","black, standing"
+00070007_0708.jpg,272.99904,452.99968,399.99936,569.99936,1,car,car_273.00,"green, white, black, red, blue, plastic",white
+00070007_0708.jpg,446.99904,452.99968,532.99968,572.99968,1,car,car_447.00,"white, standing, sitting, gray, black, watching",white

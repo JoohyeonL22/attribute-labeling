@@ -1,0 +1,18 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0633.jpg,0.9995799999999236,0.9999720000000138,919.99954,334.00023600000003,1,building,building_1.00,"white, purple, pink, brown, green, gray",white
+00070007_0633.jpg,515.99994,150.00031199999998,887.00006,535.0002479999999,1,car,car_516.00,"black, green, parked, silver, gray, red","black, parked"
+00070007_0633.jpg,17.000220000000006,111.000276,83.0001,336.00018,1,man,man_17.00,"standing, walking, green, black, looking, young","standing, black"
+00070007_0633.jpg,407.00018,129.99974400000002,498.00014,346.999872,1,man,man_407.00,"purple, pink, standing, black, gray, sitting","standing, black"
+00070007_0633.jpg,76.00028,120.000024,176.0006,346.99987200000004,1,man,man_76.00,"standing, walking, green, watching, sitting, wearing","standing, wearing"
+00070007_0633.jpg,743.00028,0.9999719999999996,843.0006000000001,113.00022,1,sign,sign_743.00,"green, white, metal, hanging, wooden, brown",white
+00070007_0633.jpg,0.9995799999999236,470.9997839999999,919.99954,563.9999999999999,1,road,road_1.00,"gray, concrete, wet, empty, brown, black",gray
+00070007_0633.jpg,871.00034,211.99970399999995,920.00046,487.999872,1,debris,debris_871.00,"black, red, green, parked, white, dark","black, dark"
+00070007_0633.jpg,391.0,229.999764,581.00024,488.999844,1,debris,debris_391.00,"purple, green, black, silver, metal, pink","black, metal"
+00070007_0633.jpg,284.99944,226.999848,361.99976,503.000016,1,woman,woman_285.00,"sitting, standing, black, watching, young, looking","standing, black"
+00070007_0633.jpg,324.00008,211.000014,411.99992,490.000098,1,woman,woman_324.00,"sitting, standing, green, watching, looking, black","standing, watching"
+00070007_0633.jpg,166.00019999999998,433.000002,287.00044,496.999902,1,debris,debris_166.00,"green, metal, wooden, yellow, empty, brown","wooden, brown"
+00070007_0633.jpg,159.99995999999996,128.00008199999996,331.00036,306.000174,1,junk vehicle,junk vehicle_160.00,"black, large, green, metal, old, silver","black, metal"
+00070007_0633.jpg,529.0,0.9996899999999868,591.9997599999999,275.999886,1,pole,pole_529.00,"black, brown, purple, tall, dark, wooden",brown
+00070007_0633.jpg,443.99982000000006,1.0002540000000124,486.9997,307.000146,1,pole,pole_444.00,"purple, pink, black, standing, wooden, metal","standing, wooden"
+00070007_0633.jpg,781.0004200000001,1.0002540000000124,805.00046,204.00021,1,pole,pole_781.00,"metal, white, wooden, green, silver, black",white
+00070007_0633.jpg,1.0000400000000127,332.9997,452.99972,404.99994,1,sidewalk,sidewalk_1.00,"green, concrete, gray, cement, brown, paved","gray, paved"

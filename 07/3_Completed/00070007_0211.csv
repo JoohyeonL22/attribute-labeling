@@ -1,0 +1,4 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0211.jpg,238.99968000000007,151.00007999999997,494.00000000000006,312.00024,1,car,car_239.00,"white, green, blue, silver, small, parked","white, small"
+00070007_0211.jpg,1.0,1.000079999999997,639.99968,334.99992,1,trees,trees_1.00,"green, red, tall, leafy, large, white","green, leafy"
+00070007_0211.jpg,1.0,369.0,639.99968,480.0,1,road,road_1.00,"wet, gray, concrete, paved, cement, yellow","gray, paved"

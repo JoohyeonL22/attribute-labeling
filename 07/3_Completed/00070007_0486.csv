@@ -1,0 +1,13 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0486.jpg,122.99968,137.00016,146.0,198.0,1,bicycle,bicycle_123.00,"white, orange, red, blue, metal, silver",metal
+00070007_0486.jpg,988.99968,1.0004399999999976,1280.0,178.0002,1,building,building_989.00,"purple, pink, green, large, white, black","green, large"
+00070007_0486.jpg,175.00032,107.00028,300.0,189.00036,1,car,car_175.00,"white, silver, yellow, parked, black, small","white, small"
+00070007_0486.jpg,318.0,96.00048,392.00064,146.00016,1,car,car_318.00,"white, green, small, silver, empty, blue","white, small"
+00070007_0486.jpg,380.0,94.00032,452.0,139.00032,1,car,car_380.00,"green, red, white, lit, neon, electric","white, lit"
+00070007_0486.jpg,448.0,101.00016,537.99936,150.00047999999998,1,car,car_448.00,"green, blue, large, glass, white, small",small
+00070007_0486.jpg,387.99936,151.0002,706.9996799999999,379.00044,1,motorbike,motorbike_388.00,"green, black, white, gray, red, blue",black
+00070007_0486.jpg,133.00032000000002,2.999520000000018,188.00064,312.99984,1,pole,pole_133.00,"gray, black, metal, silver, orange, tall","gray, metal"
+00070007_0486.jpg,237.00032,231.00048,262.0,425.00016,1,post,post_237.00,"metal, black, silver, gray, long, steel",metal
+00070007_0486.jpg,543.0003199999999,1.000079999999997,911.00032,226.00008,1,truck,truck_543.00,"red, double decker, parked, large, white, big","red, parked"
+00070007_0486.jpg,1.0003200000001016,114.99984,1280.00064,720.0,1,water,water_1.00,"wet, gray, black, dark, concrete, clear","wet, gray"
+00070007_0486.jpg,179.99936,62.00028,287.99936,124.0002,1,cars,cars_180.00,"yellow, blue, large, white, parked, tall",blue

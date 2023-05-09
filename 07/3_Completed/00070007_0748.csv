@@ -1,0 +1,6 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0748.jpg,0.9979199999997944,2300.999616,5183.997408,3455.998272,1,field,field_1.00,"brown, green, black, bare, orange, chain link","brown, green"
+00070007_0748.jpg,1623.999456,769.9985280000005,3276.000288,3455.9982720000003,1,firefighter,firefighter_1624.00,"yellow, standing, black, sitting, white, large","yellow, standing"
+00070007_0748.jpg,0.9979199999997944,1.0005120000000716,5183.997408,3130.999488,1,smoke,smoke_1.00,"orange, green, black, blurry, white, yellow",blurry
+00070007_0748.jpg,3102.99984,1.0005120000000147,5183.997407999999,646.9994879999999,1,tree,tree_3103.00,"blue, green, white, gray, bare, thin","gray, bare"
+00070007_0748.jpg,2.9989439999999377,475.9983360000001,5183.997408,3249.998208,1,fire,fire_3.00,"orange, black, green, blurry, yellow, large","orange, blurry"

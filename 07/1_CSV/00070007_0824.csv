@@ -1,0 +1,10 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0824.jpg,365.0,419.000015,586.0,559.000155,1,cloth,cloth_365.00,"['yellow', 'black', 'small', 'metal', 'plastic', 'old']"
+00070007_0824.jpg,749.0,264.00051649999995,777.0,333.0001815,1,man,man_749.00,"['white', 'black', 'standing', 'blue', 'green', 'large']"
+00070007_0824.jpg,90.0,145.00004400000003,205.0,439.00033800000006,1,woman,woman_90.00,"['blue', 'green', 'standing', 'sitting', 'walking', 'wearing']"
+00070007_0824.jpg,377.0,1.0000514999999837,1000.0,345.0000925,1,trees,trees_377.00,"['green', 'tall', 'white', 'large', 'red', 'blue']"
+00070007_0824.jpg,1.0,0.9996979999999952,484.0,342.999636,1,trees,trees_1.00,"['green', 'red', 'tall', 'white', 'large', 'black']"
+00070007_0824.jpg,302.0,321.0002705,441.0,337.00038750000004,1,road,road_302.00,"['red', 'white', 'black', 'blue', 'small', 'orange']"
+00070007_0824.jpg,2.999999999999943,337.0003875,1000.0,705.0002505,1,dirt,dirt_3.00,"['wet', 'brown', 'gray', 'dirty', 'sandy', 'dirt']"
+00070007_0824.jpg,169.0,161.000161,241.0,409.999905,1,woman,woman_169.00,"['green', 'blue', 'standing', 'sitting', 'metal', 'gray']"
+00070007_0824.jpg,699.0,265.9999125,718.0,320.9995635,1,man,man_699.00,"['blue', 'orange', 'standing', 'red', 'white', 'walking']"

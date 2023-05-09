@@ -1,0 +1,10 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0864.jpg,89.0,153.99982699999998,619.0,398.999945,1,bus,bus_89.00,"['green', 'white', 'parked', 'large', 'double decker', 'gray']"
+00070007_0864.jpg,456.0,312.999932,503.00032,410.000008,1,man,man_456.00,"['yellow', 'standing', 'pink', 'walking', 'sitting', 'red']"
+00070007_0864.jpg,67.00032,112.000066,87.00032,178.000022,1,man,man_67.00,"['green', 'white', 'black', 'red', 'blue', 'gray']"
+00070007_0864.jpg,1.0,0.9999290000000088,423.0,274.999887,1,landslide,landslide_1.00,"['gray', 'rocky', 'green', 'brown', 'large', 'rock']"
+00070007_0864.jpg,70.99968000000001,129.000125,210.0,240.000051,1,people,people_71.00,"['green', 'standing', 'colorful', 'large', 'metal', 'sitting']"
+00070007_0864.jpg,125.99968,237.999982,147.99968,257.00011,1,man,man_126.00,"['green', 'black', 'white', 'orange', 'yellow', 'up']"
+00070007_0864.jpg,97.0,246.000047,123.0,279.00002499999994,1,man,man_97.00,"['black', 'green', 'brown', 'small', 'stuffed', 'white']"
+00070007_0864.jpg,359.99968,328.000133,409.99968,397.000087,1,man,man_360.00,"['white', 'standing', 'walking', 'sitting', 'old', 'looking']"
+00070007_0864.jpg,621.0000000000001,286.999879,639.99968,306.99972500000007,1,man,man_621.00,"['green', 'open', 'glass', 'white', 'small', 'sitting']"

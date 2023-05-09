@@ -1,0 +1,19 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0671.jpg,267.0,108.0,311.0,127.0,1,cars,cars_267.00,"yellow, purple, pink, black, green, colorful",
+00070007_0671.jpg,1.0,56.0,260.0,126.0,1,building,building_1.00,"green, red, large, yellow, brown, white","red, brown"
+00070007_0671.jpg,157.0,119.0,193.0,137.0,1,car,car_157.00,"green, small, blue, white, glass, wooden",white
+00070007_0671.jpg,197.0,125.0,241.0,153.0,1,car,car_197.00,"black, white, blue, small, red, green","black, small"
+00070007_0671.jpg,220.0,118.0,242.0,129.0,1,car,car_220.00,"yellow, blue, red, white, green, colorful",white
+00070007_0671.jpg,237.00000000000003,118.0,253.00000000000003,129.0,1,car,car_237.00,"yellow, red, colorful, pink, green, small",small
+00070007_0671.jpg,33.0,114.0,58.0,128.0,1,car,car_33.00,"yellow, green, red, colorful, small, blue",small
+00070007_0671.jpg,58.0,118.0,122.0,144.0,1,suv,suv_58.00,"black, white, silver, gray, parked, metal","silver, parked"
+00070007_0671.jpg,112.0,84.0,117.0,122.0,1,pole,pole_112.00,"green, white, glass, blue, open, metal","white, metal"
+00070007_0671.jpg,16.0,47.0,28.0,133.0,1,pole,pole_16.00,"white, tall, green, glass, large, black","tall, green"
+00070007_0671.jpg,318.0,110.0,324.0,136.0,1,pole,pole_318.00,"white, wooden, small, wood, metal, glass","white, metal"
+00070007_0671.jpg,356.0,14.0,370.0,142.0,1,pole,pole_356.00,"red, pink, white, metal, purple, tall","white, metal"
+00070007_0671.jpg,313.0,94.0,326.0,109.0,1,sign,sign_313.00,"orange, small, black, brown, white, wooden",
+00070007_0671.jpg,1.0,75.0,40.0,127.0,1,tree,tree_1.00,"glass, white, open, large, blue, clear",large
+00070007_0671.jpg,206.0,73.0,312.0,120.0,1,trees,trees_206.00,"large, yellow, green, big, white, tall",green
+00070007_0671.jpg,347.0,67.0,400.0,136.0,1,tree,tree_347.00,"purple, pink, green, white, red, colorful",green
+00070007_0671.jpg,72.0,86.0,107.0,118.0,1,tree,tree_72.00,"green, small, white, large, open, glass",green
+00070007_0671.jpg,1.0,122.0,400.0,250.0,1,water,water_1.00,"blue, calm, wet, dark, large, black","blue, wet"

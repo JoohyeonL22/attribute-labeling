@@ -1,0 +1,11 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0600.jpg,73.0,239.99994000000004,1000.0,623.999844,1,car,car_73.00,"blue, green, parked, white, black, silver","blue, green, parked, white, black, silver"
+00070007_0600.jpg,851.0,253.0001035,1000.0,365.9999085,1,car,car_851.00,"white, blue, green, gray, black, painted","white, blue, green, gray, black, painted"
+00070007_0600.jpg,714.0,1.000166500000006,1000.0,304.0002575,1,trees,trees_714.00,"green, orange, yellow, large, black, gray","green, orange, yellow, large, black, gray"
+00070007_0600.jpg,1.0,1.000166500000006,298.0,328.0002515,1,trees,trees_1.00,"green, red, tall, large, leafy, orange","green, red, tall, large, leafy, orange"
+00070007_0600.jpg,878.0,320.0002535,1000.0,617.0000125,1,smoke,smoke_878.00,"white, blue, green, gray, blurry, black","white, blue, green, gray, blurry, black"
+00070007_0600.jpg,86.0,1.0001665000000344,1000.0,355.0004115,1,smoke,smoke_86.00,"orange, green, yellow, white, large, red","orange, green, yellow, white, large, red"
+00070007_0600.jpg,82.0,0.9998329999999952,922.0,461.999551,1,fire,fire_82.00,"orange, blue, white, green, red, black","orange, blue, white, green, red, black"
+00070007_0600.jpg,174.0,612.99968,220.0,647.9998380000001,1,fire,fire_174.00,"blue, orange, small, red, metal, plastic","blue, orange, small, red, metal, plastic"
+00070007_0600.jpg,19.0,591.0000190000001,66.0,619.999845,1,fire,fire_19.00,"orange, black, small, red, metal, brown","orange, black, small, red, metal, brown"
+00070007_0600.jpg,1.0,545.0000305,999.0,667.0003335,1,field,field_1.00,"green, brown, tall, metal, grassy, blue","green, brown, tall, metal, grassy, blue"

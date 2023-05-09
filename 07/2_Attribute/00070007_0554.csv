@@ -1,0 +1,7 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0554.jpg,0.9998040000000116,0.999832500000025,415.999316,296.9996475,1,building,building_1.00,"gray, red, blue, white, brown, black","gray, red, blue, white, brown, black"
+00070007_0554.jpg,169.0004,174.999825,330.000396,304.999695,1,jeep,jeep_169.00,"red, white, black, blue, parked, large","red, white, black, blue, parked, large"
+00070007_0554.jpg,613.0001440000001,0.9998324999999966,986.0,198.9999675,1,tree,tree_613.00,"bare, large, brown, leafless, tall, pink","bare, large, brown, leafless, tall, pink"
+00070007_0554.jpg,671.000115,1.0001100000000065,986.000493,233.0001,1,building,building_671.00,"bare, large, brown, leafless, tall, white","bare, large, brown, leafless, tall, white"
+00070007_0554.jpg,0.9998039999999832,294.00015,986.0,555.0,1,water,water_1.00,"brown, wet, calm, gray, large, dark","brown, wet, calm, gray, large, dark"
+00070007_0554.jpg,1.000297000000046,1.0001100000000065,679.000519,204.00024,1,trees,trees_1.00,"white, red, blue, gray, bare, tall","white, red, blue, gray, bare, tall"

@@ -1,0 +1,10 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0599.jpg,0.99968,72,48,218.00016,1,building,building_1.00,"white, red, blue, tall, large, glass",white
+00070007_0599.jpg,120,1.00008,640,200.00016,1,building,building_120.00,"white, brown, glass, brick, large, red","brown, brick"
+00070007_0599.jpg,396.99968,138.00006,640,279.00018,1,car,car_397.00,"silver, white, glass, black, clear, large",black
+00070007_0599.jpg,335.00032,33.00012,440,106.0002,1,flag,flag_335.00,"american, red, blue, striped, white, colorful","american, striped"
+00070007_0599.jpg,77.99968,0.9999,91.99968,214.00002,1,pole,pole_78.00,"pink, purple, red, tall, metal, black","tall, metal"
+00070007_0599.jpg,1,293.99994,639.99968,359.99982,1,road,road_1.00,"gray, wet, yellow, paved, concrete, black","gray, paved"
+00070007_0599.jpg,172.00032,131.00004,319,246.99996,1,debris,debris_172.00,"white, glass, dirty, clear, small, blue","dirty, blue"
+00070007_0599.jpg,254,111.00006,638,297.00018,1,fire,fire_254.00,"white, silver, glass, yellow, clear, metal",yellow
+00070007_0599.jpg,1,82.9998,639.99968,300.99996,1,smoke,smoke_1.00,"white, yellow, glass, metal, red, silver",white

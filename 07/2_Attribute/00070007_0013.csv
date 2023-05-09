@@ -1,0 +1,11 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0013.jpg,32.99985000000001,112.000031,435.999798,253.000033,1,bus,bus_33.00,"purple, white, double decker, pink, moving, black","purple, white, double decker, pink, moving, black"
+00070007_0013.jpg,172.999944,176.99996599999997,255.999744,248.999894,1,car,car_173.00,"purple, pink, black, red, maroon, parked","purple, pink, black, red, maroon, parked"
+00070007_0013.jpg,0.9998820000000066,109.000034,124.999758,252.000034,1,fire truck,fire truck_1.00,"black, large, white, double decker, yellow, colorful","black, large, white, double decker, yellow, colorful"
+00070007_0013.jpg,131.00021999999998,164.00012199999998,158.000076,240.000046,1,man,man_131.00,"green, glass, large, open, black, clear","green, glass, large, open, black, clear"
+00070007_0013.jpg,221.00013,24.000119,233.000118,249.000037,1,pole,pole_221.00,"metal, green, white, tall, pink, silver","metal, green, white, tall, pink, silver"
+00070007_0013.jpg,449.000136,227.000059,468.0,257.000029,1,car,car_449.00,"purple, pink, open, small, blue, white","purple, pink, open, small, blue, white"
+00070007_0013.jpg,1.0001159999999911,246.999896,230.000004,286.0,1,road,road_1.00,"yellow, black, gray, wet, concrete, empty","yellow, black, gray, wet, concrete, empty"
+00070007_0013.jpg,110.00012400000004,230.999912,378.000324,286.0,1,sidewalk,sidewalk_110.00,"purple, gray, pink, metal, yellow, white","purple, gray, pink, metal, yellow, white"
+00070007_0013.jpg,140.999976,6.999993000000004,351.0,124.000019,1,building,building_141.00,"white, pink, large, purple, gray, brick","white, pink, large, purple, gray, brick"
+00070007_0013.jpg,299.9997,1.0001419999999823,466.999884,252.000034,1,building,building_300.00,"brick, tall, brown, large, purple, white","brick, tall, brown, large, purple, white"

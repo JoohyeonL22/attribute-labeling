@@ -1,0 +1,15 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0292.jpg,1163.999594,284.0004375,1763.0000000000002,738.0004625,1,car,car_1164.00,"parked, blue, purple, silver, white, black",
+00070007_0292.jpg,1437.000144,440.0004875,1763.0,877.0006125,1,car,car_1437.00,"blue, gray, parked, silver, black, small","blue, small"
+00070007_0292.jpg,61.00068150000004,286.999625,1221.0000285,760.999325,1,car,car_61.00,"red, parked, black, purple, maroon, small","red, small"
+00070007_0292.jpg,1376.9990835,729.9998875,1490.9999525,907.9994625,1,cone,cone_1377.00,"orange, pink, colorful, white, purple, blue",orange
+00070007_0292.jpg,73.9992805,0.9999249999999904,120.9990975,407.0000250000001,1,pole,pole_74.00,"gray, metal, white, tall, blue, silver","gray, metal"
+00070007_0292.jpg,1.000502499999925,607.0003000000002,1763.0008815,1175.0,1,road,road_1.00,"gray, black, paved, asphalt, white, wet","gray, asphalt"
+00070007_0292.jpg,1051.000109,0.999924999999962,1335.999637,600.999575,1,pole,pole_1051.00,"purple, colorful, pink, green, white, black",white
+00070007_0292.jpg,5.000749500000097,281.9994125,1109.0001645000002,637.9997375,1,suv,suv_5.00,"red, parked, black, white, silver, blue","red, parked"
+00070007_0292.jpg,1074.999828,109.00005000000004,1763.0,500.0001,1,truck,truck_1075.00,"white, parked, green, large, red, blue",white
+00070007_0292.jpg,1109.9997855,611.0,1408.9992965,755.9997000000001,1,debris,debris_1110.00,"purple, pink, black, red, maroon, parked","red, maroon"
+00070007_0292.jpg,0.9996209999999977,18.99975000000001,76.99902499999999,189.99985,1,traffic light,traffic light_1.00,"green, black, red, traffic, electric, metal","traffic, electric"
+00070007_0292.jpg,792.0004235000001,0.9999250000000046,865.0009645,192.999625,1,traffic light,traffic light_792.00,"black, red, electric, green, pink, lit",electric
+00070007_0292.jpg,903.0006665,0.9999250000000046,983.0003175,194.999475,1,traffic light,traffic light_903.00,"black, red, traffic, white, electric, metal","black, traffic"
+00070007_0292.jpg,907.999653,226.00008750000003,972.000079,289.0000625,1,traffic light,traffic light_908.00,"red, orange, black, traffic, lit, small","black, traffic"

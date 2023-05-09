@@ -1,0 +1,4 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0833.jpg,190.00080000000003,557.001102,2990.0016,1259.000526,1,airplane,airplane_190.00,"white, green, blue, silver, black, metal","white, metal"
+00070007_0833.jpg,1.0007999999997992,0.9996210000000474,3600.0,1043.998935,1,trees,trees_1.00,"green, large, tall, leafy, dark, big","green, leafy"
+00070007_0833.jpg,1.0007999999997992,1028.000484,3600.0,1806.0,1,field,field_1.00,"green, tall, long, grassy, short, thick","green, grassy"

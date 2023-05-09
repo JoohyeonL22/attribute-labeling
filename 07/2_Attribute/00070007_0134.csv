@@ -1,0 +1,11 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0134.jpg,0.9999044999999852,57.00008700000001,141.9997635,214.000043,1,building,building_1.00,"pink, red, white, large, purple, tall","pink, red, white, large, purple, tall"
+00070007_0134.jpg,429.000138,100.0000275,567.0,136.9999505,1,building,building_429.00,"white, large, green, blurry, brown, blue","white, large, green, blurry, brown, blue"
+00070007_0134.jpg,240.999948,134.99999749999998,567.0,251.0001245,1,bus,bus_241.00,"double decker, red, green, moving, white, yellow","double decker, red, green, moving, white, yellow"
+00070007_0134.jpg,1.0001880000000083,206.9998905,158.00021999999998,316.9998415,1,car,car_1.00,"green, blue, black, parked, dark, silver","green, blue, black, parked, dark, silver"
+00070007_0134.jpg,375.000192,186.000067,567.0,315.000047,1,car,car_375.00,"parked, black, red, purple, blue, dark","parked, black, red, purple, blue, dark"
+00070007_0134.jpg,179.00019900000004,122.00014449999998,335.000043,260.0000715,1,fire,fire_179.00,"large, green, glass, blurry, yellow, black","large, green, glass, blurry, yellow, black"
+00070007_0134.jpg,487.9998900000001,260.0000715,567.0,317.0001585,1,plant,plant_488.00,"green, tall, small, potted, purple, growing","green, tall, small, potted, purple, growing"
+00070007_0134.jpg,110.99988899999995,236.999978,489.999699,316.99999999999994,1,road,road_111.00,"blue, black, white, metal, wet, empty","blue, black, white, metal, wet, empty"
+00070007_0134.jpg,97.000092,0.9999765000000024,350.000028,232.9999135,1,smoke,smoke_97.00,"black, red, large, green, dark, blurry","black, red, large, green, dark, blurry"
+00070007_0134.jpg,336.000231,1.0001350000000002,505.0002510000001,134.000021,1,tree,tree_336.00,"green, tall, large, blue, red, clear","green, tall, large, blue, red, clear"

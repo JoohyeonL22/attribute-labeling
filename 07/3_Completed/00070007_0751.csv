@@ -1,0 +1,14 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0751.jpg,350.00045650000004,448.000475,537.0001035,698.000525,1,building,building_350.00,"gray, purple, black, tall, brown, blue","gray, tall"
+00070007_0751.jpg,455.000329,0.9993374999999672,1460.999863,717.9996125,1,building,building_455.00,"white, gray, large, blue, old, tall","white, gray"
+00070007_0751.jpg,132.00021750000002,608.000225,368.0006865,728.0006249999999,1,car,car_132.00,"white, blue, silver, parked, small, gray",white
+00070007_0751.jpg,1488.0002080000002,472.0004375,1763.0000000000002,710.0002125,1,trailer,trailer_1488.00,"white, blue, silver, gray, small, metal","white, metal"
+00070007_0751.jpg,1401.9993049999998,182.9997875,1755.999127,608.9995625,1,trees,trees_1402.00,"green, tall, blue, large, leafy, white","green, leafy"
+00070007_0751.jpg,382.999409,342.9995375,535.999601,495.9998125,1,trees,trees_383.00,"purple, green, pink, tall, large, red",green
+00070007_0751.jpg,2.999744499999992,240.00021249999995,374.00017550000007,696.0000875,1,trees,trees_3.00,"green, large, tall, blue, leafy, big","green, leafy"
+00070007_0751.jpg,1.000502499999925,691.0004625,1763.0008815,1175.0005875,1,water,water_1.00,"brown, calm, large, dark, murky, green","brown, murky"
+00070007_0751.jpg,1675.999476,337.000575,1763.0,480.00042500000006,1,building,building_1676.00,"blue, green, tall, glass, large, clear",green
+00070007_0751.jpg,628.0008745000001,517.999925,675.0006915,593.000175,1,baby,baby_628.00,"yellow, large, orange, black, glass, gold",
+00070007_0751.jpg,638.99935,515.0001500000001,671.999184,658.0,1,woman,woman_639.00,"yellow, black, gold, large, metal, orange",
+00070007_0751.jpg,673.9993075,515.9994875,709.0001465,651.9998625000001,1,woman,woman_674.00,"pink, red, purple, black, metal, white",black
+00070007_0751.jpg,696.9994055,515.9994875000001,738.9993545,655.9995625,1,woman,woman_697.00,"pink, purple, red, white, metal, black",white

@@ -1,0 +1,11 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0548.jpg,1.000319999999988,0.9996475000000088,926.99968,230.9998925,1,building,building_1.00,"brick, brown, red, pink, tan, large","brick, brown"
+00070007_0548.jpg,924.99968,1.000182499999994,1280.0,190.0001675,1,building,building_925.00,"brown, brick, red, parked, black, white","brown, brick"
+00070007_0548.jpg,1182.99968,103.9999875,1279.99936,203.0001325,1,car,car_1183.00,"red, parked, maroon, brown, black, purple",red
+00070007_0548.jpg,1.000319999999988,114.00020750000002,285.00032,242.9999425,1,car,car_1.00,"green, black, parked, yellow, blue, red",
+00070007_0548.jpg,567.0003200000001,204.0000475,1034.00064,343.0000025,1,car,car_567.00,"blue, white, small, parked, black, silver","blue, small"
+00070007_0548.jpg,924.00064,89.0001925,1144.00064,190.0001675,1,car,car_924.00,"black, parked, dark, silver, gray, large",black
+00070007_0548.jpg,525.9999999999999,130.9998325,613.00032,212.9998175,1,chair,chair_526.00,"pink, black, purple, gray, white, red",black
+00070007_0548.jpg,588.0,132.00001500000002,680.9996799999999,214.999915,1,chair,chair_588.00,"purple, pink, black, gray, colorful, white",gray
+00070007_0548.jpg,131.00032,6.999939999999981,174.00063999999998,289.99996,1,pole,pole_131.00,"green, black, metal, tall, wooden, brown",metal
+00070007_0548.jpg,1.0003200000001016,212.00017,1280.00064,535.0,1,water,water_1.00,"calm, brown, murky, clear, reflective, wet","brown, murky"

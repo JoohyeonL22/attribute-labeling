@@ -1,0 +1,6 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0719.jpg,208.0,1.000229999999931,1300.0,614.0000620000001,1,building,building_208.00,"['brick', 'blue', 'large', 'brown', 'red', 'old']"
+00070007_0719.jpg,580.9999,527.999767,658.9999,771.999597,1,flag,flag_581.00,"['american', 'striped', 'white', 'red', 'blue', 'colorful']"
+00070007_0719.jpg,1.0003499999999974,199.999669,288.00005,584.999887,1,trees,trees_1.00,"['tall', 'blue', 'large', 'red', 'bare', 'white']"
+00070007_0719.jpg,104.0,526.000173,245.0006,587.000347,1,building,building_104.00,"['blue', 'green', 'metal', 'glass', 'white', 'silver']"
+00070007_0719.jpg,0.9996999999999971,503.999876,108.0001,588.000144,1,building,building_1.00,"['brown', 'pink', 'small', 'red', 'tan', 'purple']"

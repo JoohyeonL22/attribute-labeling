@@ -1,0 +1,10 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0807.jpg,1.0001999999999995,1.0001249999999686,108.0006,301.000287,1,building,building_1.00,"blue, white, tall, purple, glass, large","blue, white, tall, purple, glass, large"
+00070007_0807.jpg,79.00020000000006,0.9997440000000212,1200.0005999999998,345.999816,1,building,building_79.00,"gray, blue, large, white, brown, tan","gray, blue, large, white, brown, tan"
+00070007_0807.jpg,703.0002000000001,214.999824,1086.0006,369.999768,1,car,car_703.00,"white, green, blue, parked, moving, colorful","white, green, blue, parked, moving, colorful"
+00070007_0807.jpg,96.00059999999996,208.000092,595.0002,463.0003439999999,1,jeep,jeep_96.00,"blue, white, green, silver, colorful, black","blue, white, green, silver, colorful, black"
+00070007_0807.jpg,1.0001999999999498,293.000049,1200.0006,367.000155,1,sidewalk,sidewalk_1.00,"green, blue, metal, long, black, white","green, blue, metal, long, black, white"
+00070007_0807.jpg,1089.0,282.999942,1176.0,330.000102,1,stair,stair_1089.00,"red, green, pink, metal, yellow, wooden","red, green, pink, metal, yellow, wooden"
+00070007_0807.jpg,1.0001999999999498,314.000007,1200.0006,596.999949,1,road,road_1.00,"wet, metal, black, gray, brown, large","wet, metal, black, gray, brown, large"
+00070007_0807.jpg,1.0001999999999498,307.000275,1200.0006,762.000381,1,debris,debris_1.00,"brown, wet, black, gray, metal, large","brown, wet, black, gray, metal, large"
+00070007_0807.jpg,151.9998,302.999775,311.99940000000004,395.999589,1,debris,debris_152.00,"green, blue, colorful, white, metal, multi colored","green, blue, colorful, white, metal, multi colored"

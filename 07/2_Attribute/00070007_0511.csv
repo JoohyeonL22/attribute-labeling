@@ -1,0 +1,10 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0511.jpg,0.9996000000000153,118.000123,284.99940000000004,444.000475,1,building,building_1.00,"brown, pink, tan, tall, large, beige","brown, pink, tan, tall, large, beige"
+00070007_0511.jpg,139.00005,446.0003735,269.00055,506.0002045,1,car,car_139.00,"colorful, red, green, blue, multi colored, hanging","colorful, red, green, blue, multi colored, hanging"
+00070007_0511.jpg,222.00045,449.999811,370.00005,510.999771,1,car,car_222.00,"blue, small, open, clear, green, glass","blue, small, open, clear, green, glass"
+00070007_0511.jpg,977.999925,424.99982150000005,1049.999475,491.9998365,1,car,car_978.00,"green, blue, white, small, glass, clear","green, blue, white, small, glass, clear"
+00070007_0511.jpg,1.0001249999999686,1.000128999999987,581.0001749999999,315.999781,1,mountain,mountain_1.00,"pink, purple, white, cloudy, gray, large","pink, purple, white, cloudy, gray, large"
+00070007_0511.jpg,284.999925,1.0001290000000154,1049.999475,659.000169,1,smoke,smoke_285.00,"black, white, green, gray, dark, blue","black, white, green, gray, dark, blue"
+00070007_0511.jpg,0.9996000000000008,422.000513,194.0001,503.00017700000006,1,truck,truck_1.00,"green, white, parked, blue, metal, red","green, white, parked, blue, metal, red"
+00070007_0511.jpg,710.00055,564.0001369999999,763.00035,639.000465,1,firefighter,firefighter_710.00,"green, yellow, sitting, standing, white, small","green, yellow, sitting, standing, white, small"
+00070007_0511.jpg,1.000124999999997,408.9999145,98.999775,444.0001155,1,car,car_1.00,"green, white, metal, small, parked, teal","green, white, metal, small, parked, teal"

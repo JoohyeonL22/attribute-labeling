@@ -1,0 +1,5 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0316.jpg,16.000124999999997,203.0,367.999875,435.0,1,car,car_16.00,"red, brown, green, parked, purple, old","red, brown, green, parked, purple, old"
+00070007_0316.jpg,1.0001250000000257,212.0,750.000375,500.0,1,field,field_1.00,"green, gray, paved, brown, black, long","green, gray, paved, brown, black, long"
+00070007_0316.jpg,358.99987500000003,221.0,749.9996250000002,500.0,1,road,road_359.00,"gray, paved, asphalt, black, white, empty","gray, paved, asphalt, black, white, empty"
+00070007_0316.jpg,1.000124999999997,196.0,442.999875,215.0,1,trees,trees_1.00,"green, red, colorful, blue, multi colored, long","green, red, colorful, blue, multi colored, long"

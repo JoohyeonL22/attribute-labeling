@@ -1,0 +1,9 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0920.jpg,0.9998219999999948,1.0000799999999683,374.999706,480.00024,1,car,car_1.00,"black, green, parked, red, white, dark",black
+00070007_0920.jpg,520.000308,9.000000000000014,610.000476,240.0,1,man,man_520.00,"standing, walking, blue, watching, wearing, looking","standing, blue"
+00070007_0920.jpg,278.000358,156.0,852.0004260000001,480.0,1,road,road_278.00,"gray, concrete, green, paved, white, cement","gray, paved"
+00070007_0920.jpg,249.00040800000005,1.000079999999997,852.0,196.99992,1,trees,trees_249.00,"green, leafy, red, tall, large, blurry","green, leafy"
+00070007_0920.jpg,354.000036,163.00008,609.000228,442.99992,1,woman,woman_354.00,"sitting, young, green, smiling, wearing, gray","sitting, wearing"
+00070007_0920.jpg,579.999852,277.00008,792.999852,300.00024,1,debris,debris_580.00,"yellow, black, long, metal, white, painted","metal, white"
+00070007_0920.jpg,635.9996819999999,320.9997599999999,751.000086,355.99992,1,debris,debris_636.00,"blue, metal, white, plastic, silver, gray","metal, white"
+00070007_0920.jpg,828.999834,309.99984,851.9995739999999,333.99984,1,debris,debris_829.00,"black, small, white, hanging, square, red","black, small"

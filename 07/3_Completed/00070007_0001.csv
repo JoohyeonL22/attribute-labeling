@@ -1,0 +1,12 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0001.jpg,405.0002,868.0003199999999,950.0,1050.99984,1,bicycle,bicycle_405.00,"gray, red, white, metal, silver, black","gray, metal"
+00070007_0001.jpg,1.0003500000000258,307.999296,258.00005,540.99936,1,building,building_1.00,"pink, red, purple, double decker, white, large",large
+00070007_0001.jpg,372.00005,551.999448,508.00015,695.9993039999999,1,man,man_372.00,"red, sitting, pink, standing, watching, small","red, sitting"
+00070007_0001.jpg,483.00042500000006,554.0000400000001,637.000175,694.9998,1,man,man_483.00,"green, red, black, colorful, blue, white",black
+00070007_0001.jpg,619.000525,403.9999919999999,697.000275,707.999688,1,man,man_619.00,"pink, purple, red, black, colorful, standing","black, standing"
+00070007_0001.jpg,53.00049999999999,364.000032,174.0001,452.0007360000001,1,sign,sign_53.00,"green, red, white, blue, large, pink",white
+00070007_0001.jpg,148.0005,397.001088,497.0001,638.000352,1,van,van_148.00,"black, blue, moving, white, parked, red",white
+00070007_0001.jpg,678.999675,376.000416,949.999525,670.00032,1,jeep,jeep_679.00,"white, silver, parked, gray, blue, moving",white
+00070007_0001.jpg,443.0002,625.999968,607.0006000000001,702.0002880000001,1,person,person_443.00,"green, blue, white, colorful, black, sitting",
+00070007_0001.jpg,898.000325,365.000328,950.000475,1179.000504,1,man,man_898.00,"blue, metal, purple, silver, colorful, white",
+00070007_0001.jpg,0.9998750000000314,479.99952,949.999525,1584.0,1,road,road_1.00,"black, gray, wet, concrete, paved, dark","black, paved"

@@ -1,0 +1,8 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0278.jpg,36.0,56.99992500000002,800.0,413.999775,1,car,car_36.00,"['green', 'purple', 'black', 'red', 'parked', 'pink']"
+00070007_0278.jpg,255.0,72.0,408.0,450.0,1,firefighter,firefighter_255.00,"['standing', 'brown', 'walking', 'looking', 'smiling', 'wearing']"
+00070007_0278.jpg,729.0,91.000125,800.0,330.99997499999995,1,woman,woman_729.00,"['red', 'black', 'sitting', 'yellow', 'green', 'driving']"
+00070007_0278.jpg,180.0,148.00005,238.0,228.00015,1,man,man_180.00,"['blue', 'white', 'black', 'sitting', 'standing', 'red']"
+00070007_0278.jpg,489.0,74.99992499999999,800.0,177.999975,1,car,car_489.00,"['parked', 'black', 'white', 'open', 'red', 'dark']"
+00070007_0278.jpg,1.0,308.999925,800.0,449.999775,1,road,road_1.00,"['green', 'black', 'yellow', 'metal', 'gray', 'white']"
+00070007_0278.jpg,1.0,62.0001,800.0,368.0001,1,field,field_1.00,"['green', 'red', 'black', 'purple', 'parked', 'colorful']"

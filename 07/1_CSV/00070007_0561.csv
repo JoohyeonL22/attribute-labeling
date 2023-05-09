@@ -1,0 +1,11 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0561.jpg,124.99982599999998,0.9998560000000084,581.0,249.999948,1,bridge,bridge_125.00,"['gray', 'green', 'white', 'tan', 'brown', 'large']"
+00070007_0561.jpg,0.9999009999999942,216.000037,105.000063,277.00003100000004,1,car,car_1.00,"['green', 'red', 'blue', 'black', 'small', 'old']"
+00070007_0561.jpg,292.00014200000004,130.99994600000002,581.0,380.000038,1,car,car_292.00,"['green', 'blue', 'black', 'white', 'parked', 'silver']"
+00070007_0561.jpg,102.0000695,144.99981100000002,174.9998145,343.999997,1,man,man_102.00,"['standing', 'walking', 'orange', 'blue', 'skiing', 'young']"
+00070007_0561.jpg,1.000191500000028,191.99994000000004,581.0002905,418.0,1,rocks,rocks_1.00,"['gray', 'green', 'black', 'blue', 'old', 'white']"
+00070007_0561.jpg,233.9997835,169.000117,331.9999585,259.999971,1,junk vehicle,junk vehicle_234.00,"['green', 'blue', 'white', 'black', 'sitting', 'glass']"
+00070007_0561.jpg,161.9999395,168.99990799999998,205.9996505,204.99974,1,truck,truck_162.00,"['green', 'white', 'wooden', 'glass', 'yellow', 'blue']"
+00070007_0561.jpg,84.999719,167.999843,101.999779,204.999949,1,person,person_85.00,"['small', 'red', 'green', 'black', 'glass', 'open']"
+00070007_0561.jpg,75.00012799999999,164.000001,102.00036,183.000191,1,car,car_75.00,"['small', 'pink', 'red', 'black', 'purple', 'open']"
+00070007_0561.jpg,0.9999009999999942,1.9999210000000005,154.999761,184.999903,1,trees,trees_1.00,"['green', 'red', 'tall', 'large', 'colorful', 'pink']"

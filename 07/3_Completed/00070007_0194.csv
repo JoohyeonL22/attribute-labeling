@@ -1,0 +1,13 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0194.jpg,1.00032,7.0002,401.00032,267.00012,1,bus,bus_1.00,"green, yellow, double decker, white, large, orange","yellow, large"
+00070007_0194.jpg,558,85.00014,638,359.0001,1,fence,fence_558.00,"black, metal, white, green, large, yellow","black, metal"
+00070007_0194.jpg,199.00032,111.99978,243.00032,252.9999,1,man,man_199.00,"standing, sitting, walking, watching, wearing, looking","standing, wearing"
+00070007_0194.jpg,0.99968,113.00004,36,160.0002,1,sign,sign_1.00,"red, white, green, blue, large, hanging",red
+00070007_0194.jpg,404,53.0001,640,244.99998,1,van,van_404.00,"green, white, black, yellow, parked, silver",white
+00070007_0194.jpg,252.00032,131.00004,298.00032,255.99996,1,woman,woman_252.00,"standing, walking, young, green, sitting, blue","standing, green"
+00070007_0194.jpg,94.99968,101.00016,234.99968,360,1,woman,woman_95.00,"standing, blue, green, yellow, young, looking","standing, green"
+00070007_0194.jpg,101.00032,142.0002,206,186.00012,1,man,man_101.00,"black, red, sitting, white, dark, yellow",
+00070007_0194.jpg,323,204.00012,413,246.99996,1,debris,debris_323.00,"white, black, small, green, silver, large","white, small"
+00070007_0194.jpg,311.00032,1.00008,640,147.00024,1,trees,trees_311.00,"green, white, tall, red, large, cloudy","white, large"
+00070007_0194.jpg,1.00032,0.9999,225.00032,40.99986,1,trees,trees_1.00,"green, red, brown, white, wooden, glass",green
+00070007_0194.jpg,1.00032,183.00006,574,360.00018,1,road,road_1.00,"gray, black, yellow, concrete, white, green",gray

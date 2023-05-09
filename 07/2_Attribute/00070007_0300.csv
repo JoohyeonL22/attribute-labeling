@@ -1,0 +1,9 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0300.jpg,0.9999244999999916,1.00009,224.0000095,46.00011,1,building,building_1.00,"pink, white, red, purple, large, black","pink, white, red, purple, large, black"
+00070007_0300.jpg,239.000044,0.9998300000000028,389.0,134.99993,1,building,building_239.00,"gray, white, concrete, brick, pink, brown","gray, white, concrete, brick, pink, brown"
+00070007_0300.jpg,15.000034499999998,58.99998,353.99991950000003,251.0001,1,car,car_15.00,"black, parked, white, gray, silver, red","black, parked, white, gray, silver, red"
+00070007_0300.jpg,1.000118999999998,139.00003,30.000069,224.99997,1,cone,cone_1.00,"green, orange, yellow, red, white, metal","green, orange, yellow, red, white, metal"
+00070007_0300.jpg,0.9999244999999916,143.99996,319.9997635,260.0,1,road,road_1.00,"gray, black, concrete, yellow, cement, wet","gray, black, concrete, yellow, cement, wet"
+00070007_0300.jpg,5.000011499999999,0.9999600000000006,26.0001765,12.000039999999998,1,sign,sign_5.00,"black, white, green, blue, digital, black and white","black, white, green, blue, digital, black and white"
+00070007_0300.jpg,173.0001645,1.00009,247.00002350000003,59.00011,1,tree,tree_173.00,"pink, purple, green, red, white, large","pink, purple, green, red, white, large"
+00070007_0300.jpg,1.000118999999998,0.9999600000000016,229.000021,143.99996,1,van,van_1.00,"white, red, parked, purple, blue, double decker","white, red, parked, purple, blue, double decker"

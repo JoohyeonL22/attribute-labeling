@@ -1,0 +1,7 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0507.jpg,67.999987,84.00011100000002,514.999785,320.000241,1,car,car_68.00,"white, black, purple, silver, pink, gray",white
+00070007_0507.jpg,1.0001350000000002,1.0001759999999962,634.000317,65.000184,1,trees,trees_1.00,"green, red, brown, blurry, white, pink",green
+00070007_0507.jpg,1.0001350000000002,107.999913,634.000317,401.999799,1,field,field_1.00,"brown, black, gray, white, green, dark",gray
+00070007_0507.jpg,468.999598,57.999957,536.999902,207.000051,1,person,person_469.00,"green, colorful, blue, multi colored, white, red",
+00070007_0507.jpg,519.9998260000001,236.00013,589.999766,282.000186,1,debris,debris_520.00,"blue, small, white, square, clear, blurry","white, blurry"
+00070007_0507.jpg,14.999806000000008,318.999864,157.999774,364.99992,1,debris,debris_15.00,"white, black, blurry, gray, silver, metal","white, blurry"

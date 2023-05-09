@@ -1,0 +1,4 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0728.jpg,1,74.9995455,1000,532.9998465,1,branch,branch_1.00,"green, tall, large, leafy, brown, big","green, leafy"
+00070007_0728.jpg,2,1.0003785,954,306.0001395,1,building,building_2.00,"white, green, large, tall, gray, small",white
+00070007_0728.jpg,1,381.99975,656,627,1,grass,grass_1.00,"green, brown, tall, growing, long, thick","green, brown"

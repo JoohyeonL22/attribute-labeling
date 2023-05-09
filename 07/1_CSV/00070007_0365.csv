@@ -1,0 +1,9 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0365.jpg,250.00038400000005,291.999928,872.999936,555.9999760000001,1,car,car_250.00,"['red', 'blue', 'black', 'parked', 'yellow', 'old']"
+00070007_0365.jpg,24.000512,305.000376,88.000512,529.000104,1,firefighter,firefighter_24.00,"['standing', 'walking', 'green', 'wearing', 'brown', 'looking']"
+00070007_0365.jpg,217.99987200000004,1.0000080000000082,1023.999488,400.999768,1,trees,trees_218.00,"['green', 'tall', 'blue', 'brown', 'large', 'bare']"
+00070007_0365.jpg,0.9994240000000048,276.99980800000003,305.999872,487.999776,1,truck,truck_1.00,"['green', 'white', 'blue', 'large', 'parked', 'black']"
+00070007_0365.jpg,0.999936000000048,466.000288,1023.999488,688.0,1,road,road_1.00,"['gray', 'concrete', 'paved', 'cement', 'brown', 'white']"
+00070007_0365.jpg,889.999872,382.999968,991.999488,526.999744,1,mailbox,mailbox_890.00,"['orange', 'metal', 'wooden', 'blue', 'yellow', 'green']"
+00070007_0365.jpg,733.999616,515.999656,824.999424,545.999896,1,debris,debris_734.00,"['blue', 'small', 'white', 'empty', 'sitting', 'metal']"
+00070007_0365.jpg,307.999744,367.000184,336.0,416.000232,1,man,man_308.00,"['sitting', 'yellow', 'driving', 'white', 'blue', 'riding']"

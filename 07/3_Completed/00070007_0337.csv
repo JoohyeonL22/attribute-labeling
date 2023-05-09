@@ -1,0 +1,13 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0337.jpg,211,200.999956,601,315.000088,1,car,car_211.00,"red, parked, orange, black, white, small","red, small"
+00070007_0337.jpg,37.00032,186.000077,254,323.000135,1,car,car_37.00,"red, blue, black, orange, parked, old","red, old"
+00070007_0337.jpg,588,183.999886,640,229.999738,1,fence,fence_588.00,"brown, wooden, wood, green, blue, white","brown, wooden"
+00070007_0337.jpg,240,142.999914,484,223.999882,1,fire truck,fire truck_240.00,"blue, red, white, metal, silver, double decker","red, metal"
+00070007_0337.jpg,71.00032,168.000031,228,226.000073,1,fire truck,fire truck_71.00,"red, double decker, blue, orange, white, parked","red, parked"
+00070007_0337.jpg,285,1.999952,307,207.999788,1,pole,pole_285.00,"green, blue, tall, metal, large, black","metal, black"
+00070007_0337.jpg,185,0.999976,639,358.000012,1,tree,tree_185.00,"bare, green, blue, large, tall, brown",brown
+00070007_0337.jpg,9.00032,189.000005,34,281.000187,1,person,person_9.00,"walking, standing, sitting, black, watching, blue","standing, black"
+00070007_0337.jpg,55,199.000004,81,242.999904,1,woman,woman_55.00,"white, orange, blue, standing, sitting, small","white, standing"
+00070007_0337.jpg,536,232.999905,640,248.000023,1,road,road_536.00,"green, metal, white, wooden, empty, gray",gray
+00070007_0337.jpg,343.00032,104.99987,600,226.99981,1,building,building_343.00,"blue, large, white, brown, tall, long","brown, long"
+00070007_0337.jpg,3,1.000215,425.99968,189.999981,1,trees,trees_3.00,"blue, tall, green, white, large, cloudy",green

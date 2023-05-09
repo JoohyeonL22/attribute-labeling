@@ -1,0 +1,6 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0895.jpg,239.0004,321.0006,618.0012,643.0002,1,boy,boy_239.00,"standing, smiling, white, young, orange, leaning","standing, smiling"
+00070007_0895.jpg,0.9999,1.0002,488.9997,660.0006,1,building,building_1.00,"white, gray, old, blue, brown, wooden","gray, old"
+00070007_0895.jpg,860.0004,138.9996,1085.0004,672.9996,1,boy,boy_860.00,"standing, smiling, young, looking, walking, white","standing, smiling"
+00070007_0895.jpg,1.0008,627,1800,1200,1,water,water_1.00,"wet, clear, brown, gray, white, dirty","wet, brown"
+00070007_0895.jpg,533.9997,162.0006,1799.9991,628.0002,1,building,building_534.00,"blue, wooden, white, brown, old, metal","old, metal"

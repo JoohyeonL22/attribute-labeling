@@ -1,0 +1,10 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0599.jpg,0.9996800000000016,71.99999999999999,48.0,218.00016,1,building,building_1.00,"['white', 'red', 'blue', 'tall', 'large', 'glass']"
+00070007_0599.jpg,120.0,1.000079999999997,640.0,200.00016,1,building,building_120.00,"['white', 'brown', 'glass', 'brick', 'large', 'red']"
+00070007_0599.jpg,396.99968,138.00006,640.0,279.00018,1,car,car_397.00,"['silver', 'white', 'glass', 'black', 'clear', 'large']"
+00070007_0599.jpg,335.00032000000004,33.00012,440.00000000000006,106.0002,1,flag,flag_335.00,"['american', 'red', 'blue', 'striped', 'white', 'colorful']"
+00070007_0599.jpg,77.99968000000001,0.9998999999999968,91.99968,214.00002,1,pole,pole_78.00,"['pink', 'purple', 'red', 'tall', 'metal', 'black']"
+00070007_0599.jpg,1.0,293.99994,639.99968,359.99981999999994,1,road,road_1.00,"['gray', 'wet', 'yellow', 'paved', 'concrete', 'black']"
+00070007_0599.jpg,172.00032,131.00004,319.0,246.99996,1,debris,debris_172.00,"['white', 'glass', 'dirty', 'clear', 'small', 'blue']"
+00070007_0599.jpg,254.0,111.00006000000002,638.0,297.00018,1,fire,fire_254.00,"['white', 'silver', 'glass', 'yellow', 'clear', 'metal']"
+00070007_0599.jpg,1.0,82.9998,639.99968,300.99996,1,smoke,smoke_1.00,"['white', 'yellow', 'glass', 'metal', 'red', 'silver']"

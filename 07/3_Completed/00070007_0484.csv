@@ -1,0 +1,9 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0484.jpg,1.0004279999999994,256.00002800000004,333.000228,546.000228,1,car,car_1.00,"black, parked, silver, green, white, driving",silver
+00070007_0484.jpg,281.999817,250.000061,388.999875,351.000403,1,car,car_282.00,"green, blue, black, silver, metal, white","silver, metal"
+00070007_0484.jpg,375.000054,262.000354,464.000394,355.000022,1,car,car_375.00,"blue, green, red, pink, white, black",black
+00070007_0484.jpg,439.999923,269.000136,590.9999369999999,364.000152,1,car,car_440.00,"green, metal, silver, white, empty, red",metal
+00070007_0484.jpg,275.99979,2.0003480000000025,692.99967,269.000136,1,tree,tree_276.00,"green, tall, large, brown, glass, black","green, large"
+00070007_0484.jpg,91.999809,1.0001740000000012,354.99984299999994,246.000442,1,tree,tree_92.00,"green, blue, tall, large, glass, clear","green, large"
+00070007_0484.jpg,1.0000650000000064,250.99987600000003,726.0003630000001,718.0,1,water,water_1.00,"blue, gray, black, wet, calm, dark","blue, wet"
+00070007_0484.jpg,428.999571,22.000238,722.999805,328.00035,1,building,building_429.00,"green, large, tall, leafy, brown, big","green, brown"

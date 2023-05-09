@@ -1,0 +1,9 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0413.jpg,843.9997309999999,318.00016150000005,867.999957,359.0001345,1,bag,bag_844.00,"white, red, large, glass, black, square","white, red, large, glass, black, square"
+00070007_0413.jpg,0.9998039999999832,0.999824000000018,695.999652,352.99980800000003,1,building,building_1.00,"tall, white, large, green, brown, gray","tall, white, large, green, brown, gray"
+00070007_0413.jpg,737.9998009999999,151.0002445,985.999507,268.0001135,1,building,building_738.00,"pink, purple, tall, large, white, brown","pink, purple, tall, large, white, brown"
+00070007_0413.jpg,252.999712,181.000218,704.9998599999999,445.00020599999993,1,car,car_253.00,"red, green, double decker, blue, moving, white","red, green, double decker, blue, moving, white"
+00070007_0413.jpg,571.0004879999999,301.00011200000006,986.0,551.000352,1,sidewalk,sidewalk_571.00,"gray, wet, white, paved, yellow, black","gray, wet, white, paved, yellow, black"
+00070007_0413.jpg,774.9999439999999,263.99998800000003,986.0,408.000082,1,people,people_775.00,"pink, purple, white, red, colorful, long","pink, purple, white, red, colorful, long"
+00070007_0413.jpg,698.999557,268.0001135,723.9995869999999,322.00001050000003,1,person,person_699.00,"yellow, green, blue, glass, white, black","yellow, green, blue, glass, white, black"
+00070007_0413.jpg,428.000415,0.999824000000018,805.000473,333.00001,1,tree,tree_428.00,"large, red, tall, white, bare, brick","large, red, tall, white, bare, brick"

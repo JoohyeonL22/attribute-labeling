@@ -1,0 +1,4 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0006.jpg,0.9997499999999492,0.9999825000000158,619.99969,423.0000375,1,bus,bus_1.00,"white, parked, black, gray, yellow, green",white
+00070007_0006.jpg,273.00026,410.9997825,479.00022,464.9997675,1,debris,debris_273.00,"white, metal, black, gray, green, silver","black, gray"
+00070007_0006.jpg,0.9997499999999492,259.0001175,619.99969,465.0002325,1,road,road_1.00,"black, gray, white, wet, concrete, yellow",black

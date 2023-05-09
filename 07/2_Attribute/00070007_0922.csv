@@ -1,0 +1,13 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0922.jpg,1.0,168.000326,795.0,588.000842,1,building,building_1.00,"green, colorful, white, purple, gray, pink","green, colorful, white, purple, gray, pink"
+00070007_0922.jpg,1053.0008,454.999662,1198.0008,561.999802,1,car,car_1053.00,"white, parked, black, silver, small, large","white, parked, black, silver, small, large"
+00070007_0922.jpg,1188.0,452.99995,1276.0,526.0002020000001,1,car,car_1188.00,"parked, white, silver, black, gray, blue","parked, white, silver, black, gray, blue"
+00070007_0922.jpg,1285.0008,450.000382,1418.0008,555.00081,1,car,car_1285.00,"black, green, parked, blue, dark, large","black, green, parked, blue, dark, large"
+00070007_0922.jpg,548.9999999999999,334.00034200000005,1157.0,659.000186,1,car,car_549.00,"white, black, purple, colorful, red, large","white, black, purple, colorful, red, large"
+00070007_0922.jpg,186.00000000000009,430.9995300000001,644.0,1003.999542,1,man,man_186.00,"young, standing, white, wearing, green, blue","young, standing, white, wearing, green, blue"
+00070007_0922.jpg,465.0000000000001,0.9998559999999656,1495.0,448.999928,1,tree,tree_465.00,"green, tall, large, blue, purple, leafy","green, tall, large, blue, purple, leafy"
+00070007_0922.jpg,0.9991999999999734,299.0005979999999,575.9992,992.000074,1,truck,truck_1.00,"white, blue, green, large, colorful, gray","white, blue, green, large, colorful, gray"
+00070007_0922.jpg,1.0008000000000266,408.00045,1600.0008,1196.000598,1,road,road_1.00,"gray, concrete, paved, wet, cement, white","gray, concrete, paved, wet, cement, white"
+00070007_0922.jpg,1291.0,412.99973,1423.0,501.000214,1,fire truck,fire truck_1291.00,"black, blue, parked, green, white, dark","black, blue, parked, green, white, dark"
+00070007_0922.jpg,1474.0,181.999506,1600.0,452.99995,1,trees,trees_1474.00,"green, tall, large, leafy, small, red","green, tall, large, leafy, small, red"
+00070007_0922.jpg,518.0,449.999784,546.0,513.00028,1,man,man_518.00,"pink, purple, colorful, red, small, multi colored","pink, purple, colorful, red, small, multi colored"

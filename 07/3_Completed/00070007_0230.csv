@@ -1,0 +1,12 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0230.jpg,54.00030000000001,157.999815,464.0001,317.999925,1,vehicle,vehicle_54.00,"purple, blue, green, metal, black, colorful","green, metal"
+00070007_0230.jpg,0.9998999999999968,253.0000575,131.0001,368.0002125,1,debris,debris_1.00,"gray, pink, purple, white, black, colorful","gray, black"
+00070007_0230.jpg,1.0001999999999995,86.00012999999998,67.0002,320.00022,1,bush,bush_1.00,"purple, pink, green, colorful, large, tall",green
+00070007_0230.jpg,182.0001,77.00022000000001,294.00030000000004,322.00011,1,man,man_182.00,"standing, walking, wearing, young, smiling, looking",walking
+00070007_0230.jpg,291.0002999999999,85.99992750000001,362.0001,197.9998425,1,man,man_291.00,"blue, standing, sitting, yellow, green, smiling","standing, yellow"
+00070007_0230.jpg,384.0003,83.00009250000001,458.0001,244.00014750000005,1,man,man_384.00,"purple, pink, blue, standing, sitting, smiling","blue, standing"
+00070007_0230.jpg,437.0001,71.99988749999997,543.0003,315.9998325,1,man,man_437.00,"standing, blue, green, black, walking, watching","standing, black"
+00070007_0230.jpg,394.0002,1.000147499999997,598.0002000000001,289.0001025,1,tree,tree_394.00,"green, old, tall, blue, stone, large",green
+00070007_0230.jpg,0.9999000000000252,308.00007000000005,599.0001,405.0,1,road,road_1.00,"gray, paved, white, black, asphalt, concrete","gray, asphalt"
+00070007_0230.jpg,485.0001000000001,277.000155,582.0003,309.000015,1,chainsaw,chainsaw_485.00,"green, white, small, metal, wooden, blue","white, metal"
+00070007_0230.jpg,145.0002,156.99987,463.0002,316.99998,1,tarp,tarp_145.00,"blue, green, metal, black, purple, gray",green

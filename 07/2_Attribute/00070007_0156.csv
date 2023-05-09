@@ -1,0 +1,7 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0156.jpg,0.9996300000000105,333.999903,150.99981000000002,353.00009099999994,1,cars,cars_1.00,"yellow, green, double decker, white, large, moving","yellow, green, double decker, white, large, moving"
+00070007_0156.jpg,0.9999200000000316,352.9998825,580.0,416.9997915,1,road,road_1.00,"yellow, empty, blue, gray, metal, long","yellow, empty, blue, gray, metal, long"
+00070007_0156.jpg,0.999920000000003,0.9999660000000006,478.00004,392.9999820000001,1,smoke,smoke_1.00,"black, dark, blue, white, clear, large","black, dark, blue, white, clear, large"
+00070007_0156.jpg,379.00013,280.00027950000003,576.00003,395.0001225,1,bus,bus_379.00,"blue, parked, black, double decker, white, large","blue, parked, black, double decker, white, large"
+00070007_0156.jpg,1.0002100000000027,291.000114,123.00031,319.99996200000004,1,bridge,bridge_1.00,"white, black, silver, brown, large, metal","white, black, silver, brown, large, metal"
+00070007_0156.jpg,344.99995,326.999724,439.99989,394.999914,1,fire,fire_345.00,"green, blue, glass, white, open, clear","green, blue, glass, white, open, clear"

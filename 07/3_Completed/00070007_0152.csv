@@ -1,0 +1,20 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0152.jpg,278.000448,306.999768,333.00025600000004,425.999928,1,man,man_278.00,"walking, standing, blue, black, white, tall","walking, black"
+00070007_0152.jpg,405.99968,294.00016800000003,468.999808,435.99996,1,man,man_406.00,"purple, pink, standing, walking, black, white","walking, white"
+00070007_0152.jpg,0.9998559999999656,328.999728,735.999632,552.0,1,road,road_1.00,"gray, paved, black, concrete, white, asphalt","gray, asphalt"
+00070007_0152.jpg,178.000496,229.000236,206.000144,270.000036,1,sign,sign_178.00,"green, red, white, small, square, blue","green, square"
+00070007_0152.jpg,84.00004800000002,267.999864,203.000208,313.000008,1,sign,sign_84.00,"green, white, black, blue, street, purple","green, street"
+00070007_0152.jpg,206.999632,0.9996719999999756,572.99992,351.999912,1,smoke,smoke_207.00,"black, white, cloudy, dark, gray, blue","black, cloudy"
+00070007_0152.jpg,655.000256,305.000148,704.000192,330.9999,1,van,van_655.00,"green, red, colorful, yellow, white, blue",white
+00070007_0152.jpg,529.999856,336.000192,574.000144,355.000032,1,fire,fire_530.00,"white, black, red, blue, small, black and white",red
+00070007_0152.jpg,540.000256,350.999964,577.9999359999999,369.000132,1,tire,tire_540.00,"white, black, metal, small, silver, gray","black, metal"
+00070007_0152.jpg,695.000016,303.999924,736.000368,504.000012,1,truck,truck_695.00,"white, black, red, open, parked, silver",white
+00070007_0152.jpg,58.000112000000016,313.000008,229.00014400000003,451.000008,1,people,people_58.00,"purple, pink, standing, colorful, large, yellow",standing
+00070007_0152.jpg,227.99992,343.000104,240.99988800000003,387.000024,1,person,person_228.00,"pink, blue, colorful, purple, green, red",
+00070007_0152.jpg,250.999552,347.000172,264.999744,389.000196,1,person,person_251.00,"pink, purple, open, small, black, colorful",black
+00070007_0152.jpg,360.999904,315.99985200000003,470.000032,382.999956,1,people,people_361.00,"pink, purple, colorful, yellow, red, black",
+00070007_0152.jpg,342.000064,329.999952,353.999808,360.000048,1,person,person_342.00,"red, orange, white, small, pink, open",
+00070007_0152.jpg,586.000256,314.999904,600.9999359999999,363.99984000000006,1,person,person_586.00,"yellow, black, metal, orange, small, white",black
+00070007_0152.jpg,673.0002400000001,315.00018,700.999888,366.000012,1,person,person_673.00,"red, walking, orange, standing, colorful, white",walking
+00070007_0152.jpg,619.999776,317.99974800000007,631.000032,344.999724,1,person,person_620.00,"small, glass, white, black, closed, square",black
+00070007_0152.jpg,636.999904,318.999972,645.999712,345.999948,1,person,person_637.00,"yellow, green, red, white, small, blue",

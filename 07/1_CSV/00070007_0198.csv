@@ -1,0 +1,10 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0198.jpg,1.000319999999988,72.00024000000002,606.0,355.00008,1,bus,bus_1.00,"['yellow', 'white', 'parked', 'green', 'large', 'double decker']"
+00070007_0198.jpg,21.0,229.00008,179.0,480.00024,1,man,man_21.00,"['purple', 'white', 'standing', 'pink', 'black', 'yellow']"
+00070007_0198.jpg,220.00032,211.99991999999995,331.0,479.9997599999999,1,woman,woman_220.00,"['blue', 'striped', 'black', 'yellow', 'colorful', 'standing']"
+00070007_0198.jpg,157.00032000000002,235.99992,249.00032,479.99976,1,woman,woman_157.00,"['standing', 'yellow', 'black', 'smiling', 'white', 'sitting']"
+00070007_0198.jpg,1.000320000000002,364.00008,109.00032,480.00024,1,motorbike,motorbike_1.00,"['purple', 'pink', 'colorful', 'black', 'multi colored', 'white']"
+00070007_0198.jpg,614.00032,172.99992000000003,640.00032,311.99976,1,person,person_614.00,"['blue', 'standing', 'walking', 'sitting', 'open', 'glass']"
+00070007_0198.jpg,605.9999999999999,167.00016,633.00032,209.00016,1,person,person_606.00,"['blue', 'white', 'open', 'standing', 'walking', 'glass']"
+00070007_0198.jpg,1.0,184.99992,131.99968,230.99976,1,people,people_1.00,"['purple', 'pink', 'sitting', 'white', 'black', 'large']"
+00070007_0198.jpg,316.0,256.99992,640.0,479.9997599999999,1,road,road_316.00,"['wet', 'brown', 'black', 'dirty', 'gray', 'dark']"

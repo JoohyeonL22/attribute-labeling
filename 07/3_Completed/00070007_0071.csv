@@ -1,0 +1,11 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0071.jpg,1.000060000000019,0.9999000000000252,523.99982,285.99978,1,building,building_1.00,"pink, white, purple, red, parked, gray","white, gray"
+00070007_0071.jpg,422.99996,164.00009999999995,620.0,330.0,1,car,car_423.00,"red, colorful, yellow, multi colored, white, parked","multi colored, white"
+00070007_0071.jpg,345.99999,168.00002999999998,411.00017,299.00013,1,man,man_346.00,"green, yellow, colorful, metal, sitting, white",yellow
+00070007_0071.jpg,81.00021000000004,27.00010499999999,620.00031,274.00015499999995,1,truck,truck_81.00,"white, parked, silver, red, gray, green",white
+00070007_0071.jpg,138.99997000000002,271.99986,162.00011,291.99984,1,debris,debris_139.00,"black, white, purple, pink, small, red",small
+00070007_0071.jpg,70.99992,270.99996,112.99996,290.00004,1,debris,debris_71.00,"small, green, pink, red, plastic, metal",plastic
+00070007_0071.jpg,1.0000599999999622,255.999975,424.00002,265.99996500000003,1,tape,tape_1.00,"green, metal, white, silver, long, pink","metal, silver"
+00070007_0071.jpg,369.99988,165.99990000000005,422.99996,297.0,1,man,man_370.00,"green, open, metal, glass, black, wooden",green
+00070007_0071.jpg,127.00018,290.99994000000004,421.9999,330.0,1,road,road_127.00,"gray, concrete, white, green, cement, paved","gray, paved"
+00070007_0071.jpg,1.0000599999999906,263.00010000000003,404.00006,329.00010000000003,1,sidewalk,sidewalk_1.00,"gray, green, concrete, metal, empty, white",gray

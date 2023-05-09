@@ -1,0 +1,5 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0960.jpg,193.0,114.999885,437.0,296.000037,1,car,car_193.00,"['blue', 'white', 'silver', 'metal', 'black', 'parked']"
+00070007_0960.jpg,87.0,46.0001205,241.0,123.0000435,1,trailer,trailer_87.00,"['white', 'red', 'green', 'large', 'blue', 'double decker']"
+00070007_0960.jpg,1.0,1.0001655000000085,500.0,154.0000125,1,trees,trees_1.00,"['green', 'red', 'leafy', 'tall', 'white', 'blue']"
+00070007_0960.jpg,67.0,52.999780500000014,344.0,266.9998995,1,branch,branch_67.00,"['green', 'white', 'red', 'blue', 'metal', 'silver']"

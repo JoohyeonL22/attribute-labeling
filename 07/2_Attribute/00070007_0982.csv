@@ -1,0 +1,10 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0982.jpg,505.999856,494.99994,581.0000160000001,553.999884,1,bag,bag_506.00,"black, green, dark, white, small, sitting","black, green, dark, white, small, sitting"
+00070007_0982.jpg,903.99968,63.00005999999999,992.0,333.999828,1,building,building_904.00,"pink, tall, brown, purple, red, large","pink, tall, brown, purple, red, large"
+00070007_0982.jpg,492.000256,297.00033600000006,741.000192,482.0004,1,trailer,trailer_492.00,"white, double decker, large, red, black, parked","white, double decker, large, red, black, parked"
+00070007_0982.jpg,798.000016,317.0001719999999,992.000496,465.000372,1,bus,bus_798.00,"white, red, parked, blue, large, moving","white, red, parked, blue, large, moving"
+00070007_0982.jpg,475.000352,408.0003,565.000544,587.000004,1,man,man_475.00,"walking, standing, yellow, green, sitting, wearing","walking, standing, yellow, green, sitting, wearing"
+00070007_0982.jpg,0.9994399999999928,0.9999359999999626,940.999792,422.9997120000001,1,trees,trees_1.00,"green, tall, white, cloudy, bare, gray","green, tall, white, cloudy, bare, gray"
+00070007_0982.jpg,1.0004319999999964,386.999784,110.0004,551.99964,1,truck,truck_1.00,"white, green, parked, gray, silver, small","white, green, parked, gray, silver, small"
+00070007_0982.jpg,166.000288,298.999464,513.99984,525.999816,1,van,van_166.00,"white, large, parked, orange, big, red","white, large, parked, orange, big, red"
+00070007_0982.jpg,0.999935999999991,402.999876,992.0,743.9996279999999,1,water,water_1.00,"wet, calm, gray, large, brown, blue","wet, calm, gray, large, brown, blue"

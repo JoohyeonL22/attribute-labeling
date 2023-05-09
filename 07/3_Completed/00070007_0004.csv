@@ -1,0 +1,21 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0004.jpg,401,195.000284,720,295.000196,1,car,car_401.00,"parked, silver, gray, green, purple, white","parked, silver"
+00070007_0004.jpg,54,209.000068,394,350.999868,1,car,car_54.00,"green, black, yellow, gray, parked, metal","black, metal"
+00070007_0004.jpg,126,86.000128,155,128.000016,1,man,man_126.00,"small, orange, black, blue, open, closed",black
+00070007_0004.jpg,275,166.000272,330,226.000112,1,man,man_275.00,"sitting, standing, pink, walking, purple, wearing","standing, wearing"
+00070007_0004.jpg,384,174.000072,421,285.000312,1,man,man_384.00,"purple, pink, green, colorful, black, metal",black
+00070007_0004.jpg,454,172.000256,504,305.00008,1,man,man_454.00,"purple, pink, black, colorful, sitting, metal",black
+00070007_0004.jpg,1,279.999968,508,536,1,road,road_1.00,"gray, paved, black, asphalt, concrete, wet","gray, asphalt"
+00070007_0004.jpg,108,322.999764,220,369.999996,1,sign,sign_108.00,"green, white, small, silver, blue, large","white, small"
+00070007_0004.jpg,269,62.999832,304,98.999736,1,sign,sign_269.00,"blue, white, street, black, square, small","blue, square"
+00070007_0004.jpg,32,11.00006,55,32.000004,1,sign,sign_32.00,"orange, white, blue, red, black, small",white
+00070007_0004.jpg,529,120.999856,714,204.999632,1,trees,trees_529.00,"green, tall, white, large, leafy, metal","green, tall"
+00070007_0004.jpg,742,121.000124,776,203.000084,1,trees,trees_742.00,"green, tall, white, street, large, black","green, tall"
+00070007_0004.jpg,1,346.9997,112,362.999836,1,pole,pole_1.00,"green, white, concrete, metal, cement, long","white, metal"
+00070007_0004.jpg,345,168.000088,386,224.000296,1,man,man_345.00,"green, red, black, open, wooden, pink",black
+00070007_0004.jpg,318,180.999964,338,225.999844,1,man,man_318.00,"pink, colorful, yellow, purple, red, orange",
+00070007_0004.jpg,331,180.999964,350,228.000196,1,man,man_331.00,"pink, yellow, red, green, colorful, orange",
+00070007_0004.jpg,63,88.000212,84,122.0003,1,man,man_63.00,"green, standing, walking, blue, white, small",standing
+00070007_0004.jpg,724,197.0001,746,249.00014,1,man,man_724.00,"sitting, walking, standing, green, watching, gray","standing, gray"
+00070007_0004.jpg,598,181.999872,615,198.999648,1,man,man_598.00,"pink, purple, black, small, colorful, red",black
+00070007_0004.jpg,436,175.000248,471,241.000072,1,man,man_436.00,"pink, purple, colorful, red, blue, multi colored",blue

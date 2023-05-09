@@ -1,0 +1,13 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0596.jpg,0.9992670000000032,473.99978,257.99930900000004,748.99982,1,building,building_1.00,"['pink', 'purple', 'white', 'green', 'gray', 'red']"
+00070007_0596.jpg,1207.999499,669.0004200000001,1487.999649,825.0007,1,jeep,jeep_1208.00,"['white', 'silver', 'parked', 'black', 'gray', 'small']"
+00070007_0596.jpg,1485.9993289999998,1.0004999999999882,1677.999687,339.00014,1,basketball board,basketball board_1486.00,"['blue', 'green', 'black', 'white', 'large', 'glass']"
+00070007_0596.jpg,1.001053000000013,1.0004999999999882,344.000567,571.00014,1,tree,tree_1.00,"['green', 'tall', 'large', 'purple', 'leafy', 'big']"
+00070007_0596.jpg,724.000643,254.9999,1181.000537,476.99954,1,tree,tree_724.00,"['purple', 'pink', 'red', 'green', 'large', 'colorful']"
+00070007_0596.jpg,1.000159999999937,788.9995200000001,1786.0,1160.0,1,road,road_1.00,"['gray', 'yellow', 'paved', 'black', 'concrete', 'wet']"
+00070007_0596.jpg,1388.999883,265.9996,1561.0006130000002,406.0,1,net,net_1389.00,"['green', 'metal', 'white', 'red', 'empty', 'blue']"
+00070007_0596.jpg,204.000492,328.00044,1187.0006039999998,764.00036,1,building,building_204.00,"['gray', 'purple', 'large', 'white', 'blue', 'green']"
+00070007_0596.jpg,1141.000388,443.00052,1740.999944,797.99996,1,building,building_1141.00,"['blue', 'white', 'green', 'gray', 'large', 'brown']"
+00070007_0596.jpg,3.9997469999999566,614.00018,1732.999557,865.99974,1,debris,debris_4.00,"['green', 'white', 'long', 'red', 'blue', 'wooden']"
+00070007_0596.jpg,1192.000511,223.99948,1786.000893,596.9998,1,tree,tree_1192.00,"['green', 'blue', 'tall', 'white', 'large', 'metal']"
+00070007_0596.jpg,1.0001600000000508,780.00024,1048.999956,983.00024,1,grass,grass_1.00,"['green', 'long', 'white', 'yellow', 'small', 'tall']"

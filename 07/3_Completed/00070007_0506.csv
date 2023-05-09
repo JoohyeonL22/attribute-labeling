@@ -1,0 +1,6 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0506.jpg,1.000319999999988,591.99984,1277.00032,720.0,1,road,road_1.00,"gray, paved, black, yellow, white, asphalt","gray, asphalt"
+00070007_0506.jpg,206.99968000000007,146.00016,886.0,609.99984,1,fire,fire_207.00,"black, red, orange, large, yellow, white","black, large"
+00070007_0506.jpg,204.99968,1.0000799999999683,737.99936,599.9997599999999,1,smoke,smoke_205.00,"red, black, dark, white, gray, orange","black, dark"
+00070007_0506.jpg,291.99936,435.00024,858.9996799999999,608.0004,1,car,car_292.00,"black, red, large, silver, colorful, gray",large
+00070007_0506.jpg,1.0003200000001016,1.0000800000000254,1280.00064,581.0004,1,trees,trees_1.00,"green, black, red, dark, tall, white",green

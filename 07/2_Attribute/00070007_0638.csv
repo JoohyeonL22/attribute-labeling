@@ -1,0 +1,9 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0638.jpg,1260.9988875,373.0006800000001,1447.9996805,774.00036,1,firefighter,firefighter_1261.00,"standing, walking, black, wearing, watching, white","standing, walking, black, wearing, watching, white"
+00070007_0638.jpg,561.00046,292.00014,628.0004260000001,366.00066,1,sign,sign_561.00,"purple, pink, yellow, colorful, small, multi colored","purple, pink, yellow, colorful, small, multi colored"
+00070007_0638.jpg,1.0007584999998471,1.0006200000000265,1099.0007455,523.00026,1,bush,bush_1.00,"purple, green, pink, tall, gray, large","purple, green, pink, tall, gray, large"
+00070007_0638.jpg,1.0007584999998471,452.99952,1919.0009595,1080.0,1,grass,grass_1.00,"tall, brown, dry, yellow, green, long","tall, brown, dry, yellow, green, long"
+00070007_0638.jpg,424.9999705,409.99986000000007,558.0001034999999,638.9998200000001,1,person,person_425.00,"green, sitting, little, small, metal, young","green, sitting, little, small, metal, young"
+00070007_0638.jpg,740.998822,393.0001199999999,870.999558,665.00028,1,man,man_741.00,"pink, red, purple, colorful, yellow, white","pink, red, purple, colorful, yellow, white"
+00070007_0638.jpg,812.9997020000001,0.9995399999999676,1919.0,613.99998,1,bush,bush_813.00,"green, tall, leafy, large, growing, yellow","green, tall, leafy, large, growing, yellow"
+00070007_0638.jpg,737.0005855,344.00052,1326.0011745000002,692.00028,1,car,car_737.00,"colorful, black, gray, purple, red, large","colorful, black, gray, purple, red, large"

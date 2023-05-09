@@ -1,0 +1,9 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0704.jpg,3362.0030100000004,1528.9996320000002,3777.001002,1882.000008,1,sign,sign_3362.00,"['yellow', 'black', 'white', 'orange', 'gold', 'small']"
+00070007_0704.jpg,0.9968670000000656,54.99911999999995,3040.9992810000003,3012.0,1,tree,tree_1.00,"['bare', 'green', 'brown', 'dead', 'dry', 'leafless']"
+00070007_0704.jpg,1651.000077,300.00122399999987,4632.998391,2261.999952,1,tree,tree_1651.00,"['green', 'bare', 'brown', 'tall', 'dead', 'leafless']"
+00070007_0704.jpg,1951.001802,2622.000216,3873.001554,3011.9999999999995,1,road,road_1951.00,"['wet', 'gray', 'concrete', 'paved', 'cement', 'brick']"
+00070007_0704.jpg,2865.997647,1791.999942,3195.998289,2640.001434,1,woman,woman_2866.00,"['standing', 'walking', 'blue', 'young', 'blonde', 'sitting']"
+00070007_0704.jpg,3565.999161,1877.001594,3662.999091,2467.00119,1,pole,pole_3566.00,"['metal', 'gray', 'silver', 'black', 'tall', 'wooden']"
+00070007_0704.jpg,480.9996269999999,1552.00077,3225.9997170000006,2189.999598,1,cars,cars_481.00,"['blue', 'white', 'green', 'black', 'brown', 'small']"
+00070007_0704.jpg,1.0018889999996643,0.9999839999999268,5022.002511000001,1589.9986560000002,1,trees,trees_1.00,"['bare', 'green', 'brown', 'white', 'tall', 'leafless']"

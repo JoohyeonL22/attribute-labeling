@@ -1,0 +1,6 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0125.jpg,0.9994239999998626,0.9994455000000926,4096.0,2726.9986365,1,building,building_1.00,"white, gray, old, large, yellow, brown","white, gray, old, large, yellow, brown"
+00070007_0125.jpg,1502.001152,1153.9995884999998,2136.999936,2483.9983935,1,man,man_1502.00,"standing, young, blue, white, sitting, wearing","standing, young, blue, white, sitting, wearing"
+00070007_0125.jpg,2038.001664,1090.999071,2806.001664,2515.998375,1,man,man_2038.00,"standing, blue, young, walking, smiling, wearing","standing, blue, young, walking, smiling, wearing"
+00070007_0125.jpg,2600.001536,1028.0012805,3029.999616,2727.0013635,1,man,man_2600.00,"standing, blue, walking, smiling, looking, wearing","standing, blue, walking, smiling, looking, wearing"
+00070007_0125.jpg,0.9994239999998626,1094.0001344999998,4096.0,2727.0013635,1,debris,debris_1.00,"white, metal, yellow, wooden, blue, gray","white, metal, yellow, wooden, blue, gray"

@@ -1,0 +1,11 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0441.jpg,1792.99968,452.9995200000001,1920.0,864.0,1,car,car_1793.00,"['black', 'blue', 'parked', 'gray', 'silver', 'green']"
+00070007_0441.jpg,354.00096,898.99956,653.00064,981.99972,1,debris,debris_354.00,"['green', 'colorful', 'white', 'blue', 'multi colored', 'black']"
+00070007_0441.jpg,532.0012799999998,206.0002800000001,1874.00064,940.00068,1,car,car_532.00,"['white', 'silver', 'parked', 'black', 'gray', 'blue']"
+00070007_0441.jpg,598.0003199999999,1.0000799999999683,709.00128,348.99984,1,pole,pole_598.00,"['brown', 'wooden', 'tall', 'wood', 'metal', 'gray']"
+00070007_0441.jpg,10.001279999999952,207.9998999999999,1796.00064,955.00026,1,truck,truck_10.00,"['white', 'parked', 'silver', 'gray', 'black', 'green']"
+00070007_0441.jpg,0.999360000000138,888.99984,1919.99904,1080.0,1,road,road_1.00,"['gray', 'white', 'black', 'green', 'paved', 'concrete']"
+00070007_0441.jpg,1064.9999999999998,1.0000800000000112,1894.00032,211.99968,1,car,car_1065.00,"['black', 'dark', 'parked', 'white', 'green', 'large']"
+00070007_0441.jpg,1.0003199999998742,0.999539999999996,1167.99936,232.99974,1,car,car_1.00,"['black', 'green', 'dark', 'parked', 'white', 'large']"
+00070007_0441.jpg,0.9993599999999958,90.99971999999998,73.99968,340.0002,1,car,car_1.00,"['green', 'white', 'blue', 'large', 'glass', 'tall']"
+00070007_0441.jpg,3.000000000000057,276.99948,623.9990399999999,385.99956,1,road,road_3.00,"['metal', 'green', 'blue', 'black', 'glass', 'silver']"

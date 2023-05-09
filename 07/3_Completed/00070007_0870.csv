@@ -1,0 +1,14 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0870.jpg,954.0005685,1038.000286,1247.0006175,1387.0,1,cone,cone_954.00,"white, orange, brown, red, large, tall","orange, large"
+00070007_0870.jpg,768.0005595,269.000328,1068.0000865,550.00098,1,vehicle,vehicle_768.00,"purple, yellow, pink, colorful, large, gray",yellow
+00070007_0870.jpg,1843.000124,632.9997535,1922.99971,1090.9996365,1,pole,pole_1843.00,"metal, gray, silver, black, long, tall","metal, black"
+00070007_0870.jpg,0.9996169999999438,983.9995215,2122.998675,1362.0000185,1,road,road_1.00,"gray, concrete, cement, paved, yellow, white","gray, paved"
+00070007_0870.jpg,1795.0001565,398.9996770000001,2054.0002735,647.9994650000001,1,sign,sign_1795.00,"yellow, black, white, blue, street, square","yellow, street"
+00070007_0870.jpg,774.0004205000001,1.0000270000000455,2159.0010795000003,835.000353,1,trees,trees_774.00,"bare, brown, purple, leafless, green, tall","bare, brown"
+00070007_0870.jpg,0.9996170000000006,602.0003035,884.000391,1025.0006285,1,dirt,dirt_1.00,"gray, stone, rock, concrete, large, cement","gray, stone"
+00070007_0870.jpg,363.0002264999999,605.9997179999999,1148.9992895,824.000056,1,dirt,dirt_363.00,"green, gray, white, colorful, red, brown","gray, brown"
+00070007_0870.jpg,1014.000258,227.00058099999995,1849.999602,747.000751,1,branch,branch_1014.00,"purple, bare, leafless, brown, tall, dead","bare, leafless"
+00070007_0870.jpg,874.9995199999998,680.000329,1471.000106,1196.000391,1,barrier,barrier_875.00,"white, blue, metal, red, green, long",white
+00070007_0870.jpg,231.000046,409.999974,353.000818,573.000214,1,man,man_231.00,"sitting, standing, yellow, green, young, watching","standing, yellow"
+00070007_0870.jpg,0.9996170000000292,536.9999355,386.998591,641.9999965,1,cones,cones_1.00,"green, red, metal, blue, orange, white",orange
+00070007_0870.jpg,2.999930500000005,0.9993334999999774,1209.9996754999995,482.9998645,1,building,building_3.00,"purple, white, pink, gray, brown, large","white, brown"

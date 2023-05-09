@@ -1,0 +1,5 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0625.jpg,411.0,90.99978750000002,978.0,335.9998125,1,suv,suv_411.00,"white, yellow, blue, large, silver, parked","white, yellow, blue, large, silver, parked"
+00070007_0625.jpg,1.0001999999999498,168.99974999999998,1200.0006,675.0,1,water,water_1.00,"gray, white, blue, clear, calm, large","gray, white, blue, clear, calm, large"
+00070007_0625.jpg,266.99940000000004,0.9996749999999964,460.9998000000001,105.999975,1,tree,tree_267.00,"white, black, pink, red, large, framed","white, black, pink, red, large, framed"
+00070007_0625.jpg,884.9994,31.00005,976.9998,184.99995,1,bin,bin_885.00,"green, blue, clear, tall, white, glass","green, blue, clear, tall, white, glass"

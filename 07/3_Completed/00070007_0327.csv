@@ -1,0 +1,14 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0327.jpg,31.999990000000004,63.00008500000001,75.000068,137.000085,1,person,person_32.00,"red, blue, open, white, black, hanging",red
+00070007_0327.jpg,0.9999604999999984,70.0000225,28.0000435,146.0000575,1,man,man_1.00,"black, standing, white, sitting, dark, walking","black, standing"
+00070007_0327.jpg,137.00002249999997,60.0000325,164.0001055,104.9999875,1,man,man_137.00,"standing, sitting, walking, black, watching, white","standing, black"
+00070007_0327.jpg,66.0000055,58.00009000000001,102.0000465,128.00002,1,man,man_66.00,"standing, sitting, black, walking, watching, looking","standing, black"
+00070007_0327.jpg,97.0001395,70.0000225,131.0000505,122.0000075,1,man,man_97.00,"green, blue, sitting, open, small, white",blue
+00070007_0327.jpg,0.9999605000000004,20.0000725,121.0000275,45.0000475,1,trees,trees_1.00,"red, green, large, white, tall, big",green
+00070007_0327.jpg,0.999960499999986,62.99999250000001,208.9998955,184.9999075,1,water,water_1.00,"brown, white, yellow, wet, large, black","brown, wet"
+00070007_0327.jpg,103.000007,35.9999825,137.999983,43.9999375,1,people,people_103.00,"blue, white, red, large, small, colorful",
+00070007_0327.jpg,165.00006599999998,35.0000575,182.000126,45.9999725,1,people,people_165.00,"green, small, white, blue, square, digital",
+00070007_0327.jpg,200.0001465,35.9999825,205.0000535,45.0000475,1,person,person_200.00,"black, white, small, street, pointing, red",black
+00070007_0327.jpg,181.000061,67.999895,195.000135,88.999985,1,person,person_181.00,"green, red, standing, white, small, walking","red, standing"
+00070007_0327.jpg,194.999926,63.9999175,206.000014,90.0000025,1,person,person_195.00,"green, black, open, dark, small, metal",
+00070007_0327.jpg,27.999938999999983,81.999955,187.000033,133.000015,1,boat,boat_28.00,"blue, white, metal, glass, green, small",small

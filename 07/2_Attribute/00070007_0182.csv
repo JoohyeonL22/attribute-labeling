@@ -1,0 +1,5 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0182.jpg,79.0,120.000105,290.0,327.000051,1,bus,bus_79.00,"yellow, double decker, red, tall, parked, large","yellow, double decker, red, tall, parked, large"
+00070007_0182.jpg,137.0,97.999929,172.0,125.99981100000002,1,man,man_137.00,"purple, blue, white, pink, small, framed","purple, blue, white, pink, small, framed"
+00070007_0182.jpg,1.0,0.9998369999999852,500.0,307.999899,1,trees,trees_1.00,"green, tall, brown, leafy, black, red","green, tall, brown, leafy, black, red"
+00070007_0182.jpg,1.0,189.000144,500.0,342.0,1,grass,grass_1.00,"green, tall, long, grassy, yellow, white","green, tall, long, grassy, yellow, white"

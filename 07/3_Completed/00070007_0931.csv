@@ -1,0 +1,10 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0931.jpg,212.99968,233.00028000000003,428.99968,396.00036000000006,1,car,car_213.00,"blue, clear, glass, green, large, small",large
+00070007_0931.jpg,415.0003200000001,170.99964,1082.00064,443.99988,1,suv,suv_415.00,"white, blue, black, parked, yellow, red","white, parked"
+00070007_0931.jpg,1094.00064,231.99984,1254.00064,625.99968,1,man,man_1094.00,"walking, standing, black, yellow, orange, young","walking, black"
+00070007_0931.jpg,116.00064,1.000079999999997,152.00064,316.00008,1,pole,pole_116.00,"red, black, long, tall, metal, blue","black, long"
+00070007_0931.jpg,1.0003200000001016,360.99972,1280.00064,719.99964,1,road,road_1.00,"wet, green, gray, black, white, paved","wet, gray"
+00070007_0931.jpg,933.00032,25.999920000000003,1244.00064,415.00008,1,tree,tree_933.00,"green, white, black, glass, large, tall",green
+00070007_0931.jpg,790.0006400000001,16.999919999999975,1280.0,403.99992,1,building,building_790.00,"green, black, glass, yellow, white, large","white, large"
+00070007_0931.jpg,1209.9993599999998,232.0002,1280.0,321.00012,1,vehicle,vehicle_1210.00,"black, blue, orange, red, parked, white",blue
+00070007_0931.jpg,1217.00032,327.99996000000004,1280.00064,479.99988,1,truck,truck_1217.00,"green, black, yellow, orange, metal, white","metal, white"

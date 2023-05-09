@@ -1,0 +1,13 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0750.jpg,1198.0,432.00045150000005,1506.0,1249.0006065,1,firefighter,firefighter_1198.00,"['blue', 'skiing', 'standing', 'purple', 'black', 'smiling']"
+00070007_0750.jpg,256.0,732.0007845000001,680.0,1359.0001215000002,1,firefighter,firefighter_256.00,"['yellow', 'green', 'blue', 'sitting', 'black', 'colorful']"
+00070007_0750.jpg,791.0,602.0005934999999,1069.0,1256.0000025,1,firefighter,firefighter_791.00,"['standing', 'skiing', 'black', 'purple', 'green', 'pink']"
+00070007_0750.jpg,72.0,1.000314000000003,2000.0,1171.0006320000002,1,smoke,smoke_72.00,"['black', 'dark', 'cloudy', 'gray', 'blue', 'white']"
+00070007_0750.jpg,600.0,754.0006875,1165.0,1185.0001245,1,fire,fire_600.00,"['black', 'colorful', 'pink', 'standing', 'large', 'green']"
+00070007_0750.jpg,1296.0,549.9996765000001,2000.0,1083.0003195,1,fire,fire_1296.00,"['white', 'purple', 'pink', 'colorful', 'blue', 'large']"
+00070007_0750.jpg,1.0,1.000314000000003,1789.0,841.000686,1,mountain,mountain_1.00,"['dark', 'black', 'cloudy', 'blue', 'gray', 'white']"
+00070007_0750.jpg,1400.0,533.999556,2000.0,1397.999058,1,hose,hose_1400.00,"['gray', 'white', 'blue', 'long', 'pink', 'colorful']"
+00070007_0750.jpg,1018.0,747.000591,1242.0,1095.000585,1,water,water_1018.00,"['pink', 'colorful', 'green', 'orange', 'white', 'large']"
+00070007_0750.jpg,100.0,794.0006385,297.0,877.0000815,1,fire truck,fire truck_100.00,"['purple', 'pink', 'colorful', 'white', 'metal', 'multi colored']"
+00070007_0750.jpg,90.0,909.999936,118.0,956.00037,1,firefighter,firefighter_90.00,"['green', 'pink', 'small', 'purple', 'blue', 'red']"
+00070007_0750.jpg,40.0,922.000902,65.0,965.000394,1,firefighter,firefighter_40.00,"['purple', 'pink', 'small', 'black', 'white', 'green']"

@@ -1,0 +1,13 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0414.jpg,1.0002000000000066,0.9998999999999684,763.9998,591.0002999999999,1,building,building_1.00,"['pink', 'brick', 'white', 'large', 'gray', 'tall']"
+00070007_0414.jpg,1050.0,464.00040000000007,1200.0,545.0004000000001,1,car,car_1050.00,"['green', 'white', 'black', 'glass', 'large', 'metal']"
+00070007_0414.jpg,404.9994,366.0003,1072.9998,665.0001000000001,1,car,car_405.00,"['white', 'parked', 'silver', 'gray', 'large', 'small']"
+00070007_0414.jpg,759.0,0.9994500000000244,1200.0,411.99975,1,trees,trees_759.00,"['green', 'tall', 'large', 'leafy', 'big', 'brown']"
+00070007_0414.jpg,1.0001999999999782,554.99985,415.9998,643.99995,1,fence,fence_1.00,"['metal', 'purple', 'pink', 'green', 'colorful', 'wooden']"
+00070007_0414.jpg,43.00020000000001,450.9999,414.0006,578.9997000000001,1,fenc,fenc_43.00,"['purple', 'black', 'pink', 'metal', 'large', 'small']"
+00070007_0414.jpg,163.0002,790.0002,475.9998,900.0,1,debris,debris_163.00,"['green', 'metal', 'white', 'gray', 'concrete', 'cement']"
+00070007_0414.jpg,228.9996,578.9997,354.9996,668.9997,1,debris,debris_229.00,"['purple', 'pink', 'wooden', 'green', 'metal', 'colorful']"
+00070007_0414.jpg,403.9998,631.9997999999999,1199.9994,899.9999999999999,1,sidewalk,sidewalk_404.00,"['gray', 'concrete', 'cement', 'paved', 'brick', 'stone']"
+00070007_0414.jpg,1075.0002000000002,98.00054999999998,1122.0006,659.00025,1,pole,pole_1075.00,"['wooden', 'tall', 'brown', 'wood', 'metal', 'gray']"
+00070007_0414.jpg,862.0002000000002,344.9997,1200.0006,477.9999,1,building,building_862.00,"['green', 'white', 'red', 'metal', 'glass', 'large']"
+00070007_0414.jpg,606.0005999999998,481.9995,751.0002,558.9998999999999,1,statue,statue_606.00,"['black', 'white', 'gray', 'large', 'small', 'brown']"

@@ -1,0 +1,7 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0070.jpg,639.99984,282.0,722.00016,373.00032,1,car,car_640.00,"red, parked, green, white, small, black","red, small"
+00070007_0070.jpg,386.9995200000001,0.999840000000006,959.99952,359.00016,1,trees,trees_387.00,"bare, green, tall, brown, leafless, large","bare, brown"
+00070007_0070.jpg,122.99952000000002,239.00016000000005,845.9995200000001,704.00016,1,truck,truck_123.00,"white, blue, parked, green, silver, large",white
+00070007_0070.jpg,1.000319999999988,351.99984,960.0,959.99952,1,road,road_1.00,"gray, paved, asphalt, concrete, wet, black","gray, asphalt"
+00070007_0070.jpg,0.9998399999999918,641.99952,245.00016,693.9998400000001,1,debris,debris_1.00,"white, red, pink, long, purple, small",white
+00070007_0070.jpg,207.99984,329.00016,276.99984,372.99984,1,car,car_208.00,"purple, pink, colorful, small, yellow, multi colored",

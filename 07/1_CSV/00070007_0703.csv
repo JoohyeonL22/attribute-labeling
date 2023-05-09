@@ -1,0 +1,8 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0703.jpg,0.999488999999926,306.0,1403.999127,2667.0,1,tree,tree_1.00,"['green', 'brown', 'old', 'gray', 'black', 'wooden']"
+00070007_0703.jpg,1043.999886,170.00100000000003,1271.999328,848.001,1,man,man_1044.00,"['standing', 'young', 'sitting', 'walking', 'looking', 'smiling']"
+00070007_0703.jpg,1029.9989235000005,0.9989999999999952,2318.9988405,321.999,1,trees,trees_1030.00,"['white', 'green', 'large', 'bare', 'tall', 'black']"
+00070007_0703.jpg,1.0006485000000112,1.0005000000000166,705.0003495,447.0015,1,tree,tree_1.00,"['green', 'white', 'purple', 'tall', 'large', 'blue']"
+00070007_0703.jpg,858.9993419999998,298.0005,2319.0,1452.0015,1,building,building_859.00,"['wooden', 'black', 'brown', 'old', 'wood', 'red']"
+00070007_0703.jpg,1.998977999999852,329.001,2319.0,1715.001,1,debris,debris_2.00,"['wooden', 'old', 'green', 'brown', 'black', 'red']"
+00070007_0703.jpg,24.00049050000007,1407.0,2307.9998235,3000.0,1,branch,branch_24.00,"['brown', 'green', 'dead', 'dry', 'gray', 'dirty']"

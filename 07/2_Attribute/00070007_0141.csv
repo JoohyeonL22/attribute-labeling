@@ -1,0 +1,9 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0141.jpg,333.9996555,193.000247,1386.9990225,551.000131,1,building,building_334.00,"yellow, white, large, black, gray, old","yellow, white, large, black, gray, old"
+00070007_0141.jpg,43.000880999999936,275.00019799999995,1019.000521,636.00009,1,bus,bus_43.00,"yellow, blue, large, white, black, green","yellow, blue, large, white, black, green"
+00070007_0141.jpg,1293.999546,464.0003005000001,1421.0,797.0003855,1,car,car_1294.00,"yellow, black, blue, sitting, standing, metal","yellow, black, blue, sitting, standing, metal"
+00070007_0141.jpg,470.0007235,419.0001805,525.0005285,474.0000595,1,sign,sign_470.00,"purple, white, red, pink, large, black","purple, white, red, pink, large, black"
+00070007_0141.jpg,120.00060800000006,0.9997349999999868,1421.0,533.000083,1,trees,trees_120.00,"white, blue, cloudy, yellow, bare, gray","white, blue, cloudy, yellow, bare, gray"
+00070007_0141.jpg,1.0003840000000537,595.9998495,1394.0009999999995,802.9995985,1,road,road_1.00,"gray, yellow, wet, black, paved, red","gray, yellow, wet, black, paved, red"
+00070007_0141.jpg,1.0003840000000537,476.999666,1327.00085,691.999704,1,debris,debris_1.00,"yellow, blue, white, black, long, gray","yellow, blue, white, black, long, gray"
+00070007_0141.jpg,0.9996735,403.999739,77.9994005,457.999883,1,building,building_1.00,"colorful, white, blue, purple, multi colored, pink","colorful, white, blue, purple, multi colored, pink"

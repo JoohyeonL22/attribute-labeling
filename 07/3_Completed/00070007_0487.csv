@@ -1,0 +1,10 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0487.jpg,302.00015649999995,1.0001364999999964,1132.9995355,192.9998455,1,building,building_302.00,"green, white, gray, brown, blue, tan","white, brown"
+00070007_0487.jpg,371.00036399999993,366.999908,1014.000022,470.9996499999999,1,car,car_371.00,"gray, black, silver, small, parked, metal","black, small"
+00070007_0487.jpg,36.999287500000015,98.9998625,151.99939650000002,183.9998215,1,sign,sign_37.00,"white, blue, black, green, large, square","white, square"
+00070007_0487.jpg,1146.999938,1.0001364999999396,1421.0,403.0004055,1,tree,tree_1147.00,"green, tall, black, yellow, large, bare",green
+00070007_0487.jpg,5.999461999999994,6.000015999999988,681.00004,354.999876,1,tree,tree_6.00,"blue, bare, large, green, white, brown","green, brown"
+00070007_0487.jpg,927.0000074999998,1.0001365000000249,1295.0006405,298.0001255,1,tree,tree_927.00,"green, tall, yellow, large, small, leafy",green
+00070007_0487.jpg,1.0003840000001674,192.99984550000005,1421.0,802.9995985,1,water,water_1.00,"calm, gray, wet, dark, large, black","calm, gray"
+00070007_0487.jpg,1.0003840000000253,1.0001364999999822,311.00006,221.0004555,1,building,building_1.00,"brick, brown, red, large, green, pink","brick, brown"
+00070007_0487.jpg,1195.9995705,151.000135,1214.9997615000002,584.000219,1,pole,pole_1196.00,"white, metal, silver, tall, long, gray","metal, silver"

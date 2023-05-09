@@ -1,0 +1,7 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0418.jpg,0.9999750000000064,42.99982800000001,133.000025,122.999952,1,truck,truck_1.00,"green, yellow, glass, white, blue, large","green, yellow, glass, white, blue, large"
+00070007_0418.jpg,22.999927500000013,75.999834,334.9998325,220.999962,1,car,car_23.00,"black, green, parked, white, yellow, silver","black, green, parked, white, yellow, silver"
+00070007_0418.jpg,1.0001424999999813,62.999988,335.0001675,182.999916,1,fence,fence_1.00,"black, yellow, parked, white, green, dark","black, yellow, parked, white, green, dark"
+00070007_0418.jpg,135.99978249999998,1.0000080000000011,238.9998875,74.000076,1,tree,tree_136.00,"green, large, leafy, tall, small, blue","green, large, leafy, tall, small, blue"
+00070007_0418.jpg,64.00007499999998,198.000036,334.000025,258.0,1,road,road_64.00,"yellow, green, concrete, gray, cement, paved","yellow, green, concrete, gray, cement, paved"
+00070007_0418.jpg,0.9998075000000028,197.000028,224.9999025,253.999968,1,sidewalk,sidewalk_1.00,"yellow, green, concrete, gray, cement, painted","yellow, green, concrete, gray, cement, painted"

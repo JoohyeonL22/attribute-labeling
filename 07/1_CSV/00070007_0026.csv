@@ -1,0 +1,7 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0026.jpg,30.0,85.0,280.0,238.0,1,bus,bus_30.00,"['yellow', 'orange', 'parked', 'double decker', 'red', 'white']"
+00070007_0026.jpg,1.000160000000001,189.0,68.00016,245.0,1,bush,bush_1.00,"['purple', 'pink', 'small', 'green', 'colorful', 'black']"
+00070007_0026.jpg,266.0,147.0,320.0,250.0,1,road,road_266.00,"['purple', 'white', 'pink', 'gray', 'painted', 'metal']"
+00070007_0026.jpg,177.99984,134.0,190.99984,153.0,1,sign,sign_178.00,"['red', 'white', 'black', 'small', 'blue', 'pink']"
+00070007_0026.jpg,1.000159999999994,1.0,274.00016,102.0,1,trees,trees_1.00,"['green', 'red', 'black', 'large', 'dark', 'leafy']"
+00070007_0026.jpg,276.0,123.0,320.0,164.0,1,cars,cars_276.00,"['purple', 'pink', 'white', 'blue', 'lit', 'red']"

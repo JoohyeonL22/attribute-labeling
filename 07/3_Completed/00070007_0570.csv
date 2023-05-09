@@ -1,0 +1,7 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0570.jpg,1.000195,0.999925,410.000205,67.000035,1,building,building_1.00,"pink, white, brown, large, purple, tan","white, brown"
+00070007_0570.jpg,117.00006,101.000015,398.00012,184.999925,1,car,car_117.00,"silver, white, green, yellow, gray, moving",white
+00070007_0570.jpg,25.999945,64.999955,409.999795,102.999865,1,fence,fence_26.00,"white, pink, purple, metal, silver, gray","white, metal"
+00070007_0570.jpg,0.99999,70.999965,122.00001,170.000015,1,truck,truck_1.00,"white, green, parked, purple, pink, black","white, parked"
+00070007_0570.jpg,1.000195,155.000105,410.000205,230.000115,1,water,water_1.00,"wet, brown, gray, yellow, concrete, black","wet, brown"
+00070007_0570.jpg,242.000245,113.000035,259.000075,166.000085,1,person,person_242.00,"green, open, black, sitting, white, blue",white

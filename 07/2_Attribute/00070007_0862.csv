@@ -1,0 +1,11 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0862.jpg,1819.002333,1718.000755,2373.001449,2153.000193,1,bag,bag_1819.00,"blue, colorful, red, black, orange, multi colored","blue, colorful, red, black, orange, multi colored"
+00070007_0862.jpg,1266.000012,2012.998457,2901.001806,2479.999483,1,boat,boat_1266.00,"yellow, blue, black, red, small, colorful","yellow, blue, black, red, small, colorful"
+00070007_0862.jpg,1.0007040000000416,0.9991189999999506,3909.0,1428.000137,1,building,building_1.00,"brick, brown, large, white, tall, tan","brick, brown, large, white, tall, tan"
+00070007_0862.jpg,2521.0000980000004,877.0001540000001,3211.001142,1466.000906,1,bush,bush_2521.00,"green, tall, leafy, large, small, potted","green, tall, leafy, large, small, potted"
+00070007_0862.jpg,1961.000667,1144.001678,2628.001155,2162.001198,1,man,man_1961.00,"sitting, smiling, blue, looking, red, wearing","sitting, smiling, blue, looking, red, wearing"
+00070007_0862.jpg,2452.999134,1125.000549,3621.000516,2532.001319,1,man,man_2453.00,"sitting, standing, smiling, red, wearing, black","sitting, standing, smiling, red, wearing, black"
+00070007_0862.jpg,1.0007040000000416,1335.000175,3909.0,2978.001489,1,water,water_1.00,"calm, blue, clear, large, brown, murky","calm, blue, clear, large, brown, murky"
+00070007_0862.jpg,1290.001272,1423.000075,1890.0015,2112.999697,1,woman,woman_1290.00,"red, sitting, smiling, wearing, blue, young","red, sitting, smiling, wearing, blue, young"
+00070007_0862.jpg,3219.0009105,1349.001242,3326.0019675000003,1525.001042,1,man,man_3219.00,"yellow, black, red, white, orange, blue","yellow, black, red, white, orange, blue"
+00070007_0862.jpg,292.0003455,1179.999742,1388.0018565,2619.99973,1,man,man_292.00,"red, standing, black, young, skiing, wearing","red, standing, black, young, skiing, wearing"

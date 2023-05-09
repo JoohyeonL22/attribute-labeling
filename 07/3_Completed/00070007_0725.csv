@@ -1,0 +1,10 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0725.jpg,354.00032,103.9999065,568.00032,230.9998095,1,building,building_354.00,"green, white, large, gray, silver, metal","white, metal"
+00070007_0725.jpg,568,126.999903,640,252.999763,1,building,building_568.00,"green, gray, white, large, tall, black",white
+00070007_0725.jpg,0.99968,146.999969,208.99968,274.999915,1,building,building_1.00,"red, brown, brick, pink, large, green",red
+00070007_0725.jpg,446,191.0000745,538,268.0002095,1,tree,tree_446.00,"orange, glass, green, clear, brown, large",green
+00070007_0725.jpg,558,22.000152,638,217.0002,1,tree,tree_558.00,"green, tall, large, white, leafy, big",green
+00070007_0725.jpg,512,247.999945,607.00032,303.999971,1,truck,truck_512.00,"white, parked, silver, gray, orange, small",white
+00070007_0725.jpg,602.00032,261.9999515,640.00032,314.9998485,1,truck,truck_602.00,"green, black, metal, blue, open, dark","black, metal"
+00070007_0725.jpg,26.99968,118.9997575,166,177.9999125,1,debris,debris_27.00,"green, blue, white, metal, black, red",red
+00070007_0725.jpg,207,123.9999725,497,299.9999975,1,debris,debris_207.00,"green, white, metal, silver, large, black","white, metal"

@@ -1,0 +1,8 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0568.jpg,354.00075,163.99984999999998,455.00025,196.99977,1,car,car_354.00,"['red', 'yellow', 'black', 'glass', 'small', 'large']"
+00070007_0568.jpg,666.0007499999999,190.000015,791.00025,219.999825,1,car,car_666.00,"['red', 'white', 'yellow', 'blue', 'small', 'colorful']"
+00070007_0568.jpg,959.00025,204.99992,1500.0007500000002,430.0,1,truck,truck_959.00,"['red', 'silver', 'white', 'parked', 'gray', 'blue']"
+00070007_0568.jpg,0.9997499999999492,166.99996000000002,1499.99925,430.0,1,water,water_1.00,"['green', 'calm', 'red', 'large', 'clear', 'reflective']"
+00070007_0568.jpg,492.99975,0.9999649999999888,1499.9992499999998,248.000135,1,trees,trees_493.00,"['green', 'large', 'tall', 'brown', 'big', 'leafy']"
+00070007_0568.jpg,0.999750000000006,0.9997499999999916,479.00025,211.99989,1,trees,trees_1.00,"['green', 'red', 'yellow', 'large', 'leafy', 'tall']"
+00070007_0568.jpg,865.9994999999999,293.999815,1150.9995,358.999905,1,car,car_866.00,"['silver', 'black', 'white', 'glass', 'parked', 'clear']"

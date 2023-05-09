@@ -1,0 +1,10 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0888.jpg,408.000391,319.999818,514.000321,526.999702,1,ladder,ladder_408.00,"['wooden', 'brown', 'purple', 'wood', 'metal', 'tall']"
+00070007_0888.jpg,290.00034800000003,334.000229,400.00048,553.000307,1,man,man_290.00,"['standing', 'walking', 'red', 'looking', 'old', 'wearing']"
+00070007_0888.jpg,462.9999640000001,334.000229,573.9999,553.000307,1,man,man_463.00,"['standing', 'walking', 'purple', 'sitting', 'old', 'wearing']"
+00070007_0888.jpg,667.000406,331.999735,759.000122,552.999753,1,man,man_667.00,"['standing', 'blue', 'walking', 'young', 'white', 'looking']"
+00070007_0888.jpg,0.9998039999999832,0.9999700000000188,675.999628,526.9997020000001,1,tree,tree_1.00,"['orange', 'blue', 'red', 'white', 'large', 'brown']"
+00070007_0888.jpg,718.999581,1.00024700000003,985.999507,304.00002099999995,1,trees,trees_719.00,"['purple', 'blue', 'pink', 'bare', 'tall', 'white']"
+00070007_0888.jpg,147.000275,343.00023600000003,173.000109,438.000156,1,person,person_147.00,"['purple', 'pink', 'blue', 'colorful', 'standing', 'black']"
+00070007_0888.jpg,22.99992900000001,49.000192,842.9999270000001,535.0000160000001,1,building,building_23.00,"['orange', 'blue', 'white', 'red', 'brown', 'large']"
+00070007_0888.jpg,655.999604,369.999703,986.0,510.999905,1,debris,debris_656.00,"['wooden', 'blue', 'metal', 'brown', 'wood', 'white']"

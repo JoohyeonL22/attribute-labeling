@@ -1,0 +1,8 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0400.jpg,251.99985,91.00003499999995,292.99995,184.000005,1,man,man_252.00,"standing, walking, white, sitting, watching, looking","standing, walking, white, sitting, watching, looking"
+00070007_0400.jpg,4.999949999999984,8.99996999999999,299.99985000000004,152.99991,1,truck,truck_5.00,"red, white, parked, double decker, black, large","red, white, parked, double decker, black, large"
+00070007_0400.jpg,1.000050000000016,134.000055,300.00015,209.000085,1,road,road_1.00,"metal, yellow, white, gray, silver, green","metal, yellow, white, gray, silver, green"
+00070007_0400.jpg,128.99985000000004,101.99993999999998,253.99995,187.99998,1,tarp,tarp_129.00,"blue, white, clear, red, metal, black","blue, white, clear, red, metal, black"
+00070007_0400.jpg,98.99985,106.00002,262.99995,189.0,1,car,car_99.00,"white, blue, red, metal, black, silver","white, blue, red, metal, black, silver"
+00070007_0400.jpg,37.00005,143.99993999999998,168.00015000000002,190.00002,1,debris,debris_37.00,"metal, green, white, silver, black, empty","metal, green, white, silver, black, empty"
+00070007_0400.jpg,1.0000500000000017,1.000019999999992,106.99995,79.99992,1,trees,trees_1.00,"red, green, white, large, open, black","red, green, white, large, open, black"

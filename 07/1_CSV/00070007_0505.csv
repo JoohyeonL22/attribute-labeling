@@ -1,0 +1,7 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0505.jpg,495.00045000000006,205.00004,578.0001500000001,411.00023,1,man,man_495.00,"['standing', 'walking', 'old', 'sitting', 'green', 'young']"
+00070007_0505.jpg,576.00025,192.99990000000005,644.00035,415.0,1,man,man_576.00,"['green', 'gray', 'standing', 'black', 'walking', 'blue']"
+00070007_0505.jpg,585.0001500000001,154.0000675,628.00045,218.00012250000003,1,person,person_585.00,"['blue', 'green', 'white', 'red', 'large', 'black']"
+00070007_0505.jpg,0.999949999999984,1.0001499999999908,478.00025,342.99999,1,smoke,smoke_1.00,"['white', 'blue', 'black', 'blurry', 'large', 'clear']"
+00070007_0505.jpg,629.0000500000001,173.99995499999997,669.0001500000001,267.999945,1,person,person_629.00,"['green', 'red', 'glass', 'blue', 'open', 'metal']"
+00070007_0505.jpg,665.0,166.0,700.0,244.00008000000005,1,person,person_665.00,"['red', 'standing', 'sitting', 'white', 'watching', 'orange']"

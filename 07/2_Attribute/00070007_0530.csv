@@ -1,0 +1,10 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0530.jpg,325.999701,1.0001099999999925,985.999507,220.99989,1,building,building_326.00,"clear, glass, green, blue, large, white","clear, glass, green, blue, large, white"
+00070007_0530.jpg,195.999545,1.0001100000000065,238.999991,306.00036,1,pole,pole_196.00,"red, brown, metal, wooden, tall, gray","red, brown, metal, wooden, tall, gray"
+00070007_0530.jpg,0.9998039999999976,1.0001099999999925,201.000044,149.99984999999998,1,tree,tree_1.00,"green, large, tall, brown, big, blue","green, large, tall, brown, big, blue"
+00070007_0530.jpg,205.999557,1.0001100000000065,591.999823,293.00004,1,tree,tree_206.00,"large, clear, blue, glass, calm, tall","large, clear, blue, glass, calm, tall"
+00070007_0530.jpg,553.0000719999999,18.000037500000005,673.000216,151.9997925,1,tree,tree_553.00,"pink, purple, green, small, colorful, white","pink, purple, green, small, colorful, white"
+00070007_0530.jpg,658.000691,3.999885000000006,796.0002649999999,177.000045,1,tree,tree_658.00,"green, glass, small, white, large, tall","green, glass, small, white, large, tall"
+00070007_0530.jpg,772.000039,31.999912500000008,879.999577,140.0001375,1,tree,tree_772.00,"green, glass, metal, white, small, tall","green, glass, metal, white, small, tall"
+00070007_0530.jpg,0.9998039999999976,88.000245,181.00002,389.000055,1,truck,truck_1.00,"green, gray, silver, parked, black, white","green, gray, silver, parked, black, white"
+00070007_0530.jpg,0.9998039999999832,98.99979,986.0,555.0,1,water,water_1.00,"wet, brown, large, calm, tan, dark","wet, brown, large, calm, tan, dark"

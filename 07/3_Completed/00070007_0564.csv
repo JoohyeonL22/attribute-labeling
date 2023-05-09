@@ -1,0 +1,17 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0564.jpg,792.999,860.999562,1923.999,1486.999062,1,cart,cart_793.00,"blue, wooden, green, metal, large, brown","blue, metal"
+00070007_0564.jpg,1152.0,701.0002020000002,1464.0,1650.000414,1,man,man_1152.00,"standing, walking, young, sitting, wearing, black","standing, black"
+00070007_0564.jpg,1342.0005,650.001408,1566.0015,900.000408,1,man,man_1342.00,"standing, sitting, purple, walking, pink, black","standing, black"
+00070007_0564.jpg,1576.9995,644.0004299999998,1780.0005,1252.000002,1,man,man_1577.00,"green, purple, sitting, blue, standing, pink","blue, standing"
+00070007_0564.jpg,672.0015,640.000446,883.0005,1441.0012499999998,1,man,man_672.00,"standing, walking, young, black, wearing, smiling","walking, black"
+00070007_0564.jpg,0.9990000000000236,483.0000720000001,2874.999,1532.99988,1,debris,debris_1.00,"gray, green, red, brown, concrete, pink","gray, brown"
+00070007_0564.jpg,259.0005,290.00084400000003,1425.0015,759.0009719999999,1,junk vehicle,junk vehicle_259.00,"green, white, metal, gray, colorful, wooden","white, metal"
+00070007_0564.jpg,1618.0004999999996,110.000562,3000.0015,809.9997659999999,1,building,building_1618.00,"large, gray, old, white, big, stone","gray, old"
+00070007_0564.jpg,40.99950000000007,1.0009979999999814,1025.9985,547.000818,1,building,building_41.00,"green, gray, old, white, large, concrete","gray, old"
+00070007_0564.jpg,2551.0005,892.9994340000001,3000.0015,1486.999062,1,junk vehicle,junk vehicle_2551.00,"gray, black, large, red, old, brown","gray, old"
+00070007_0564.jpg,1.0004999999998745,859.9995660000001,2995.9995,2002.999002,1,street,street_1.00,"brown, gray, dirt, dirty, sandy, wet","brown, dirt"
+00070007_0564.jpg,1731.0015,671.0003220000001,2017.0005,1392.999438,1,man,man_1731.00,"standing, walking, green, young, blue, sitting","standing, blue"
+00070007_0564.jpg,1747.0005,647.000418,1993.9995000000004,923.001318,1,man,man_1747.00,"black, pink, green, brown, purple, striped",striped
+00070007_0564.jpg,2101.0005,704.00019,2277.0015,1188.000258,1,man,man_2101.00,"standing, green, black, walking, old, smiling","standing, black"
+00070007_0564.jpg,902.001,977.0001,1613.001,1146.99942,1,body,body_902.00,"blue, light blue, green, large, white, teal",blue
+00070007_0564.jpg,1369.9995,863.0005560000001,1877.9985,1176.001308,1,body,body_1370.00,"blue, light blue, colorful, white, purple, green",blue

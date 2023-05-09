@@ -1,0 +1,9 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0699.jpg,1.0001600000000082,218.999844,145.0004,381.999996,1,dumpster,dumpster_1.00,"black, blue, double decker, white, yellow, red",black
+00070007_0699.jpg,433.9998999999999,221.999904,759.9996199999999,350.999712,1,car,car_434.00,"black, parked, blue, silver, yellow, gray",black
+00070007_0699.jpg,0.9997800000000154,376.000128,251.99966,422.000208,1,debris,debris_1.00,"pink, gray, white, red, black, concrete",gray
+00070007_0699.jpg,1.000159999999994,1.0001880000000083,760.0,260.00024400000007,1,smoke,smoke_1.00,"blue, cloudy, white, gray, clear, overcast","cloudy, white"
+00070007_0699.jpg,117.99988,209.999916,363.99972,330.999732,1,truck,truck_118.00,"blue, parked, silver, green, white, yellow",yellow
+00070007_0699.jpg,1.000159999999994,320.999868,760.0,503.999748,1,road,road_1.00,"gray, paved, concrete, asphalt, black, cement","gray, asphalt"
+00070007_0699.jpg,84.99992,358.999956,150.99984,380.000124,1,tire,tire_85.00,"black, purple, pink, red, small, white","black, small"
+00070007_0699.jpg,260.00018,115.999884,760.0003800000001,343.999908,1,debris,debris_260.00,"black, blue, parked, silver, white, large","blue, large"

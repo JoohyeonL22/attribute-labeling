@@ -1,0 +1,12 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0455.jpg,523.999347,241.00014750000005,959.999673,475.9999125000001,1,car,car_524.00,"blue, purple, black, colorful, metal, gray","metal, gray"
+00070007_0455.jpg,432.000124,172.00005000000002,542.0002559999999,522.99981,1,police,police_432.00,"purple, black, pink, standing, gray, blue","black, standing"
+00070007_0455.jpg,589.9997220000001,136.9998075,770.9997420000001,548.0000625,1,firefighter,firefighter_590.00,"sitting, black, white, standing, gray, large","black, standing"
+00070007_0455.jpg,888.9997850000001,180.99993,983.999899,516.0001500000001,1,police,police_889.00,"blue, black, standing, gray, white, orange","black, standing"
+00070007_0455.jpg,186.99983000000003,276.0001125,207.999658,465.0003675,1,pole,pole_187.00,"metal, blue, silver, yellow, gray, tall","metal, gray"
+00070007_0455.jpg,0.9998039999999976,376.00029,191.00003200000003,485.00007,1,road,road_1.00,"gray, blue, black, white, yellow, concrete",gray
+00070007_0455.jpg,152.000281,19.99998,238.000187,148.99974,1,sign,sign_152.00,"white, black, red, yellow, black and white, pink",white
+00070007_0455.jpg,155.000186,139.00030500000005,226.000074,268.000065,1,sign,sign_155.00,"yellow, white, black, red, blue, purple",white
+00070007_0455.jpg,178.000115,1.0001099999999994,213.999961,23.00031,1,sign,sign_178.00,"red, pink, orange, white, small, black",red
+00070007_0455.jpg,97.999526,237.9998175,791.99957,473.9996925,1,debris,debris_98.00,"blue, purple, black, metal, white, gray","black, metal"
+00070007_0455.jpg,422.000112,169.000275,470.000564,217.000005,1,man,man_422.00,"pink, purple, white, black, large, colorful",white

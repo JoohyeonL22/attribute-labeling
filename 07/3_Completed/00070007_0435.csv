@@ -1,0 +1,5 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0435.jpg,1.0003455000000017,1.000100499999995,104.0002425,73.0001475,1,building,building_1.00,"pink, brown, purple, white, red, tan",brown
+00070007_0435.jpg,1.0003454999999946,42.00007349999999,118.0002285,308.0002625,1,van,van_1.00,"black, parked, gray, silver, dark, red","parked, gray"
+00070007_0435.jpg,0.9996525000000248,2.000201000000004,690.9996555,549.999975,1,building,building_1.00,"brown, old, gray, brick, concrete, dirty","brown, old"
+00070007_0435.jpg,104.999895,134.9997425,540.000153,451.9998035,1,debris,debris_105.00,"old, brown, wooden, gray, black, dirty","old, brown"

@@ -1,0 +1,13 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0712.jpg,3145.9998720000003,1161.00072,3264.0,1628.0007839999998,1,cone,cone_3146.00,"['orange', 'red', 'white', 'striped', 'metal', 'large']"
+00070007_0712.jpg,909.998304,1296.9993599999998,2597.998752,2448.0,1,sign,sign_910.00,"['black', 'white', 'gray', 'large', 'square', 'concrete']"
+00070007_0712.jpg,1015.9999680000004,1.000007999999866,3263.9983680000005,1218.99996,1,trees,trees_1016.00,"['green', 'tall', 'brown', 'large', 'leafy', 'big']"
+00070007_0712.jpg,901.999872,1197.001008,1358.99904,1362.999888,1,cone,cone_902.00,"['orange', 'red', 'yellow', 'black', 'round', 'brown']"
+00070007_0712.jpg,1.9992000000000871,1.000007999999866,1126.000032,1082.998872,1,trees,trees_2.00,"['green', 'tall', 'large', 'leafy', 'big', 'brown']"
+00070007_0712.jpg,773.0000640000001,561.000816,1562.99904,1064.999952,1,crane,crane_773.00,"['yellow', 'red', 'orange', 'large', 'black', 'green']"
+00070007_0712.jpg,0.9987839999998868,844.0006320000002,3264.0,2448.001224,1,road,road_1.00,"['gray', 'brown', 'black', 'paved', 'white', 'dirt']"
+00070007_0712.jpg,1.0004160000000295,990.99936,765.001632,1176.9984,1,rocks,rocks_1.00,"['gray', 'large', 'green', 'stone', 'white', 'piled']"
+00070007_0712.jpg,800.001504,868.998384,851.001504,968.999184,1,man,man_800.00,"['green', 'white', 'yellow', 'blue', 'black', 'red']"
+00070007_0712.jpg,852.0002880000001,877.99968,887.998944,970.000416,1,man,man_852.00,"['green', 'white', 'blue', 'yellow', 'colorful', 'hanging']"
+00070007_0712.jpg,1272.0003840000002,860.00076,1314.001536,974.001672,1,man,man_1272.00,"['pink', 'colorful', 'red', 'purple', 'yellow', 'hanging']"
+00070007_0712.jpg,1238.0009280000002,891.999792,1273.0008,936.000144,1,car,car_1238.00,"['pink', 'purple', 'colorful', 'red', 'small', 'multi colored']"

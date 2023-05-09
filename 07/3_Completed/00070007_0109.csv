@@ -1,0 +1,21 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0109.jpg,0.999936,362.000268,992,744.000372,1,field,field_1.00,"green, brown, grassy, dry, yellow, large","brown, grassy"
+00070007_0109.jpg,307.000192,367.999884,341.999936,471.999924,1,man,man_307.00,"black, standing, walking, dark, sitting, green","black, standing"
+00070007_0109.jpg,570.00072,386.00022,624.00024,517.999956,1,man,man_570.00,"standing, walking, watching, black, looking, wearing","standing, black"
+00070007_0109.jpg,610.00064,435.999996,708.00032,561.00018,1,woman,woman_610.00,"blue, green, metal, small, sitting, colorful","blue, sitting"
+00070007_0109.jpg,715.999808,430.999944,804.000128,542.00028,1,man,man_716.00,"sitting, white, black, watching, blue, gray","sitting, black"
+00070007_0109.jpg,718.999616,365.99964,781.999552,432.999816,1,man,man_719.00,"standing, gray, sitting, white, walking, brown","standing, gray"
+00070007_0109.jpg,585.999696,272.000076,971.999792,352.000164,1,trees,trees_586.00,"red, black, pink, tall, metal, bare",bare
+00070007_0109.jpg,372,506.999916,498.999808,631.000164,1,woman,woman_372.00,"green, little, sitting, small, young, blue",sitting
+00070007_0109.jpg,0.99944,70.99992,628.99992,376.99968,1,trees,trees_1.00,"bare, leafless, tall, large, white, brown","bare, leafless"
+00070007_0109.jpg,463.000128,430.000008,527,590.000184,1,woman,woman_463.00,"purple, standing, black, pink, walking, sitting","standing, black"
+00070007_0109.jpg,519.999952,398.000196,559.000432,551.000076,1,man,man_520.00,"standing, walking, black, purple, blue, tall","standing, purple"
+00070007_0109.jpg,626.000112,393.999708,675.999888,471.999924,1,woman,woman_626.00,"blue, purple, standing, sitting, pink, white","blue, standing"
+00070007_0109.jpg,670.000272,427.999764,741.000688,527.000124,1,man,man_670.00,"blue, green, sitting, metal, black, standing","sitting, black"
+00070007_0109.jpg,322.999664,303.999888,955.999824,489.999888,1,bus,bus_323.00,"yellow, green, black, metal, colorful, long","yellow, metal"
+00070007_0109.jpg,371.000064,492.999696,402.000064,515.999712,1,bag,bag_371.00,"green, white, street, black, blue, small",small
+00070007_0109.jpg,256.99992,476.999604,297.000336,506.999916,1,bag,bag_257.00,"blue, white, plastic, small, open, empty","white, small"
+00070007_0109.jpg,201.000032,470.000052,234.99984,504.000108,1,bag,bag_201.00,"yellow, blue, black, orange, red, small",blue
+00070007_0109.jpg,40.000416,441.999984,133.000416,623.000304,1,man,man_40.00,"walking, standing, blue, green, white, young",walking
+00070007_0109.jpg,66.00024,342.00006,292.000656,469.000116,1,people,people_66.00,"green, standing, metal, walking, brown, wooden",standing
+00070007_0109.jpg,0.999936,345.999804,36.999616,470.000052,1,people,people_1.00,"sitting, standing, brown, walking, black, watching","standing, black"

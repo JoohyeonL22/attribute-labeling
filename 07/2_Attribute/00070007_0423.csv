@@ -1,0 +1,6 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0423.jpg,0.9999359999999982,254.99989000000005,45.000192,287.99981,1,bag,bag_1.00,"red, orange, black, white, large, hanging","red, orange, black, white, large, hanging"
+00070007_0423.jpg,215.00006399999995,36.00002999999998,671.000064,402.99987,1,junk vehicle,junk vehicle_215.00,"metal, black, white, old, gray, green","metal, black, white, old, gray, green"
+00070007_0423.jpg,61.000320000000016,30.99999,265.00032,388.99993,1,firefighter,firefighter_61.00,"purple, pink, colorful, black, gray, standing","purple, pink, colorful, black, gray, standing"
+00070007_0423.jpg,55.999872,139.00008,238.99968,424.99996,1,firefighter,firefighter_56.00,"purple, gray, colorful, pink, black, metal","purple, gray, colorful, pink, black, metal"
+00070007_0423.jpg,0.999935999999991,107.00012499999995,768.0,401.000155,1,grass,grass_1.00,"green, black, purple, gray, metal, white","green, black, purple, gray, metal, white"

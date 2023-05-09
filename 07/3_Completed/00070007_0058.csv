@@ -1,0 +1,4 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0058.jpg,64.99984,9.000119999999995,319.99984,161.00004,1,car,car_65.00,"black, red, white, dark, parked, purple",red
+00070007_0058.jpg,2.000160000000001,76.00008000000001,55.00016,145.00008000000005,1,chair,chair_2.00,"yellow, blurry, purple, blue, white, black","blurry, black"
+00070007_0058.jpg,1.000159999999994,126.0,320.00016,240.0,1,road,road_1.00,"black, yellow, gray, empty, wet, concrete",gray

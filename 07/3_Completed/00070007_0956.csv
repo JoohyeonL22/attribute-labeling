@@ -1,0 +1,12 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0956.jpg,143.999995,3.999929999999992,361.999865,163.99989,1,bus,bus_144.00,"white, yellow, black, moving, parked, double decker",white
+00070007_0956.jpg,221.00004500000003,75.999935,261.00005500000003,199.000025,1,man,man_221.00,"white, black, sitting, standing, pink, gray",standing
+00070007_0956.jpg,198.000275,4.000045,215.000105,167.999935,1,pole,pole_198.00,"green, metal, black, long, tall, gray","metal, long"
+00070007_0956.jpg,0.9999900000000252,145.999975,276.00011,229.999885,1,road,road_1.00,"empty, gray, concrete, brown, metal, black",gray
+00070007_0956.jpg,12.000085,41.00003,42.000195,87.00003,1,sign,sign_12.00,"green, white, large, blue, red, pink",white
+00070007_0956.jpg,3.9999600000000015,1.0001549999999997,62.99978,73.000045,1,tree,tree_4.00,"green, blue, white, brown, large, glass",green
+00070007_0956.jpg,2.9999699999999905,142.000045,409.00001,229.000075,1,sidewalk,sidewalk_3.00,"empty, gray, metal, concrete, black, yellow",gray
+00070007_0956.jpg,9.999900000000004,88.999995,64.99976000000001,143.000085,1,people,people_10.00,"white, large, standing, pink, framed, glass",standing
+00070007_0956.jpg,56.000055,0.9999249999999976,115.999865,74.99989500000001,1,building,building_56.00,"green, white, blue, black, tall, large","white, black"
+00070007_0956.jpg,83.99998000000001,0.9999250000000046,244.00002,155.999915,1,pole,pole_84.00,"black, green, white, yellow, moving, silver",silver
+00070007_0956.jpg,247.000195,1.0000399999999985,410.000205,84.00014,1,building,building_247.00,"green, white, brown, large, black, blue","white, brown"

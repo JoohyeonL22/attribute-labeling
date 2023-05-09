@@ -1,0 +1,12 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0342.jpg,93.00043999999998,218.000277,329.0002,349.000263,1,car,car_93.00,"green, blue, black, parked, white, large",black
+00070007_0342.jpg,429.9996399999999,207.999801,716.99996,392.999679,1,car,car_430.00,"black, green, parked, yellow, blue, white",black
+00070007_0342.jpg,222.99996,186.000093,443.0002,301.999923,1,truck,truck_223.00,"green, white, blue, parked, large, double decker",white
+00070007_0342.jpg,1.000159999999994,257.000013,760.0,558.0002790000001,1,bridge,bridge_1.00,"gray, wet, paved, concrete, brown, black","gray, wet"
+00070007_0342.jpg,1.000159999999994,246.999816,136.00048,282.999744,1,water,water_1.00,"yellow, white, blue, black, large, gray",blue
+00070007_0342.jpg,622.00034,228.999852,760.00038,301.999644,1,water,water_622.00,"green, white, blue, black, gray, open",white
+00070007_0342.jpg,432.00034,194.000139,462.99998,222.999957,1,truck,truck_432.00,"yellow, green, red, black, traffic, street",green
+00070007_0342.jpg,66.00030000000001,227.999916,108.00018,296.00002800000004,1,man,man_66.00,"green, yellow, colorful, blue, standing, white","green, standing"
+00070007_0342.jpg,0.9997800000000296,354.000222,245.00006,457.000326,1,debris,debris_1.00,"metal, black, red, dirty, gray, white","metal, dirty"
+00070007_0342.jpg,72.00012,484.00027200000005,117.99988,520.0002000000001,1,debris,debris_72.00,"green, small, square, white, blue, open",small
+00070007_0342.jpg,652.0002000000001,403.999812,709.0002000000001,456.999768,1,debris,debris_652.00,"blue, white, small, plastic, empty, metal","small, plastic"

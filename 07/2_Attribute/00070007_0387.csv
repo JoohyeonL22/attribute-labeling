@@ -1,0 +1,7 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0387.jpg,1.0003700000000322,1.0000650000000348,618.00019,295.000035,1,field,field_1.00,"green, brown, black, yellow, gray, dirty","green, brown, black, yellow, gray, dirty"
+00070007_0387.jpg,1.0003700000000322,270.00006,618.00019,330.0,1,road,road_1.00,"gray, yellow, green, paved, empty, white","gray, yellow, green, paved, empty, white"
+00070007_0387.jpg,184.00019,97.00019999999998,617.00013,257.00004,1,car,car_184.00,"white, blue, black, parked, silver, old","white, blue, black, parked, silver, old"
+00070007_0387.jpg,18.000149999999998,54.00004499999999,83.00032999999999,282.000015,1,man,man_18.00,"standing, purple, walking, smiling, black, pink","standing, purple, walking, smiling, black, pink"
+00070007_0387.jpg,1.0003700000000002,200.00013,40.00023,266.00013,1,debris,debris_1.00,"red, pink, black, purple, white, yellow","red, pink, black, purple, white, yellow"
+00070007_0387.jpg,65.00018,64.00003500000003,131.00042000000002,278.000085,1,woman,woman_65.00,"standing, black, purple, blue, smiling, young","standing, black, purple, blue, smiling, young"

@@ -1,0 +1,12 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0488.jpg,438.00012,94.00002,720.00036,231.99986,1,bush,bush_438.00,"green, yellow, tall, black, metal, long","green, black"
+00070007_0488.jpg,1.00044,111.999825,133.0002,143.999775,1,car,car_1.00,"green, white, blue, large, colorful, metal","white, large"
+00070007_0488.jpg,94.00032,176.9998625,416.00016,243.0000375,1,car,car_94.00,"white, blue, silver, small, parked, gray","white, small"
+00070007_0488.jpg,1.00008,136.00001,293.0004,198.00008,1,fence,fence_1.00,"white, yellow, green, black, long, silver",white
+00070007_0488.jpg,355.00032,127.0001075,540,198.0003025,1,fence,fence_355.00,"green, blue, black, white, brown, metal",black
+00070007_0488.jpg,29.00016,1.0001375,49.00032,195.0001125,1,pole,pole_29.00,"purple, blue, pink, black, tall, metal","black, tall"
+00070007_0488.jpg,293.00004,3.00019,321.00012,196.00025,1,pole,pole_293.00,"tall, black, metal, gray, large, long","tall, black"
+00070007_0488.jpg,625.00032,1.0001375,666,262.0002025,1,pole,pole_625.00,"green, black, metal, tall, dark, large",black
+00070007_0488.jpg,0.99972,1.0001375,719.99964,180.0000525,1,building,building_1.00,"green, white, blue, large, tall, gray",large
+00070007_0488.jpg,0.99972,188.00004,719.99964,445,1,water,water_1.00,"blue, calm, gray, clear, large, green","calm, gray"
+00070007_0488.jpg,52.99992,1.0001375,435.9996,185.0000725,1,tree,tree_53.00,"bare, tall, large, green, white, leafless","bare, large"

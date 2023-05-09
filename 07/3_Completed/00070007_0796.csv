@@ -1,0 +1,6 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0796.jpg,0.9998244999999316,0.999832500000025,1600.9991995,684.9993575,1,building,building_1.00,"brick, stone, brown, red, gray, old","brick, brown"
+00070007_0796.jpg,0.9998244999999316,665.0003055,1600.9991995,1201.0006005,1,water,water_1.00,"brown, wet, gray, large, black, concrete","brown, wet"
+00070007_0796.jpg,416.000638,549.9997515,1482.999896,707.9997085,1,car,car_416.00,"green, yellow, blue, colorful, multi colored, black",black
+00070007_0796.jpg,59.999076,135.00020650000002,147.999642,193.0000995,1,sign,sign_60.00,"yellow, black, small, white, red, square","yellow, small"
+00070007_0796.jpg,72.99919600000001,181.00030800000005,114.99983,687.0008240000001,1,pole,pole_73.00,"yellow, metal, gray, blue, tall, silver","metal, gray"

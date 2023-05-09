@@ -1,0 +1,10 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0919.jpg,805.9995405,151.00004800000002,1112.9994435,340.000124,1,car,car_806.00,"black, blue, green, large, white, blurry","black, blue, green, large, white, blurry"
+00070007_0919.jpg,597.0004005,386.0003635000001,1018.0004415,561.0001445,1,debris,debris_597.00,"black, red, clear, glass, green, metal","black, red, clear, glass, green, metal"
+00070007_0919.jpg,718.9996695000001,66.00001699999999,830.9997465,368.00011300000006,1,fire,fire_719.00,"yellow, green, blue, standing, tall, walking","yellow, green, blue, standing, tall, walking"
+00070007_0919.jpg,1.0000304999999798,0.9997634999999718,955.9996635,315.0000265,1,smoke,smoke_1.00,"blue, glass, clear, silver, white, gray","blue, glass, clear, silver, white, gray"
+00070007_0919.jpg,148.00061849999994,53.00038699999996,468.0003615,332.00021300000003,1,car,car_148.00,"black, blue, silver, glass, red, large","black, blue, silver, glass, red, large"
+00070007_0919.jpg,482.999706,84.99973049999997,817.9993499999999,343.0000155,1,debris,debris_483.00,"blue, green, glass, clear, large, white","blue, green, glass, clear, large, white"
+00070007_0919.jpg,122.9992995,55.99997799999997,500.9996985,334.99980400000004,1,fire,fire_123.00,"blue, silver, glass, black, metal, clear","blue, silver, glass, black, metal, clear"
+00070007_0919.jpg,540.0003315,154.999703,585.0000345,214.999937,1,fire,fire_540.00,"red, orange, black, white, square, traffic","red, orange, black, white, square, traffic"
+00070007_0919.jpg,0.9994739999999638,369.9999405,1113.0,600.9996995,1,field,field_1.00,"green, brown, grassy, dirty, short, grass","green, brown, grassy, dirty, short, grass"

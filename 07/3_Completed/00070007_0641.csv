@@ -1,0 +1,18 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0641.jpg,48,293.999904,616.999936,536.999904,1,car,car_48.00,"red, green, black, double decker, moving, blue",blue
+00070007_0641.jpg,136,330.99984,276.000256,571.999968,1,man,man_136.00,"green, standing, walking, black, red, wearing","green, standing"
+00070007_0641.jpg,258.000384,317.00016,335.000064,558.000288,1,man,man_258.00,"standing, walking, black, yellow, wearing, looking","standing, yellow"
+00070007_0641.jpg,518.999552,266.000256,605.999616,393.000192,1,firefighter,firefighter_519.00,"sitting, green, standing, watching, wearing, white","standing, wearing"
+00070007_0641.jpg,291.00032,4.000032,312.000512,213.99984,1,pole,pole_291.00,"purple, pink, metal, colorful, long, white","metal, long"
+00070007_0641.jpg,703.000064,2.00016,729.000448,283.000032,1,pole,pole_703.00,"metal, gray, silver, tall, brown, long","metal, gray"
+00070007_0641.jpg,775.000064,161.999712,807.000064,365.999904,1,pole,pole_775.00,"green, blue, white, red, metal, black","white, metal"
+00070007_0641.jpg,730.999808,1.000224,876.99968,227.00016,1,tower,tower_731.00,"bare, leafless, tall, large, gray, white","gray, white"
+00070007_0641.jpg,0.999936,1.000224,1023.999488,351.000288,1,trees,trees_1.00,"white, gray, blue, red, cloudy, green","gray, green"
+00070007_0641.jpg,42.000384,0.999936,63.000576,213.000192,1,pole,pole_42.00,"metal, tall, silver, gray, green, white","metal, gray"
+00070007_0641.jpg,0.999936,277.999776,155.999744,575.999712,1,truck,truck_1.00,"red, double decker, parked, black, white, pink","red, parked"
+00070007_0641.jpg,0.999936,143.000064,820.99968,466.000128,1,truck,truck_1.00,"green, white, silver, double decker, gray, moving",white
+00070007_0641.jpg,212.000256,0.999936,359.000576,183.999744,1,tower,tower_212.00,"green, pink, purple, large, colorful, white",large
+00070007_0641.jpg,430.999552,304.000128,504.999936,377.000064,1,man,man_431.00,"green, blue, colorful, red, white, glass",red
+00070007_0641.jpg,509.000192,348.99984,585.999872,390.000096,1,firefighter,firefighter_509.00,"blue, green, sitting, white, small, colorful",green
+00070007_0641.jpg,411.00032,296.000352,452.000256,343.000224,1,man,man_411.00,"green, red, white, blue, glass, silver",green
+00070007_0641.jpg,579.999744,296.999712,626.999296,409.999968,1,person,person_580.00,"green, sitting, red, white, blue, open",

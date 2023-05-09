@@ -1,0 +1,13 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0975.jpg,1.00067999999996,0.9999990000000024,431.00044,274.999725,1,building,building_1.00,"pink, purple, white, gray, brown, large","white, brown"
+00070007_0975.jpg,881.00016,9.000400499999998,1240.0,238.0001715,1,building,building_881.00,"brown, brick, pink, red, large, white","brown, white"
+00070007_0975.jpg,682.0,307.999692,1120.99968,461.999538,1,car,car_682.00,"yellow, white, parked, black, tan, large",tan
+00070007_0975.jpg,1.0000599999999622,264.0001455,455.99946,488.9999205,1,fence,fence_1.00,"metal, silver, chain link, black, white, gray","metal, silver"
+00070007_0975.jpg,455.00002000000006,238.999761,1196.0004600000002,366.999633,1,fence,fence_455.00,"brown, wooden, wood, metal, tall, green","brown, metal"
+00070007_0975.jpg,148.00019999999998,128.0002815,197.00004,267.00014250000004,1,man,man_148.00,"standing, white, large, walking, old, tall","standing, white"
+00070007_0975.jpg,1101.00034,6.999992999999989,1165.0004600000002,232.999767,1,tree,tree_1101.00,"tall, green, white, large, black, metal",
+00070007_0975.jpg,1200.00008,1.000408500000006,1240.0000000000002,236.0001735,1,tree,tree_1200.00,"brown, tall, green, black, orange, large",brown
+00070007_0975.jpg,0.9994400000000496,369.0000405,1240.0,819.0004095,1,water,water_1.00,"brown, calm, wet, gray, large, clean","brown, wet"
+00070007_0975.jpg,1109.0002,205.999794,1202.0002,237.99976200000003,1,truck,truck_1109.00,"green, white, blue, small, glass, metal","white, metal"
+00070007_0975.jpg,590.00006,0.999998999999974,640.00058,448.000371,1,pole,pole_590.00,"black, tall, metal, brown, wooden, dark","black, tall"
+00070007_0975.jpg,276.0004399999999,1.000408500000006,949.99996,246.0001635,1,building,building_276.00,"pink, purple, gray, white, brown, brick","gray, brown"

@@ -1,0 +1,11 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0022.jpg,0.9999500000000126,5.000236999999999,580.00005,348.000169,1,bus,bus_1.00,"yellow, green, parked, black, double decker, old","yellow, old"
+00070007_0022.jpg,516.0001,85.99983699999999,694.0002999999999,383.99989099999993,1,man,man_516.00,"purple, pink, sitting, green, gray, standing","gray, standing"
+00070007_0022.jpg,0.999949999999984,244.00002,265.00005,352.000088,1,sidewalk,sidewalk_1.00,"concrete, gray, green, cement, white, black",gray
+00070007_0022.jpg,0.9999499999999985,1.000092500000001,100.00025,74.0003055,1,tree,tree_1.00,"green, tall, leafy, large, white, bare","green, leafy"
+00070007_0022.jpg,177.00025,1.000092500000008,700.00035,224.0001995,1,trees,trees_177.00,"purple, pink, green, yellow, colorful, black",green
+00070007_0022.jpg,178.00019999999995,296.0000945,598.0002,451.0002255,1,bricks,bricks_178.00,"green, wooden, brown, red, metal, old","brown, metal"
+00070007_0022.jpg,100.00025,334.9998685,130.00015,358.9998335,1,brick,brick_100.00,"green, small, blue, white, square, colorful","small, square"
+00070007_0022.jpg,64.0003,306.0001175,89.00009999999999,325.0002965,1,brick,brick_64.00,"pink, small, black, red, white, purple","small, red"
+00070007_0022.jpg,0.9999500000000126,278.999875,699.00005,448.999815,1,grass,grass_1.00,"green, brown, red, wooden, metal, gray",green
+00070007_0022.jpg,0.9999499999999985,218.9999625,230.00005,276.9999155,1,grass,grass_1.00,"green, black, metal, small, long, tall",green

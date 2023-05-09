@@ -1,0 +1,13 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0627.jpg,63.0,174.999924,501.0,381.999902,1,car,car_63.00,"red, black, parked, double decker, green, moving","red, black, parked, double decker, green, moving"
+00070007_0627.jpg,229.99968,110.0001285,319.0,204.0000015,1,firefighter,firefighter_230.00,"blue, large, white, colorful, green, big","blue, large, white, colorful, green, big"
+00070007_0627.jpg,331.00032,106.00000749999998,403.00032,176.0000685,1,firefighter,firefighter_331.00,"red, white, standing, clear, large, glass","red, white, standing, clear, large, glass"
+00070007_0627.jpg,492.0,121.999806,592.9996799999999,371.999828,1,firefighter,firefighter_492.00,"green, standing, metal, yellow, blue, sitting","green, standing, metal, yellow, blue, sitting"
+00070007_0627.jpg,29.0,2.9999765000000025,47.0,280.0000155,1,pole,pole_29.00,"purple, pink, long, tall, metal, black","purple, pink, long, tall, metal, black"
+00070007_0627.jpg,572.0,1.0001444999999975,580.0,73.00003749999999,1,pole,pole_572.00,"purple, pink, black, red, tall, metal","purple, pink, black, red, tall, metal"
+00070007_0627.jpg,1.0,276.000123,639.99968,449.000215,1,road,road_1.00,"green, red, long, white, brown, metal","green, red, long, white, brown, metal"
+00070007_0627.jpg,1.000319999999988,0.9999159999999848,506.0,272.000002,1,smoke,smoke_1.00,"green, red, black, large, tall, clear","green, red, black, large, tall, clear"
+00070007_0627.jpg,1.0,1.0001445000000049,639.99968,279.00009950000003,1,trees,trees_1.00,"red, green, black, clear, pink, white","red, green, black, clear, pink, white"
+00070007_0627.jpg,434.00032,131.0001925,545.0,375.0002615,1,firefighter,firefighter_434.00,"green, standing, sitting, yellow, glass, white","green, standing, sitting, yellow, glass, white"
+00070007_0627.jpg,5.000319999999988,368.000164,638.0,457.0,1,grass,grass_5.00,"green, tall, brown, long, grassy, short","green, tall, brown, long, grassy, short"
+00070007_0627.jpg,428.0,81.00005099999998,472.99968,179.99996099999998,1,ax,ax_428.00,"yellow, glass, clear, green, black, large","yellow, glass, clear, green, black, large"

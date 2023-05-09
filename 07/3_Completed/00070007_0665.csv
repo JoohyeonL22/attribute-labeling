@@ -1,0 +1,15 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0665.jpg,0.9998099999999964,69.000096,168.99975,167.000044,1,suv,suv_1.00,"purple, parked, white, blue, yellow, red",
+00070007_0665.jpg,226.00026,48.000004,253.00026,67.000156,1,car,car_226.00,"white, blue, black, small, large, green",white
+00070007_0665.jpg,69.99966,88.00024799999998,395.99982,238.00008,1,car,car_70.00,"purple, pink, black, parked, yellow, silver",black
+00070007_0665.jpg,251.99991000000003,67.9999455,298.99989000000005,125.0000405,1,man,man_252.00,"pink, purple, standing, sitting, walking, little",standing
+00070007_0665.jpg,413.0001,81.9998865,439.00002,164.9999235,1,man,man_413.00,"purple, standing, blue, striped, white, pink",standing
+00070007_0665.jpg,409.00005,69.00009599999998,483.00003,234.0002,1,firefighter,firefighter_409.00,"colorful, purple, standing, pink, multi colored, white",standing
+00070007_0665.jpg,329.00013,75.00009650000001,512.00019,138.0000115,1,car,car_329.00,"purple, pink, colorful, white, multi colored, black",white
+00070007_0665.jpg,0.999810000000025,0.9999699999999976,348.00003,70.000066,1,trees,trees_1.00,"green, tall, red, large, leafy, white","green, large"
+00070007_0665.jpg,493.99983,91.99994750000002,539.99973,175.9999545,1,car,car_494.00,"white, purple, metal, wooden, blue, pink","white, metal"
+00070007_0665.jpg,1.0000800000000254,152.99992249999997,540.0,360.9998195,1,road,road_1.00,"gray, paved, concrete, yellow, asphalt, wet","gray, asphalt"
+00070007_0665.jpg,131.99975999999998,185.00004550000003,387.99972,342.0000285,1,debris,debris_132.00,"purple, black, gray, pink, metal, concrete","black, gray"
+00070007_0665.jpg,294.99983999999995,0.9999700000000048,527.00004,72.000006,1,building,building_295.00,"white, green, large, tall, glass, gray","white, large"
+00070007_0665.jpg,220.00005,0.9999699999999976,310.00023,68.000126,1,tree,tree_220.00,"green, blue, tall, large, white, big","green, large"
+00070007_0665.jpg,399.00006,77.0000365,423.9999,156.0001935,1,man,man_399.00,"purple, pink, white, red, striped, metal",

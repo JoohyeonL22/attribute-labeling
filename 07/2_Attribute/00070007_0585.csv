@@ -1,0 +1,10 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0585.jpg,170.00009999999995,153.0,390.9999,648.0,1,firefighter,firefighter_170.00,"standing, walking, skiing, pink, wearing, red","standing, walking, skiing, pink, wearing, red"
+00070007_0585.jpg,342.9999,128.999625,527.9997,592.999875,1,firefighter,firefighter_343.00,"standing, skiing, walking, green, wearing, yellow","standing, skiing, walking, green, wearing, yellow"
+00070007_0585.jpg,0.9998999999999968,115.99987499999996,173.0001,697.000125,1,car,car_1.00,"red, black, parked, green, yellow, double decker","red, black, parked, green, yellow, double decker"
+00070007_0585.jpg,0.9998999999999684,219.0,599.9997000000001,750.0,1,road,road_1.00,"gray, white, red, black, yellow, paved","gray, white, red, black, yellow, paved"
+00070007_0585.jpg,141.9999,144.99975,278.9997,585.99975,1,firefighter,firefighter_142.00,"green, black, blue, standing, red, colorful","green, black, blue, standing, red, colorful"
+00070007_0585.jpg,458.0001,139.000125,588.0002999999999,501.000375,1,firefighter,firefighter_458.00,"purple, pink, black, gray, red, green","purple, pink, black, gray, red, green"
+00070007_0585.jpg,142.9998,108.0,280.9998,243.0,1,fire truck,fire truck_143.00,"yellow, colorful, white, red, green, large","yellow, colorful, white, red, green, large"
+00070007_0585.jpg,291.9999,31.999875000000003,485.0001,235.000125,1,fire truck,fire truck_292.00,"white, glass, large, tall, clear, red","white, glass, large, tall, clear, red"
+00070007_0585.jpg,534.0,473.0002500000001,600.0,602.00025,1,hose,hose_534.00,"yellow, gray, purple, black, wooden, green","yellow, gray, purple, black, wooden, green"

@@ -1,0 +1,11 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0034.jpg,213.99982,66.99998049999998,584.9999399999999,231.0001615,1,bus,bus_214.00,"yellow, double decker, parked, long, blue, white","yellow, double decker, parked, long, blue, white"
+00070007_0034.jpg,340.99983999999995,197.000423,920.0,491.000127,1,car,car_341.00,"blue, purple, black, colorful, gray, parked","blue, purple, black, colorful, gray, parked"
+00070007_0034.jpg,165.00016000000002,140.00000500000002,196.00048,205.000073,1,people,people_165.00,"green, blue, white, metal, tall, glass","green, blue, white, metal, tall, glass"
+00070007_0034.jpg,29.99936,96.00009100000004,177.99976,432.000103,1,man,man_30.00,"walking, standing, smiling, young, wearing, old","walking, standing, smiling, young, wearing, old"
+00070007_0034.jpg,0.9995799999999236,190.999766,919.99954,613.0,1,road,road_1.00,"gray, paved, black, asphalt, concrete, white","gray, paved, black, asphalt, concrete, white"
+00070007_0034.jpg,581.0002399999998,60.0001335,920.0,150.0001805,1,road,road_581.00,"white, purple, gray, pink, painted, concrete","white, purple, gray, pink, painted, concrete"
+00070007_0034.jpg,569.9997999999999,68.999893,674.9994,136.999983,1,truck,truck_570.00,"white, parked, blue, small, silver, gray","white, parked, blue, small, silver, gray"
+00070007_0034.jpg,122.99986,99.0004195,236.99982,144.0001365,1,building,building_123.00,"green, large, white, orange, double decker, blue","green, large, white, orange, double decker, blue"
+00070007_0034.jpg,1.0000400000000005,160.9998525,32.00036,200.9999415,1,vehicle,vehicle_1.00,"yellow, green, white, black, blue, small","yellow, green, white, black, blue, small"
+00070007_0034.jpg,347.99966,211.9996135,622.99962,493.9998425,1,debris,debris_348.00,"blue, yellow, black, metal, purple, gray","blue, yellow, black, metal, purple, gray"

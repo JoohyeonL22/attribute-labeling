@@ -1,0 +1,8 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0094.jpg,40.000125,0.9998879999999986,244.999875,261.000044,1,building,building_40.00,"tall, brown, large, glass, white, tan","tall, brown, large, glass, white, tan"
+00070007_0094.jpg,139.00012500000005,0.9998879999999986,750.0003750000001,461.000164,1,truck,truck_139.00,"brown, tan, beige, large, white, concrete","brown, tan, beige, large, white, concrete"
+00070007_0094.jpg,504.000375,276.000053,595.0001249999999,507.0000789999999,1,man,man_504.00,"standing, red, black, skiing, wearing, walking","standing, red, black, skiing, wearing, walking"
+00070007_0094.jpg,1.000124999999997,246.999923,364.999875,517.999973,1,van,van_1.00,"white, parked, black, silver, gray, yellow","white, parked, black, silver, gray, yellow"
+00070007_0094.jpg,422.00025,314.0000195,512.00025,461.99977050000007,1,man,man_422.00,"standing, red, sitting, white, black, watching","standing, red, sitting, white, black, watching"
+00070007_0094.jpg,1.0001250000000257,333.99975000000006,750.000375,563.0,1,road,road_1.00,"white, black, gray, parked, silver, metal","white, black, gray, parked, silver, metal"
+00070007_0094.jpg,559.999875,501.000188,748.000125,563.0,1,debris,debris_560.00,"white, black, silver, metal, gray, old","white, black, silver, metal, gray, old"

@@ -1,0 +1,8 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0959.jpg,147.99973100000005,102.99987,458.999849,342.00009,1,van,van_148.00,"gray, black, silver, green, white, metal","gray, metal"
+00070007_0959.jpg,1.000064999999999,136.00008000000005,89.000043,314.00028,1,firefighter,firefighter_1.00,"purple, pink, black, white, sitting, metal",black
+00070007_0959.jpg,67.000208,90.00018000000001,207.000376,293.00022,1,man,man_67.00,"sitting, black, standing, wearing, white, watching","black, standing"
+00070007_0959.jpg,1.0000650000000064,1.0000800000000254,638.000319,540.0,1,tree,tree_1.00,"bare, brown, white, leafless, dead, black","bare, brown"
+00070007_0959.jpg,40.00004800000001,157.99995,92.999984,276.00021,1,firefighter,firefighter_40.00,"purple, pink, black, metal, white, sitting",black
+00070007_0959.jpg,1.0000650000000064,252.99972,636.999935,538.99992,1,snow,snow_1.00,"brown, bare, dead, white, gray, dry",brown
+00070007_0959.jpg,1.0000650000000064,2.000160000000008,638.000319,166.00032,1,trees,trees_1.00,"bare, white, leafless, brown, gray, large","bare, leafless"

@@ -1,0 +1,7 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0820.jpg,1698.998752,543.9998879999999,2954.998112,2591.998704,1,firefighter,firefighter_1699.00,"standing, skiing, young, orange, wearing, white","standing, wearing"
+00070007_0820.jpg,1553.9981600000003,1257.9999839999996,3871.998064,2586.998736,1,hose,hose_1554.00,"white, black, orange, silver, large, metal",
+00070007_0820.jpg,0.9989759999999706,527.999472,1612.9977600000002,1343.999952,1,water,water_1.00,"bright, white, shining, yellow, long, large",white
+00070007_0820.jpg,0.9989760000000842,0.999215999999933,3872.0,1898.998992,1,building,building_1.00,"orange, white, cloudy, blue, red, bright",
+00070007_0820.jpg,51.99902399999996,1.0005120000001853,3853.997136,1803.000384,1,fire,fire_52.00,"orange, white, cloudy, blue, bright, red",orange
+00070007_0820.jpg,10.998415999999906,2278.999152,3871.998064,2590.000272,1,debris,debris_11.00,"white, metal, large, blue, silver, red","metal, large"

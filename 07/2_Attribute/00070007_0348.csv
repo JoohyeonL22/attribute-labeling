@@ -1,0 +1,10 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0348.jpg,551.99992,33.999966,580.0,144.999834,1,man,man_552.00,"standing, sitting, walking, blue, metal, white","standing, sitting, walking, blue, metal, white"
+00070007_0348.jpg,134.99993,1.000135499999992,156.99991,95.0000205,1,pole,pole_135.00,"white, wooden, metal, gray, tall, wood","white, wooden, metal, gray, tall, wood"
+00070007_0348.jpg,235.00034,39.000108,282.00006,53.00022,1,sign,sign_235.00,"green, white, street, black, blue, digital","green, white, street, black, blue, digital"
+00070007_0348.jpg,1.0002099999999814,3.000049500000003,283.00027,100.0001625,1,trees,trees_1.00,"green, glass, white, red, black, large","green, glass, white, red, black, large"
+00070007_0348.jpg,1.0002099999999814,51.99990600000001,472.00023,357.0,1,car,car_1.00,"black, green, parked, white, gray, dark","black, green, parked, white, gray, dark"
+00070007_0348.jpg,16.000170000000026,0.9999569999999948,561.99999,191.999955,1,truck,truck_16.00,"parked, green, white, black, red, yellow","parked, green, white, black, red, yellow"
+00070007_0348.jpg,399.9999,260.0000655,576.99966,357.00017849999995,1,debris,debris_400.00,"black, sitting, gray, white, red, brown","black, sitting, gray, white, red, brown"
+00070007_0348.jpg,418.00020000000006,119.99983799999998,580.0,357.0,1,road,road_418.00,"gray, black, white, concrete, metal, large","gray, black, white, concrete, metal, large"
+00070007_0348.jpg,448.99975,4.000006500000001,569.99993,51.000127500000005,1,trees,trees_449.00,"green, large, tall, white, glass, clear","green, large, tall, white, glass, clear"

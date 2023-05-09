@@ -1,0 +1,12 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0158.jpg,120.0,266.00011199999994,148.99968,330.000048,1,man,man_120.00,"['green', 'white', 'metal', 'blue', 'open', 'black']"
+00070007_0158.jpg,299.000064,162.00021600000002,349.99987200000004,323.000136,1,man,man_299.00,"['red', 'green', 'standing', 'black', 'white', 'orange']"
+00070007_0158.jpg,550.0001279999999,122.00004,672.0,184.000248,1,sign,sign_550.00,"['green', 'white', 'red', 'black', 'blue', 'large']"
+00070007_0158.jpg,359.99999999999994,188.000136,430.000128,410.000184,1,man,man_360.00,"['standing', 'green', 'blue', 'old', 'walking', 'white']"
+00070007_0158.jpg,336.999552,199.000152,393.999744,311.00004,1,man,man_337.00,"['green', 'yellow', 'white', 'gray', 'red', 'blue']"
+00070007_0158.jpg,618.9999359999999,223.999992,633.999744,266.999976,1,person,person_619.00,"['purple', 'pink', 'blue', 'colorful', 'white', 'small']"
+00070007_0158.jpg,635.999616,227.000232,646.99968,268.00005600000003,1,person,person_636.00,"['blue', 'open', 'green', 'purple', 'white', 'glass']"
+00070007_0158.jpg,646.0005120000001,224.999856,663.000192,266.99976,1,person,person_646.00,"['black', 'framed', 'white', 'glass', 'open', 'small']"
+00070007_0158.jpg,0.999935999999991,0.999863999999974,768.0,431.999784,1,debris,debris_1.00,"['dark', 'white', 'black', 'large', 'gray', 'red']"
+00070007_0158.jpg,63.000191999999984,184.999896,238.000512,279.000072,1,tree,tree_63.00,"['green', 'large', 'tall', 'white', 'glass', 'leafy']"
+00070007_0158.jpg,4.000128000000004,178.999848,84.000384,238.999896,1,building,building_4.00,"['glass', 'blue', 'green', 'clear', 'brown', 'large']"

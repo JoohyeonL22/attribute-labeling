@@ -1,0 +1,9 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0221.jpg,37.0000995,126.99984,106.9997825,332.99992,1,man,man_37.00,"green, blue, metal, striped, teal, white","blue, striped"
+00070007_0221.jpg,433.0001345,106.00018,505.0000755,377.00014,1,man,man_433.00,"standing, green, blue, walking, white, old","standing, white"
+00070007_0221.jpg,675.9998455,137.00016,718.9996405,310.00024,1,man,man_676.00,"standing, walking, blue, watching, sitting, looking","walking, blue"
+00070007_0221.jpg,102.9999855,133.9998,170.0000005,284.99988,1,man,man_103.00,"standing, walking, black, sitting, green, dark","standing, black"
+00070007_0221.jpg,553.9999255,0.9999,718.9996405,139.99986,1,trees,trees_554.00,"green, tall, leafy, blue, white, large","green, leafy"
+00070007_0221.jpg,63.000218,75.99988,694.00037,281.99996,1,bus,bus_63.00,"metal, green, yellow, brown, white, wooden","metal, brown"
+00070007_0221.jpg,0.9997695,133.00012,48.0000805,350.0002,1,woman,woman_1.00,"blue, standing, green, sitting, walking, glass",standing
+00070007_0221.jpg,0.9997695,253.9999,718.9996405,439.99978,1,road,road_1.00,"gray, black, wet, paved, concrete, asphalt","gray, paved"

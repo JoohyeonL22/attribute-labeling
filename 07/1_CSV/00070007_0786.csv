@@ -1,0 +1,12 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0786.jpg,1024.99936,353.9998325,1262.99936,639.0000935,1,boy,boy_1025.00,"['young', 'white', 'little', 'pink', 'purple', 'smiling']"
+00070007_0786.jpg,1105.0,516.0000095,1360.0,767.9999825,1,boy,boy_1105.00,"['young', 'little', 'small', 'blue', 'black', 'playing']"
+00070007_0786.jpg,624.0006399999999,0.9999674999999968,1360.0,390.9999905,1,building,building_624.00,"['white', 'yellow', 'gray', 'old', 'painted', 'tan']"
+00070007_0786.jpg,592.00052,169.999917,640.9999600000001,207.000075,1,car,car_592.00,"['red', 'orange', 'yellow', 'white', 'colorful', 'green']"
+00070007_0786.jpg,402.00036000000006,191.00059499999995,657.9999600000001,524.0002029999999,1,man,man_402.00,"['sitting', 'black', 'young', 'smiling', 'wearing', 'riding']"
+00070007_0786.jpg,294.99964000000006,56.99996150000001,583.0000400000001,226.0003645,1,umbrella,umbrella_295.00,"['blue', 'white', 'open', 'light blue', 'large', 'green']"
+00070007_0786.jpg,1.0002800000000889,201.00027,1360.00068,907.0,1,water,water_1.00,"['brown', 'green', 'wet', 'calm', 'dirty', 'gray']"
+00070007_0786.jpg,260.99964000000006,180.00004550000003,467.0002,588.9999045,1,woman,woman_261.00,"['sitting', 'green', 'blue', 'purple', 'black', 'smiling']"
+00070007_0786.jpg,219.99972,317.999642,780.0001199999999,601.9994820000001,1,motorbike,motorbike_220.00,"['blue', 'purple', 'colorful', 'pink', 'green', 'white']"
+00070007_0786.jpg,0.9995999999999868,0.9999674999999968,618.99992,424.9997925,1,building,building_1.00,"['white', 'green', 'gray', 'blue', 'metal', 'large']"
+00070007_0786.jpg,652.00032,172.9998195,681.00096,230.0002345,1,person,person_652.00,"['green', 'yellow', 'red', 'orange', 'colorful', 'blue']"

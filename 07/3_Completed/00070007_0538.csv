@@ -1,0 +1,8 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0538.jpg,1939.0005,251.000064,2712.0015000000003,750.0003839999999,1,suv,suv_1939.00,"black, silver, parked, white, gray, moving",silver
+00070007_0538.jpg,1.000500000000045,279.000288,591.0015000000001,535.9999680000001,1,car,car_1.00,"black, green, parked, dark, small, driving","black, small"
+00070007_0538.jpg,2659.9995000000004,330.000048,2960.9985,614.999952,1,car,car_2660.00,"black, parked, blue, dark, gray, silver",blue
+00070007_0538.jpg,626.001,741.9998879999999,1103.001,1265.000688,1,sign,sign_626.00,"white, red, black, blue, large, square","red, square"
+00070007_0538.jpg,301.9994999999999,244.000512,746.9984999999999,493.000704,1,truck,truck_302.00,"red, parked, double decker, white, moving, green","red, parked"
+00070007_0538.jpg,1.000500000000102,367.000704,3000.0015,2016.0,1,water,water_1.00,"calm, dark, wet, gray, black, clear","wet, gray"
+00070007_0538.jpg,1510.9995,0.9999360000000196,2548.0005,388.999296,1,building,building_1511.00,"green, tall, brown, large, white, tan","brown, tan"

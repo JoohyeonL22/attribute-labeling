@@ -1,0 +1,12 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0588.jpg,415.99985,148.00028099999997,618.99963,292.000137,1,building,building_416.00,"brown, gray, blue, tall, large, silver","brown, gray, blue, tall, large, silver"
+00070007_0588.jpg,367.99976,254.000175,458.99964,300.000129,1,car,car_368.00,"white, silver, parked, blue, gray, driving","white, silver, parked, blue, gray, driving"
+00070007_0588.jpg,431.00013,257.9999565,620.00031,338.9998755,1,car,car_431.00,"silver, parked, blue, gray, white, small","silver, parked, blue, gray, white, small"
+00070007_0588.jpg,168.9996,278.000151,192.9998,308.000121,1,animal,animal_169.00,"pink, colorful, purple, small, white, multi colored","pink, colorful, purple, small, white, multi colored"
+00070007_0588.jpg,179.00020000000004,213.000216,212.00032,301.000128,1,man,man_179.00,"pink, colorful, green, wooden, yellow, purple","pink, colorful, green, wooden, yellow, purple"
+00070007_0588.jpg,1.0000599999999622,250.99996350000004,618.99994,427.9997865,1,parking lot,parking lot_1.00,"gray, paved, black, red, concrete, asphalt","gray, paved, black, red, concrete, asphalt"
+00070007_0588.jpg,130.00005,0.9999989999999884,620.00031,218.00021100000004,1,smoke,smoke_130.00,"white, cloudy, blue, gray, green, brown","white, cloudy, blue, gray, green, brown"
+00070007_0588.jpg,0.9997499999999988,196.000233,94.99981,252.000177,1,suv,suv_1.00,"white, silver, parked, black, gray, red","white, silver, parked, black, gray, red"
+00070007_0588.jpg,1.0000599999999906,135.999864,297.9999,247.999752,1,trees,trees_1.00,"green, red, white, tall, large, black","green, red, white, tall, large, black"
+00070007_0588.jpg,194.00017,217.9999965,233.00003,306.9999075,1,woman,woman_194.00,"yellow, wooden, small, sitting, green, colorful","yellow, wooden, small, sitting, green, colorful"
+00070007_0588.jpg,248.99975,224.9999895,333.99989,413.9998005,1,woman,woman_249.00,"young, white, walking, standing, skateboarding, black","young, white, walking, standing, skateboarding, black"

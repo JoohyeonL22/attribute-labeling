@@ -1,0 +1,12 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0179.jpg,159.99974,140.9999895,590.0,302.9998485,1,bush,bush_160.00,"green, yellow, gray, black, purple, tall","green, yellow, gray, black, purple, tall"
+00070007_0179.jpg,1.000050000000016,163.000062,256.99987,303.0,1,road,road_1.00,"gray, yellow, concrete, paved, cement, black","gray, yellow, concrete, paved, cement, black"
+00070007_0179.jpg,18.00001499999999,44.99989350000001,165.999745,222.9999705,1,truck,truck_18.00,"colorful, green, yellow, multi colored, double decker, large","colorful, green, yellow, multi colored, double decker, large"
+00070007_0179.jpg,247.99971500000007,94.999893,589.9997050000001,196.999995,1,trees,trees_248.00,"red, yellow, black, green, colorful, white","red, yellow, black, green, colorful, white"
+00070007_0179.jpg,408.000045,86.99993549999999,590.000295,131.9999805,1,trees,trees_408.00,"red, white, large, green, black, big","red, white, large, green, black, big"
+00070007_0179.jpg,183.000005,128.0000775,223.000235,143.00009250000002,1,people,people_183.00,"yellow, black, white, digital, gold, red","yellow, black, white, digital, gold, red"
+00070007_0179.jpg,346.999945,162.99991050000003,485.999815,202.9998495,1,people,people_347.00,"yellow, colorful, red, white, green, small","yellow, colorful, red, white, green, small"
+00070007_0179.jpg,482.999665,178.99997700000003,579.999795,233.000031,1,people,people_483.00,"pink, purple, colorful, white, small, black","pink, purple, colorful, white, small, black"
+00070007_0179.jpg,255.99982,134.99983200000003,384.99978,175.999974,1,vehicle,vehicle_256.00,"green, yellow, blue, large, white, glass","green, yellow, blue, large, white, glass"
+00070007_0179.jpg,160.99979,115.000014,173.99985,187.999986,1,person,person_161.00,"purple, pink, metal, yellow, white, colorful","purple, pink, metal, yellow, white, colorful"
+00070007_0179.jpg,1.0003449999999994,84.00008399999999,20.000115,180.00017999999997,1,truck,truck_1.00,"green, black, yellow, metal, white, tall","green, black, yellow, metal, white, tall"

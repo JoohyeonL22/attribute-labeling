@@ -1,0 +1,6 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0764.jpg,0.9987840000000006,242.00078399999984,1555.998336,1692.999792,1,trees,trees_1.00,"['green', 'tall', 'large', 'leafy', 'big', 'white']"
+00070007_0764.jpg,1.0005119999998442,1143.999936,3456.001728,2592.0,1,water,water_1.00,"['calm', 'white', 'gray', 'large', 'clear', 'brown']"
+00070007_0764.jpg,1475.0000640000003,584.9988480000001,2470.998528,952.000128,1,trees,trees_1475.00,"['blue', 'green', 'red', 'purple', 'tall', 'metal']"
+00070007_0764.jpg,2331.999936,1.0018079999999827,3455.998272,2545.00056,1,trees,trees_2332.00,"['green', 'tall', 'large', 'palm', 'leafy', 'pine']"
+00070007_0764.jpg,812.0010239999999,833.9993279999999,2593.00224,1879.000416,1,building,building_812.00,"['red', 'white', 'large', 'brown', 'wooden', 'small']"

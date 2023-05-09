@@ -1,0 +1,5 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0037.jpg,200.00013,359.0004,350.000062,741.00015,1,man,man_200.00,"['green', 'standing', 'blue', 'skiing', 'walking', 'wearing']"
+00070007_0037.jpg,378.000345,393.0003,565.0001189999999,788.0004,1,man,man_378.00,"['skiing', 'standing', 'red', 'black', 'wearing', 'walking']"
+00070007_0037.jpg,0.99995100000001,0.9994874999999864,661.000049,434.9998125,1,trees,trees_1.00,"['green', 'tall', 'large', 'brown', 'bare', 'white']"
+00070007_0037.jpg,0.99995100000001,295.99968750000005,661.000049,680.0000625,1,bus,bus_1.00,"['yellow', 'black', 'red', 'green', 'double decker', 'white']"

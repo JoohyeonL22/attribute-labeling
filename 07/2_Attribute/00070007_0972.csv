@@ -1,0 +1,10 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0972.jpg,507.00045,261.000112,616.00055,516.999942,1,car,car_507.00,"green, blue, red, black, white, metal","green, blue, red, black, white, metal"
+00070007_0972.jpg,68.99970000000002,246.99987950000005,330.9999,443.99972450000007,1,suv,suv_69.00,"black, green, double decker, white, parked, moving","black, green, double decker, white, parked, moving"
+00070007_0972.jpg,704.00055,135.000186,881.00045,351.000236,1,man,man_704.00,"blue, white, sitting, black, standing, young","blue, white, sitting, black, standing, young"
+00070007_0972.jpg,223.9996,172.000292,322.9996,249.000178,1,sign,sign_224.00,"yellow, green, orange, blue, neon, black","yellow, green, orange, blue, neon, black"
+00070007_0972.jpg,0.9999000000000252,0.9999944999999856,626.0001,360.9998714999999,1,trees,trees_1.00,"green, tall, dark, black, red, large","green, tall, dark, black, red, large"
+00070007_0972.jpg,542.9995999999999,0.999994499999957,1100.0,606.0000715,1,truck,truck_543.00,"black, white, dark, gray, brown, red","black, white, dark, gray, brown, red"
+00070007_0972.jpg,1.0004500000000007,352.00023050000004,1100.00055,619.0003095,1,water,water_1.00,"white, wet, gray, metal, brown, large","white, wet, gray, metal, brown, large"
+00070007_0972.jpg,346.99940000000004,327.9997435,476.9996,594.9998225,1,woman,woman_347.00,"standing, brown, gray, orange, sitting, black","standing, brown, gray, orange, sitting, black"
+00070007_0972.jpg,187.99990000000005,289.9999525,400.9995,458.9999515,1,boat,boat_188.00,"green, black, blue, large, white, glass","green, black, blue, large, white, glass"

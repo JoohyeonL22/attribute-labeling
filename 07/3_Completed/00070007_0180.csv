@@ -1,0 +1,10 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0180.jpg,411.00032,95.99976,1280,487.00008,1,bus,bus_411.00,"yellow, orange, parked, white, large, black","yellow, parked"
+00070007_0180.jpg,129.00032,248.0004,243.00096,514.00008,1,man,man_129.00,"green, blue, black, standing, white, walking","black, walking"
+00070007_0180.jpg,214.99968,271.00044,306.99968,538.0002,1,man,man_215.00,"standing, black, walking, green, blue, smiling","black, walking"
+00070007_0180.jpg,149.00096,1.00008,183.00032,410.0004,1,pole,pole_149.00,"metal, orange, tall, black, silver, gray",metal
+00070007_0180.jpg,1.00032,488.00016,1280.00064,720,1,road,road_1.00,"gray, black, red, paved, empty, white","gray, black"
+00070007_0180.jpg,835.99936,267.99984,895.99936,330.99984,1,sign,sign_836.00,"red, green, white, blue, small, large",red
+00070007_0180.jpg,492.99968,1.00008,1280,106.99992,1,trees,trees_493.00,"green, white, large, blue, tall, clear",green
+00070007_0180.jpg,2,330.00048,1279.99936,506.00016,1,sidewalk,sidewalk_2.00,"yellow, black, metal, gray, empty, silver",gray
+00070007_0180.jpg,290,145.9998,594.99968,430.99956,1,debris,debris_290.00,"green, black, yellow, metal, white, gray","yellow, metal"

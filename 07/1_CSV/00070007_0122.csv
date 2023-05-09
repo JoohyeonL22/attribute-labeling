@@ -1,0 +1,10 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0122.jpg,0.99980400000004,263.999824,695.999652,422.0,1,fence,fence_1.00,"['white', 'metal', 'silver', 'green', 'long', 'gray']"
+00070007_0122.jpg,577.000356,187.99994500000005,653.000076,382.999815,1,man,man_577.00,"['red', 'white', 'large', 'framed', 'glass', 'black']"
+00070007_0122.jpg,184.000128,0.9999290000000016,696.0,68.999743,1,trees,trees_184.00,"['green', 'metal', 'white', 'brown', 'gray', 'blue']"
+00070007_0122.jpg,0.99980400000004,22.000125999999995,695.999652,288.00023,1,bus,bus_1.00,"['black', 'dark', 'green', 'blue', 'glass', 'large']"
+00070007_0122.jpg,504.9998519999999,214.000209,564.999924,355.000115,1,man,man_505.00,"['green', 'white', 'blue', 'standing', 'sitting', 'silver']"
+00070007_0122.jpg,433.99984799999993,234.000055,487.999704,347.000261,1,man,man_434.00,"['pink', 'purple', 'colorful', 'white', 'small', 'standing']"
+00070007_0122.jpg,403.999812,229.99991699999995,456.999516,346.99983899999995,1,man,man_404.00,"['pink', 'purple', 'white', 'colorful', 'red', 'metal']"
+00070007_0122.jpg,244.999656,189.999803,400.999704,350.999977,1,people,people_245.00,"['white', 'sitting', 'green', 'standing', 'blue', 'large']"
+00070007_0122.jpg,164.999676,190.999732,234.999876,366.999896,1,man,man_165.00,"['green', 'white', 'standing', 'black', 'sitting', 'yellow']"

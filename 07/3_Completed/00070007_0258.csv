@@ -1,0 +1,21 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0258.jpg,119.00005,198.000036,145.0,222.000228,1,bag,bag_119.00,"yellow, colorful, small, white, green, pink",white
+00070007_0258.jpg,157.99997500000003,72.00018899999999,440.000325,258.000129,1,car,car_158.00,"pink, purple, green, gray, silver, colorful",gray
+00070007_0258.jpg,465.0001375,233.0001225,617.0000124999999,365.0000175,1,debris,debris_465.00,"red, white, black, small, glass, metal","small, metal"
+00070007_0258.jpg,142.999725,66.99995550000001,203.999775,234.0001305,1,man,man_143.00,"purple, pink, standing, black, walking, gray","standing, black"
+00070007_0258.jpg,316.0003125,74.99982600000001,397.9999875,291.000006,1,firefighter,firefighter_316.00,"yellow, green, skiing, standing, wearing, young","yellow, standing"
+00070007_0258.jpg,397.0002125,61.00010099999999,497.0001875,270.000225,1,firefighter,firefighter_397.00,"standing, pink, purple, walking, gray, green","standing, gray"
+00070007_0258.jpg,457.9999,60.999907500000006,526.9996,187.9997625,1,firefighter,firefighter_458.00,"green, yellow, standing, metal, colorful, large","green, standing"
+00070007_0258.jpg,628.0004375,69.99978600000001,710.0001125,278.99991,1,firefighter,firefighter_628.00,"purple, pink, standing, colorful, black, green","standing, green"
+00070007_0258.jpg,0.9997749999999996,130.00007250000002,70.99997499999999,195.0002055,1,stretcher,stretcher_1.00,"white, black, yellow, green, blue, large",white
+00070007_0258.jpg,247.99966250000003,1.0000080000000011,553.9996875,99.000018,1,tree,tree_248.00,"green, tall, large, leafy, white, purple","green, leafy"
+00070007_0258.jpg,553.9996875,1.0000080000000082,720.9998125000001,180.9999,1,tree,tree_554.00,"purple, pink, green, colorful, multi colored, white",green
+00070007_0258.jpg,77.9994875,64.99993950000001,140.99981250000002,219.0000105,1,woman,woman_78.00,"yellow, standing, walking, green, large, looking","yellow, standing"
+00070007_0258.jpg,58.0,59.9998995,109.9999,212.9999625,1,man,man_58.00,"green, yellow, standing, blue, walking, colorful","green, standing"
+00070007_0258.jpg,188.9998875,72.00018899999998,244.9996125,151.000047,1,man,man_189.00,"sitting, standing, black, walking, watching, wearing","standing, wearing"
+00070007_0258.jpg,510.0001625,81.0000675,570.0004375000001,211.9999545,1,firefighter,firefighter_510.00,"green, purple, pink, colorful, wooden, metal",
+00070007_0258.jpg,532.0002875000001,58.00027049999999,580.0003625,179.00007749999995,1,firefighter,firefighter_532.00,"pink, purple, green, colorful, orange, standing","green, standing"
+00070007_0258.jpg,234.000275,84.0000915,289.000225,129.0000645,1,man,man_234.00,"green, sitting, open, blue, white, standing","green, standing"
+00070007_0258.jpg,0.9997749999999996,65.99994749999999,45.000025,133.0000965,1,car,car_1.00,"white, green, large, gray, parked, black","white, large"
+00070007_0258.jpg,47.0003,84.00009150000001,73.00025,138.0001365,1,car,car_47.00,"green, white, yellow, blue, metal, red","yellow, metal"
+00070007_0258.jpg,0.9997750000000564,157.9999095,542.9996249999999,386.9998065,1,grass,grass_1.00,"green, tall, grassy, long, brown, yellow","green, grassy"

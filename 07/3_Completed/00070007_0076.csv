@@ -1,0 +1,12 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0076.jpg,266.0001,177.99984,327.0003,381.99984,1,man,man_266.00,"green, standing, black, blue, walking, metal","green, standing"
+00070007_0076.jpg,375.0003,187.00008,485.0001,462.00024,1,man,man_375.00,"green, brown, standing, little, small, young","brown, standing"
+00070007_0076.jpg,0.9999,181.00008,122.0001,387.00024,1,people,people_1.00,"large, standing, black, purple, brown, walking","standing, black"
+00070007_0076.jpg,305.0001,1.00008,600.0003,208.99992,1,tree,tree_305.00,"brown, green, stone, brick, large, white","brown, green"
+00070007_0076.jpg,19.0002,48.99984,586.0002,279.99984,1,bus,bus_19.00,"white, brown, large, big, green, black",white
+00070007_0076.jpg,316.0002,181.99992,391.0002,382.00008,1,man,man_316.00,"green, sitting, brown, standing, looking, walking","brown, standing"
+00070007_0076.jpg,434.0001,177.99984,474.9999,258.99984,1,man,man_434.00,"purple, pink, colorful, black, brown, white",brown
+00070007_0076.jpg,479.0001,186,513.9999,294,1,man,man_479.00,"green, brown, wooden, metal, standing, hanging","brown, standing"
+00070007_0076.jpg,540.9999,174,599.9997,459,1,man,man_541.00,"purple, brown, pink, green, black, metal",brown
+00070007_0076.jpg,23.0001,436.99992,150.9999,472.00008,1,debris,debris_23.00,"blue, brown, metal, small, silver, black",blue
+00070007_0076.jpg,27,361.99992,600,479.99976,1,road,road_27.00,"brown, green, gray, concrete, wet, metal",brown

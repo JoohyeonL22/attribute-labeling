@@ -1,0 +1,13 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0314.jpg,589.0001000000001,312.00006,709.0003,376.00032,1,car,car_589.00,"['white', 'orange', 'parked', 'green', 'black', 'small']"
+00070007_0314.jpg,645.99962,297.99996,918.9995,352.99986,1,fence,fence_646.00,"['green', 'long', 'orange', 'white', 'pink', 'yellow']"
+00070007_0314.jpg,117.00054,254.00004,135.00034,359.0001,1,man,man_117.00,"['green', 'black', 'open', 'white', 'metal', 'glass']"
+00070007_0314.jpg,165.00016000000002,263.0004,196.00048,359.0001,1,man,man_165.00,"['orange', 'white', 'metal', 'wooden', 'black', 'open']"
+00070007_0314.jpg,1.0000400000000127,318.999765,898.00004,689.999655,1,sidewalk,sidewalk_1.00,"['gray', 'concrete', 'paved', 'cement', 'empty', 'wet']"
+00070007_0314.jpg,188.00062,212.999895,616.00026,452.000025,1,truck,truck_188.00,"['black', 'large', 'white', 'orange', 'green', 'parked']"
+00070007_0314.jpg,482.0004200000001,183.000075,920.00046,309.000285,1,trees,trees_482.00,"['green', 'purple', 'pink', 'large', 'tall', 'red']"
+00070007_0314.jpg,375.99986,346.000155,916.99942,688.999845,1,road,road_376.00,"['gray', 'concrete', 'paved', 'cement', 'empty', 'wet']"
+00070007_0314.jpg,121.99936,263.0004,154.99976,362.00022,1,man,man_122.00,"['open', 'green', 'black', 'glass', 'standing', 'walking']"
+00070007_0314.jpg,180.99988,282.00024,195.99956,365.00034,1,man,man_181.00,"['orange', 'white', 'metal', 'wooden', 'black', 'red']"
+00070007_0314.jpg,588.00052,301.99989,630.00036,319.00011,1,car,car_588.00,"['pink', 'purple', 'green', 'black', 'white', 'red']"
+00070007_0314.jpg,648.99974,446.99994,689.99954,461.00004,1,debris,debris_649.00,"['black', 'white', 'small', 'large', 'blue', 'black and white']"

@@ -1,0 +1,8 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0303.jpg,1.0003949999999977,93.999798,38.000175,151.999956,1,truck,truck_1.00,"['green', 'yellow', 'purple', 'pink', 'colorful', 'neon']"
+00070007_0303.jpg,1.0000725000000088,131.9999715,91.0001475,244.9999485,1,car,car_1.00,"['green', 'black', 'purple', 'colorful', 'red', 'pink']"
+00070007_0303.jpg,25.999627500000003,72.00001800000001,517.9998225,293.000022,1,car,car_26.00,"['purple', 'black', 'gray', 'pink', 'silver', 'white']"
+00070007_0303.jpg,0.999750000000006,157.99989599999998,645.0,369.0,1,road,road_1.00,"['gray', 'black', 'paved', 'white', 'empty', 'concrete']"
+00070007_0303.jpg,410.000055,152.0001405,570.000045,193.0000995,1,sidewalk,sidewalk_410.00,"['green', 'black', 'metal', 'white', 'yellow', 'gray']"
+00070007_0303.jpg,543.9997725000001,119.0001015,644.9996775,216.0002385,1,suv,suv_544.00,"['green', 'black', 'white', 'blue', 'parked', 'large']"
+00070007_0303.jpg,347.9997525,137.99991150000002,365.9997675,163.0000305,1,truck,truck_348.00,"['orange', 'wooden', 'small', 'brown', 'glass', 'open']"

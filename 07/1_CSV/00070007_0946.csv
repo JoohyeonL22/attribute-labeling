@@ -1,0 +1,8 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0946.jpg,225.999761,252.000118,277.99980700000003,338.000106,1,bag,bag_226.00,"['white', 'small', 'red', 'gray', 'pink', 'silver']"
+00070007_0946.jpg,232.000254,41.99999,608.0002939999999,243.000082,1,car,car_232.00,"['white', 'green', 'silver', 'black', 'parked', 'gray']"
+00070007_0946.jpg,38.999876,1.000004000000004,55.99995200000001,75.999948,1,tower,tower_39.00,"['yellow', 'tall', 'black', 'white', 'metal', 'large']"
+00070007_0946.jpg,37.00023999999996,59.000058,634.0,355.000174,1,road,road_37.00,"['gray', 'concrete', 'white', 'paved', 'empty', 'cement']"
+00070007_0946.jpg,113.99985700000002,40.99998599999999,344.999659,86.999814,1,cars,cars_114.00,"['pink', 'purple', 'white', 'metal', 'red', 'colorful']"
+00070007_0946.jpg,173.99971499999998,53.99986,180.999709,75.999948,1,person,person_174.00,"['blue', 'white', 'green', 'metal', 'small', 'wooden']"
+00070007_0946.jpg,150.99978,51.000026,156.999956,64.000078,1,person,person_151.00,"['white', 'black', 'traffic', 'red', 'street', 'green']"

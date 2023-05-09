@@ -1,0 +1,14 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0500.jpg,0.9996929999999792,1.000538000000006,728.000043,438.00015,1,building,building_1.00,"pink, large, green, brown, tall, purple",brown
+00070007_0500.jpg,1504.99917,0.9999150000000157,1657.999566,481.000233,1,building,building_1505.00,"green, white, tall, gray, large, small","white, gray"
+00070007_0500.jpg,1030.000401,380.000096,1109.0002470000002,446.000716,1,jeep,jeep_1030.00,"green, blue, white, double decker, large, black","large, black"
+00070007_0500.jpg,946.99929,388.000039,1017.99993,435.000405,1,suv,suv_947.00,"yellow, red, pink, colorful, purple, white",
+00070007_0500.jpg,1.0005240000000413,404.000548,1662.0,1246.0,1,water,water_1.00,"wet, black, gray, white, yellow, paved","wet, gray"
+00070007_0500.jpg,0.9996930000000076,16.000508999999965,370.999119,395.000067,1,tree,tree_1.00,"green, large, tall, leafy, brown, small","green, leafy"
+00070007_0500.jpg,379.000818,95.00002400000002,988.00083,447.000008,1,trees,trees_379.00,"pink, purple, green, red, large, tall",green
+00070007_0500.jpg,656.999403,0.9999149999999872,1661.999169,298.000213,1,tree,tree_657.00,"green, white, tall, large, pink, purple",green
+00070007_0500.jpg,1.0005239999999844,367.000578,432.000336,561.000286,1,truck,truck_1.00,"white, green, yellow, purple, blue, colorful",white
+00070007_0500.jpg,350.999442,742.0004759999999,565.999086,911.00044,1,cone,cone_351.00,"green, orange, black, red, yellow, white",orange
+00070007_0500.jpg,443.0002830000001,566.0004839999999,1639.000413,1246.0,1,barrier,barrier_443.00,"yellow, black, gray, metal, white, concrete","black, metal"
+00070007_0500.jpg,728.000043,366.00004,935.000481,489.000176,1,suv,suv_728.00,"purple, black, blue, red, yellow, white",black
+00070007_0500.jpg,1107.000861,376.000436,1395.000531,432.00066,1,cars,cars_1107.00,"blue, green, yellow, white, long, colorful",

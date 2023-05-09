@@ -1,0 +1,12 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0788.jpg,1.000319999999988,1.0006199999999978,1690.99968,470.0003400000001,1,building,building_1.00,"brown, tall, large, bare, pink, purple","brown, tall, large, bare, pink, purple"
+00070007_0788.jpg,1702.99968,351.00054,1887.99936,495.00018,1,car,car_1703.00,"red, blue, orange, black, yellow, double decker","red, blue, orange, black, yellow, double decker"
+00070007_0788.jpg,24.999359999999967,398.99952,669.0,640.9994399999999,1,car,car_25.00,"blue, white, black, parked, green, purple","blue, white, black, parked, green, purple"
+00070007_0788.jpg,1722.99936,7.000020000000006,1817.99904,664.99974,1,pole,pole_1723.00,"black, red, tall, gray, large, metal","black, red, tall, gray, large, metal"
+00070007_0788.jpg,1135.99968,463.00031999999993,1919.99904,1080.0,1,sidewalk,sidewalk_1136.00,"brown, wet, red, gray, brick, concrete","brown, wet, red, gray, brick, concrete"
+00070007_0788.jpg,0.999360000000138,397.99998,1919.99904,1079.99946,1,road,road_1.00,"wet, gray, black, brown, bare, paved","wet, gray, black, brown, bare, paved"
+00070007_0788.jpg,585.0000000000001,1.0000800000000254,1764.9993600000005,1080.0,1,tree,tree_585.00,"bare, brown, wet, leafless, tall, black","bare, brown, wet, leafless, tall, black"
+00070007_0788.jpg,1408.99968,913.00014,1716.0,1009.00026,1,branch,branch_1409.00,"red, black, metal, gray, concrete, rusty","red, black, metal, gray, concrete, rusty"
+00070007_0788.jpg,1195.99968,893.00016,1530.99936,972.0,1,branch,branch_1196.00,"red, metal, black, orange, white, gray","red, metal, black, orange, white, gray"
+00070007_0788.jpg,1404.9993599999998,759.00078,1909.99968,820.0002599999999,1,branch,branch_1405.00,"green, blue, metal, silver, white, wooden","green, blue, metal, silver, white, wooden"
+00070007_0788.jpg,724.0003200000001,1.0000799999999683,1102.00032,490.00032,1,tree,tree_724.00,"pink, purple, bare, brown, green, tall","pink, purple, bare, brown, green, tall"

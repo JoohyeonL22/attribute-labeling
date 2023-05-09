@@ -1,0 +1,10 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0122.jpg,0.999804,263.999824,695.999652,422,1,fence,fence_1.00,"white, metal, silver, green, long, gray",white
+00070007_0122.jpg,577.000356,187.999945,653.000076,382.999815,1,man,man_577.00,"red, white, large, framed, glass, black",
+00070007_0122.jpg,184.000128,0.999929,696,68.999743,1,trees,trees_184.00,"green, metal, white, brown, gray, blue",green
+00070007_0122.jpg,0.999804,22.000126,695.999652,288.00023,1,bus,bus_1.00,"black, dark, green, blue, glass, large",black
+00070007_0122.jpg,504.999852,214.000209,564.999924,355.000115,1,man,man_505.00,"green, white, blue, standing, sitting, silver","green, standing"
+00070007_0122.jpg,433.999848,234.000055,487.999704,347.000261,1,man,man_434.00,"pink, purple, colorful, white, small, standing",standing
+00070007_0122.jpg,403.999812,229.999917,456.999516,346.999839,1,man,man_404.00,"pink, purple, white, colorful, red, metal",
+00070007_0122.jpg,244.999656,189.999803,400.999704,350.999977,1,people,people_245.00,"white, sitting, green, standing, blue, large","green, standing"
+00070007_0122.jpg,164.999676,190.999732,234.999876,366.999896,1,man,man_165.00,"green, white, standing, black, sitting, yellow","green, standing"

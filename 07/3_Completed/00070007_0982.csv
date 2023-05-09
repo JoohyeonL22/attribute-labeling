@@ -1,0 +1,10 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0982.jpg,505.999856,494.99994,581.000016,553.999884,1,bag,bag_506.00,"black, green, dark, white, small, sitting","black, small"
+00070007_0982.jpg,903.99968,63.00006,992,333.999828,1,building,building_904.00,"pink, tall, brown, purple, red, large",brown
+00070007_0982.jpg,492.000256,297.000336,741.000192,482.0004,1,trailer,trailer_492.00,"white, double decker, large, red, black, parked","white, parked"
+00070007_0982.jpg,798.000016,317.000172,992.000496,465.000372,1,bus,bus_798.00,"white, red, parked, blue, large, moving","white, parked"
+00070007_0982.jpg,475.000352,408.0003,565.000544,587.000004,1,man,man_475.00,"walking, standing, yellow, green, sitting, wearing",walking
+00070007_0982.jpg,0.99944,0.999936,940.999792,422.999712,1,trees,trees_1.00,"green, tall, white, cloudy, bare, gray",green
+00070007_0982.jpg,1.000432,386.999784,110.0004,551.99964,1,truck,truck_1.00,"white, green, parked, gray, silver, small",white
+00070007_0982.jpg,166.000288,298.999464,513.99984,525.999816,1,van,van_166.00,"white, large, parked, orange, big, red","white, large"
+00070007_0982.jpg,0.999936,402.999876,992,743.999628,1,water,water_1.00,"wet, calm, gray, large, brown, blue","wet, gray"

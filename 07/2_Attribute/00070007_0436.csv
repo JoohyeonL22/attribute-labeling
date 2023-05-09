@@ -1,0 +1,5 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0436.jpg,1.0,0.9998399999999776,639.99968,411.99984,1,building,building_1.00,"white, gray, brick, brown, green, red","white, gray, brick, brown, green, red"
+00070007_0436.jpg,1.0,197.99976,487.0,424.99992,1,car,car_1.00,"silver, gray, green, parked, white, black","silver, gray, green, parked, white, black"
+00070007_0436.jpg,560.99968,1.0000799999999683,640.0000000000001,480.00024,1,man,man_561.00,"standing, black, walking, tall, white, young","standing, black, walking, tall, white, young"
+00070007_0436.jpg,1.000319999999988,400.99992,601.00032,479.99976,1,grass,grass_1.00,"green, tall, long, grassy, brown, short","green, tall, long, grassy, brown, short"

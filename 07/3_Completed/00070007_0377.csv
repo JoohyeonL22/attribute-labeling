@@ -1,0 +1,18 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0377.jpg,1.0003725,1.00023,429.0002055,141.00009,1,building,building_1.00,"white, blue, large, gray, cloudy, green","white, large"
+00070007_0377.jpg,517.000218,213.000018,633.000252,388.999842,1,firefighter,firefighter_517.00,"green, yellow, sitting, standing, blue, gray","yellow, standing"
+00070007_0377.jpg,547.999815,168.000063,579.000183,233.999997,1,person,person_548.00,"red, black, pink, glass, purple, open",black
+00070007_0377.jpg,627.00033,133.000098,739.000416,452.00001,1,man,man_627.00,"standing, walking, green, black, looking, wearing","standing, black"
+00070007_0377.jpg,1.0003725,0.999768,126.0002895,75.999924,1,tree,tree_1.00,"large, gray, white, big, brown, stone","gray, brown"
+00070007_0377.jpg,224.000172,1.00023,273.000306,37.000194,1,tree,tree_224.00,"green, black, small, white, square, hanging","green, small"
+00070007_0377.jpg,350.000076,138.999861,481.999902,280.999719,1,truck,truck_350.00,"black, parked, white, red, yellow, blue",black
+00070007_0377.jpg,0.999987,196.999803,756.000195,461.999769,1,road,road_1.00,"gray, wet, paved, concrete, white, empty","gray, paved"
+00070007_0377.jpg,139.0001205,151.00008,391.9999155,410.000052,1,van,van_139.00,"white, red, silver, parked, large, gray","white, large"
+00070007_0377.jpg,610.0001655,241.000221,770.0003985,379.000083,1,firefighter,firefighter_610.00,"blue, green, black, yellow, dark, metal",blue
+00070007_0377.jpg,581.000157,239.999991,644.000109,361.999869,1,firefighter,firefighter_581.00,"green, blue, sitting, black, metal, standing",green
+00070007_0377.jpg,581.000157,164.000067,604.999845,225.000237,1,person,person_581.00,"red, glass, black, open, pink, yellow",yellow
+00070007_0377.jpg,610.0001655,164.000067,636.9998145,230.000001,1,person,person_610.00,"green, glass, open, yellow, wooden, white",white
+00070007_0377.jpg,508.9999365,171.00006,555.0001095,214.000248,1,jeep,jeep_509.00,"green, double decker, yellow, red, colorful, large",large
+00070007_0377.jpg,633.000252,187.999812,771,318.999912,1,water,water_633.00,"yellow, green, black, blue, colorful, metal","black, blue"
+00070007_0377.jpg,424.0002705,66.000165,596.0003475,187.000275,1,building,building_424.00,"tall, large, white, red, green, black","large, green"
+00070007_0377.jpg,1.0003725,74.000157,419.0003355,403.000059,1,wall,wall_1.00,"white, gray, red, yellow, blue, silver",white

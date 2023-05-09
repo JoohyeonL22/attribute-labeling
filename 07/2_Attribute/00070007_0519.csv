@@ -1,0 +1,10 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0519.jpg,256.0006400000001,121.00032,1201.00032,720.0,1,car,car_256.00,"red, yellow, black, green, old, blue","red, yellow, black, green, old, blue"
+00070007_0519.jpg,1041.00032,45.0,1280.0006400000002,310.00032,1,fire truck,fire truck_1041.00,"red, white, parked, pink, silver, purple","red, white, parked, pink, silver, purple"
+00070007_0519.jpg,0.999680000000012,75.00023999999998,396.0,266.0004,1,fire truck,fire truck_1.00,"red, double decker, white, large, parked, big","red, double decker, white, large, parked, big"
+00070007_0519.jpg,0.999679999999998,174.00024000000002,60.0,365.00040000000007,1,firefighter,firefighter_1.00,"purple, pink, standing, sitting, yellow, colorful","purple, pink, standing, sitting, yellow, colorful"
+00070007_0519.jpg,259.00032,178.0002,315.00032,298.00044,1,firefighter,firefighter_259.00,"standing, green, yellow, white, tan, walking","standing, green, yellow, white, tan, walking"
+00070007_0519.jpg,359.00032,176.00004,604.0,271.99980000000005,1,people,people_359.00,"orange, white, yellow, black, large, blue","orange, white, yellow, black, large, blue"
+00070007_0519.jpg,708.0006399999999,158.0004,785.9999999999999,262.00008,1,suv,suv_708.00,"blue, white, small, open, large, wooden","blue, white, small, open, large, wooden"
+00070007_0519.jpg,1.000319999999988,250.99992,1278.99968,480.00024,1,road,road_1.00,"gray, yellow, black, red, blue, white","gray, yellow, black, red, blue, white"
+00070007_0519.jpg,0.9996799999998984,1.0000800000000112,1276.0,145.00008000000005,1,trees,trees_1.00,"bare, brown, red, green, tall, leafless","bare, brown, red, green, tall, leafless"

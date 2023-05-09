@@ -1,0 +1,15 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0077.jpg,663,1.0003845,1500,162.9999915,1,building,building_663.00,"brick, brown, red, green, wooden, metal","brick, brown"
+00070007_0077.jpg,1081.0005,332.000268,1273.0005,650.000208,1,man,man_1081.00,"standing, red, black, blue, walking, young","standing, black"
+00070007_0077.jpg,527.00025,232.9996095,708.00075,708.9996405,1,man,man_527.00,"green, blue, black, standing, white, gray","green, standing"
+00070007_0077.jpg,0.99975,302.0003595,551.99925,855.0001725,1,debris,debris_1.00,"brown, green, white, blue, red, gray","brown, gray"
+00070007_0077.jpg,1.0005,1.0003845,469.0005,229.0000935,1,tree,tree_1.00,"blue, green, bare, large, black, tall",bare
+00070007_0077.jpg,268.9995,67.0004865,1300.9995,702.0004875,1,bus,bus_269.00,"black, red, green, blue, colorful, white",red
+00070007_0077.jpg,1220.00025,70.0001235,1269.00075,140.9996205,1,person,person_1220.00,"red, green, blue, white, open, black",red
+00070007_0077.jpg,588.00075,78.0001665,626.00025,120.0001395,1,person,person_588.00,"sitting, small, standing, open, glass, large",standing
+00070007_0077.jpg,553.9995,73.000266,592.9995,126.999798,1,person,person_554.00,"black, small, open, glass, large, clear",black
+00070007_0077.jpg,253.0005,84.0004515,283.0005,178.0001985,1,woman,woman_253.00,"purple, pink, blue, green, colorful, red",green
+00070007_0077.jpg,198.00075,75.000024,230.00025,178.999572,1,man,man_198.00,"green, blue, pink, red, colorful, purple",
+00070007_0077.jpg,171,79.999419,210,177.999693,1,tripod,tripod_171.00,"green, blue, red, pink, colorful, hanging",
+00070007_0077.jpg,0.99975,132.9995775,1499.99925,1010.999495,1,field,field_1.00,"green, white, brown, gray, black, red",brown
+00070007_0077.jpg,0.99975,773.9998635,1499.00025,1010.999495,1,tape,tape_1.00,"colorful, red, multi colored, green, yellow, blue",colorful

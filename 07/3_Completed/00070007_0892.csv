@@ -1,0 +1,4 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0892.jpg,315.00018450000005,52.00024499999998,889.0006095,291.00030300000003,1,car,car_315.00,"red, parked, white, black, small, silver","red, small"
+00070007_0892.jpg,32.999967,41.00025600000001,168.999831,274.00032,1,man,man_33.00,"standing, skiing, walking, black, wearing, blue","walking, black"
+00070007_0892.jpg,1.000498499999992,10.000287000000014,999.0004995,461.000133,1,snow,snow_1.00,"white, snow-covered, snowy, covered, bare, brown","white, snow-covered"

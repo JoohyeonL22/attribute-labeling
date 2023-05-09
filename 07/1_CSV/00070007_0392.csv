@@ -1,0 +1,11 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0392.jpg,1.0,99.0003,99.0,170.0001,1,ambulance,ambulance_1.00,"['pink', 'purple', 'white', 'large', 'black', 'small']"
+00070007_0392.jpg,236.0,146.9997,414.0,177.9999,1,fire truck,fire truck_236.00,"['blue', 'orange', 'red', 'double decker', 'long', 'large']"
+00070007_0392.jpg,684.0,1.0001999999999924,710.0,217.0002,1,pole,pole_684.00,"['green', 'metal', 'blue', 'tall', 'white', 'long']"
+00070007_0392.jpg,1.0,107.0001,202.0,288.00030000000004,1,truck,truck_1.00,"['white', 'green', 'parked', 'black', 'large', 'double decker']"
+00070007_0392.jpg,1.0,210.0,800.0,600.0,1,road,road_1.00,"['gray', 'paved', 'concrete', 'cement', 'wet', 'asphalt']"
+00070007_0392.jpg,207.0,164.0001,542.0,414.0003,1,car,car_207.00,"['blue', 'gray', 'white', 'black', 'silver', 'large']"
+00070007_0392.jpg,494.0,183.0,529.0,207.0,1,people,people_494.00,"['red', 'small', 'black', 'white', 'blue', 'orange']"
+00070007_0392.jpg,481.0,1.0001999999999924,800.0,178.0002,1,trees,trees_481.00,"['green', 'large', 'tall', 'bare', 'brown', 'leafy']"
+00070007_0392.jpg,0.9999999999999716,51.9999,474.0,179.0001,1,trees,trees_1.00,"['red', 'white', 'pink', 'blue', 'cloudy', 'green']"
+00070007_0392.jpg,160.0,159.9999,220.0,188.9997,1,fire truck,fire truck_160.00,"['red', 'blue', 'white', 'double decker', 'large', 'parked']"

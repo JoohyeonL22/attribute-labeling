@@ -1,0 +1,21 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0295.jpg,2967.000711,0.9989879999999404,4109.002623,1540.99917,1,tree,tree_2967.00,"tall, white, large, green, brown, tan","white, tan"
+00070007_0295.jpg,214.99955099999988,1107.9995565,4057.000041,2722.0000755,1,junk vehicle,junk vehicle_215.00,"black, old, white, gray, silver, parked","black, old"
+00070007_0295.jpg,2847.0010620000003,1276.0010535,3337.999374,1589.0002425,1,car,car_2847.00,"white, parked, silver, red, pink, gray",white
+00070007_0295.jpg,3598.0014915,1301.00133,4317.0021585,1671.0000060000002,1,car,car_3598.00,"white, parked, red, small, silver, driving","white, small"
+00070007_0295.jpg,719.000667,1183.0018905,899.002299,1651.0006875,1,police,police_719.00,"standing, sitting, blue, walking, black, watching","standing, black"
+00070007_0295.jpg,1690.001892,1.000492500000064,1791.002424,1192.0018095,1,pole,pole_1690.00,"green, blue, tall, metal, gray, silver","tall, metal"
+00070007_0295.jpg,1101.0012045,517.000362,1495.0008435,814.000698,1,sign,sign_1101.00,"green, white, red, black, street, traffic","white, street"
+00070007_0295.jpg,401.001813,182.0008695,742.001643,310.0007205,1,sign,sign_401.00,"blue, white, green, street, small, black","blue, street"
+00070007_0295.jpg,1875.999837,0.998988000000054,3207.000009,1147.999698,1,tree,tree_1876.00,"green, tall, large, brown, red, bare","green, brown"
+00070007_0295.jpg,0.999385500000244,0.998988000000054,2289.9979785,1337.999994,1,trees,trees_1.00,"green, tall, large, white, metal, gray","green, large"
+00070007_0295.jpg,3664.001946,15.00136950000001,4317.0,1148.0012025,1,tree,tree_3664.00,"green, tall, large, leafy, small, growing","green, large"
+00070007_0295.jpg,3512.000376,588.999714,3644.998512,909.999834,1,traffic light,traffic light_3512.00,"red, black, traffic, electric, metal, gray","black, traffic"
+00070007_0295.jpg,3799.9982385,1193.0007975,3863.9977635,1415.0018085,1,woman,woman_3800.00,"pink, purple, black, standing, red, tall","black, standing"
+00070007_0295.jpg,3668.9988735,1170.0000015,3699.9992505,1351.0003785,1,man,man_3669.00,"pink, red, green, white, purple, standing","pink, standing"
+00070007_0295.jpg,2868.9983355,1202.9997045,2966.9985525,1288.9999334999998,1,man,man_2869.00,"pink, purple, colorful, red, small, white",small
+00070007_0295.jpg,1761.9986595,576.9983175,1882.9998525,840.9989505000001,1,traffic light,traffic light_1762.00,"red, green, traffic, yellow, orange, electric","traffic, electric"
+00070007_0295.jpg,11.999101500000052,1481.0012144999998,4316.000614500001,3007.0005194999994,1,road,road_12.00,"white, gray, wet, black, silver, concrete",gray
+00070007_0295.jpg,2792.999709,1.0004924999999505,4309.000599,1372.0001895,1,building,building_2793.00,"white, tall, large, green, brown, tan","white, tan"
+00070007_0295.jpg,32.999148000000105,1420.001262,1313.999826,1551.001086,1,sidewalk,sidewalk_33.00,"purple, red, pink, black, white, blue",
+00070007_0295.jpg,171.00068700000003,0.9989880000000256,320.999169,208.000134,1,traffic light,traffic light_171.00,"red, traffic, black, green, electric, orange","traffic, black"

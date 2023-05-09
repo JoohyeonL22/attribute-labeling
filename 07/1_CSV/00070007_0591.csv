@@ -1,0 +1,11 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0591.jpg,94.00008,108.00008800000002,480.00024,301.99993600000005,1,building,building_94.00,"['gray', 'blue', 'white', 'large', 'silver', 'black']"
+00070007_0591.jpg,241.00008,258.000085,333.00024,317.999955,1,car,car_241.00,"['white', 'blue', 'silver', 'parked', 'small', 'gray']"
+00070007_0591.jpg,9.000240000000002,246.999921,61.00008,292.999875,1,car,car_9.00,"['blue', 'black', 'glass', 'small', 'metal', 'silver']"
+00070007_0591.jpg,168.0,215.99985400000003,207.0,299.999994,1,fire,fire_168.00,"['blue', 'orange', 'red', 'large', 'yellow', 'open']"
+00070007_0591.jpg,225.0,58.999899000000006,417.0,158.999897,1,fire,fire_225.00,"['large', 'black', 'white', 'orange', 'silver', 'metal']"
+00070007_0591.jpg,21.0,66.000179,33.0,253.000069,1,pole,pole_21.00,"['black', 'metal', 'tall', 'white', 'gray', 'long']"
+00070007_0591.jpg,19.999920000000003,0.999970999999988,479.99976,297.000081,1,smoke,smoke_20.00,"['black', 'white', 'dark', 'gray', 'blue', 'large']"
+00070007_0591.jpg,1.000079999999997,1.0001319999999936,135.00024,230.000092,1,trees,trees_1.00,"['red', 'black', 'clear', 'blue', 'white', 'large']"
+00070007_0591.jpg,235.00008,227.000018,270.00024,264.999882,1,fire,fire_235.00,"['blue', 'green', 'digital', 'black', 'white', 'orange']"
+00070007_0591.jpg,112.00008000000004,152.0001,150.00024000000002,186.00008,1,fire,fire_112.00,"['yellow', 'framed', 'orange', 'red', 'square', 'small']"

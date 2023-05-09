@@ -1,0 +1,7 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0374.jpg,172.00005,26.00005800000001,410.00005,243.000198,1,car,car_172.00,"black, white, metal, silver, large, old","white, metal"
+00070007_0374.jpg,57.9999625,79.99996,107.9999375,227.000064,1,man,man_58.00,"blue, standing, young, green, walking, white","standing, green"
+00070007_0374.jpg,11.999875000000005,130.000006,113.999875,226.999922,1,hose,hose_12.00,"blue, orange, green, white, metal, gray",white
+00070007_0374.jpg,113.99987500000005,126.99983,202.999975,155.999922,1,water,water_114.00,"white, glass, clear, metal, small, blue",white
+00070007_0374.jpg,136.0,26.000058,410.00005,241.99995,1,car,car_136.00,"black, white, metal, silver, old, large","metal, old"
+00070007_0374.jpg,145.00001250000005,239.000058,267.0000875,261.000118,1,debris,debris_145.00,"pink, purple, metal, white, black, small","metal, black"

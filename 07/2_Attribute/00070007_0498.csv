@@ -1,0 +1,7 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0498.jpg,45.00048000000001,257.0002965,527.0001599999999,563.0002355,1,car,car_45.00,"red, pink, purple, parked, blue, maroon","red, pink, purple, parked, blue, maroon"
+00070007_0498.jpg,101.99952,203.000213,219.99984,358.000423,1,man,man_102.00,"smiling, sitting, standing, orange, white, looking","smiling, sitting, standing, orange, white, looking"
+00070007_0498.jpg,464.99952,264.00033700000006,594.9998400000001,524.000193,1,man,man_465.00,"purple, pink, standing, smiling, sitting, young","purple, pink, standing, smiling, sitting, young"
+00070007_0498.jpg,1.000319999999988,170.99989049999996,960.0,640.9996795,1,water,water_1.00,"gray, wet, blue, white, yellow, calm","gray, wet, blue, white, yellow, calm"
+00070007_0498.jpg,386.00064,231.000375,439.00032,271.000057,1,man,man_386.00,"yellow, small, blue, white, black, open","yellow, small, blue, white, black, open"
+00070007_0498.jpg,296.00064,233.9999345,367.00032,347.99986149999995,1,woman,woman_296.00,"green, blue, small, white, teal, sitting","green, blue, small, white, teal, sitting"

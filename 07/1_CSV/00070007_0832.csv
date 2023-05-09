@@ -1,0 +1,9 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0832.jpg,297.00000000000006,880.9998,450.00000000000006,1165.0002,1,man,man_297.00,"['purple', 'pink', 'little', 'sitting', 'young', 'standing']"
+00070007_0832.jpg,589.0002,908.0004,705.0005999999998,1163.0004,1,man,man_589.00,"['standing', 'walking', 'white', 'watching', 'sitting', 'wearing']"
+00070007_0832.jpg,838.9998,856.9998,934.0002,1057.0002,1,man,man_839.00,"['standing', 'walking', 'pink', 'white', 'purple', 'watching']"
+00070007_0832.jpg,1.0001999999999498,53.99939999999998,1200.0006,1042.9998,1,debris,debris_1.00,"['brown', 'green', 'red', 'bare', 'dead', 'white']"
+00070007_0832.jpg,1.0001999999999498,1.0002000000000637,1200.0006,670.9998,1,trees,trees_1.00,"['green', 'red', 'tall', 'brown', 'bare', 'large']"
+00070007_0832.jpg,1.0001999999999498,769.0002,1200.0006,1200.0005999999998,1,dirt,dirt_1.00,"['brown', 'dirt', 'red', 'sandy', 'dirty', 'green']"
+00070007_0832.jpg,1147.0002,758.9994,1183.9998,856.9997999999999,1,man,man_1147.00,"['blue', 'green', 'black', 'metal', 'glass', 'white']"
+00070007_0832.jpg,1168.0002,743.0003999999999,1189.9998,800.0003999999999,1,man,man_1168.00,"['green', 'blue', 'white', 'yellow', 'small', 'red']"

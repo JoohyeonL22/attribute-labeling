@@ -1,0 +1,16 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0067.jpg,1.000416,464.000652,538.000224,560.000196,1,building,building_1.00,"red, gray, white, yellow, pink, long","gray, long"
+00070007_0067.jpg,752.000304,482.000184,1075.000848,637.0002,1,bus,bus_752.00,"yellow, double decker, parked, red, long, green","yellow, long"
+00070007_0067.jpg,1164.000336,180.999612,1213.001136,922.999428,1,pole,pole_1164.00,"tall, red, metal, pink, black, gray","metal, gray"
+00070007_0067.jpg,760.000368,180.999612,895.00104,497.9997,1,pole,pole_760.00,"tall, large, red, white, metal, gray","metal, gray"
+00070007_0067.jpg,0.9996,567.000252,1631.0004,1224.000612,1,road,road_1.00,"gray, paved, concrete, black, asphalt, green","gray, asphalt"
+00070007_0067.jpg,349.000752,724.000284,1631.0004,948.000852,1,sidewalk,sidewalk_349.00,"red, white, gray, concrete, green, pink",gray
+00070007_0067.jpg,1226.000016,124.00038,1616.000688,578.00034,1,tree,tree_1226.00,"bare, leafless, tall, large, gray, white","bare, leafless"
+00070007_0067.jpg,389.000256,1.000008,673.000896,800.00028,1,pole,pole_389.00,"black, red, blue, metal, tall, gray",black
+00070007_0067.jpg,400.999536,540.000036,662.999184,571.000284,1,cars,cars_401.00,"yellow, red, pink, white, purple, colorful",
+00070007_0067.jpg,0.9996,359.99982,788.999376,556.000164,1,trees,trees_1.00,"red, green, pink, tall, white, black",green
+00070007_0067.jpg,905.000304,424.999728,1083.000912,517.999248,1,trees,trees_905.00,"green, tall, bare, gray, white, large","green, bare"
+00070007_0067.jpg,1165.999536,387.000648,1314.999504,482.000184,1,trees,trees_1166.00,"green, blue, red, traffic, white, street",green
+00070007_0067.jpg,1088.000544,460.000008,1456.000224,554.999544,1,building,building_1088.00,"gray, tall, brown, large, black, bare","gray, brown"
+00070007_0067.jpg,1510.000656,374.999328,1632.000816,557.999568,1,building,building_1510.00,"gray, white, tall, pink, large, purple","white, large"
+00070007_0067.jpg,480.000576,548.999496,1632.0,886.999752,1,grass,gras_480.00,"green, red, yellow, gray, white, pink",green

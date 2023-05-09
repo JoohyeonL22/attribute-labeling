@@ -1,0 +1,7 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0346.jpg,1046.0002499999998,291.999925,1500.00075,993.999503,1,bush,bush_1046.00,"green, tall, growing, large, leafy, brown","green, growing"
+00070007_0346.jpg,0.9997499999999492,0.999964000000034,1319.99925,994.0,1,car,car_1.00,"black, green, parked, dark, white, gray",black
+00070007_0346.jpg,867.9997500000001,17.000381999999995,917.99925,122.000578,1,man,man_868.00,"orange, yellow, gold, red, hanging, golden",yellow
+00070007_0346.jpg,428.00025,18.999813000000003,942.00075,202.000183,1,road,road_428.00,"green, brown, white, red, wooden, black",black
+00070007_0346.jpg,1392.0,128.999332,1500.0,173.9997,1,car,car_1392.00,"blue, green, black, lit, digital, white","black, lit"
+00070007_0346.jpg,1128.9997500000002,0.9999639999999984,1499.99925,106.00016,1,building,building_1129.00,"red, brown, glass, white, metal, wooden",

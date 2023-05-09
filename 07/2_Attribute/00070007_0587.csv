@@ -1,0 +1,9 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0587.jpg,235.0,373.000329,683.0,502.000187,1,car,car_235.00,"silver, purple, pink, metal, red, moving","silver, purple, pink, metal, red, moving"
+00070007_0587.jpg,194.0,363.9998245,341.0,506.9999935,1,fire,fire_194.00,"yellow, large, orange, blue, red, colorful","yellow, large, orange, blue, red, colorful"
+00070007_0587.jpg,339.0,353.000037,397.0,421.000177,1,fire,fire_339.00,"purple, pink, colorful, white, blue, yellow","purple, pink, colorful, white, blue, yellow"
+00070007_0587.jpg,1.0,495.0000315,800.0,524.9999365,1,sidewalk,sidewalk_1.00,"green, concrete, gray, cement, brown, metal","green, concrete, gray, cement, brown, metal"
+00070007_0587.jpg,1.0,0.9999080000000332,667.0,501.999654,1,smoke,smoke_1.00,"green, black, white, tall, dark, clear","green, black, white, tall, dark, clear"
+00070007_0587.jpg,515.0,398.9998025,696.0,507.9999015,1,fire,fire_515.00,"pink, purple, colorful, red, multi colored, black","pink, purple, colorful, red, multi colored, black"
+00070007_0587.jpg,487.0,235.9998745,513.0,275.0000175,1,fire,fire_487.00,"colorful, green, orange, blue, red, multi colored","colorful, green, orange, blue, red, multi colored"
+00070007_0587.jpg,1.0,1.0001744999999858,800.0,459.0001455,1,trees,trees_1.00,"green, black, white, tall, dark, large","green, black, white, tall, dark, large"

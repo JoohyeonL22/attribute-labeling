@@ -1,0 +1,13 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0601.jpg,1425.00096,4.000319999999988,1730.00064,513.0,1,building,building_1425.00,"black, purple, dark, blue, brown, red",black
+00070007_0601.jpg,1227.0009599999998,442.9998,1573.00032,761.9994,1,car,car_1227.00,"pink, silver, lit, red, purple, white",
+00070007_0601.jpg,701.9990399999999,554.0000400000001,1230.99936,982.9998,1,fire,fire_702.00,"blurry, reflecting, large, red, clear, glass","blurry, red"
+00070007_0601.jpg,0.999360000000138,710.0001,1919.99904,1080.00054,1,road,road_1.00,"blurry, wet, shiny, reflecting, clear, glass",blurry
+00070007_0601.jpg,514.0003200000001,432.0,1137.0,977.0004,1,fire,fire_514.00,"blurry, reflecting, lit, red, clear, large","blurry, lit"
+00070007_0601.jpg,0.9993599999999958,520.99956,112.00032,1034.99964,1,firefighter,firefighter_1.00,"purple, pink, silver, metal, blurry, standing",
+00070007_0601.jpg,1569.99936,500.00004,1675.00032,714.99996,1,person,person_1570.00,"metal, blue, silver, black, glass, clear",black
+00070007_0601.jpg,1156.00032,520.00056,1222.00032,654.0004799999999,1,person,person_1156.00,"green, blue, white, red, open, small",
+00070007_0601.jpg,1246.00032,462.00024,1506.99936,707.0004,1,vehicle,vehicle_1246.00,"pink, red, lit, purple, silver, white",lit
+00070007_0601.jpg,1.000319999999988,2.9996999999999616,1426.99968,966.00006,1,smoke,smoke_1.00,"blurry, white, black, blue, pink, dark","blurry, black"
+00070007_0601.jpg,1497.0009599999998,758.9997,1920.0,1010.99934,1,smoke,smoke_1497.00,"blurry, wet, white, black, large, clear","blurry, wet"
+00070007_0601.jpg,219.0,488.00070000000005,448.00032,713.00034,1,vehicle,vehicle_219.00,"lit, bright, glowing, white, blurry, blue","lit, blurry"

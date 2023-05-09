@@ -1,0 +1,6 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0228.jpg,19.99968800000005,177.00019200000003,914.999792,467.000064,1,car,car_20.00,"blue, parked, black, purple, silver, white","blue, parked, black, purple, silver, white"
+00070007_0228.jpg,755.999892,148.99996800000002,1082.0,445.00016,1,car,car_756.00,"white, parked, silver, gray, red, blue","white, parked, silver, gray, red, blue"
+00070007_0228.jpg,27.99999599999999,281.00020800000004,130.000136,473.999984,1,cone,cone_28.00,"red, orange, white, tall, black, blue","red, orange, white, tall, black, blue"
+00070007_0228.jpg,342.000183,2.9998879999999986,561.000229,176.000048,1,sign,sign_342.00,"black, large, yellow, dark, metal, tall","black, large, yellow, dark, metal, tall"
+00070007_0228.jpg,0.9997680000000172,1.0001439999999775,1082.0,471.000368,1,trees,trees_1.00,"parked, green, white, black, blue, red","parked, green, white, black, blue, red"

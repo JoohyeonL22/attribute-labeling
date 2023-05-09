@@ -1,0 +1,13 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0733.jpg,266.99997,79.0001355,315.99983000000003,113.0000465,1,building,building_267.00,"large, white, black, green, small, yellow","large, white, black, green, small, yellow"
+00070007_0733.jpg,116.00013,150.0000315,132.00003,180.0000125,1,cone,cone_116.00,"yellow, wooden, small, open, brown, closed","yellow, wooden, small, open, brown, closed"
+00070007_0733.jpg,291.00001,183.0000865,315.99983,231.0000055,1,cone,cone_291.00,"red, orange, white, green, small, blue","red, orange, white, green, small, blue"
+00070007_0733.jpg,1.000159999999994,173.99999100000002,205.00012,233.999953,1,sidewalk,sidewalk_1.00,"green, white, metal, gray, concrete, blue","green, white, metal, gray, concrete, blue"
+00070007_0733.jpg,354.00002,100.000021,376.9999,117.000103,1,sign,sign_354.00,"small, pink, purple, black, white, square","small, pink, purple, black, white, square"
+00070007_0733.jpg,13.999960000000002,0.9999825000000016,264.99984,146.9999575,1,tree,tree_14.00,"green, tall, large, white, leafy, purple","green, tall, large, white, leafy, purple"
+00070007_0733.jpg,243.00012,0.9999824999999944,361.0,115.0000115,1,tree,tree_243.00,"red, green, purple, pink, colorful, tall","red, green, purple, pink, colorful, tall"
+00070007_0733.jpg,317.99996,20.999885500000005,380.0,127.9999105,1,tree,tree_318.00,"pink, purple, green, red, tall, white","pink, purple, green, red, tall, white"
+00070007_0733.jpg,366.00004,165.0001485,380.0,192.0000555,1,cone,cone_366.00,"pink, purple, wooden, red, small, metal","pink, purple, wooden, red, small, metal"
+00070007_0733.jpg,233.00004,190.9999465,380.0,252.0000175,1,road,road_233.00,"white, gray, green, concrete, paved, cement","white, gray, green, concrete, paved, cement"
+00070007_0733.jpg,0.9999700000000048,147.000084,215.99979,203.999972,1,grass,grass_1.00,"green, yellow, metal, black, grassy, empty","green, yellow, metal, black, grassy, empty"
+00070007_0733.jpg,1.000160000000001,0.9999824999999944,63.0002,115.0000115,1,building,building_1.00,"pink, purple, red, large, tall, white","pink, purple, red, large, tall, white"

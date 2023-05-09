@@ -1,0 +1,5 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0772.jpg,1.0,1.0002000000000066,240.0,265.0002,1,trees,trees_1.00,"green, red, tall, leafy, large, brown","green, red, tall, leafy, large, brown"
+00070007_0772.jpg,121.00000000000006,1.000200000000035,800.0,418.0002,1,tree,tree_121.00,"green, white, red, tall, purple, gray","green, white, red, tall, purple, gray"
+00070007_0772.jpg,110.00000000000004,117.0,620.0,501.0,1,truck,truck_110.00,"white, parked, silver, blue, small, green","white, parked, silver, blue, small, green"
+00070007_0772.jpg,1.0,266.0001,336.0,600.0002999999999,1,field,field_1.00,"green, white, grassy, large, gray, brown","green, white, grassy, large, gray, brown"

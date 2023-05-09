@@ -1,0 +1,6 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0753.jpg,1086.9993920000002,0.9994599999998854,2276.0,1060.9999400000002,1,building,building_1087.00,"['white', 'painted', 'gray', 'yellow', 'concrete', 'beige']"
+00070007_0753.jpg,1.0003019999999196,724.0002,2276.001138,1540.0,1,water,water_1.00,"['wet', 'black', 'brown', 'dark', 'shiny', 'dirty']"
+00070007_0753.jpg,0.9991640000000644,1.0002299999999875,1293.999316,683.00001,1,tree,tree_1.00,"['green', 'leafy', 'large', 'dark', 'brown', 'purple']"
+00070007_0753.jpg,1363.9988340000002,466.0001499999999,1555.9999180000002,911.00009,1,woman,woman_1364.00,"['standing', 'walking', 'white', 'young', 'blue', 'red']"
+00070007_0753.jpg,1369.000344,722.99997,1486.0004,1050.99995,1,broom,broom_1369.00,"['red', 'white', 'gray', 'metal', 'silver', 'black']"

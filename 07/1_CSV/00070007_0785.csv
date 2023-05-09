@@ -1,0 +1,4 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0785.jpg,577.999909,400.9995660000001,1904.998975,1258.999434,1,woman,woman_578.00,"['smiling', 'pink', 'young', 'standing', 'wet', 'white']"
+00070007_0785.jpg,1.0005230000001577,203.0004899999999,2122.001061,1452.000726,1,water,water_1.00,"['green', 'clear', 'wet', 'blurry', 'calm', 'white']"
+00070007_0785.jpg,482.000629,198.00052799999995,832.001187,527.000496,1,cloth,cloth_482.00,"['red', 'pink', 'white', 'colorful', 'hanging', 'green']"

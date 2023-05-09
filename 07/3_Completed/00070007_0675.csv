@@ -1,0 +1,17 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0675.jpg,770.0004,327.9996,920.0004,370.9998,1,boat,boat_770.00,"purple, pink, white, colorful, metal, long",metal
+00070007_0675.jpg,1.0002,209.9997,216.0006,369.9999,1,building,building_1.00,"yellow, green, red, white, gray, colorful","white, gray"
+00070007_0675.jpg,568.0002,300.9996,720.0006,415.9998,1,people,people_568.00,"red, sitting, black, small, blue, yellow",
+00070007_0675.jpg,1047.9996,6.99975,1077.9996,383.99985,1,pole,pole_1048.00,"metal, tall, white, black, silver, gray","metal, black"
+00070007_0675.jpg,985.0002,306.00045,999.0006,354.00015,1,pole,pole_985.00,"pink, purple, white, metal, blue, red","white, metal"
+00070007_0675.jpg,970.9998,262.9998,1012.0002,300.9996,1,sign,sign_971.00,"red, white, pink, black, blue, green",red
+00070007_0675.jpg,964.9998,231.99975,1009.0002,257.99985,1,sign,sign_965.00,"green, black, yellow, white, street, digital","green, street"
+00070007_0675.jpg,1.0002,101.9997,66.0006,209.9997,1,tree,tree_1.00,"green, blue, tall, large, small, white","green, tall"
+00070007_0675.jpg,207,1.00035,825,344.00025,1,trees,trees_207.00,"green, tall, large, big, leafy, black","green, large"
+00070007_0675.jpg,697.0002,1.00035,1200.0006,315.00045,1,trees,trees_697.00,"green, tall, large, black, dark, white",green
+00070007_0675.jpg,0.9996,279,240.9996,693,1,car,car_1.00,"white, green, parked, gray, yellow, black",white
+00070007_0675.jpg,1.0002,309.9996,1200.0006,900,1,water,water_1.00,"wet, gray, black, paved, concrete, asphalt","wet, gray"
+00070007_0675.jpg,803.9994,319.0005,850.9998,350.0001,1,person,peprson_804.00,"purple, pink, colorful, small, white, green",green
+00070007_0675.jpg,850.0002,307.00035,882.0006,344.00025,1,person,peprson_850.00,"purple, pink, small, colorful, white, sitting",small
+00070007_0675.jpg,701.9994,302.0004,778.9998,324,1,suv,suv_702.00,"green, yellow, white, red, colorful, small",white
+00070007_0675.jpg,574.0002,358.99965,769.9998,409.99995,1,boat,boat_574.00,"red, black, small, pink, large, sitting",black

@@ -1,0 +1,4 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0649.jpg,0.9998039999999832,0.999969999999962,986.0,534.000046,1,building,building_1.00,"white, gray, red, pink, painted, tan","white, gray, red, pink, painted, tan"
+00070007_0649.jpg,335.999713,159.99990899999997,681.000127,460.999743,1,car,car_336.00,"green, blue, parked, silver, black, gray","green, blue, parked, silver, black, gray"
+00070007_0649.jpg,86.00039900000002,360.00000300000005,716.999973,554.0002770000001,1,debris,debris_86.00,"metal, red, white, silver, pink, gray","metal, red, white, silver, pink, gray"

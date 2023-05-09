@@ -1,0 +1,10 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0516.jpg,224.00054999999995,318.999846,524.0002499999999,425.000084,1,junk vehicle,junk vehicle_224.00,"black, parked, gray, old, yellow, large",old
+00070007_0516.jpg,517.00005,303.9999875,730.0003499999999,448.0001865,1,car,car_517.00,"purple, pink, gray, black, silver, parked",gray
+00070007_0516.jpg,77.99985000000001,1.000329999999991,98.99955,411.000256,1,pole,pole_78.00,"purple, pink, metal, tall, black, red",metal
+00070007_0516.jpg,256.00005,271.000179,400.99995,320.999907,1,junk vehicle,junk vehicle_256.00,"purple, pink, colorful, black, white, red",white
+00070007_0516.jpg,1.0003500000000258,414.000048,900.00045,599.0,1,road,road_1.00,"gray, wet, concrete, brown, paved, red","gray, paved"
+00070007_0516.jpg,1.0003500000000258,284.000276,900.00045,552.000064,1,debris,debris_1.00,"gray, wet, brown, concrete, pink, red","wet, brown"
+00070007_0516.jpg,1.0003500000000258,131.99983300000002,416.00025,305.999749,1,building,building_1.00,"pink, purple, large, red, double decker, black","large, red"
+00070007_0516.jpg,0.9994500000000032,251.000168,123.99975,291.00019,1,people,people_1.00,"pink, purple, white, black, red, colorful",black
+00070007_0516.jpg,742.99995,258.000082,869.99985,391.99997600000006,1,van,van_743.00,"green, colorful, white, blue, red, metal","red, metal"

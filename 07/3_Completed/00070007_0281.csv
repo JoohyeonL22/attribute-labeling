@@ -1,0 +1,6 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0281.jpg,0.9995999999999868,45.99971199999999,1050.0,703.999648,1,car,car_1.00,"gray, black, parked, green, white, silver",silver
+00070007_0281.jpg,851.000325,108.00028799999998,969.0003749999998,251.000288,1,man,man_851.00,"yellow, sitting, green, black, standing, smiling","yellow, standing"
+00070007_0281.jpg,987.9996,295.999968,1050.0,584.999712,1,person,person_988.00,"standing, walking, black, watching, gray, sitting","standing, black"
+00070007_0281.jpg,530.0001,189.999744,1050.0,704.0,1,road,road_530.00,"gray, brown, black, old, white, concrete","gray, brown"
+00070007_0281.jpg,1.0001250000000257,38.99983999999999,1048.000275,177.00003199999998,1,field,field_1.00,"green, brown, gray, tan, white, black",gray

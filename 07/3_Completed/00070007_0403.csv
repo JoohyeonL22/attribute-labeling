@@ -1,0 +1,19 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0403.jpg,1.0002975,115.000166,321.0001725,166.000012,1,building,building_1.00,"gray, pink, white, purple, black, long","gray, long"
+00070007_0403.jpg,0.99999,171.0002415,17.99982,231.0001325,1,car,car_1.00,"green, red, black, metal, orange, white","black, metal"
+00070007_0403.jpg,111.9998025,162.9997925,156.9999675,179.9998775,1,car,car_112.00,"green, red, yellow, orange, metal, wooden",metal
+00070007_0403.jpg,15.99984,171.9998375,111.00012,239.9997685,1,car,car_16.00,"green, white, silver, metal, gray, small","white, metal"
+00070007_0403.jpg,200.0001525,149.9997275,231.0004575,180.9998825,1,car,car_200.00,"pink, purple, small, red, wooden, brown",small
+00070007_0403.jpg,230.00016,154.0001565,241.00005,169.0002315,1,car,car_230.00,"pink, white, purple, red, small, black",white
+00070007_0403.jpg,486.00006,170.0002365,615,234.0001475,1,suv,suv_486.00,"silver, white, orange, gray, parked, moving","white, parked"
+00070007_0403.jpg,73.999875,178.000072,224.999595,289.000218,1,car,car_74.00,"white, green, parked, silver, small, gray","white, parked"
+00070007_0403.jpg,93.9999825,152.0001465,129.0002475,175.0002615,1,car,car_94.00,"red, green, white, small, orange, colorful",small
+00070007_0403.jpg,240.00006,127.999822,473.00019,228.999918,1,fire,fire_240.00,"silver, metal, white, large, red, glass",red
+00070007_0403.jpg,265.9998,10.00005,615,212.000242,1,smoke,smoke_266.00,"white, black, gray, red, cloudy, silver","black, gray"
+00070007_0403.jpg,97.9999425,61.999901,133.0002075,118.999777,1,tree,tree_98.00,"white, framed, red, large, small, black",small
+00070007_0403.jpg,153.0000075,59.999891,192.0002325,120.999787,1,tree,tree_153.00,"red, black, framed, white, hanging, large",
+00070007_0403.jpg,267.99978,94.000061,393.99975,152.999947,1,trees,trees_268.00,"purple, pink, green, large, white, colorful",green
+00070007_0403.jpg,37.9999275,58.999886,75.0001725,115.999762,1,tree,tree_38.00,"hanging, green, purple, large, black, pink","green, large"
+00070007_0403.jpg,0.99999,164.000002,615,409,1,parking lot,parking lot_1.00,"gray, black, white, wet, paved, asphalt","gray, asphalt"
+00070007_0403.jpg,1.0002975,149.9997275,88.0000425,182.9998925,1,cars,cars_1.00,"green, red, white, neon, large, black",
+00070007_0403.jpg,123.99999,155.0001615,151.99971,166.0002165,1,car,car_124.00,"red, yellow, orange, white, colorful, black",white

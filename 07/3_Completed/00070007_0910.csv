@@ -1,0 +1,4 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0910.jpg,741,605.999509,1808,1204.999285,1,truck,truck_741.00,"white, green, large, blue, black, big","white, big"
+00070007_0910.jpg,1,912.99923,2500,1667,1,water,water_1.00,"wet, brown, calm, clear, murky, dark","wet, brown"
+00070007_0910.jpg,1,1.0002,2500,1086.00049,1,trees,trees_1.00,"green, brown, tall, large, black, leafy","green, leafy"

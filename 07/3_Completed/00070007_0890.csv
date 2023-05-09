@@ -1,0 +1,9 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0890.jpg,1.999872000000096,2282.001384,3357.99936,2646.00076,1,grass,grass_2.00,"green, long, gray, tall, paved, concrete",green
+00070007_0890.jpg,2327.997824,0.9996199999999362,3789.999488,1590.9991639999998,1,tree,tree_2328.00,"green, tall, large, leafy, big, pine","green, leafy"
+00070007_0890.jpg,677.9982719999999,1088.999268,1840.999232,1602.9998999999998,1,truck,truck_678.00,"black, parked, large, blue, gray, green","large, gray"
+00070007_0890.jpg,6.999551999999994,2076.999844,3968.0,2641.0000120000004,1,sidewalk,sidewalk_7.00,"green, gray, paved, concrete, cement, long","gray, paved"
+00070007_0890.jpg,4.999679999999898,1181.999676,3967.000064,2420.00058,1,grass,grass_5.00,"green, short, grassy, long, tall, grass","green, short"
+00070007_0890.jpg,753.9993599999998,1003.000172,1396.997888,1203.0009639999998,1,branch,branch_754.00,"green, white, small, tall, large, leafy",small
+00070007_0890.jpg,2318.000448,717.000284,3968.001984,1192.001172,1,building,building_2318.00,"green, white, large, tall, brown, gray",white
+00070007_0890.jpg,2.999807999999802,0.9996199999999362,3961.000448,1452.000348,1,trees,trees_3.00,"green, tall, large, blue, leafy, big","green, leafy"

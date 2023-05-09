@@ -1,0 +1,5 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0985.jpg,530.0002,541.999491,1563.00004,965.000025,1,van,van_530.00,"['white', 'red', 'blue', 'parked', 'small', 'silver']"
+00070007_0985.jpg,0.9992200000000366,1.0000650000000064,1593.00014,152.000475,1,trees,trees_1.00,"['brown', 'red', 'tall', 'green', 'bare', 'gray']"
+00070007_0985.jpg,219.00026000000005,502.00002599999993,1880.00094,1131.999594,1,water,water_219.00,"['brown', 'wet', 'yellow', 'tan', 'dirty', 'concrete']"
+00070007_0985.jpg,2.9995400000000245,157.99961100000007,1871.99966,1253.999373,1,dirt,dirt_3.00,"['brown', 'rocky', 'sandy', 'dry', 'dirty', 'tan']"

@@ -1,0 +1,15 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0421.jpg,261.999816,24.00009,391.999944,103.00011,1,ambulance,ambulance_262.00,"green, yellow, red, white, lit, colorful","red, white"
+00070007_0421.jpg,161.999928,101.00001749999998,373.9998,190.9999725,1,car,car_162.00,"red, glass, white, clear, metal, silver",metal
+00070007_0421.jpg,17.999916,46.9999425,98.0001,103.9998375,1,suv,suv_18.00,"red, black, glass, green, large, double decker",black
+00070007_0421.jpg,37.00006800000001,19.999905,93.00006,47.999925000000005,1,car,car_37.00,"open, clear, blue, glass, white, small","white, small"
+00070007_0421.jpg,7.999836000000002,15.00012,59.999796,47.00007,1,car,car_8.00,"red, pink, colorful, white, yellow, blue",white
+00070007_0421.jpg,12.000096,99.9999075,71.000112,217.9998825,1,man,man_12.00,"green, black, white, blue, walking, metal","black, walking"
+00070007_0421.jpg,234.999828,100.0001625,278.999724,194.0000475,1,man,man_235.00,"green, yellow, white, standing, red, glass","green, standing"
+00070007_0421.jpg,274.99992000000003,97.00008749999998,311.99976,196.0000125,1,man,man_275.00,"open, glass, white, blue, closed, red",blue
+00070007_0421.jpg,82.99997999999998,55.99991249999999,220.000164,145.9998675,1,suv,suv_83.00,"green, white, double decker, black, parked, red","white, parked"
+00070007_0421.jpg,0.999779999999987,44.9999775,455.999772,254.9998725,1,road,road_1.00,"gray, yellow, black, wet, white, empty","gray, wet"
+00070007_0421.jpg,303.999924,96.99996000000002,335.999724,138.99999,1,man,man_304.00,"pink, purple, small, open, square, white",
+00070007_0421.jpg,1.000236000000001,98.00007000000002,51.00018,204.00000000000003,1,man,man_1.00,"green, black, white, blue, yellow, red",green
+00070007_0421.jpg,145.00002,90.00008249999999,298.999884,160.9999875,1,suv,suv_145.00,"white, green, glass, red, blue, open",white
+00070007_0421.jpg,119.00026800000003,13.000154999999992,436.00006800000006,54.000075,1,cars,cars_119.00,"white, yellow, silver, glass, clear, green",

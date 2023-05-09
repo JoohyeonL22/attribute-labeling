@@ -1,0 +1,11 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0420.jpg,678.000676,328.99983999999995,993.0003,624.999778,1,car,car_678.00,"['white', 'black', 'parked', 'silver', 'gray', 'blue']"
+00070007_0420.jpg,433.99964,306.99964100000005,569.999368,600.9996330000001,1,man,man_434.00,"['black', 'pink', 'standing', 'walking', 'purple', 'sitting']"
+00070007_0420.jpg,0.9997440000000212,553.000136,1016.0,792.9999999999999,1,road,road_1.00,"['gray', 'black', 'white', 'paved', 'dark', 'blue']"
+00070007_0420.jpg,923.999676,303.999722,1015.999492,624.999778,1,car,car_924.00,"['black', 'red', 'blue', 'white', 'large', 'driving']"
+00070007_0420.jpg,348.999556,320.000083,693.999628,534.999829,1,suv,suv_349.00,"['black', 'red', 'white', 'gray', 'pink', 'sitting']"
+00070007_0420.jpg,0.9997439999999996,328.0002635,79.00009600000001,576.9998845,1,man,man_1.00,"['black', 'white', 'red', 'large', 'blurry', 'glass']"
+00070007_0420.jpg,229.00030400000009,305.000488,1016.0,375.000184,1,cars,cars_229.00,"['green', 'red', 'white', 'metal', 'silver', 'double decker']"
+00070007_0420.jpg,1.000251999999989,11.999675999999994,1014.000004,381.00002200000006,1,building,building_1.00,"['brown', 'tall', 'large', 'black', 'bare', 'white']"
+00070007_0420.jpg,614.000296,0.9999730000000112,662.999944,407.000113,1,pole,pole_614.00,"['metal', 'long', 'black', 'tall', 'red', 'white']"
+00070007_0420.jpg,680.999908,66.00020050000003,724.000076,413.0003475,1,pole,pole_681.00,"['orange', 'black', 'tall', 'long', 'metal', 'red']"

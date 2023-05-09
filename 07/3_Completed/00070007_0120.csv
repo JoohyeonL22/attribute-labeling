@@ -1,0 +1,12 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0120.jpg,1.0,53.99998649999999,66.0,193.9999515,1,fire truck,fire truck_1.00,"red, yellow, large, black, white, colorful","red, white"
+00070007_0120.jpg,205.0,1.0001665000000344,1000.0,561.9998595,1,bus,bus_205.00,"white, green, blue, old, gray, black","old, gray"
+00070007_0120.jpg,2.0,331.0000840000001,131.0,590.000186,1,man,man_2.00,"standing, green, walking, yellow, young, wearing","walking, yellow"
+00070007_0120.jpg,832.0,372.99974,935.0,667.0,1,man,man_832.00,"purple, standing, pink, walking, smiling, old",standing
+00070007_0120.jpg,1.0,1.0001664999999775,758.0,565.0000255,1,tree,tree_1.00,"green, brown, blue, old, gray, white",brown
+00070007_0120.jpg,1.0,224.00027750000004,39.0,396.0002345,1,man,man_1.00,"standing, green, blue, black, tall, walking","standing, green"
+00070007_0120.jpg,170.0,97.99997549999998,336.0,284.0002625,1,fire truck,fire truck_170.00,"green, black, gray, red, blue, colorful",red
+00070007_0120.jpg,102.0,449.0000544999999,717.0,619.0003455,1,debris,debris_102.00,"green, brown, metal, wooden, blue, wire",brown
+00070007_0120.jpg,1.0,295.999926,354.0,566.000192,1,tarp,tarp_1.00,"blue, green, colorful, large, yellow, gray",blue
+00070007_0120.jpg,1.0,108.0003065,224.0,392.0002355,1,road,road_1.00,"bare, green, gray, brown, large, leafless","gray, brown"
+00070007_0120.jpg,224.0,0.9998330000000236,264.0,365.999575,1,pole,pole_224.00,"green, wooden, metal, gray, black, brown",gray

@@ -1,0 +1,4 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0132.jpg,1104.0,468.99972,1874.00064,799.0002,1,bus,bus_1104.00,"white, silver, large, small, black, gray","white, large"
+00070007_0132.jpg,410.9990399999999,329.0003999999999,1058.99904,889.99992,1,fire,fire_411.00,"black, large, silver, white, blurry, framed",blurry
+00070007_0132.jpg,426.0009599999999,1.0006200000000265,1920.00096,873.00018,1,smoke,smoke_426.00,"black, white, dark, silver, gray, blue",dark

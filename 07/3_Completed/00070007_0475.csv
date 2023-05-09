@@ -1,0 +1,9 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0475.jpg,1.0004500000000007,225.9994455,1100.00055,831.9999225,1,car,car_1.00,"black, green, parked, gray, silver, blue",black
+00070007_0475.jpg,160.99929999999998,177.00031949999996,266.9997,410.0004345,1,man,man_161.00,"standing, purple, pink, walking, young, sitting",standing
+00070007_0475.jpg,552.00035,231.9997305,615.00065,457.9996815,1,man,man_552.00,"blue, white, green, standing, silver, sitting",standing
+00070007_0475.jpg,430.9998,154.0000695,709.9993999999999,303.0002385,1,fire truck,fire truck_431.00,"red, pink, colorful, white, purple, parked",red
+00070007_0475.jpg,44.00055,180.9998355,166.00045,431.9997945,1,woman,woman_44.00,"standing, black, walking, young, wearing, watching","standing, black"
+00070007_0475.jpg,0.9999000000000038,3.0001424999999955,85.00030000000001,187.9999995,1,fire truck,fire truck_1.00,"red, colorful, blue, white, hanging, large",red
+00070007_0475.jpg,24.000349999999912,1.0003844999999956,709.00005,409.0005555,1,tree,tree_24.00,"pink, purple, red, green, tall, colorful",green
+00070007_0475.jpg,718.9996000000001,0.99937349999999,1100.0,415.9997085,1,trees,trees_719.00,"bare, leafless, tall, white, large, green","bare, leafless"

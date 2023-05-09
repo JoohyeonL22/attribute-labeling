@@ -1,0 +1,8 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0987.jpg,230.0004,255.000204,255.00024,297.000132,1,cone,cone_230.00,"orange, pink, red, purple, yellow, small","orange, pink, red, purple, yellow, small"
+00070007_0987.jpg,579.0002400000001,114.000096,642.0002400000001,308.000016,1,man,man_579.00,"standing, skiing, walking, smiling, red, wearing","standing, skiing, walking, smiling, red, wearing"
+00070007_0987.jpg,61.99992,145.00014000000002,426.00024,295.00011600000005,1,van,van_62.00,"white, green, parked, gray, silver, large","white, green, parked, gray, silver, large"
+00070007_0987.jpg,666.0,207.999828,720.0,310.999836,1,truck,truck_666.00,"white, black, parked, gray, large, blue","white, black, parked, gray, large, blue"
+00070007_0987.jpg,0.999719999999968,293.00010000000003,719.99964,408.000204,1,road,road_1.00,"dirt, brown, gray, gravel, black, paved","dirt, brown, gray, gravel, black, paved"
+00070007_0987.jpg,0.9997200000000036,206.000016,64.9998,293.999904,1,car,car_1.00,"green, parked, black, dark, large, white","green, parked, black, dark, large, white"
+00070007_0987.jpg,556.0002000000001,120.00014400000002,606.99996,308.000016,1,man,man_556.00,"red, standing, skiing, black, pink, white","red, standing, skiing, black, pink, white"

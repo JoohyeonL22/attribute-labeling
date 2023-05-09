@@ -1,0 +1,7 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0720.jpg,31.00032,1.00027,720,146.00009,1,trees,trees_31.00,"green, blue, red, white, clear, black",green
+00070007_0720.jpg,119.99952,154.99999,717.99984,459.99977,1,water,water_120.00,"gray, white, brown, dirty, clear, blue","brown, dirty"
+00070007_0720.jpg,136.9998,169.9999,540.99972,335.00006,1,debris,debris_137.00,"black, white, blue, gray, metal, green",black
+00070007_0720.jpg,677.99988,1.00004,719.99964,69,1,person,person_678.00,"open, glass, blue, white, large, clear",blue
+00070007_0720.jpg,256.99968,70.00004,720,116.00004,1,road,road_257.00,"red, black, white, pink, purple, long",black
+00070007_0720.jpg,1.00008,104.00002,183.00024,124.99994,1,road,road_1.00,"yellow, metal, black, long, silver, white",black

@@ -1,0 +1,10 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0426.jpg,240.0,478.0005,1032.0,1120.0005,1,car,car_240.00,"['orange', 'red', 'green', 'white', 'parked', 'brown']"
+00070007_0426.jpg,901.0,483.00075,2000.0,1349.00025,1,car,car_901.00,"['blue', 'red', 'parked', 'black', 'purple', 'colorful']"
+00070007_0426.jpg,1863.0,275.00025,1995.0,681.0007499999999,1,man,man_1863.00,"['walking', 'standing', 'sitting', 'white', 'older', 'old']"
+00070007_0426.jpg,1.0,1.0004999999999882,2000.0,781.0005,1,tree,tree_1.00,"['green', 'blue', 'bare', 'large', 'white', 'tall']"
+00070007_0426.jpg,703.0,656.9992499999998,1281.0,1446.99975,1,branch,branch_703.00,"['red', 'white', 'blue', 'purple', 'pink', 'colorful']"
+00070007_0426.jpg,1498.0,1061.9992499999998,2000.0,1494.99975,1,branch,branch_1498.00,"['black', 'gray', 'red', 'metal', 'large', 'silver']"
+00070007_0426.jpg,638.0,1107.99975,899.0,1286.00025,1,tire,tire_638.00,"['black', 'gray', 'round', 'blue', 'metal', 'green']"
+00070007_0426.jpg,1.0,1.0004999999999882,688.0,454.0005,1,building,building_1.00,"['large', 'blue', 'tall', 'white', 'glass', 'big']"
+00070007_0426.jpg,2.0,918.99975,199.0,1499.9992499999998,1,person,person_2.00,"['blue', 'light blue', 'red', 'purple', 'dark blue', 'white']"

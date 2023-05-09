@@ -1,0 +1,5 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0101.jpg,179.99982,104.0001525,372.9999,316.0002375,1,bus,bus_180.00,"white, blue, large, double decker, green, big","blue, big"
+00070007_0101.jpg,339.00009,23.000152499999984,622.00047,364.0000275,1,tree,tree_339.00,"green, tall, black, white, large, dark",green
+00070007_0101.jpg,0.9999599999999872,1.000147499999997,780.0,405.0002025,1,trees,trees_1.00,"green, black, dark, tall, white, red",green
+00070007_0101.jpg,750.99999,78.9999075,778.99965,158.9999625,1,person,person_751.00,"blue, standing, walking, colorful, pink, green",standing

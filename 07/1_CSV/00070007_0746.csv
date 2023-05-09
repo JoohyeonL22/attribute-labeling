@@ -1,0 +1,7 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0746.jpg,582.0,256.00046899999995,866.0,644.000363,1,soldier,soldier_582.00,"['blue', 'green', 'brown', 'sitting', 'metal', 'colorful']"
+00070007_0746.jpg,1.0003200000001016,0.9996905000000424,1280.00064,561.9996035,1,smoke,smoke_1.00,"['blue', 'white', 'cloudy', 'gray', 'green', 'dark']"
+00070007_0746.jpg,1.0003200000001016,452.999916,1280.00064,857.0,1,field,field_1.00,"['brown', 'tan', 'sandy', 'dirt', 'dry', 'dirty']"
+00070007_0746.jpg,706.99968,364.999728,893.00032,520.999438,1,gun,gun_707.00,"['green', 'blue', 'metal', 'sitting', 'black', 'gray']"
+00070007_0746.jpg,918.00064,218.000232,1048.0,466.999868,1,person,person_918.00,"['white', 'pink', 'red', 'green', 'gray', 'clear']"
+00070007_0746.jpg,625.00032,236.999922,766.99968,503.999986,1,soldier,soldier_625.00,"['brown', 'stuffed', 'green', 'blue', 'orange', 'gray']"

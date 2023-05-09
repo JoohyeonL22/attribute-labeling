@@ -1,0 +1,14 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0681.jpg,294.9996,91.000035,1182.9996,190.000125,1,building,building_295.00,"yellow, orange, white, gray, large, green","white, gray"
+00070007_0681.jpg,1.0001999999999995,179.00001000000003,90.00059999999999,228.00015,1,car,car_1.00,"green, red, yellow, double decker, colorful, blue",
+00070007_0681.jpg,469.0002,268.00011000000006,925.9998,434.0000700000001,1,car,car_469.00,"purple, blue, black, pink, parked, small","blue, parked"
+00070007_0681.jpg,663.9996,176.000265,723.9996,197.00005500000003,1,car,car_664.00,"yellow, black, parked, double decker, red, large",black
+00070007_0681.jpg,746.9999999999999,202.99986,770.9999999999999,431.99982,1,pole,pole_747.00,"metal, silver, purple, pink, long, tall","metal, long"
+00070007_0681.jpg,698.0004,11.999925,830.0004,64.999935,1,sign,sign_698.00,"green, white, street, black, blue, hanging","green, street"
+00070007_0681.jpg,721.0002,93.000285,804.0006000000001,209.000295,1,sign,sign_721.00,"red, white, stop, blue, black, octagonal","red, stop"
+00070007_0681.jpg,723.0005999999998,53.00000999999999,808.0002,96.00003,1,sign,sign_723.00,"green, white, blue, street, black, digital","green, street"
+00070007_0681.jpg,1.0001999999999498,190.00012500000005,1200.0006,630.000315,1,water,water_1.00,"calm, gray, wet, brown, dark, murky","wet, brown"
+00070007_0681.jpg,1116.0005999999998,181.00026,1150.0002,195.00012,1,people,people_1116.00,"yellow, black, small, white, red, blue",
+00070007_0681.jpg,862.0002000000002,13.000050000000002,1200.0006,169.99983000000003,1,trees,trees_862.00,"green, orange, tall, large, leafy, yellow","green, leafy"
+00070007_0681.jpg,133.9998,38.00033999999999,712.0002,149.00003999999998,1,trees,trees_134.00,"yellow, orange, green, white, gray, red",green
+00070007_0681.jpg,1.0002000000000066,1.000124999999997,178.9998,207.999855,1,trees,trees_1.00,"green, large, tall, red, yellow, brown","green, brown"

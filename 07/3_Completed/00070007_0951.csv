@@ -1,0 +1,9 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0951.jpg,196.9998,0.999809999999968,1199.9994000000002,464.99985,1,building,building_197.00,"red, brick, green, brown, large, white","brick, brown"
+00070007_0951.jpg,376.9998,142.99992,877.0002,460.9999800000001,1,bush,bush_377.00,"green, tall, large, leafy, small, growing","green, leafy"
+00070007_0951.jpg,1.0002000000000066,126.000315,171.0006,207.000045,1,car,car_1.00,"red, black, parked, green, gray, white",black
+00070007_0951.jpg,32.000399999999985,63.0,518.0004,393.0003,1,suv,suv_32.00,"green, white, black, silver, parked, red",black
+00070007_0951.jpg,0.9996000000000153,365.99976,453.9996,630.0,1,debris,debris_1.00,"gray, green, white, black, metal, silver","gray, black"
+00070007_0951.jpg,123.9996,1.0001250000000257,162.9996,315.000315,1,pole,pole_124.00,"green, gray, metal, silver, red, tall","gray, metal"
+00070007_0951.jpg,1.0002000000000066,0.9998099999999964,216.0006,162.00009,1,trees,trees_1.00,"green, red, large, tall, metal, white",green
+00070007_0951.jpg,2.00040000000007,278.0001000000001,611.0003999999999,630.0,1,road,road_2.00,"green, gray, metal, white, black, brown",gray

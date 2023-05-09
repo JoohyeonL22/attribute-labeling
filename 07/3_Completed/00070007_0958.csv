@@ -1,0 +1,10 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0958.jpg,1,1.0001355,639.99968,175.0001505,1,building,building_1.00,"pink, brown, green, white, purple, red","brown, white"
+00070007_0958.jpg,153.00032,132.9998145,453.00032,270.9999495,1,car,car_153.00,"purple, blue, silver, parked, gray, red","blue, parked"
+00070007_0958.jpg,261.00032,96.9999345,314,138.9999135,1,flag,flag_261.00,"red, white, framed, black, large, pink","red, white"
+00070007_0958.jpg,119,136.0000425,169,283.0001475,1,man,man_119.00,"standing, purple, walking, pink, black, young","standing, black"
+00070007_0958.jpg,1,274.999956,639.99968,333.999918,1,sidewalk,sidewalk_1.00,"green, gray, white, concrete, paved, empty","gray, paved"
+00070007_0958.jpg,0.99968,1.0001355,184,202.0000605,1,trees,trees_1.00,"green, red, pink, white, large, tall",green
+00070007_0958.jpg,489.00032,1.0001355,621.00032,293.0000745,1,tree,tree_489.00,"brown, large, tall, green, gray, old","brown, large"
+00070007_0958.jpg,1,285.0000615,639.99968,357.0001785,1,grass,grass_1.00,"green, gray, white, paved, concrete, long",green
+00070007_0958.jpg,619,1.0001355,637,357.0001785,1,pole,pole_619.00,"green, metal, tall, gray, blue, black","metal, gray"

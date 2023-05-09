@@ -1,0 +1,6 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0432.jpg,101.000417,18.99987,822.000099,444,1,car,car_101.00,"blue, silver, green, purple, parked, gray",silver
+00070007_0432.jpg,7.999911,222,303.000265,295.00026,1,debris,debris_8.00,"green, white, pink, purple, black, colorful",
+00070007_0432.jpg,90.999912,0.9998325,240.000288,86.9998575,1,debris,debris_91.00,"pink, purple, colorful, metal, white, black",metal
+00070007_0432.jpg,1.000297,3.0000525,138.000067,288.9998775,1,firefighter,firefighter_1.00,"purple, brown, gray, pink, black, standing","brown, standing"
+00070007_0432.jpg,23.999733,33.0000225,985.999507,555.0002775,1,grass,grass_24.00,"green, purple, tall, long, white, pink",green

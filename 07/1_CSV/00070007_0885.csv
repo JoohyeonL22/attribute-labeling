@@ -1,0 +1,11 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0885.jpg,1138.998815,747.0004499999999,1372.998973,1508.0005499999995,1,man,man_1139.00,"['standing', 'orange', 'walking', 'wearing', 'green', 'sitting']"
+00070007_0885.jpg,184.00052,760.0004999999999,464.000808,1464.9999,1,man,man_184.00,"['standing', 'yellow', 'green', 'wearing', 'walking', 'young']"
+00070007_0885.jpg,810.998643,760.0005000000001,1062.999481,1357.0011,1,man,man_811.00,"['standing', 'walking', 'yellow', 'young', 'looking', 'wearing']"
+00070007_0885.jpg,1443.000492,338.99985,1553.001432,1080.99915,1,pole,pole_1443.00,"['black', 'yellow', 'tall', 'wooden', 'metal', 'large']"
+00070007_0885.jpg,1294.999885,0.999599999999873,2889.000615,1167.999,1,trees,trees_1295.00,"['green', 'blue', 'large', 'brown', 'red', 'black']"
+00070007_0885.jpg,0.9984299999999848,0.9995999999999868,1854.999014,946.9992,1,trees,trees_1.00,"['green', 'orange', 'tall', 'red', 'white', 'large']"
+00070007_0885.jpg,0.9984300000000416,26.00010000000009,984.998946,1253.0007,1,truck,truck_1.00,"['orange', 'white', 'green', 'red', 'large', 'black']"
+00070007_0885.jpg,1.0013239999998405,1123.0002,2894.0,2100.0,1,road,road_1.00,"['wet', 'gray', 'green', 'brown', 'dirty', 'concrete']"
+00070007_0885.jpg,6.999138999999786,3.000900000000001,2893.9985530000004,1610.0007,1,tree,tree_7.00,"['green', 'black', 'large', 'brown', 'yellow', 'white']"
+00070007_0885.jpg,956.999496,1048.0007999999998,1314.998872,1218.0,1,chainsaw,chainsaw_957.00,"['orange', 'black', 'red', 'blue', 'metal', 'gray']"

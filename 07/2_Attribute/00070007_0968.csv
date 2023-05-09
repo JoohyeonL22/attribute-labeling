@@ -1,0 +1,11 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0968.jpg,1.000320000000002,235.00008,90.0,309.00024,1,car,car_1.00,"green, yellow, blue, white, red, colorful","green, yellow, blue, white, red, colorful"
+00070007_0968.jpg,1112.0,1.000079999999997,1136.0,302.0004,1,pole,pole_1112.00,"purple, pink, tall, black, long, blue","purple, pink, tall, black, long, blue"
+00070007_0968.jpg,239.99936,1.0000800000000254,307.99936,426.00024,1,pole,pole_240.00,"blue, black, metal, tall, green, long","blue, black, metal, tall, green, long"
+00070007_0968.jpg,587.0003199999999,1.000079999999997,1280.0,264.00024,1,trees,trees_587.00,"green, tall, blue, leafy, large, white","green, tall, blue, leafy, large, white"
+00070007_0968.jpg,1.0003200000001016,263.99988,1280.00064,719.99964,1,water,water_1.00,"calm, blue, clear, murky, green, gray","calm, blue, clear, murky, green, gray"
+00070007_0968.jpg,594.9996799999999,203.99976,682.0,291.9996,1,tree,tree_595.00,"green, blue, small, large, glass, tall","green, blue, small, large, glass, tall"
+00070007_0968.jpg,340.0,196.99992,444.0,309.00024,1,tree,tree_340.00,"purple, pink, green, colorful, small, white","purple, pink, green, colorful, small, white"
+00070007_0968.jpg,38.99968000000001,33.999840000000006,898.99968,301.99968,1,building,building_39.00,"blue, white, green, gray, large, silver","blue, white, green, gray, large, silver"
+00070007_0968.jpg,0.999679999999998,0.9997200000000106,119.00032,244.9998,1,trees,trees_1.00,"white, red, green, tall, blue, gray","white, red, green, tall, blue, gray"
+00070007_0968.jpg,289.00032,1.000079999999997,405.00032,84.00024,1,tree,tree_289.00,"blue, white, hanging, green, black, colorful","blue, white, hanging, green, black, colorful"

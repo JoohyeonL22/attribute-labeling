@@ -1,0 +1,5 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0700.jpg,0.999960000000044,0.999998999999974,623.9996880000001,294.000057,1,building,building_1.00,"brick, red, white, large, brown, painted","brick, red"
+00070007_0700.jpg,209.999712,157.0000185,283.999872,281.9998935,1,woman,woman_210.00,"standing, white, green, walking, young, gray","standing, white"
+00070007_0700.jpg,552.000384,163.00001250000005,595.000224,295.9998795,1,man,man_552.00,"standing, walking, black, looking, old, blue","standing, black"
+00070007_0700.jpg,7.000031999999919,158.00001749999996,624.0,346.0001805,1,debris,debris_7.00,"red, brick, white, gray, black, large","red, brick"

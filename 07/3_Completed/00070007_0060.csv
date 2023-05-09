@@ -1,0 +1,13 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0060.jpg,0.999675,1.00035,328.999725,587.00025,1,building,building_1.00,"tall, large, blue, white, green, bare",large
+00070007_0060.jpg,317.00025,310.00005,421.0002,510.99975,1,building,building_317.00,"red, glass, tall, blue, white, large",blue
+00070007_0060.jpg,463.00005,228.9996,668.00025,595.9998,1,building,building_463.00,"large, tall, glass, white, gray, big","large, gray"
+00070007_0060.jpg,166.0003875,497.9997,291.0002625,702.9999,1,man,man_166.00,"standing, walking, sitting, black, watching, white","walking, black"
+00070007_0060.jpg,103.99995,9.9999,157.99995,704.9997,1,pole,pole_104.00,"tall, brown, green, metal, long, blue",brown
+00070007_0060.jpg,1.0000125,645.0003,675.0003375,699.0003,1,road,road_1.00,"yellow, gray, metal, black, white, long",gray
+00070007_0060.jpg,58.0003875,42.0003,291.0002625,175.0005,1,sign,sign_58.00,"blue, white, green, large, black, hanging","green, hanging"
+00070007_0060.jpg,264.0002625,403.0002,462.0000375,615.0006,1,smoke,smoke_264.00,"red, blue, white, glass, large, tall",white
+00070007_0060.jpg,18.000225,0.9999,381.000375,710.0001,1,tree,tree_18.00,"tall, large, red, blue, white, gray",tall
+00070007_0060.jpg,257.99985,530.0001,588.9996,663.0003,1,van,van_258.00,"white, gray, silver, parked, black, red","gray, parked"
+00070007_0060.jpg,261.000225,529.0002,365.000175,617.0004,1,fire,fire_261.00,"yellow, orange, large, colorful, red, lit","orange, lit"
+00070007_0060.jpg,270,356.0004,675,585,1,smoke,smoke_270.00,"white, glass, large, gray, tall, red","white, gray"

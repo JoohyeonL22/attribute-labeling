@@ -1,0 +1,7 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0011.jpg,1351.0,0.9997500000000628,2000.0,1127.00025,1,building,building_1351.00,"white, gray, large, green, blue, tall","white, gray, large, green, blue, tall"
+00070007_0011.jpg,1.0,85.00049999999999,1661.0,1249.0005,1,bus,bus_1.00,"yellow, white, parked, green, orange, large","yellow, white, parked, green, orange, large"
+00070007_0011.jpg,822.0,1074.0007500000002,921.0,1391.00025,1,fire extinguisher,fire extinguisher_822.00,"green, brown, red, black, tall, metal","green, brown, red, black, tall, metal"
+00070007_0011.jpg,618.0,113.00025,785.0,198.00075,1,sign,sign_618.00,"green, white, street, blue, black, metal","green, white, street, blue, black, metal"
+00070007_0011.jpg,182.0,1031.0002499999998,474.0,1191.00075,1,trash,trash_182.00,"yellow, brown, white, open, gray, sitting","yellow, brown, white, open, gray, sitting"
+00070007_0011.jpg,1136.0,0.999750000000006,1200.0,266.00025,1,pole,pole_1136.00,"wooden, brown, metal, wood, tall, gray","wooden, brown, metal, wood, tall, gray"

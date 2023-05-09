@@ -1,0 +1,13 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0308.jpg,1126.99912,255.0003925,1378.9999199999995,366.0003375,1,car,car_1127.00,"['purple', 'pink', 'red', 'white', 'black', 'colorful']"
+00070007_0308.jpg,1530.999968,183.000443,1653.9993920000002,287.000431,1,car,car_1531.00,"['purple', 'white', 'pink', 'silver', 'blue', 'black']"
+00070007_0308.jpg,271.99943999999994,331.99991950000003,1598.000368,825.9998625000001,1,car,car_272.00,"['white', 'parked', 'purple', 'silver', 'black', 'gray']"
+00070007_0308.jpg,617.000288,200.0001035,739.999712,307.0003865,1,car,car_617.00,"['white', 'green', 'blue', 'parked', 'silver', 'sitting']"
+00070007_0308.jpg,763.999024,228.00048,1038.99944,382.999998,1,car,car_764.00,"['black', 'blue', 'purple', 'yellow', 'white', 'red']"
+00070007_0308.jpg,996.00024,196.0004415,1171.000848,298.0005985,1,car,car_996.00,"['purple', 'pink', 'black', 'blue', 'red', 'white']"
+00070007_0308.jpg,14.999215999999976,156.00053050000002,188.999184,787.0004154999999,1,police,police_15.00,"['standing', 'walking', 'brown', 'green', 'yellow', 'black']"
+00070007_0308.jpg,1642.0002080000002,39.99936249999999,1888.000944,378.9997875,1,truck,truck_1642.00,"['white', 'large', 'yellow', 'black', 'gray', 'red']"
+00070007_0308.jpg,262.99934399999995,172.99964250000002,684.9994399999999,493.0000275,1,truck,truck_263.00,"['purple', 'white', 'parked', 'blue', 'pink', 'silver']"
+00070007_0308.jpg,1.000639999999862,279.00001,1888.0,1097.0,1,road,road_1.00,"['white', 'gray', 'purple', 'black', 'parked', 'silver']"
+00070007_0308.jpg,143.99964799999998,799.9998655,1400.99984,1071.9999185,1,debris,debris_144.00,"['red', 'gray', 'wet', 'white', 'black', 'paved']"
+00070007_0308.jpg,1328.00032,523.9996020000001,1642.001152,960.000058,1,debris,debris_1328.00,"['black', 'pink', 'red', 'purple', 'white', 'gray']"

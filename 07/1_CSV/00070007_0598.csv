@@ -1,0 +1,9 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0598.jpg,203.0,177.999885,400.0,255.999863,1,car,car_203.00,"['silver', 'white', 'parked', 'blue', 'gray', 'metal']"
+00070007_0598.jpg,143.0,145.999952,207.0,266.0,1,man,man_143.00,"['sitting', 'standing', 'metal', 'white', 'watching', 'glass']"
+00070007_0598.jpg,1.0,1.000026999999989,297.0,184.999941,1,smoke,smoke_1.00,"['black', 'white', 'blue', 'dark', 'green', 'clear']"
+00070007_0598.jpg,1.0,35.999908000000005,74.0,254.999836,1,trees,trees_1.00,"['green', 'tall', 'leafy', 'large', 'red', 'small']"
+00070007_0598.jpg,271.0,1.0000270000000029,400.0,159.00003700000002,1,trees,trees_271.00,"['green', 'blue', 'tall', 'large', 'glass', 'clear']"
+00070007_0598.jpg,101.0,147.99987299999998,317.0,252.999915,1,fire,fire_101.00,"['silver', 'metal', 'white', 'glass', 'yellow', 'large']"
+00070007_0598.jpg,228.0,41.000043000000005,387.0,171.999989,1,building,building_228.00,"['blue', 'glass', 'green', 'tall', 'large', 'white']"
+00070007_0598.jpg,66.0,112.000098,126.0,240.99999,1,building,building_66.00,"['red', 'black', 'glass', 'white', 'open', 'blue']"

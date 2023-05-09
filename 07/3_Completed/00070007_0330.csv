@@ -1,0 +1,13 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0330.jpg,0.999731,259.999971,187.000013,327.999793,1,log,log_1.00,"red, gray, white, pink, metal, large",
+00070007_0330.jpg,164.00021,152.000057,222.000182,300.000063,1,man,man_164.00,"standing, young, sitting, watching, wearing, walking","standing, wearing"
+00070007_0330.jpg,236.999741,177.00001,316.999785,316.999914,1,man,man_237.00,"standing, sitting, green, young, watching, orange","standing, orange"
+00070007_0330.jpg,331.000212,218.000167,403.000012,297.000077,1,man,man_331.00,"red, white, blue, colorful, open, pink",
+00070007_0330.jpg,101.9998165,278.000096,132.9998635,330.000132,1,rope,rope_102.00,"pink, white, purple, red, small, black",white
+00070007_0330.jpg,1.0000305,0.999856,599.0002995,175.999736,1,trees,trees_1.00,"red, green, black, pink, white, colorful",black
+00070007_0330.jpg,110.9997915,32.999846,598.9997005,247.999818,1,truck,truck_111.00,"black, white, green, red, gray, parked",black
+00070007_0330.jpg,459.0002225,258.000259,599.0002995,343.000141,1,debris,debris_459.00,"green, blue, black, wooden, brown, metal",black
+00070007_0330.jpg,350.9999235,234.000162,464.9998065,310.000086,1,people,people_351.00,"red, white, colorful, large, sitting, blue",red
+00070007_0330.jpg,388.999585,255.99992,476.999873,372.999792,1,man,man_389.00,"sitting, standing, white, wearing, young, leaning","standing, white"
+00070007_0330.jpg,53.000119,159.99995,126.000249,252.999934,1,man,man_53.00,"red, pink, orange, white, gray, wooden",orange
+00070007_0330.jpg,0.999731,108.99977,33.999839,246.999962,1,person,person_1.00,"red, standing, walking, white, small, young","standing, white"

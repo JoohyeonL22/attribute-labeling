@@ -1,0 +1,11 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0196.jpg,1082.0,424.000052,1200.0,563.000008,1,man,man_1082.00,"blue, sitting, gray, white, standing, old","blue, sitting, gray, white, standing, old"
+00070007_0196.jpg,252.0,595.0005409999999,475.0,1265.000691,1,firefighter,firefighter_252.00,"standing, skiing, smiling, yellow, purple, posing","standing, skiing, smiling, yellow, purple, posing"
+00070007_0196.jpg,107.0,530.000065,312.0,1214.000583,1,firefighter,firefighter_107.00,"purple, pink, standing, skiing, green, colorful","purple, pink, standing, skiing, green, colorful"
+00070007_0196.jpg,761.0,0.9994100000000116,2000.0,1421.999374,1,bus,bus_761.00,"white, blue, old, green, large, black","white, blue, old, green, large, black"
+00070007_0196.jpg,514.0,666.0003529999999,702.0,1163.000475,1,firefighter,firefighter_514.00,"standing, walking, yellow, green, young, smiling","standing, walking, yellow, green, young, smiling"
+00070007_0196.jpg,400.0,644.9990819999999,515.0,1167.999682,1,firefighter,firefighter_400.00,"standing, yellow, purple, tall, skiing, pink","standing, yellow, purple, tall, skiing, pink"
+00070007_0196.jpg,1.0,581.999583,144.0,1240.999033,1,firefighter,firefighter_1.00,"pink, standing, brown, purple, yellow, tan","pink, standing, brown, purple, yellow, tan"
+00070007_0196.jpg,436.0,1191.000492,818.0,1437.9999999999998,1,debris,debris_436.00,"black, metal, blue, gray, green, brown","black, metal, blue, gray, green, brown"
+00070007_0196.jpg,1616.0,1206.99968,2000.0,1426.9993,1,debris,debris_1616.00,"white, blue, small, black, parked, large","white, blue, small, black, parked, large"
+00070007_0196.jpg,1.0,1.0001290000000154,1432.0,1110.999519,1,hill,hill_1.00,"green, blue, tall, large, white, old","green, blue, tall, large, white, old"

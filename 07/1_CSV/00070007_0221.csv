@@ -1,0 +1,9 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0221.jpg,37.000099500000005,126.99984000000002,106.9997825,332.99992000000003,1,man,man_37.00,"['green', 'blue', 'metal', 'striped', 'teal', 'white']"
+00070007_0221.jpg,433.0001345,106.00017999999996,505.0000755,377.00014,1,man,man_433.00,"['standing', 'green', 'blue', 'walking', 'white', 'old']"
+00070007_0221.jpg,675.9998455,137.00016,718.9996404999999,310.00024,1,man,man_676.00,"['standing', 'walking', 'blue', 'watching', 'sitting', 'looking']"
+00070007_0221.jpg,102.99998549999998,133.9998,170.0000005,284.99988,1,man,man_103.00,"['standing', 'walking', 'black', 'sitting', 'green', 'dark']"
+00070007_0221.jpg,553.9999255,0.9999000000000108,718.9996404999999,139.99986,1,trees,trees_554.00,"['green', 'tall', 'leafy', 'blue', 'white', 'large']"
+00070007_0221.jpg,63.000217999999904,75.99988,694.00037,281.99996,1,bus,bus_63.00,"['metal', 'green', 'yellow', 'brown', 'white', 'wooden']"
+00070007_0221.jpg,0.9997695000000028,133.00011999999998,48.0000805,350.0002,1,woman,woman_1.00,"['blue', 'standing', 'green', 'sitting', 'walking', 'glass']"
+00070007_0221.jpg,0.9997695000000136,253.9999,718.9996404999999,439.99978,1,road,road_1.00,"['gray', 'black', 'wet', 'paved', 'concrete', 'asphalt']"

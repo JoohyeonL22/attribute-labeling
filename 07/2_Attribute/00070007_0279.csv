@@ -1,0 +1,13 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0279.jpg,203.99984,128.999823,265.99983999999995,149.99985099999998,1,car,car_204.00,"green, white, double decker, blue, small, large","green, white, double decker, blue, small, large"
+00070007_0279.jpg,239.00008,128.00011249999997,440.9998,228.0001295,1,car,car_239.00,"green, silver, white, parked, gray, blue","green, silver, white, parked, gray, blue"
+00070007_0279.jpg,0.9997500000000006,153.0000295,30.99969,229.0000145,1,fire hydrant,fire hydrant_1.00,"red, standing, sitting, walking, small, little","red, standing, sitting, walking, small, little"
+00070007_0279.jpg,174.00021,39.999937,186.00031,167.99987499999995,1,pole,pole_174.00,"green, tall, metal, black, blue, white","green, tall, metal, black, blue, white"
+00070007_0279.jpg,35.000240000000005,1.000059499999992,128.00024000000002,335.9999245,1,pole,pole_35.00,"green, purple, pink, metal, black, red","green, purple, pink, metal, black, red"
+00070007_0279.jpg,276.99988,277.0000785,327.99984,318.0002495,1,debris,debris_277.00,"blue, white, green, metal, small, open","blue, white, green, metal, small, open"
+00070007_0279.jpg,188.00012,133.99994599999997,620.0,349.0,1,road,road_188.00,"wet, gray, paved, concrete, green, brown","wet, gray, paved, concrete, green, brown"
+00070007_0279.jpg,425.99983,104.9999655,524.00013,165.99993049999998,1,truck,truck_426.00,"green, yellow, double decker, white, large, parked","green, yellow, double decker, white, large, parked"
+00070007_0279.jpg,301.00008,1.000059500000006,620.0,135.9998905,1,trees,trees_301.00,"blue, green, clear, tall, yellow, cloudy","blue, green, clear, tall, yellow, cloudy"
+00070007_0279.jpg,172.00008999999997,173.00017250000002,334.99995,231.0001335,1,debris,debris_172.00,"white, black, green, silver, parked, large","white, black, green, silver, parked, large"
+00070007_0279.jpg,0.9997499999999916,1.000059500000006,238.99977,180.9999505,1,trees,trees_1.00,"green, red, pink, purple, tall, white","green, red, pink, purple, tall, white"
+00070007_0279.jpg,234.00009,104.9999655,255.00011,129.99988249999998,1,crane,crane_234.00,"red, blue, white, green, orange, traffic","red, blue, white, green, orange, traffic"

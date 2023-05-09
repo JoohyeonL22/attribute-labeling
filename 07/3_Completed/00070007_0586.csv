@@ -1,0 +1,8 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0586.jpg,998.99968,483.00048,1054.0,551.0001599999999,1,fire,fire_999.00,"red, yellow, lit, orange, colorful, neon","red, lit"
+00070007_0586.jpg,119.00032,584.00028,368.99968,630.00036,1,fire,fire_119.00,"colorful, multi colored, pink, purple, rainbow colored, yellow",yellow
+00070007_0586.jpg,426.99968,544.99968,1054.99968,621.0000000000001,1,fire,fire_427.00,"green, colorful, white, blue, metal, multi colored",
+00070007_0586.jpg,53.99936,321.00048000000004,72.99968,614.00016,1,pole,pole_54.00,"red, tall, white, long, metal, black","long, metal"
+00070007_0586.jpg,845.9993599999999,1.0000800000000254,888.99968,685.00008,1,pole,pole_846.00,"purple, pink, tall, black, long, metal","tall, long"
+00070007_0586.jpg,142.99968,0.999719999999968,1279.9993599999998,606.9999600000001,1,smoke,smoke_143.00,"blue, white, cloudy, dark, gray, black","cloudy, gray"
+00070007_0586.jpg,1.0003200000001016,612.99972,1280.00064,719.99964,1,field,field_1.00,"brown, concrete, gray, cement, dirt, wet","brown, gray"

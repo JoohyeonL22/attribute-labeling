@@ -1,0 +1,10 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0136.jpg,238.00064,268.99989600000004,347.00032,516.999648,1,man,man_238.00,"['standing', 'walking', 'young', 'wearing', 'yellow', 'smiling']"
+00070007_0136.jpg,227.00032000000004,0.99981200000002,1024.0,515.0000239999999,1,smoke,smoke_227.00,"['black', 'green', 'white', 'dark', 'red', 'large']"
+00070007_0136.jpg,0.999935999999991,0.9998119999999916,358.000128,298.99971200000005,1,tree,tree_1.00,"['green', 'purple', 'large', 'pink', 'tall', 'white']"
+00070007_0136.jpg,816.0,1.0001530000000116,1022.000128,309.000219,1,tree,tree_816.00,"['green', 'tall', 'leafy', 'large', 'dark', 'big']"
+00070007_0136.jpg,1.0004480000000058,231.00022,766.000128,520.000448,1,truck,truck_1.00,"['white', 'parked', 'double decker', 'silver', 'green', 'large']"
+00070007_0136.jpg,523.0003200000001,98.99980200000005,920.0,512.999718,1,fire,fire_523.00,"['black', 'green', 'red', 'large', 'big', 'dark']"
+00070007_0136.jpg,316.99968,364.000109,345.99936,425.000235,1,fire extinguisher,fire extinguisher_317.00,"['red', 'pink', 'small', 'colorful', 'black', 'blue']"
+00070007_0136.jpg,0.999936000000048,56.00004300000003,1023.999488,516.000177,1,building,building_1.00,"['white', 'green', 'black', 'red', 'large', 'big']"
+00070007_0136.jpg,0.999935999999991,596.9999529999999,1023.000064,680.9998469999999,1,road,road_1.00,"['yellow', 'gray', 'paved', 'concrete', 'black', 'wet']"

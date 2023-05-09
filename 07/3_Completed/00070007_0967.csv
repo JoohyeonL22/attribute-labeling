@@ -1,0 +1,13 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0967.jpg,269.99976,284.999881,465.99944,386.999819,1,motorbike,motorbike_270.00,"orange, black, red, green, white, metal","red, metal"
+00070007_0967.jpg,566.00008,101.000029,820.0,284.999881,1,building,building_566.00,"purple, pink, large, colorful, white, tall","large, white"
+00070007_0967.jpg,440.00011,238.999918,545.00029,395.999922,1,man,man_440.00,"young, standing, white, sitting, wearing, red","standing, white"
+00070007_0967.jpg,17.00024,21.999842,50.00032,290.999796,1,pole,pole_17.00,"purple, pink, black, metal, gray, tall","metal, gray"
+00070007_0967.jpg,506.00027,1.9998180000000048,557.00017,300.99980800000003,1,pole,pole_506.00,"green, tall, black, wooden, metal, gray","black, metal"
+00070007_0967.jpg,590.99983,44.000145,617.9999700000001,296.000263,1,pole,pole_591.00,"green, metal, white, tall, blue, long","metal, white"
+00070007_0967.jpg,397.00013,64.00016899999999,563.0001100000001,268.000045,1,tree,tree_397.00,"green, tall, large, white, black, metal","green, large"
+00070007_0967.jpg,7.000339999999994,0.9999089999999882,265.00022,249.999839,1,tree,tree_7.00,"green, tall, purple, large, black, pink",green
+00070007_0967.jpg,1.0004000000000133,280.99978400000003,820.0,461.00000000000006,1,water,water_1.00,"gray, wet, black, calm, paved, dark","gray, wet"
+00070007_0967.jpg,328.00041,231.9998635,399.00011,399.9997885,1,woman,woman_328.00,"sitting, black, green, standing, open, red","black, standing"
+00070007_0967.jpg,306.99980000000005,225.0000395,355.99972,366.0001165,1,woman,woman_307.00,"green, white, black, metal, gray, silver",green
+00070007_0967.jpg,682.99973,21.999842,783.9999499999999,118.999774,1,sign,sign_683.00,"green, white, black, neon, large, blue",green

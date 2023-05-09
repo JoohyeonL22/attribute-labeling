@@ -1,0 +1,10 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0404.jpg,116.0,145.00008,292.0,228.00024,1,car,car_116.00,"double decker, white, blue, large, black, parked","black, parked"
+00070007_0404.jpg,224.0,172.00008000000005,460.0,262.00008,1,car,car_224.00,"green, red, white, yellow, small, colorful","red, small"
+00070007_0404.jpg,8.99968,204.00012,20.0,228.99996,1,cone,cone_9.00,"yellow, black, white, red, street, green",red
+00070007_0404.jpg,85.00000000000001,203.00022,98.00032,224.00010000000003,1,cone,cone_85.00,"white, red, small, pink, square, glass",red
+00070007_0404.jpg,245.0,131.00003999999998,291.0,196.0002,1,man,man_245.00,"green, blue, colorful, large, tall, double decker",
+00070007_0404.jpg,475.0,1.000079999999997,489.0,218.00016,1,pole,pole_475.00,"tall, red, metal, white, long, silver","red, metal"
+00070007_0404.jpg,1.0,222.99984000000003,639.0,360.0,1,road,road_1.00,"wet, yellow, empty, gray, black, concrete","wet, black"
+00070007_0404.jpg,517.0,246.00024,563.0,262.00008,1,debris,debris_517.00,"green, blue, white, small, square, red","green, small"
+00070007_0404.jpg,276.0,162.99990000000005,320.0,193.99986,1,man,man_276.00,"green, glass, small, white, open, clear",green

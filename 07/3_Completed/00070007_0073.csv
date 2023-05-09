@@ -1,0 +1,16 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0073.jpg,1.000124999999997,136.999821,133.000115,241.999947,1,ambulance,ambulance_1.00,"yellow, pink, purple, white, colorful, double decker",yellow
+00070007_0073.jpg,258.99999,114.00009599999998,612.0002999999999,278.000184,1,bus,bus_259.00,"green, white, blue, double decker, parked, purple","green, parked"
+00070007_0073.jpg,0.9998075000000028,175.00015050000002,350.9997425,335.0000535,1,car,car_1.00,"green, white, silver, parked, black, gray",silver
+00070007_0073.jpg,202.0001675,118.0001025,206.0000325,183.0001635,1,pole,pole_202.00,"green, blue, tall, white, metal, street","tall, white"
+00070007_0073.jpg,343.99981999999994,0.9999569999999948,385.99999,300.999909,1,pole,pole_344.00,"green, metal, tall, white, black, pink",metal
+00070007_0073.jpg,495.99977,228.9999705,635.0,327.99999749999995,1,road,road_496.00,"purple, concrete, gray, pink, white, cement",gray
+00070007_0073.jpg,211.00034,102.999855,224.00006,127.999851,1,sign,sign_211.00,"green, white, blue, street, neon, small",white
+00070007_0073.jpg,328.0000425,179.00015700000003,371.00033750000006,238.000119,1,sign,sign_328.00,"green, white, blue, black, metal, silver",white
+00070007_0073.jpg,341.00008,131.000079,371.00002,181.000071,1,sign,sign_341.00,"black, white, green, square, small, blue",black
+00070007_0073.jpg,315.00032250000004,45.000207,349.0001275000001,131.000079,1,traffic light,traffic light_315.00,"black, purple, red, pink, green, traffic","black, traffic"
+00070007_0073.jpg,348.99981,1.0001355000000025,373.99976,50.0001705,1,sign,sign_349.00,"pink, black, white, purple, green, red",white
+00070007_0073.jpg,248.9996925,101.0001195,279.9997575,116.0001885,1,traffic light,traffic light_249.00,"green, white, black, small, yellow, hanging","small, yellow"
+00070007_0073.jpg,204.0001,150.999933,216.99982000000003,170.99978699999997,1,traffic light,traffic light_204.00,"blue, small, white, black, glass, green",black
+00070007_0073.jpg,384.0000575,111.999825,410.0001325,125.999937,1,traffic light,traffic light_384.00,"pink, purple, small, white, colorful, black",small
+00070007_0073.jpg,0.9998074999999744,257.000016,634.9996825,357.00000000000006,1,snow,snow_1.00,"gray, concrete, brown, cement, white, green",cement

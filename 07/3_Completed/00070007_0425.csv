@@ -1,0 +1,11 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0425.jpg,150,140.00026,589.00032,397.00008,1,van,van_150.00,"purple, pink, black, white, gray, silver",silver
+00070007_0425.jpg,58.000128,142.99994,150.000384,344,1,firefighter,firefighter_58.00,"standing, sitting, white, wearing, black, walking","standing, black"
+00070007_0425.jpg,0.999936,1.00018,284.000256,258,1,trees,trees_1.00,"bare, brown, leafless, red, large, tall","bare, brown"
+00070007_0425.jpg,566.000256,180.00015,701.000064,257.00025,1,debris,debris_566.00,"black, metal, silver, brown, pink, large","black, metal"
+00070007_0425.jpg,575.000448,332.000205,638.000256,348.000075,1,debris,debris_575.00,"orange, black, red, small, white, digital","black, small"
+00070007_0425.jpg,537.000192,127.00007,588,281.00027,1,firefighter,firefighter_537.00,"purple, pink, standing, sitting, black, white","standing, black"
+00070007_0425.jpg,490.000128,138.000115,537.000192,203.000205,1,man,man_490.00,"sitting, white, blue, standing, smiling, looking","standing, looking"
+00070007_0425.jpg,472.000128,8.00015,768.000384,266.00015,1,fire truck,fire truck_472.00,"large, pink, white, red, tall, big","large, red"
+00070007_0425.jpg,106.99968,256.99982,767.999616,430,1,road,road_107.00,"gray, purple, black, concrete, wet, pink",gray
+00070007_0425.jpg,413.000064,136.000185,429.999744,152.000055,1,man,man_413.00,"pink, purple, white, small, green, red",green

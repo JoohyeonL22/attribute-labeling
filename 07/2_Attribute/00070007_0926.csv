@@ -1,0 +1,9 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0926.jpg,445.99968,7.99999200000002,840.0000000000001,364.0,1,ambulance,ambulance_446.00,"white, red, green, pink, parked, purple","white, red, green, pink, parked, purple"
+00070007_0926.jpg,17.999940000000002,205.999976,141.9999,364.0,1,firefighter,firefighter_18.00,"green, yellow, standing, sitting, young, blonde","green, yellow, standing, sitting, young, blonde"
+00070007_0926.jpg,434.99988,68.000114,581.00028,211.000062,1,firefighter,firefighter_435.00,"colorful, multi colored, yellow, green, purple, blue","colorful, multi colored, yellow, green, purple, blue"
+00070007_0926.jpg,592.9996799999999,125.99987399999998,714.0,267.000006,1,man,man_593.00,"green, yellow, black, white, sitting, standing","green, yellow, black, white, sitting, standing"
+00070007_0926.jpg,0.9996000000000153,1.000089999999986,268.99992,246.000118,1,tree,tree_1.00,"green, purple, tall, blue, brown, white","green, purple, tall, blue, brown, white"
+00070007_0926.jpg,121.00032000000002,89.00000199999997,596.00016,364.000182,1,car,car_121.00,"black, purple, green, parked, gray, silver","black, purple, green, parked, gray, silver"
+00070007_0926.jpg,353.00034,70.999838,397.00038,109.99989,1,firefighter,firefighter_353.00,"red, black, small, orange, white, green","red, black, small, orange, white, green"
+00070007_0926.jpg,179.00022,1.00009,840.00042,364.000182,1,field,field_179.00,"green, pink, purple, white, parked, red","green, pink, purple, white, parked, red"

@@ -1,0 +1,9 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0210.jpg,520.0002000000002,66.99982500000002,1198.9998,517.999725,1,bus,bus_520.00,"yellow, brown, wooden, black, parked, empty","yellow, brown, wooden, black, parked, empty"
+00070007_0210.jpg,48.999600000000015,184.000275,279.9996,319.000275,1,suv,suv_49.00,"blue, purple, blurry, silver, white, metal","blue, purple, blurry, silver, white, metal"
+00070007_0210.jpg,1.0001999999999498,260.00021250000003,1200.0006,673.9999875000001,1,road,road_1.00,"black, yellow, dark, gray, white, empty","black, yellow, dark, gray, white, empty"
+00070007_0210.jpg,766.9998,264.0002625,844.0002,355.00038750000004,1,sign,sign_767.00,"red, blue, white, pink, colorful, small","red, blue, white, pink, colorful, small"
+00070007_0210.jpg,0.9995999999999868,0.9996750000000104,546.9996,201.999825,1,tree,tree_1.00,"bare, white, tall, leafless, brown, large","bare, white, tall, leafless, brown, large"
+00070007_0210.jpg,256.9998,197.00010000000003,508.0002,490.00005,1,debris,debris_257.00,"black, blurry, silver, dark, white, metal","black, blurry, silver, dark, white, metal"
+00070007_0210.jpg,543.9996,188.00032500000003,660.9996,261.000225,1,car,car_544.00,"red, black, white, silver, orange, metal","red, black, white, silver, orange, metal"
+00070007_0210.jpg,34.99980000000005,29.99969999999999,637.0002000000001,216.0,1,building,building_35.00,"bare, white, tall, large, leafless, brown","bare, white, tall, large, leafless, brown"

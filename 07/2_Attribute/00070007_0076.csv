@@ -1,0 +1,12 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0076.jpg,266.00010000000003,177.99984,327.0003,381.99984,1,man,man_266.00,"green, standing, black, blue, walking, metal","green, standing, black, blue, walking, metal"
+00070007_0076.jpg,375.0003,187.00008,485.0001,462.00024,1,man,man_375.00,"green, brown, standing, little, small, young","green, brown, standing, little, small, young"
+00070007_0076.jpg,0.9998999999999896,181.00008000000005,122.0001,387.0002400000001,1,people,people_1.00,"large, standing, black, purple, brown, walking","large, standing, black, purple, brown, walking"
+00070007_0076.jpg,305.0001,1.000079999999997,600.0003,208.99992,1,tree,tree_305.00,"brown, green, stone, brick, large, white","brown, green, stone, brick, large, white"
+00070007_0076.jpg,19.000200000000007,48.999840000000006,586.0002,279.99984,1,bus,bus_19.00,"white, brown, large, big, green, black","white, brown, large, big, green, black"
+00070007_0076.jpg,316.0002,181.99992,391.0002,382.00008,1,man,man_316.00,"green, sitting, brown, standing, looking, walking","green, sitting, brown, standing, looking, walking"
+00070007_0076.jpg,434.0000999999999,177.99984,474.9999,258.99984,1,man,man_434.00,"purple, pink, colorful, black, brown, white","purple, pink, colorful, black, brown, white"
+00070007_0076.jpg,479.0001,186.0,513.9999,294.0,1,man,man_479.00,"green, brown, wooden, metal, standing, hanging","green, brown, wooden, metal, standing, hanging"
+00070007_0076.jpg,540.9999,174.0,599.9997000000001,459.0,1,man,man_541.00,"purple, brown, pink, green, black, metal","purple, brown, pink, green, black, metal"
+00070007_0076.jpg,23.000100000000003,436.99992,150.9999,472.00008,1,debris,debris_23.00,"blue, brown, metal, small, silver, black","blue, brown, metal, small, silver, black"
+00070007_0076.jpg,27.0,361.99992,600.0,479.9997599999999,1,road,road_27.00,"brown, green, gray, concrete, wet, metal","brown, green, gray, concrete, wet, metal"

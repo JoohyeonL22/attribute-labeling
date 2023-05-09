@@ -1,0 +1,10 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0725.jpg,354.00032,103.99990650000002,568.00032,230.99980950000003,1,building,building_354.00,"['green', 'white', 'large', 'gray', 'silver', 'metal']"
+00070007_0725.jpg,568.0,126.999903,640.0,252.999763,1,building,building_568.00,"['green', 'gray', 'white', 'large', 'tall', 'black']"
+00070007_0725.jpg,0.999680000000012,146.99996900000002,208.99968,274.999915,1,building,building_1.00,"['red', 'brown', 'brick', 'pink', 'large', 'green']"
+00070007_0725.jpg,446.0,191.0000745,538.0,268.0002095,1,tree,tree_446.00,"['orange', 'glass', 'green', 'clear', 'brown', 'large']"
+00070007_0725.jpg,558.0,22.000152,638.0,217.0002,1,tree,tree_558.00,"['green', 'tall', 'large', 'white', 'leafy', 'big']"
+00070007_0725.jpg,512.0,247.999945,607.0003199999999,303.999971,1,truck,truck_512.00,"['white', 'parked', 'silver', 'gray', 'orange', 'small']"
+00070007_0725.jpg,602.00032,261.9999515,640.00032,314.99984850000004,1,truck,truck_602.00,"['green', 'black', 'metal', 'blue', 'open', 'dark']"
+00070007_0725.jpg,26.99968000000001,118.99975750000002,166.0,177.99991250000002,1,debris,debris_27.00,"['green', 'blue', 'white', 'metal', 'black', 'red']"
+00070007_0725.jpg,207.0,123.99997249999996,497.0,299.9999975,1,debris,debris_207.00,"['green', 'white', 'metal', 'silver', 'large', 'black']"

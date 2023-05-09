@@ -1,0 +1,10 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0252.jpg,558.0,206.99988750000009,1200.0,674.9996625000001,1,car,car_558.00,"red, parked, purple, black, maroon, gray","red, parked, purple, black, maroon, gray"
+00070007_0252.jpg,229.0002,119.0001375,417.0006,542.0003624999999,1,firefighter,firefighter_229.00,"standing, walking, skiing, young, smiling, wearing","standing, walking, skiing, young, smiling, wearing"
+00070007_0252.jpg,33.000000000000014,54.0,240.0,675.0,1,man,man_33.00,"gray, standing, walking, young, black, smiling","gray, standing, walking, young, black, smiling"
+00070007_0252.jpg,418.0002,97.99987499999996,633.0006,614.999925,1,firefighter,firefighter_418.00,"smiling, standing, purple, sitting, pink, wearing","smiling, standing, purple, sitting, pink, wearing"
+00070007_0252.jpg,0.9996000000000008,165.9997125,249.9996,310.9998375,1,ambulance,ambulance_1.00,"gray, white, pink, red, silver, purple","gray, white, pink, red, silver, purple"
+00070007_0252.jpg,1.0002000000000066,305.0001,715.9998,675.0,1,road,road_1.00,"gray, red, black, yellow, white, wet","gray, red, black, yellow, white, wet"
+00070007_0252.jpg,786.0006000000001,154.00023750000005,1138.0002,316.9999125,1,truck,truck_786.00,"yellow, red, white, gray, black, silver","yellow, red, white, gray, black, silver"
+00070007_0252.jpg,1.0001999999999995,252.9997875,91.9998,666.9995625,1,person,person_1.00,"black, red, standing, blue, walking, white","black, red, standing, blue, walking, white"
+00070007_0252.jpg,1.0001999999999498,1.0000124999999969,1200.0006,268.9999875,1,trees,trees_1.00,"green, white, gray, black, tall, red","green, white, gray, black, tall, red"

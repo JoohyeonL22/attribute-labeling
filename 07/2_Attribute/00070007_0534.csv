@@ -1,0 +1,9 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0534.jpg,1.0003499999999992,0.9998224999999934,26.00013,265.9999775,1,pole,pole_1.00,"black, tall, metal, brown, glass, gray","black, tall, metal, brown, glass, gray"
+00070007_0534.jpg,610.99974,176.0001485,643.00002,293.0002335,1,pole,pole_611.00,"white, metal, silver, gray, black, long","white, metal, silver, gray, black, long"
+00070007_0534.jpg,619.0002,11.000023,689.00052,90.999871,1,sign,sign_619.00,"green, black, white, blue, small, black and white","green, black, white, blue, small, black and white"
+00070007_0534.jpg,620.0001599999999,85.99988049999999,665.99988,177.99979349999998,1,sign,sign_620.00,"black, striped, yellow, blue, american, white","black, striped, yellow, blue, american, white"
+00070007_0534.jpg,315.00027,44.9999145,528.00033,267.0000195,1,truck,truck_315.00,"white, glass, large, silver, clear, tall","white, glass, large, silver, clear, tall"
+00070007_0534.jpg,0.9999599999999872,267.99984200000006,780.0,439.0,1,water,water_1.00,"wet, gray, concrete, paved, black, cement","wet, gray, concrete, paved, black, cement"
+00070007_0534.jpg,444.99975,1.0000420000000076,777.9996899999999,274.000094,1,water,water_445.00,"gray, white, green, blue, dark, black","gray, white, green, blue, dark, black"
+00070007_0534.jpg,33.99980999999997,1.0000419999999792,368.99967,269.999926,1,water,water_34.00,"white, green, gray, black, blurry, large","white, green, gray, black, blurry, large"

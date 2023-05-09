@@ -1,0 +1,10 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0088.jpg,172.99983999999995,248.000098,620.0,349.0,1,hose,hose_173.00,"['red', 'gray', 'metal', 'yellow', 'concrete', 'train']"
+00070007_0088.jpg,1.0000599999999906,123.00016399999998,160.0003,349.0,1,man,man_1.00,"['sitting', 'white', 'black', 'green', 'gray', 'yellow']"
+00070007_0088.jpg,135.00004,165.0000455,219.00012,349.0001745,1,man,man_135.00,"['green', 'yellow', 'purple', 'standing', 'pink', 'sitting']"
+00070007_0088.jpg,378.9998,1.0000594999999777,620.0,206.0002165,1,smoke,smoke_379.00,"['white', 'blue', 'large', 'green', 'cloudy', 'clear']"
+00070007_0088.jpg,331.00001999999995,53.99989750000002,610.00002,227.9997805,1,bus,bus_331.00,"['purple', 'pink', 'white', 'large', 'black', 'big']"
+00070007_0088.jpg,312.99987,197.00003,561.99993,275.000134,1,debris,debris_313.00,"['metal', 'purple', 'pink', 'green', 'yellow', 'colorful']"
+00070007_0088.jpg,238.00002,68.00003249999999,255.99986,92.9999495,1,person,person_238.00,"['red', 'black', 'green', 'white', 'small', 'framed']"
+00070007_0088.jpg,259.00004,67.0001475,279.0,95.0000685,1,person,person_259.00,"['white', 'framed', 'small', 'hanging', 'black', 'green']"
+00070007_0088.jpg,120.99982000000004,240.0001455,618.99994,349.0001745,1,road,road_121.00,"['red', 'gray', 'metal', 'yellow', 'concrete', 'brown']"

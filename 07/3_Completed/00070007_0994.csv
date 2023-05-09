@@ -1,0 +1,7 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0994.jpg,201.00032,97.00000050000004,1126.99968,415.0000335,1,car,car_201.00,"red, black, parked, blue, green, silver","black, parked"
+00070007_0994.jpg,524.0,122.00017050000002,632.9996799999999,461.9999475,1,man,man_524.00,"standing, walking, white, looking, wearing, blue","standing, wearing"
+00070007_0994.jpg,371.00032,341.000088,1280.0,507.0,1,road,road_371.00,"gray, concrete, wet, white, cement, paved","gray, paved"
+00070007_0994.jpg,2.0,1.9998615000000013,1279.99936,72.99963450000001,1,trees,trees_2.00,"gray, brown, white, tall, blue, bare",brown
+00070007_0994.jpg,1212.99968,265.0000275,1280.0,350.0000984999999,1,fire extinguisher,fire extinguisher_1213.00,"red, white, orange, sitting, blue, green",red
+00070007_0994.jpg,855.99936,135.0001575,1219.99936,303.99998850000003,1,debris,debris_856.00,"blue, silver, white, metal, black, green","metal, green"

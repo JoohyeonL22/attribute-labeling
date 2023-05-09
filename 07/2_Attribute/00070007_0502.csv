@@ -1,0 +1,11 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0502.jpg,666.9996799999999,211.99995600000003,922.0,359.999788,1,car,car_667.00,"white, parked, purple, silver, blue, pink","white, parked, purple, silver, blue, pink"
+00070007_0502.jpg,834.9996799999999,216.000044,1179.99936,389.000212,1,car,car_835.00,"purple, pink, parked, red, maroon, black","purple, pink, parked, red, maroon, black"
+00070007_0502.jpg,70.0,563.000188,758.99968,603.0002119999999,1,paddle,paddle_70.00,"blue, long, wooden, brown, white, yellow","blue, long, wooden, brown, white, yellow"
+00070007_0502.jpg,663.9993599999999,1.000236000000001,838.99968,256.00006800000006,1,tree,tree_664.00,"green, brown, tall, large, leafy, dark","green, brown, tall, large, leafy, dark"
+00070007_0502.jpg,868.00064,1.0002360000000152,954.0,218.000516,1,tree,tree_868.00,"brown, tall, large, gray, green, thick","brown, tall, large, gray, green, thick"
+00070007_0502.jpg,1.0003200000001016,185.00000400000005,1280.00064,856.000428,1,water,water_1.00,"calm, brown, wet, murky, reflective, clear","calm, brown, wet, murky, reflective, clear"
+00070007_0502.jpg,289.99936,386.00036,456.0,583.0002,1,woman,woman_290.00,"sitting, black, smiling, pink, purple, young","sitting, black, smiling, pink, purple, young"
+00070007_0502.jpg,254.0,566.00004,530.0,662.0004399999999,1,boat,boat_254.00,"pink, red, white, blue, purple, small","pink, red, white, blue, purple, small"
+00070007_0502.jpg,150.00063999999998,64.000124,208.0,123.999732,1,sign,sign_150.00,"red, white, stop, black, street, written","red, white, stop, black, street, written"
+00070007_0502.jpg,214.00063999999983,1.000236000000001,1280.0,309.00016400000004,1,building,building_214.00,"white, green, pink, purple, tall, blurry","white, green, pink, purple, tall, blurry"

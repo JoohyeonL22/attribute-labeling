@@ -1,0 +1,12 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0610.jpg,1177.000704,762.000225,1443.000576,922.000275,1,broom,broom_1177.00,"green, blue, metal, colorful, wooden, long","wooden, long"
+00070007_0610.jpg,1.000704,483,1536.000768,1050,1,road,road_1.00,"wet, gray, black, white, concrete, empty","wet, gray"
+00070007_0610.jpg,274.000896,112.999425,1530.000384,571.999575,1,trees,trees_274.00,"green, orange, tall, blue, white, yellow",green
+00070007_0610.jpg,153.99936,477.0003,339.999744,665.0007,1,truck,truck_154.00,"white, green, black, orange, large, gray",white
+00070007_0610.jpg,366.000384,449.99955,1319.000832,811.99965,1,truck,truck_366.00,"black, white, yellow, gray, metal, orange","white, metal"
+00070007_0610.jpg,1158.999552,648.99975,1293.000192,926.00025,1,person,person_1159.00,"standing, walking, blue, skiing, yellow, green","standing, blue"
+00070007_0610.jpg,0.999168,544.000275,68.999424,620.000325,1,car,car_1.00,"green, red, white, parked, yellow, black","white, parked"
+00070007_0610.jpg,0.999168,619.9998,18.999552,719.9997,1,car,car_1.00,"green, yellow, black, hanging, colorful, white",white
+00070007_0610.jpg,143.999232,529.999575,163.999488,563.999625,1,car,car_144.00,"red, traffic, black, white, hanging, pink",
+00070007_0610.jpg,133.999872,521.000025,148.000512,534.999675,1,car,car_134.00,"red, pink, green, white, orange, black",white
+00070007_0610.jpg,1.000704,491.000475,129.000192,546.000525,1,cars,cars_1.00,"green, large, blue, yellow, colorful, white",

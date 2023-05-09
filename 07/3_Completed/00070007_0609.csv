@@ -1,0 +1,15 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0609.jpg,0.999750000000006,68.99991750000001,302.99989,296.99987250000004,1,car,car_1.00,"black, green, parked, blue, white, yellow",black
+00070007_0609.jpg,282.99962,69.999977,337.99981999999994,103.000021,1,car,car_283.00,"pink, purple, small, white, open, colorful","small, white"
+00070007_0609.jpg,69.00010999999999,7.000067500000004,99.00005,68.0000325,1,cone,cone_69.00,"green, pink, white, blue, purple, open",white
+00070007_0609.jpg,171.00002999999998,0.999884999999992,355.99997,124.000049,1,tree,tree_171.00,"green, purple, pink, white, colorful, tall",
+00070007_0609.jpg,349.99992000000003,1.000059499999992,586.9998800000001,295.0001025,1,tree,tree_350.00,"purple, gray, black, pink, yellow, green",green
+00070007_0609.jpg,91.99994,18.999908999999995,200.99966,89.99977100000001,1,truck,truck_92.00,"pink, purple, green, yellow, colorful, silver",yellow
+00070007_0609.jpg,0.999750000000006,273.9999,344.99993,349.0,1,road,road_1.00,"black, yellow, gray, white, paved, concrete","gray, paved"
+00070007_0609.jpg,329.99996,108.00014399999998,620.0,263.000118,1,sidewalk,sidewalk_330.00,"gray, purple, green, concrete, pink, brown","gray, brown"
+00070007_0609.jpg,299.00027,200.000034,369.00013,281.000142,1,debris,debris_299.00,"purple, black, pink, sitting, metal, yellow",black
+00070007_0609.jpg,385.00016,243.99986,449.00028,282.999912,1,debris,debris_385.00,"blue, purple, pink, metal, small, wooden",metal
+00070007_0609.jpg,302.99989,147.0000215,438.99999,213.9999945,1,motorbike,motorbike_303.00,"black, white, large, glass, clear, open",black
+00070007_0609.jpg,141.00009,6.999892999999993,259.00035,119.999811,1,truck,truck_141.00,"purple, pink, green, white, silver, black",green
+00070007_0609.jpg,523.00007,31.00009949999999,553.00001,164.0001605,1,man,man_523.00,"green, blue, black, white, purple, standing","black, standing"
+00070007_0609.jpg,498.99987,40.9999965,526.99969,159.0000375,1,man,man_499.00,"green, standing, black, blue, walking, white",standing

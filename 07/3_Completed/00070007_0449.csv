@@ -1,0 +1,9 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0449.jpg,654.99998,82.00004799999999,794.00002,148.999824,1,building,building_655.00,"green, white, large, tall, blue, black",white
+00070007_0449.jpg,0.9995799999999236,217.99992,919.99954,607.999696,1,beach,beach_1.00,"brown, gray, black, wet, dirty, white",brown
+00070007_0449.jpg,662.00026,193.000176,713.00046,308.000336,1,man,man_662.00,"walking, standing, blue, white, watching, sitting","walking, blue"
+00070007_0449.jpg,1.0004999999999311,52.00011199999999,918.00038,216.000208,1,mountain,mountain_1.00,"green, large, brown, purple, blue, tall","green, large"
+00070007_0449.jpg,630.9999399999999,502.000064,698.9999,521.0000640000001,1,trash,trash_631.00,"pink, purple, colorful, small, multi colored, black","small, black"
+00070007_0449.jpg,757.9995000000001,198.000368,806.99962,311.000208,1,woman,woman_758.00,"red, black, pink, skiing, walking, standing","black, walking"
+00070007_0449.jpg,0.9995799999999804,195.999744,720.9998599999999,228.0,1,wave,wave_1.00,"pink, colorful, purple, multi colored, white, long",white
+00070007_0449.jpg,0.9995799999999804,168.99998399999998,626.9997800000001,574.999888,1,junk vehicle,junk vehicle_1.00,"black, blue, white, green, large, parked",black

@@ -1,0 +1,10 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0105.jpg,915.999904,333.000096,973.000224,429.0,1,man,man_916.00,"black, colorful, purple, hanging, blue, framed",black
+00070007_0105.jpg,162.000048,244.000328,517.000144,373.000056,1,bus,bus_162.00,"black, white, blue, green, large, silver",black
+00070007_0105.jpg,589.999936,334.000238,625.999616,434.999994,1,man,man_590.00,"walking, standing, sitting, watching, green, little",standing
+00070007_0105.jpg,319.999856,329.0001,581.999952,425.000004,1,debris,debris_320.00,"white, black, colorful, multi colored, blue, green","black, multi colored"
+00070007_0105.jpg,834.000688,338.999804,857.000208,393.000036,1,person,person_834.00,"red, pink, open, black, glass, orange",black
+00070007_0105.jpg,702.999648,379.00005,760.999904,421.000294,1,person,person_703.00,"blue, small, black, white, square, glass",
+00070007_0105.jpg,636.000464,397.000032,714.000432,436.999992,1,debris,debris_636.00,"blue, open, small, clear, glass, white",small
+00070007_0105.jpg,891.0000160000001,336.000236,908.999856,391.000324,1,person,person_891.00,"pink, purple, small, black, white, colorful","black, white"
+00070007_0105.jpg,255.9999840000001,363.000066,991.999504,572.000286,1,road,road_256.00,"white, gray, paved, concrete, black, painted","gray, paved"

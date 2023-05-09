@@ -1,0 +1,14 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0255.jpg,81.00011500000001,90.0000775,93.000255,103.0001945,1,cone,cone_81.00,"pink, red, orange, yellow, purple, colorful",orange
+00070007_0255.jpg,1.000150000000005,92.999958,145.00017000000005,235.000064,1,car,car_1.00,"white, parked, green, silver, gray, black","white, parked"
+00070007_0255.jpg,149.0001475,139.00007899999997,396.0002625,205.000087,1,hose,hose_149.00,"metal, green, white, black, red, wooden",
+00070007_0255.jpg,372.00019,61.00010949999999,415.0,225.0001205,1,firefighter,firefighter_372.00,"yellow, green, black, metal, sitting, gray",yellow
+00070007_0255.jpg,345.0000825,81.999859,382.0002375,190.999961,1,pole,pole_345.00,"yellow, black, blue, open, glass, gold",yellow
+00070007_0255.jpg,0.9999425000000032,18.999878,198.0000275,66.00000800000001,1,trees,trees_1.00,"red, green, tall, large, white, black","green, large"
+00070007_0255.jpg,0.9999424999999889,69.000035,115.0000275,110.000111,1,truck,truck_1.00,"green, colorful, yellow, double decker, multi colored, red",double decker
+00070007_0255.jpg,1.0001499999999997,65.99986150000001,21.99998,105.9999285,1,woman,woman_1.00,"green, blue, white, yellow, glass, small",
+00070007_0255.jpg,1.0001500000000192,103.000048,415.0,293.0,1,road,road_1.00,"gray, black, wet, yellow, concrete, paved","gray, paved"
+00070007_0255.jpg,129.999995,84.00002350000001,139.99983500000002,101.9998925,1,cone,cone_130.00,"green, black, small, red, glass, square","small, red"
+00070007_0255.jpg,190.0000725,163.9998645,248.0000575,195.9998595,1,debris,debris_190.00,"green, metal, red, white, glass, small",
+00070007_0255.jpg,156.00016000000002,61.99997199999999,383.00018,175.00011,1,car,car_156.00,"blue, yellow, black, moving, red, green",blue
+00070007_0255.jpg,178.00014000000002,0.999862499999999,194.00005,65.99986150000001,1,pole,pole_178.00,"red, black, tall, white, large, metal","tall, white"

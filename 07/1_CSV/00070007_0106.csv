@@ -1,0 +1,11 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0106.jpg,0.999827500000002,115.999993,40.0000825,202.999877,1,building,building_1.00,"['red', 'metal', 'pink', 'square', 'small', 'black']"
+00070007_0106.jpg,321.9999825,61.99984350000001,599.9999075,171.9998445,1,building,building_322.00,"['brick', 'pink', 'red', 'large', 'tall', 'purple']"
+00070007_0106.jpg,501.0000275,126.0000535,582.0003525,295.9999745,1,man,man_501.00,"['standing', 'walking', 'watching', 'looking', 'wearing', 'sitting']"
+00070007_0106.jpg,0.9998275000000092,0.9998510000000068,312.99987250000004,238.999829,1,smoke,smoke_1.00,"['blue', 'cloudy', 'white', 'large', 'red', 'clear']"
+00070007_0106.jpg,200.00008000000005,77.000045,325.00013,169.999921,1,tree,tree_200.00,"['bare', 'leafless', 'tall', 'large', 'blue', 'white']"
+00070007_0106.jpg,548.0002325,10.000060500000004,661.0003575000001,162.0000055,1,tree,tree_548.00,"['tall', 'bare', 'leafless', 'large', 'green', 'brown']"
+00070007_0106.jpg,567.00028,106.000154,665.0,255.999954,1,tree,tree_567.00,"['red', 'orange', 'large', 'brown', 'metal', 'blue']"
+00070007_0106.jpg,153.0002075,227.0000665,665.0003325,443.0002215,1,debris,debris_153.00,"['black', 'metal', 'wet', 'dirty', 'white', 'gray']"
+00070007_0106.jpg,95.00023749999995,132.99989649999998,291.0003425,304.0001115,1,fire,fire_95.00,"['white', 'yellow', 'large', 'blue', 'clear', 'glass']"
+00070007_0106.jpg,228.0002375,156.9998645,598.0002525,227.9999175,1,wall,wall_228.00,"['brick', 'black', 'red', 'metal', 'gray', 'brown']"

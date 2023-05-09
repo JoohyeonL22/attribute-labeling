@@ -1,0 +1,4 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0629.jpg,69.00027750000004,115.000182,342.0002025,191.000106,1,car,car_69.00,"white, parked, green, black, large, blue","white, parked, green, black, large, blue"
+00070007_0629.jpg,101.9999475,1.000147499999997,494.9997525,297.0001485,1,trees,trees_102.00,"green, white, yellow, black, dark, blurry","green, white, yellow, black, dark, blurry"
+00070007_0629.jpg,0.9998999999999968,1.000147499999997,228.99987,297.0001485,1,water,water_1.00,"yellow, white, green, clear, black, blurry","yellow, white, green, clear, black, blurry"

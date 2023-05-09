@@ -1,0 +1,12 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0434.jpg,20.00025,0.9999080000000014,116.00055,41.999888,1,building,building_20.00,"lit, digital, black, small, blue, white","lit, digital, black, small, blue, white"
+00070007_0434.jpg,189.0,102.999904,765.0,357.99989400000004,1,car,car_189.00,"white, green, silver, parked, black, blue","white, green, silver, parked, black, blue"
+00070007_0434.jpg,230.99984999999995,107.99991299999996,341.99954999999994,382.999939,1,police,police_231.00,"standing, walking, green, young, sitting, black","standing, walking, green, young, sitting, black"
+00070007_0434.jpg,745.99965,122.99993999999998,753.99975,224.999936,1,pole,pole_746.00,"red, orange, metal, tall, pink, long","red, orange, metal, tall, pink, long"
+00070007_0434.jpg,0.9994499999999676,226.9999865,870.99975,468.9997655,1,road,road_1.00,"gray, concrete, paved, green, cement, asphalt","gray, concrete, paved, green, cement, asphalt"
+00070007_0434.jpg,723.00015,39.000163999999984,778.00005,100.00018,1,sign,sign_723.00,"brown, wooden, black, hanging, white, purple","brown, wooden, black, hanging, white, purple"
+00070007_0434.jpg,736.0002,99.0000375,765.0,125.9998985,1,sign,sign_736.00,"pink, purple, white, red, small, yellow","pink, purple, white, red, small, yellow"
+00070007_0434.jpg,214.99965,1.0001424999999955,528.9997500000001,150.00003550000002,1,tree,tree_215.00,"green, purple, pink, large, black, tall","green, purple, pink, large, black, tall"
+00070007_0434.jpg,837.0,0.9999080000000048,900.0,460.999798,1,tree,tree_837.00,"green, brown, tall, gray, long, metal","green, brown, tall, gray, long, metal"
+00070007_0434.jpg,613.9998,0.9999080000000048,853.0002,225.999844,1,tree,tree_614.00,"green, tall, black, large, white, leafy","green, tall, black, large, white, leafy"
+00070007_0434.jpg,100.9998,101.00032250000004,225.0,394.0000995,1,police,police_101.00,"standing, walking, blue, green, wearing, black","standing, walking, blue, green, wearing, black"

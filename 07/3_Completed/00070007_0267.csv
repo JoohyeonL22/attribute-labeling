@@ -1,0 +1,15 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0267.jpg,0.999680000000012,92.000139,280.99968,239.000013,1,building,building_1.00,"white, pink, large, purple, blue, tall","white, large"
+00070007_0267.jpg,11.999680000000012,229.0001,189.99968,381.000144,1,car,car_12.00,"purple, silver, parked, gray, white, pink","silver, parked"
+00070007_0267.jpg,100.0,190.9998755,132.0,229.9999205,1,man,man_100.00,"orange, white, sitting, black, standing, small","black, standing"
+00070007_0267.jpg,17.000319999999995,189.9998415,82.0,301.9998065,1,people,people_17.00,"sitting, blue, standing, white, walking, wearing","standing, white"
+00070007_0267.jpg,150.0,213.99980350000004,225.00032,382.9999985,1,firefighter,firefighter_150.00,"purple, standing, pink, black, walking, yellow","standing, yellow"
+00070007_0267.jpg,272.0,1.0000340000000278,319.00032,274.999956,1,pole,pole_272.00,"green, metal, wooden, gray, brown, tall","wooden, gray"
+00070007_0267.jpg,190.0,164.00002500000002,250.0,190.000055,1,sign,sign_190.00,"pink, purple, green, white, colorful, neon",green
+00070007_0267.jpg,1.0,1.0000339999999994,134.00032,202.000036,1,tree,tree_1.00,"white, bare, large, blue, tall, green","bare, green"
+00070007_0267.jpg,136.00032,1.0000339999999994,415.0,153.000078,1,tree,tree_136.00,"bare, white, green, large, leafless, blue","bare, leafless"
+00070007_0267.jpg,281.0,1.0000339999999994,639.99968,427.0,1,truck,truck_281.00,"white, black, gray, parked, old, silver",gray
+00070007_0267.jpg,1.0,358.0000025,355.0,427.0002135,1,road,road_1.00,"black, gray, yellow, concrete, paved, cement","gray, paved"
+00070007_0267.jpg,148.0,206.999779,176.99968,235.999911,1,man,man_148.00,"white, green, red, blue, small, sitting",
+00070007_0267.jpg,203.99968,198.9997205,273.99968,317.9999235,1,people,people_204.00,"purple, pink, colorful, black, standing, sitting","black, standing"
+00070007_0267.jpg,209.0,186.0001325,223.0,248.0001055,1,pole,pole_209.00,"pink, purple, blue, white, red, colorful",white

@@ -1,0 +1,4 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0260.jpg,143.00027550000004,129.00006000000002,588.0001005,373.000068,1,car,car_143.00,"['purple', 'pink', 'silver', 'black', 'gray', 'green']"
+00070007_0260.jpg,1.00018799999998,0.999684000000002,729.0,320.999868,1,trees,trees_1.00,"['green', 'pink', 'purple', 'red', 'tall', 'black']"
+00070007_0260.jpg,1.00018799999998,189.0,729.0,504.0,1,bush,bush_1.00,"['purple', 'green', 'pink', 'tall', 'colorful', 'black']"

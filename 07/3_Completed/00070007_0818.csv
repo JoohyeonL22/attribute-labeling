@@ -1,0 +1,11 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0818.jpg,0.999680000000012,457.00020000000006,396.0,600.00012,1,tape,tape_1.00,"yellow, green, white, orange, red, long","yellow, long"
+00070007_0818.jpg,412.99968,176.00003999999998,476.99968,237.99996,1,sign,sign_413.00,"yellow, red, black, orange, white, green",yellow
+00070007_0818.jpg,630.0,192.00024,658.0,219.00024,1,sign,sign_630.00,"white, black, street, red, green, traffic","white, street"
+00070007_0818.jpg,972.00064,442.00008,1221.00032,673.99992,1,sign,sign_972.00,"yellow, black, metal, small, large, wooden","yellow, small"
+00070007_0818.jpg,0.999680000000012,0.9997200000000248,456.99968,521.99964,1,trees,trees_1.00,"green, tall, metal, chain link, blue, red",green
+00070007_0818.jpg,334.0006399999999,322.0002,955.00032,413.00028,1,water,water_334.00,"red, blue, yellow, colorful, white, multi colored",
+00070007_0818.jpg,1.0003200000001016,373.00032,1280.00064,720.0,1,road,road_1.00,"gray, yellow, wet, concrete, paved, black","gray, paved"
+00070007_0818.jpg,351.99936,248.00004,618.0,323.00028,1,road,road_352.00,"green, white, gray, concrete, metal, cement",gray
+00070007_0818.jpg,342.00064,1.000079999999997,1280.0,347.99976000000004,1,trees,trees_342.00,"bare, leafless, blue, tall, brown, white","bare, leafless"
+00070007_0818.jpg,474.00000000000006,575.99964,1002.99968,614.9998800000001,1,tape,tape_474.00,"green, yellow, colorful, blue, white, multi colored",yellow

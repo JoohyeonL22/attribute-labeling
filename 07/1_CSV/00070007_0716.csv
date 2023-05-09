@@ -1,0 +1,10 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0716.jpg,99.0,159.00017,740.0,396.000318,1,building,building_99.00,"['purple', 'tall', 'large', 'pink', 'gray', 'white']"
+00070007_0716.jpg,1.0,227.99977199999995,305.0,473.999764,1,bush,bush_1.00,"['purple', 'pink', 'green', 'red', 'large', 'colorful']"
+00070007_0716.jpg,346.0,347.000192,413.0,474.000296,1,firefighter,firefighter_346.00,"['standing', 'green', 'red', 'walking', 'wearing', 'yellow']"
+00070007_0716.jpg,1.0,100.999668,408.0,234.999828,1,trees,trees_1.00,"['bare', 'red', 'white', 'tall', 'large', 'leafless']"
+00070007_0716.jpg,473.0,1.0001600000000508,800.0,532.0,1,tree,tree_473.00,"['bare', 'leafless', 'tall', 'brown', 'dead', 'large']"
+00070007_0716.jpg,86.0,1.0001600000000082,799.0,233.00004,1,smoke,smoke_86.00,"['white', 'cloudy', 'blue', 'gray', 'clear', 'overcast']"
+00070007_0716.jpg,399.0,393.999998,800.0,456.99997,1,road,road_399.00,"['green', 'red', 'metal', 'black', 'brown', 'long']"
+00070007_0716.jpg,1.0,391.999944,800.0,532.0,1,grass,grass_1.00,"['green', 'brown', 'dirt', 'red', 'grassy', 'metal']"
+00070007_0716.jpg,543.0,361.999932,800.0,421.999956,1,grass,grass_543.00,"['red', 'green', 'metal', 'black', 'brown', 'wooden']"

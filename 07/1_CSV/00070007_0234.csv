@@ -1,0 +1,10 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0234.jpg,1.0002125000000015,117.999975,25.0001375,138.000135,1,car,car_1.00,"['green', 'small', 'black', 'blue', 'white', 'yellow']"
+00070007_0234.jpg,49.99969999999999,111.999927,383.99995,280.99998700000003,1,car,car_50.00,"['blue', 'silver', 'black', 'white', 'gray', 'green']"
+00070007_0234.jpg,1.000212500000032,214.9999435,575.0002875,322.9998385,1,dirt,dirt_1.00,"['brown', 'green', 'metal', 'gray', 'dirt', 'purple']"
+00070007_0234.jpg,42.9999375,117.9998135,49.0000625,168.9998985,1,pole,pole_43.00,"['pink', 'purple', 'red', 'metal', 'small', 'tall']"
+00070007_0234.jpg,490.9996875,87.00005000000002,503.9998625,174.0001,1,pole,pole_491.00,"['green', 'metal', 'white', 'silver', 'blue', 'long']"
+00070007_0234.jpg,1.0002125000000035,121.9998455,172.00003750000002,178.9999785,1,road,road_1.00,"['yellow', 'black', 'gray', 'white', 'silver', 'metal']"
+00070007_0234.jpg,304.9998375,120.0001525,572.9998625,151.0000775,1,road,road_305.00,"['green', 'metal', 'brown', 'white', 'silver', 'blue']"
+00070007_0234.jpg,483.999925,43.99986749999999,517.999675,86.9998885,1,sign,sign_484.00,"['white', 'green', 'black', 'red', 'street', 'square']"
+00070007_0234.jpg,276.0,257.99996450000003,521.99995,306.0000255,1,debris,debris_276.00,"['purple', 'pink', 'metal', 'black', 'white', 'brown']"

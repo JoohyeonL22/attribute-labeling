@@ -1,0 +1,9 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0102.jpg,1.0000799999999683,1.0,480.00024,279.0,1,building,building_1.00,"red, brick, pink, white, large, brown","brick, large"
+00070007_0102.jpg,108.00024,193.99984,277.00008,274.99984,1,car,car_108.00,"sitting, black, red, white, yellow, metal","black, metal"
+00070007_0102.jpg,378.0,60.999840000000006,480.0,215.99984,1,ladder,ladder_378.00,"red, brick, white, large, gray, brown",white
+00070007_0102.jpg,182.99976,174.00016,232.99992,281.00016,1,man,man_183.00,"orange, red, white, sitting, yellow, open","orange, yellow"
+00070007_0102.jpg,53.00016000000001,177.0,107.00016,259.0,1,man,man_53.00,"red, sitting, pink, white, silver, brown",red
+00070007_0102.jpg,115.99992,180.99984,157.00008,281.99984,1,man,man_116.00,"sitting, white, standing, older, old, watching","standing, watching"
+00070007_0102.jpg,4.99992000000001,258.99984,122.99976,303.99984,1,debris,debris_5.00,"purple, pink, wooden, metal, brown, black","wooden, brown"
+00070007_0102.jpg,282.99983999999995,226.0,453.99984,304.0,1,debris,debris_283.00,"yellow, open, black, sitting, purple, colorful",

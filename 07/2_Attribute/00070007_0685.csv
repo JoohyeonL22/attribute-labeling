@@ -1,0 +1,7 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0685.jpg,0.99980400000004,1.000152,695.999652,229.000356,1,building,building_1.00,"white, yellow, red, black, gray, silver","white, yellow, red, black, gray, silver"
+00070007_0685.jpg,8.999627999999973,154.999809,503.9997,281.999799,1,car,car_9.00,"red, yellow, blue, white, black, gray","red, yellow, blue, white, black, gray"
+00070007_0685.jpg,442.999824,123.999795,675.999744,203.999949,1,car,car_443.00,"red, yellow, black, white, parked, moving","red, yellow, black, white, parked, moving"
+00070007_0685.jpg,662.9998559999999,152.99976600000002,696.0,256.999914,1,car,car_663.00,"red, metal, yellow, black, pink, purple","red, metal, yellow, black, pink, purple"
+00070007_0685.jpg,7.00036799999998,0.999890999999998,688.000176,72.99987300000001,1,ceiling,ceiling_7.00,"white, black, blue, metal, large, glass","white, black, blue, metal, large, glass"
+00070007_0685.jpg,0.99980400000004,188.999757,695.999652,521.999739,1,water,water_1.00,"wet, black, gray, dark, white, brown","wet, black, gray, dark, white, brown"

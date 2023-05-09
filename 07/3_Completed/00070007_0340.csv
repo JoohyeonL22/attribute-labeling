@@ -1,0 +1,11 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0340.jpg,1441.9990900000005,1080.998825,3405.99889,2269.998919,1,car,car_1442.00,"blue, parked, white, silver, green, gray",blue
+00070007_0340.jpg,2146.99926,1.000306999999964,3710.0,641.0007410000001,1,tree,tree_2147.00,"green, large, tall, blue, white, leafy","green, leafy"
+00070007_0340.jpg,1.0016999999998006,0.9991260000000466,2401.0007,1603.99877,1,truck,truck_1.00,"white, blue, black, large, gray, green",white
+00070007_0340.jpg,2319.000425,791.9986770000003,3710.001855,1612.9991710000002,1,people,people_2319.00,"standing, watching, walking, metal, sitting, large","standing, watching"
+00070007_0340.jpg,2718.99964,881.0000180000001,2875.99942,1294.000442,1,woman,woman_2719.00,"orange, standing, red, walking, young, colorful","orange, standing"
+00070007_0340.jpg,1.0016999999998006,1245.000752,3710.0,2362.0,1,road,road_1.00,"gray, paved, blue, concrete, white, black","gray, paved"
+00070007_0340.jpg,2913.999095,1287.000655,3709.998145,1682.000277,1,sidewalk,sidewalk_2914.00,"gray, blue, red, white, brown, paved","gray, paved"
+00070007_0340.jpg,2276.001525,330.0009250000001,3710.001855,944.000463,1,building,building_2276.00,"green, large, white, blue, brown, tall",green
+00070007_0340.jpg,3519.00178,767.9995759999999,3623.0005,938.998928,1,woman,woman_3519.00,"pink, red, purple, white, watching, standing","watching, standing"
+00070007_0340.jpg,3573.99882,776.9999770000001,3634.99864,909.000347,1,child,child_3574.00,"pink, red, purple, white, watching, standing","pink, standing"

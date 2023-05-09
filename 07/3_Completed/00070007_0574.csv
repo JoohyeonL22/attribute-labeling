@@ -1,0 +1,8 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0574.jpg,133.999763,138.00003750000002,449.999877,217.0000625,1,car,car_134.00,"silver, clear, glass, black, white, metal","black, metal"
+00070007_0574.jpg,471.999713,78.00016249999999,477.999931,142.0001375,1,pole,pole_472.00,"pink, purple, metal, white, small, red","metal, red"
+00070007_0574.jpg,455.999806,28.9999125,491.00001800000007,40.9998875,1,sign,sign_456.00,"green, white, blue, black, street, digital","green, street"
+00070007_0574.jpg,463.000253,48.000225,491.000307,81.00007500000001,1,sign,sign_463.00,"red, white, black, yellow, orange, pink",red
+00070007_0574.jpg,0.9999400000000024,1.0000249999999935,112.000216,98.000175,1,tree,tree_1.00,"large, red, dark, white, green, glass","dark, green"
+00070007_0574.jpg,431.00015,1.0000250000000008,507.000214,105.000025,1,tree,tree_431.00,"purple, pink, white, green, black, colorful",green
+00070007_0574.jpg,0.9999400000000378,69.99996250000001,578.0,324.9998375,1,water,water_1.00,"wet, dark, black, red, brown, white","wet, dark"

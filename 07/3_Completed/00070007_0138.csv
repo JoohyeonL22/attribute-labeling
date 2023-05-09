@@ -1,0 +1,9 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0138.jpg,75.0,409.0003585,451.0,590.0001275,1,bus,bus_75.00,"large, green, black, big, white, old",
+00070007_0138.jpg,1.0,672.0000185,800.0,787.0003935000001,1,fence,fence_1.00,"wooden, metal, white, gray, silver, wood","metal, gray"
+00070007_0138.jpg,2.0,560.000081,798.0,621.000451,1,road,road_2.00,"green, gray, concrete, white, cement, long",gray
+00070007_0138.jpg,480.0,139.9998235,800.0,499.0001045,1,trees,trees_480.00,"green, tall, blue, large, leafy, big","green, large"
+00070007_0138.jpg,208.0,567.9995425000001,297.0,596.9997055,1,fire,fire_208.00,"orange, brown, red, black, metal, small",orange
+00070007_0138.jpg,116.00000000000004,446.0003765,295.0,522.0001795000001,1,fire,fire_116.00,"orange, large, black, colorful, white, hanging",orange
+00070007_0138.jpg,360.0,360.9996545,448.0,491.9997395,1,fire,fire_360.00,"large, orange, framed, colorful, blue, white",orange
+00070007_0138.jpg,1.0,1.0002769999999828,730.0,566.000169,1,smoke,smoke_1.00,"green, blue, black, dark, cloudy, white","black, dark"

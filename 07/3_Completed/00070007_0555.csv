@@ -1,0 +1,9 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0555.jpg,397.99968,153.0000605,590.99976,247.0000575,1,boat,boat_398.00,"yellow, white, brown, blue, tan, gray","white, tan"
+00070007_0555.jpg,1.0003499999999974,1.0002615000000006,293.00037,91.0000905,1,building,building_1.00,"pink, purple, brown, white, green, red","brown, red"
+00070007_0555.jpg,0.9999600000000156,49.999905,389.00004,238.999941,1,bush,bush_1.00,"purple, green, pink, red, metal, colorful",green
+00070007_0555.jpg,523.9997099999999,63.000231499999984,619.99977,238.0001185,1,man,man_524.00,"blue, sitting, green, standing, watching, light blue","blue, standing"
+00070007_0555.jpg,575.99997,65.00009600000001,750.00003,212.000124,1,car,car_576.00,"black, parked, yellow, blue, silver, driving",blue
+00070007_0555.jpg,0.9999599999999872,183.999826,780.0,439.0,1,water,water_1.00,"calm, blue, white, gray, green, clear",gray
+00070007_0555.jpg,193.00047,97.9999455,298.00017,343.0001385,1,woman,woman_193.00,"sitting, standing, young, gray, smiling, walking","standing, gray"
+00070007_0555.jpg,474.00015,109.99979100000002,535.00005,195.999891,1,woman,woman_474.00,"sitting, blue, black, gray, green, silver",black

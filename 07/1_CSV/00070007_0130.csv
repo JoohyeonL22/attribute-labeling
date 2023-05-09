@@ -1,0 +1,9 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0130.jpg,0.9998099999999964,1.0000855000000115,421.99983,316.0002845,1,building,building_1.00,"['pink', 'white', 'green', 'brown', 'purple', 'large']"
+00070007_0130.jpg,1.0001249999999686,289.999956,630.000315,421.0,1,dirt,dirt_1.00,"['brown', 'dirt', 'sandy', 'green', 'dirty', 'dry']"
+00070007_0130.jpg,348.99984000000006,254.0000355,391.99986,341.0001065,1,gun,gun_349.00,"['green', 'brown', 'open', 'small', 'pink', 'wooden']"
+00070007_0130.jpg,280.000035,199.99983900000004,383.999805,384.999869,1,man,man_280.00,"['green', 'brown', 'sitting', 'stuffed', 'standing', 'gray']"
+00070007_0130.jpg,288.9999,0.999875000000003,630.0,225.999957,1,trees,trees_289.00,"['bare', 'leafless', 'brown', 'purple', 'pink', 'white']"
+00070007_0130.jpg,12.999735,189.00016150000005,211.999725,351.9999945,1,people,people_13.00,"['metal', 'standing', 'large', 'silver', 'sitting', 'brown']"
+00070007_0130.jpg,317.00025000000005,198.99975350000005,609.00021,294.99996250000004,1,people,people_317.00,"['brown', 'green', 'metal', 'pink', 'purple', 'wooden']"
+00070007_0130.jpg,1.000124999999997,338.000271,170.999955,420.000125,1,debris,debris_1.00,"['metal', 'black', 'purple', 'pink', 'red', 'gray']"

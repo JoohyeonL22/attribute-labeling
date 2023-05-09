@@ -1,0 +1,17 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0744.jpg,1422.999552,524.9998750000001,1870.999552,655.9997890000001,1,building,building_1423.00,"brown, large, brick, blue, tall, bare","brown, large"
+00070007_0744.jpg,373.000192,805.0007675,465.000448,945.0003505,1,cone,cone_373.00,"orange, white, red, small, metal, plastic","orange, small"
+00070007_0744.jpg,1134.999552,178.0004235,1440.999424,648.9999825,1,fire,fire_1135.00,"blue, orange, red, large, bright, yellow","orange, bright"
+00070007_0744.jpg,1011.00032,466.0001905,1077.001216,563.0007155,1,flag,flag_1011.00,"purple, colorful, american, blue, multi colored, rainbow colored",american
+00070007_0744.jpg,311.000064,437.00017,421.000192,575.000466,1,flag,flag_311.00,"blue, white, american, hanging, black, large",blue
+00070007_0744.jpg,8.000512,580.0004100000001,174.001152,686.0006040000001,1,flag,flag_8.00,"colorful, purple, multi colored, pink, white, blue",multi colored
+00070007_0744.jpg,398.000128,429.0001445,440.000512,810.0007115000001,1,pole,pole_398.00,"yellow, tall, metal, blue, black, silver","metal, silver"
+00070007_0744.jpg,1.0004480000000058,0.9996435000000474,1448.999936,644.0000385,1,smoke,smoke_1.00,"blue, white, bare, large, green, cloudy","white, cloudy"
+00070007_0744.jpg,1307.0008320000002,1.0002190000000155,2048.0,692.999835,1,trees,trees_1307.00,"bare, leafless, tall, brown, large, blue","bare, leafless"
+00070007_0744.jpg,0.9994240000000048,0.9996434999999906,321.99884799999995,881.0001465,1,tree,tree_1.00,"bare, tall, leafless, green, blue, brown","bare, leafless"
+00070007_0744.jpg,762.0003839999999,0.9996434999999906,1512.000512,861.9994385,1,tree,tree_762.00,"blue, large, bare, tall, red, orange",bare
+00070007_0744.jpg,0.99942400000009,1059.0005700000002,2048.0,1151.0,1,sidewalk,sidewalk_1.00,"gray, concrete, cement, paved, green, stone","gray, paved"
+00070007_0744.jpg,0.9994239999999764,731.9997434999999,875.999232,1036.9997804999998,1,hose,hose_1.00,"green, brown, red, blue, metal, orange",red
+00070007_0744.jpg,775.999488,391.000455,1052.99968,626.000125,1,fire,fire_776.00,"red, orange, colorful, yellow, large, blue",red
+00070007_0744.jpg,1997.000704,490.9999105,2048.0,645.0002575,1,building,building_1997.00,"pink, white, red, small, purple, gray","white, small"
+00070007_0744.jpg,103.99948800000004,329.999757,1411.00032,791.999647,1,building,building_104.00,"blue, white, large, red, gray, colorful",white

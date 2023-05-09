@@ -1,0 +1,12 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0875.jpg,1471.998825,1121.0016420000002,2799.999675,2102.001006,1,boat,boat_1472.00,"red, black, orange, gray, wooden, long",red
+00070007_0875.jpg,2852.999325,1690.000068,3613.997475,2763.000972,1,dog,dog_2853.00,"white, small, pink, black, gray, purple",white
+00070007_0875.jpg,2727.002025,441.000474,3377.001375,2211.999246,1,man,man_2727.00,"smiling, standing, black, red, young, white","standing, red"
+00070007_0875.jpg,818.999775,869.9996339999998,1748.000925,2510.000502,1,man,man_819.00,"standing, wet, black, walking, young, smiling","standing, black"
+00070007_0875.jpg,4.997024999999894,0.9999839999999268,1815.999075,1153.999608,1,trees,trees_5.00,"green, large, tall, white, leafy, big","green, large"
+00070007_0875.jpg,3534.003,0.9999840000000404,4943.0007,2712.99876,1,tree,tree_3534.00,"brown, green, tall, large, white, long",brown
+00070007_0875.jpg,0.9998999999997976,821.9988959999998,4950.0,3012.0,1,water,water_1.00,"wet, brown, gray, green, large, black","wet, green"
+00070007_0875.jpg,1650.000825,266.00176799999986,2882.001375,2207.000832,1,woman,woman_1650.00,"red, standing, young, black, smiling, white","red, standing"
+00070007_0875.jpg,2094.00345,1.0014899999999898,3600.00135,610.0007820000001,1,trees,trees_2094.00,"green, tall, white, large, blue, leafy","green, tall"
+00070007_0875.jpg,2604.00195,546.0003,3904.00065,885.0009000000001,1,building,building_2604.00,"white, gray, large, blue, yellow, black","white, large"
+00070007_0875.jpg,1508.9976,600.000942,1984.9995,817.000482,1,building,building_1509.00,"gray, brown, wooden, small, black, white","brown, black"

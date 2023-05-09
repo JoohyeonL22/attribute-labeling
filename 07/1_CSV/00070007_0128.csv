@@ -1,0 +1,4 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0128.jpg,0.999935999999991,8.999769000000015,677.9996160000001,419.999811,1,debris,debris_1.00,"['green', 'black', 'old', 'gray', 'white', 'metal']"
+00070007_0128.jpg,595.999872,81.00005700000001,732.9995519999999,325.000143,1,man,man_596.00,"['white', 'standing', 'blue', 'green', 'young', 'gray']"
+00070007_0128.jpg,0.999935999999991,0.9999149999999872,768.0,226.999929,1,trees,trees_1.00,"['green', 'tall', 'red', 'brown', 'black', 'growing']"

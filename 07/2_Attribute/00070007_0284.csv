@@ -1,0 +1,12 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0284.jpg,137.00009899999998,144.00041249999998,1557.999637,899.0006894999999,1,suv,suv_137.00,"black, blue, parked, yellow, old, green","black, blue, parked, yellow, old, green"
+00070007_0284.jpg,1583.000016,96.0000795,1766.0,241.0004745,1,car,car_1583.00,"white, parked, silver, blue, green, gray","white, parked, silver, blue, green, gray"
+00070007_0284.jpg,347.00045700000004,0.9999825000000158,1234.000447,208.0004655,1,tree,tree_347.00,"pink, purple, colorful, green, red, white","pink, purple, colorful, green, red, white"
+00070007_0284.jpg,1551.000979,9.999825000000008,1747.0004890000002,107.999283,1,truck,truck_1551.00,"white, blue, parked, silver, gray, large","white, blue, parked, silver, gray, large"
+00070007_0284.jpg,801.999761,0.9993960000000044,972.999775,143.99982599999998,1,tree,tree_802.00,"gray, large, brown, black, tall, wooden","gray, large, brown, black, tall, wooden"
+00070007_0284.jpg,731.9990529999999,11.999790000000004,1410.999563,190.000194,1,truck,truck_732.00,"white, large, colorful, green, purple, blue","white, large, colorful, green, purple, blue"
+00070007_0284.jpg,1.0004390000000285,82.99972049999998,705.000445,259.0001595,1,road,road_1.00,"gray, concrete, cement, yellow, painted, paved","gray, concrete, cement, yellow, painted, paved"
+00070007_0284.jpg,1697.999287,152.0002725,1765.999117,399.0000555,1,people,people_1698.00,"standing, walking, blue, purple, sitting, watching","standing, walking, blue, purple, sitting, watching"
+00070007_0284.jpg,1411.999119,110.00042100000002,1765.9991170000003,374.999889,1,road,road_1412.00,"white, concrete, gray, cement, blue, parked","white, concrete, gray, cement, blue, parked"
+00070007_0284.jpg,1565.000944,192.0007455,1622.00036,249.0003345,1,debris,debris_1565.00,"green, blue, white, small, colorful, hanging","green, blue, white, small, colorful, hanging"
+00070007_0284.jpg,1725.000544,44.999799,1766.0,106.999887,1,car,car_1725.00,"white, blue, red, small, glass, black","white, blue, red, small, glass, black"

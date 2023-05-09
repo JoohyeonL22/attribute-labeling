@@ -1,0 +1,4 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0469.jpg,409.000195,257.9997975,817.000093,495.9998925,1,car,car_409.00,"black, parked, old, blue, silver, small","black, parked, old, blue, silver, small"
+00070007_0469.jpg,1.0002970000000175,62.999715,470.999875,316.999905,1,water,water_1.00,"yellow, calm, blue, clear, green, brown","yellow, calm, blue, clear, green, brown"
+00070007_0469.jpg,397.999886,273.9998925,487.00019,331.0000575,1,debris,debris_398.00,"yellow, pink, purple, colorful, red, black","yellow, pink, purple, colorful, red, black"

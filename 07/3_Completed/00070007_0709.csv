@@ -1,0 +1,5 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0709.jpg,487.9998,377.0,635.9993999999999,665.0,1,woman,woman_488.00,"red, skiing, blue, orange, young, standing","blue, standing"
+00070007_0709.jpg,920.0004,392.0,1070.0004,719.0,1,man,man_920.00,"green, standing, blue, white, young, smiling",standing
+00070007_0709.jpg,1.0001999999999498,1.0,1200.0006,800.0,1,water,water_1.00,"gray, black, white, wet, concrete, dark","gray, black"
+00070007_0709.jpg,320.0004,279.0,425.0004,594.0,1,woman,woman_320.00,"pink, red, white, purple, colorful, standing","red, standing"

@@ -1,0 +1,5 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0465.jpg,264.0,177.000063,741.000192,361.999917,1,motorbike,motorbike_264.00,"black, green, clear, metal, silver, glass","black, metal"
+00070007_0465.jpg,0.999935999999991,1.000135499999999,768.0,266.9999745,1,trees,trees_1.00,"bare, brown, black, dark, red, green","bare, brown"
+00070007_0465.jpg,0.999935999999991,309.0000625,768.0,431.0002155,1,road,road_1.00,"black, gray, paved, concrete, yellow, dark","gray, paved"
+00070007_0465.jpg,0.9999360000000052,281.999852,166.00012800000002,344.999984,1,debris,debris_1.00,"black, yellow, white, red, purple, pink",black

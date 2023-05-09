@@ -1,0 +1,11 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0135.jpg,1.0002,113.0001635,357.0006,326.9998725,1,building,building_1.00,"red, large, clear, green, pink, tall","red, pink"
+00070007_0135.jpg,793.0002,194.0004465,1014.0006,375.0002235,1,camera,camera_793.00,"black, green, digital, silver, white, glass","black, digital"
+00070007_0135.jpg,1.0002,232.0002825,222.0006,342.0002915,1,fence,fence_1.00,"glass, green, blue, clear, yellow, metal",metal
+00070007_0135.jpg,828,248.999744,1200,707,1,man,man_828.00,"black, young, green, sitting, brown, standing","brown, standing"
+00070007_0135.jpg,124.9998,1.0000515,1199.9994,654.0000985,1,smoke,smoke_125.00,"black, gray, dark, white, yellow, blue","gray, dark"
+00070007_0135.jpg,0.9996,1.000405,390.9996,320.000219,1,trees,trees_1.00,"red, large, green, clear, big, pink",green
+00070007_0135.jpg,63.9996,193.9997395,732.9996,481.0000265,1,fire,fire_64.00,"red, large, black, orange, yellow, clear",red
+00070007_0135.jpg,20.9994,280.00028,739.9998,664.999958,1,bus,bus_21.00,"yellow, red, black, large, double decker, moving",large
+00070007_0135.jpg,0.9996,575.99997,897.9996,707,1,road,road_1.00,"yellow, gray, concrete, wet, white, paved",gray
+00070007_0135.jpg,895.9998,359.0001065,1006.0002,707.0003535,1,tripod,tripod_896.00,"green, silver, white, blue, metal, gray",silver

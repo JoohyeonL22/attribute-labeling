@@ -1,0 +1,9 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0873.jpg,226.9994725,43.99963749999998,1761.9994975,529.9996125,1,building,building_227.00,"brick, brown, large, white, green, old","brick, brown, large, white, green, old"
+00070007_0873.jpg,309.9997495,240.0002125,562.9990645,1017.0006875,1,man,man_310.00,"blue, standing, smiling, young, walking, white","blue, standing, smiling, young, walking, white"
+00070007_0873.jpg,1061.0007265,1.0005124999999992,1763.0008815,180.9999375,1,trees,trees_1061.00,"green, white, gray, large, blue, tall","green, white, gray, large, blue, tall"
+00070007_0873.jpg,1.000502499999982,1.0005125000000137,862.9999594999999,350.0001875,1,trees,trees_1.00,"green, tall, large, leafy, red, white","green, tall, large, leafy, red, white"
+00070007_0873.jpg,1.000502499999925,406.0001,1763.0008815,1175.0,1,water,water_1.00,"brown, calm, green, clear, murky, large","brown, calm, green, clear, murky, large"
+00070007_0873.jpg,7.999612499999998,349.0002625,235.9995875,412.0002375,1,truck,truck_8.00,"black, parked, dark, blue, driving, white","black, parked, dark, blue, driving, white"
+00070007_0873.jpg,595.9997800000001,446.0000375000001,831.000628,514.9995625,1,sacks,sacks_596.00,"white, green, plastic, large, glass, gray","white, green, plastic, large, glass, gray"
+00070007_0873.jpg,834.0003724999999,463.0005249999999,1763.0008815,563.0000749999999,1,sacks,sacks_834.00,"white, green, small, large, gray, long","white, green, small, large, gray, long"

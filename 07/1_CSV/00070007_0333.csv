@@ -1,0 +1,13 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0333.jpg,161.99987199999998,216.999936,773.000192,432.0,1,truck,truck_162.00,"['metal', 'white', 'silver', 'green', 'blue', 'gray']"
+00070007_0333.jpg,339.00032,203.00025600000004,474.00038400000005,455.000256,1,man,man_339.00,"['blue', 'standing', 'green', 'walking', 'white', 'gray']"
+00070007_0333.jpg,544.0,210.000096,650.0003839999999,455.999904,1,man,man_544.00,"['white', 'standing', 'sitting', 'watching', 'walking', 'wearing']"
+00070007_0333.jpg,618.999808,174.99974399999996,722.999296,460.999872,1,man,man_619.00,"['standing', 'walking', 'watching', 'young', 'wearing', 'smiling']"
+00070007_0333.jpg,899.00032,177.00019200000003,1009.999872,429.000192,1,man,man_899.00,"['standing', 'sitting', 'purple', 'pink', 'green', 'walking']"
+00070007_0333.jpg,9.000447999999999,219.00009600000004,128.000512,301.999968,1,man,man_9.00,"['green', 'sitting', 'white', 'metal', 'wooden', 'leaning']"
+00070007_0333.jpg,0.999935999999991,70.00012800000002,237.000192,144.0,1,mountain,mountain_1.00,"['purple', 'green', 'pink', 'large', 'blue', 'gray']"
+00070007_0333.jpg,0.999936000000048,398.999808,1023.999488,576.0,1,road,road_1.00,"['gray', 'black', 'wet', 'concrete', 'paved', 'empty']"
+00070007_0333.jpg,0.9994240000000048,173.00016,330.99980800000003,436.000032,1,truck,truck_1.00,"['green', 'metal', 'silver', 'wooden', 'white', 'brown']"
+00070007_0333.jpg,0.999936000000048,1.0002240000000313,1023.999488,386.000352,1,trees,trees_1.00,"['green', 'tall', 'pink', 'large', 'red', 'brown']"
+00070007_0333.jpg,314.000384,207.999936,392.999936,442.999872,1,man,man_314.00,"['green', 'blue', 'metal', 'white', 'silver', 'light blue']"
+00070007_0333.jpg,975.999488,220.99968,1023.999488,397.999872,1,man,man_976.00,"['purple', 'pink', 'sitting', 'standing', 'little', 'watching']"

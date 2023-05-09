@@ -1,0 +1,9 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0030.jpg,230.99975999999995,82.00008299999999,415.99992,114.00002899999998,1,people,people_231.00,"['green', 'red', 'white', 'glass', 'moving', 'double decker']"
+00070007_0030.jpg,1.000079999999997,0.9999825000000016,387.00024,108.9998635,1,trees,trees_1.00,"['green', 'red', 'white', 'clear', 'tall', 'blue']"
+00070007_0030.jpg,1.0000799999999683,174.0001175,480.00024,253.0001265,1,water,water_1.00,"['wet', 'gray', 'black', 'clear', 'calm', 'yellow']"
+00070007_0030.jpg,192.00024,133.00007599999998,313.00008,179.00002999999998,1,vehicle,vehicle_192.00,"['blue', 'yellow', 'black', 'white', 'small', 'square']"
+00070007_0030.jpg,148.99992,74.9999525,160.00008,94.9998555,1,person,person_149.00,"['black', 'red', 'small', 'pink', 'white', 'open']"
+00070007_0030.jpg,134.99976,74.9999525,145.99992,93.9999995,1,person,person_135.00,"['purple', 'pink', 'small', 'white', 'black', 'lit']"
+00070007_0030.jpg,43.00008,67.9999485,51.000240000000005,86.9999955,1,person,person_43.00,"['orange', 'white', 'red', 'lit', 'small', 'wooden']"
+00070007_0030.jpg,1.0000799999999683,86.9999955,480.00024,173.00000849999998,1,grass,grass_1.00,"['green', 'grassy', 'white', 'black', 'long', 'yellow']"

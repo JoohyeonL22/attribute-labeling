@@ -1,0 +1,21 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0061.jpg,304.0,0.9999000000000038,800.0,107.9997,1,building,building_304.00,"white, tall, large, gray, blue, big","white, large"
+00070007_0061.jpg,254.0,182.0001,580.0,420.0003,1,truck,truck_254.00,"white, yellow, black, gray, silver, red",white
+00070007_0061.jpg,575.0,193.0002,663.0,229.0002,1,car,car_575.00,"purple, pink, large, colorful, white, small",white
+00070007_0061.jpg,1.0,158.0001,800.0,261.9999,1,fence,fence_1.00,"white, red, pink, silver, colorful, metal",
+00070007_0061.jpg,21.0,157.00019999999998,77.0,310.00019999999995,1,man,man_21.00,"standing, walking, gray, sitting, tall, white","standing, gray"
+00070007_0061.jpg,1.0,156.9999,166.0,251.9997,1,van,van_1.00,"white, red, large, orange, gray, black","white, large"
+00070007_0061.jpg,1.0,264.0,800.0,600.0,1,road,road_1.00,"gray, concrete, paved, wet, cement, white","gray, paved"
+00070007_0061.jpg,1.0,1.0002000000000066,800.0,160.0002,1,trees,trees_1.00,"green, white, tall, large, blue, red","green, large"
+00070007_0061.jpg,161.0,175.0002,183.0,226.0002,1,car,car_161.00,"red, orange, open, black, closed, metal","black, metal"
+00070007_0061.jpg,55.0,210.9999,278.0,341.9997,1,debris,debris_55.00,"black, yellow, white, gray, large, metal","black, gray"
+00070007_0061.jpg,1.0,330.9999,578.0,548.9997,1,debris,debris_1.00,"gray, red, white, pink, black, concrete",gray
+00070007_0061.jpg,583.0,183.0003,662.0,206.0001,1,car,car_583.00,"purple, pink, white, colorful, large, neon",white
+00070007_0061.jpg,306.0,170.9997,347.0,213.9999,1,person,person_306.00,"blue, open, glass, clear, white, green",green
+00070007_0061.jpg,342.0,167.9997,371.0,216.9999,1,man,man_342.00,"yellow, open, glass, clear, white, sitting",white
+00070007_0061.jpg,408.0,179.0001,421.0,198.9999,1,man,man_408.00,"red, orange, black, traffic, white, small",red
+00070007_0061.jpg,551.0,184.0002,585.0,253.0002,1,man,man_551.00,"green, pink, standing, purple, blue, white","standing, white"
+00070007_0061.jpg,699.0,179.9997,724.0,285.9999,1,man,man_699.00,"blue, standing, open, glass, walking, sitting","blue, standing"
+00070007_0061.jpg,742.0,185.0001,764.0,285.00030000000004,1,man,man_742.00,"purple, pink, black, white, colorful, metal",purple
+00070007_0061.jpg,749.0,186.0003,778.0,287.00010000000003,1,man,man_749.00,"purple, pink, black, white, metal, colorful",purple
+00070007_0061.jpg,748.0,171.0,800.0,264.0,1,car,car_748.00,"purple, pink, white, glass, large, open",open

@@ -1,0 +1,8 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0496.jpg,0.9999840000000012,223.00014,33.99995800000001,278.000148,1,bag,bag_1.00,"['white', 'gray', 'silver', 'red', 'orange', 'black']"
+00070007_0496.jpg,35.999926000000016,73.999938,251.0,178.000086,1,car,car_36.00,"['white', 'silver', 'gray', 'parked', 'green', 'black']"
+00070007_0496.jpg,11.999933499999996,161.999916,115.0000425,195.00006,1,umbrella,umbrella_12.00,"['green', 'red', 'white', 'colorful', 'blue', 'large']"
+00070007_0496.jpg,26.9999445,198.999972,75.9999135,300.000012,1,man,man_27.00,"['standing', 'white', 'orange', 'red', 'walking', 'looking']"
+00070007_0496.jpg,101.9999995,194.000082,150.9999685,300.99999,1,person,person_102.00,"['purple', 'pink', 'black', 'standing', 'walking', 'white']"
+00070007_0496.jpg,0.9999839999999978,18.99993,219.00001,100.000062,1,jeep,jeep_1.00,"['white', 'black', 'silver', 'gray', 'parked', 'orange']"
+00070007_0496.jpg,0.9999839999999836,1.000152000000014,251.0,348.0,1,water,water_1.00,"['white', 'gray', 'silver', 'parked', 'green', 'yellow']"

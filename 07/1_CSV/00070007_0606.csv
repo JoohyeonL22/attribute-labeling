@@ -1,0 +1,9 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0606.jpg,1.0000599999999975,142.000073,67.00030000000001,223.00018100000003,1,car,car_1.00,"['green', 'yellow', 'black', 'colorful', 'double decker', 'large']"
+00070007_0606.jpg,134.99973,21.000027999999983,500.99999,294.999928,1,car,car_135.00,"['white', 'red', 'purple', 'pink', 'yellow', 'parked']"
+00070007_0606.jpg,81.99996,143.00013249999998,325.99972,282.0002015,1,car,car_82.00,"['white', 'silver', 'double decker', 'large', 'parked', 'red']"
+00070007_0606.jpg,516.00027,114.9998625,553.00001,226.9998955,1,man,man_516.00,"['purple', 'standing', 'pink', 'walking', 'black', 'young']"
+00070007_0606.jpg,0.9997499999999492,192.0000815,619.99969,349.0001745,1,road,road_1.00,"['black', 'wet', 'dark', 'gray', 'concrete', 'yellow']"
+00070007_0606.jpg,393.00002,123.000164,572.00022,169.99999400000002,1,van,van_393.00,"['purple', 'pink', 'sitting', 'white', 'standing', 'large']"
+00070007_0606.jpg,571.99991,139.999954,615.00001,172.999998,1,car,car_572.00,"['red', 'orange', 'white', 'black', 'lit', 'large']"
+00070007_0606.jpg,14.99997,130.999942,31.99975,157.99997800000003,1,person,person_15.00,"['pink', 'green', 'purple', 'small', 'colorful', 'black']"

@@ -1,0 +1,11 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0694.jpg,205.99979400000004,75.00006250000001,585.999414,206.0000635,1,building,building_206.00,"['pink', 'large', 'tall', 'brown', 'brick', 'white']"
+00070007_0694.jpg,509.9999895,111.0000925,998.9995005,218.0000735,1,building,building_510.00,"['white', 'long', 'pink', 'colorful', 'large', 'green']"
+00070007_0694.jpg,282.99971700000003,198.000165,448.999551,253.000319,1,car,car_283.00,"['purple', 'pink', 'colorful', 'metal', 'black', 'small']"
+00070007_0694.jpg,643.000356,198.000165,693.0003059999999,227.000081,1,car,car_643.00,"['purple', 'pink', 'small', 'white', 'blue', 'colorful']"
+00070007_0694.jpg,351.0001485,236.0000885,396.0001035,290.0001335,1,man,man_351.00,"['blue', 'colorful', 'sitting', 'small', 'green', 'purple']"
+00070007_0694.jpg,357.99964199999994,237.0001975,415.999584,298.0003565,1,paddle,paddle_358.00,"['colorful', 'blue', 'pink', 'small', 'purple', 'green']"
+00070007_0694.jpg,1.000498499999992,175.00025400000004,999.0004995,649.0,1,water,water_1.00,"['gray', 'wet', 'white', 'brown', 'tan', 'calm']"
+00070007_0694.jpg,318.999681,277.99979899999994,432.999567,299.999601,1,boat,boat_319.00,"['blue', 'green', 'small', 'white', 'colorful', 'teal']"
+00070007_0694.jpg,0.9999990000000024,67.99994849999999,254.999745,201.0001675,1,trees,trees_1.00,"['green', 'red', 'yellow', 'large', 'tall', 'leafy']"
+00070007_0694.jpg,259.99974000000003,16.00044600000001,999.0,204.00017,1,trees,trees_260.00,"['purple', 'pink', 'green', 'white', 'tall', 'yellow']"

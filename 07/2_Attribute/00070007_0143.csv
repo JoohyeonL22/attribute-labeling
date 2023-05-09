@@ -1,0 +1,10 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0143.jpg,198.0,285.999805,340.0,504.000003,1,man,man_198.00,"pink, purple, black, red, sitting, colorful","pink, purple, black, red, sitting, colorful"
+00070007_0143.jpg,1.0,243.999938,179.0,533.0,1,man,man_1.00,"gray, orange, standing, brown, sitting, black","gray, orange, standing, brown, sitting, black"
+00070007_0143.jpg,1.0,0.9999080000000332,133.0,291.999786,1,smoke,smoke_1.00,"white, blue, purple, glass, clear, gray","white, blue, purple, glass, clear, gray"
+00070007_0143.jpg,290.0,312.999986,400.0,429.999882,1,man,man_290.00,"metal, gray, white, black, silver, wooden","metal, gray, white, black, silver, wooden"
+00070007_0143.jpg,213.0,92.999972,329.0,361.999742,1,water,water_213.00,"white, large, clear, black, gray, tall","white, large, clear, black, gray, tall"
+00070007_0143.jpg,112.0,1.0001744999999858,400.0,283.0003475,1,smoke,smoke_112.00,"white, pink, gray, purple, blue, clear","white, pink, gray, purple, blue, clear"
+00070007_0143.jpg,106.0,405.999958,341.0,498.99993,1,hose,hose_106.00,"pink, black, red, purple, metal, gray","pink, black, red, purple, metal, gray"
+00070007_0143.jpg,32.0,61.999892500000016,398.0,335.99973550000004,1,building,building_32.00,"pink, purple, white, gray, black, large","pink, purple, white, gray, black, large"
+00070007_0143.jpg,125.0,108.9998325,150.0,170.9999915,1,fire,fire_125.00,"yellow, orange, gold, blue, red, black","yellow, orange, gold, blue, red, black"

@@ -1,0 +1,14 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0085.jpg,1575.0,0.9995400000000244,1914.00096,688.9995,1,building,building_1575.00,"black, large, glass, white, red, tall",black
+00070007_0085.jpg,0.9993600000000242,1.0000799999999683,755.99904,677.00016,1,building,building_1.00,"tall, black, large, gray, dark, white","black, large"
+00070007_0085.jpg,227.00064,597.99978,552.00096,726.0003,1,car,car_227.00,"white, silver, parked, moving, blue, red","white, parked"
+00070007_0085.jpg,157.00128,526.0005,178.00032,700.0003800000001,1,pole,pole_157.00,"red, metal, white, black, pink, silver","metal, white"
+00070007_0085.jpg,0.999360000000138,712.99926,1919.99904,866.9997000000001,1,sidewalk,sidewalk_1.00,"yellow, white, gray, green, black, long",gray
+00070007_0085.jpg,133.00128,458.00046,190.00032,527.00058,1,sign,sign_133.00,"green, blue, white, red, street, neon","blue, street"
+00070007_0085.jpg,1122.00096,183.00006,1349.00064,522.00018,1,smoke,smoke_1122.00,"blurry, black, dark, long, large, white","blurry, black"
+00070007_0085.jpg,520.99968,1.0000799999999683,1120.99968,624.0002400000001,1,smoke,smoke_521.00,"tall, blurry, large, white, black, green","blurry, large"
+00070007_0085.jpg,0.999360000000138,764.0001,1919.99904,1080.00054,1,road,road_1.00,"gray, black, blue, paved, green, white","gray, paved"
+00070007_0085.jpg,600.0,515.00016,1017.99936,650.00016,1,fire,fire_600.00,"large, silver, green, metal, white, big",big
+00070007_0085.jpg,1158.0,502.9997400000001,1378.99968,618.9993000000001,1,fire,fire_1158.00,"colorful, large, purple, multi colored, lit, big","large, multi colored"
+00070007_0085.jpg,1031.99904,531.9999,1368.99936,660.0004200000001,1,bus,bus_1032.00,"large, colorful, green, big, blue, lit",blue
+00070007_0085.jpg,666.99936,541.9996199999999,989.99904,661.9995,1,bus,bus_667.00,"large, silver, standing, metal, sitting, green",metal

@@ -1,0 +1,8 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0364.jpg,372.0,22.9998855,395.0,110.9999225,1,man,man_372.00,"green, white, red, standing, black, pink","green, white, red, standing, black, pink"
+00070007_0364.jpg,343.0,59.999934,400.0,223.0,1,road,road_343.00,"gray, green, white, metal, red, blue","gray, green, white, metal, red, blue"
+00070007_0364.jpg,1.0,1.0001549999999997,266.0,68.000059,1,trees,trees_1.00,"green, red, white, small, black, large","green, red, white, small, black, large"
+00070007_0364.jpg,358.0,23.99992900000001,375.0,114.999985,1,man,man_358.00,"white, red, metal, black, silver, blue","white, red, metal, black, silver, blue"
+00070007_0364.jpg,347.0,26.000016,363.0,123.00011,1,man,man_347.00,"white, red, black, metal, pink, blue","white, red, black, metal, pink, blue"
+00070007_0364.jpg,1.0,0.9999319999999868,382.0,223.0,1,car,car_1.00,"green, black, white, gray, metal, old","green, black, white, gray, metal, old"
+00070007_0364.jpg,292.0,160.00004700000002,321.0,192.000101,1,debris,debris_292.00,"green, small, brown, white, blue, little","green, small, brown, white, blue, little"

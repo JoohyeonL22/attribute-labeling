@@ -1,0 +1,14 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0016.jpg,40.00079999999997,262.00024950000005,931.0008,808.0001545,1,ambulance,ambulance_40.00,"white, red, blue, large, parked, double decker","white, red"
+00070007_0016.jpg,485.0008,425.0005045,1152.0008,895.0001335,1,car,car_485.00,"blue, black, parked, green, red, gray",blue
+00070007_0016.jpg,928.0008,425.0005045,1027.0008,618.0005315000001,1,man,man_928.00,"sitting, standing, wearing, riding, green, smiling","standing, wearing"
+00070007_0016.jpg,1380.9992,0.999779000000018,1599.9992,396.9997570000001,1,tree,tree_1381.00,"green, tall, large, leafy, big, small","green, leafy"
+00070007_0016.jpg,491.0008,260.9994035,1600.0008,668.9999305,1,truck,truck_491.00,"red, white, double decker, parked, large, blue","red, large"
+00070007_0016.jpg,433.0,849.999942,537.0,906.00037,1,debris,debris_433.00,"yellow, blue, white, metal, small, empty",metal
+00070007_0016.jpg,273.0008,827.0002235,360.0008,881.0000264999999,1,debris,debris_273.00,"purple, blue, black, small, red, pink",blue
+00070007_0016.jpg,658.9992,605.0002035,807.9992,947.0003785,1,post,post_659.00,"white, blue, red, black, yellow, metal","white, metal"
+00070007_0016.jpg,250.99920000000003,644.0001205,291.99920000000003,871.9998815,1,post,post_251.00,"purple, pink, black, metal, colorful, small","metal, small"
+00070007_0016.jpg,1110.0,744.9996729999999,1230.0,812.9995829999999,1,debris,debris_1110.00,"purple, pink, small, colorful, black, blue","small, black"
+00070007_0016.jpg,1313.0,354.999436,1347.0,430.999712,1,person,person_1313.00,"yellow, green, glass, clear, small, white",green
+00070007_0016.jpg,1.0008000000000266,656.0001360000001,1600.0008,1067.0,1,grass,grass_1.00,"green, grassy, brown, yellow, dry, tall","green, grassy"
+00070007_0016.jpg,1391.0,734.9997490000001,1451.0,784.9993690000001,1,bucket,bucket_1391.00,"blue, white, small, light blue, open, green",white

@@ -1,0 +1,13 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0194.jpg,1.000319999999988,7.000199999999978,401.00032,267.00012000000004,1,bus,bus_1.00,"green, yellow, double decker, white, large, orange","green, yellow, double decker, white, large, orange"
+00070007_0194.jpg,558.0,85.00013999999999,638.0,359.0001,1,fence,fence_558.00,"black, metal, white, green, large, yellow","black, metal, white, green, large, yellow"
+00070007_0194.jpg,199.00032,111.99978,243.00032,252.9999,1,man,man_199.00,"standing, sitting, walking, watching, wearing, looking","standing, sitting, walking, watching, wearing, looking"
+00070007_0194.jpg,0.999679999999998,113.00003999999998,36.0,160.00019999999998,1,sign,sign_1.00,"red, white, green, blue, large, hanging","red, white, green, blue, large, hanging"
+00070007_0194.jpg,404.0,53.00010000000002,640.0,244.99998,1,van,van_404.00,"green, white, black, yellow, parked, silver","green, white, black, yellow, parked, silver"
+00070007_0194.jpg,252.00032,131.00004,298.00032,255.99996,1,woman,woman_252.00,"standing, walking, young, green, sitting, blue","standing, walking, young, green, sitting, blue"
+00070007_0194.jpg,94.99967999999998,101.00016,234.99968,360.0,1,woman,woman_95.00,"standing, blue, green, yellow, young, looking","standing, blue, green, yellow, young, looking"
+00070007_0194.jpg,101.00032,142.0002,206.0,186.00012,1,man,man_101.00,"black, red, sitting, white, dark, yellow","black, red, sitting, white, dark, yellow"
+00070007_0194.jpg,323.0,204.00012,413.0,246.99996,1,debris,debris_323.00,"white, black, small, green, silver, large","white, black, small, green, silver, large"
+00070007_0194.jpg,311.00032,1.0000799999999828,640.0,147.00024000000002,1,trees,trees_311.00,"green, white, tall, red, large, cloudy","green, white, tall, red, large, cloudy"
+00070007_0194.jpg,1.000320000000002,0.9999000000000002,225.00032,40.99986,1,trees,trees_1.00,"green, red, brown, white, wooden, glass","green, red, brown, white, wooden, glass"
+00070007_0194.jpg,1.000319999999988,183.00006,574.0,360.00018000000006,1,road,road_1.00,"gray, black, yellow, concrete, white, green","gray, black, yellow, concrete, white, green"

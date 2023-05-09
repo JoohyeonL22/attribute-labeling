@@ -1,0 +1,8 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0780.jpg,0.9996000000000153,237.999945,452.9988,829.999875,1,building,building_1.00,"red, white, brick, brown, large, old","brick, brown"
+00070007_0780.jpg,1593.0,561.99981,2400.0,1041.00003,1,car,car_1593.00,"parked, brown, silver, gray, small, tan",brown
+00070007_0780.jpg,411.0012,651.9993750000001,1448.0004,1118.999865,1,wood,wood_411.00,"wooden, brown, long, pink, metal, purple","wooden, brown"
+00070007_0780.jpg,0.999599999999873,0.9993150000000242,2399.9988000000003,699.999885,1,trees,trees_1.00,"green, tall, leafy, white, large, cloudy","green, leafy"
+00070007_0780.jpg,0.999599999999873,565.0001400000001,2399.9988000000003,1590.0,1,water,water_1.00,"brown, wet, white, large, dirty, gray","brown, wet"
+00070007_0780.jpg,878.0004000000001,611.9997450000001,1140.9996,1147.999875,1,woman,woman_878.00,"purple, standing, young, little, pink, smiling",standing
+00070007_0780.jpg,423.9996,419.0007750000001,1097.0004,904.000065,1,bush,bush_424.00,"wooden, brown, metal, green, red, long",green

@@ -1,0 +1,15 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0739.jpg,1.00008,62.9999775,433.00008,292.9998825,1,building,building_1.00,"pink, purple, gray, white, large, painted",white
+00070007_0739.jpg,569.00016,178.999875,713.00016,266.999895,1,building,building_569.00,"tall, white, large, gray, black, cloudy",white
+00070007_0739.jpg,0.99972,218.9999025,120.99996,290.0000475,1,dumpster,dumpster_1.00,"green, black, yellow, white, double decker, red",green
+00070007_0739.jpg,435.9996,224.9999775,590.99976,275.0000625,1,fire truck,fire truck_436.00,"pink, purple, long, red, colorful, double decker","long, red"
+00070007_0739.jpg,1.00008,272.99997,658.00008,405,1,hose,hose_1.00,"yellow, wet, gray, concrete, paved, empty",yellow
+00070007_0739.jpg,135.00036,229.0001625,170.00028,346.0002075,1,firefighter,firefighter_135.00,"standing, pink, purple, sitting, walking, young",standing
+00070007_0739.jpg,162.00036,233.000145,213.00012,349.000245,1,firefighter,firefighter_162.00,"standing, walking, wearing, young, watching, skiing","standing, wearing"
+00070007_0739.jpg,267.00012,0.999945,720.00036,243.999945,1,smoke,smoke_267.00,"gray, pink, white, purple, cloudy, dark","gray, white"
+00070007_0739.jpg,654.00012,246.0000375,675.00036,306.9999225,1,firefighter,firefighter_654.00,"green, walking, blue, standing, sitting, yellow","standing, yellow"
+00070007_0739.jpg,0.99972,269.00019,719.99964,405,1,road,road_1.00,"yellow, gray, wet, concrete, paved, empty","gray, paved"
+00070007_0739.jpg,213.99984,230.0001075,254.99952,349.0000425,1,firefighter,firefighter_214.00,"standing, sitting, walking, young, watching, brown","standing, brown"
+00070007_0739.jpg,369,117.0002475,405,171.0001125,1,fire,fire_369.00,"orange, black, framed, hanging, square, large",orange
+00070007_0739.jpg,105.00012,8.0001675,223.0002,128.9999925,1,smoke,smoke_105.00,"pink, purple, white, red, black, large",white
+00070007_0739.jpg,1.00008,145.000125,86.99976,191.000025,1,water,water_1.00,"yellow, large, gray, black, white, glass",white

@@ -1,0 +1,7 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0806.jpg,561.0006,335.0,637.0002000000001,423.0,1,bag,bag_561.00,"yellow, blue, white, black, colorful, red",white
+00070007_0806.jpg,642.9996,291.0,684.9996,362.0,1,bag,bag_643.00,"pink, purple, white, colorful, black, red","pink, white"
+00070007_0806.jpg,1.0002000000000637,1.0000000000000284,1197.0005999999998,460.0,1,building,building_1.00,"pink, white, brown, red, painted, orange","brown, painted"
+00070007_0806.jpg,752.0004,209.0,932.0004,467.0,1,man,man_752.00,"white, blue, standing, green, young, smiling","blue, standing"
+00070007_0806.jpg,556.9998,242.0,673.0002,467.0,1,woman,woman_557.00,"blue, yellow, sitting, standing, young, colorful","blue, standing"
+00070007_0806.jpg,1.0001999999999498,455.0,1200.0006,800.0,1,water,water_1.00,"brown, calm, blue, large, clear, dark","calm, blue"

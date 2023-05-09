@@ -1,0 +1,12 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0368.jpg,1.0001880000000083,286.000092,435.000132,650.999916,1,car,car_1.00,"blue, white, parked, green, large, old","blue, old"
+00070007_0368.jpg,357.00021,398.000358,590.000166,639.0003059999999,1,man,man_357.00,"colorful, yellow, green, multi colored, large, black",yellow
+00070007_0368.jpg,620.999946,207.0003600000001,755.9996219999999,756.0,1,man,man_621.00,"standing, walking, black, wearing, young, smiling","standing, black"
+00070007_0368.jpg,446.00031,0.9998099999999964,511.000434,398.99979,1,pole,pole_446.00,"wooden, brown, tall, wood, large, gray","wooden, brown"
+00070007_0368.jpg,505.000062,0.999810000000025,756.000378,515.999862,1,tree,tree_505.00,"bare, leafless, blue, tall, brown, green","bare, leafless"
+00070007_0368.jpg,75.99992400000001,271.999728,118.999692,324.999864,1,man,man_76.00,"green, orange, red, white, yellow, colorful",
+00070007_0368.jpg,78.00029999999998,302.99988600000006,179.000388,389.000178,1,man,man_78.00,"red, orange, sitting, yellow, small, driving",
+00070007_0368.jpg,0.999809999999968,0.9998099999999964,611.9997659999999,345.999654,1,trees,trees_1.00,"bare, blue, leafless, tall, clear, cloudy","bare, leafless"
+00070007_0368.jpg,1.00018799999998,242.999946,264.000492,321.000246,1,building,building_1.00,"red, green, large, metal, white, pink",large
+00070007_0368.jpg,403.999596,356.00002200000006,610.999956,490.000266,1,road,road_404.00,"green, yellow, colorful, black, large, metal",
+00070007_0368.jpg,579.9997979999999,313.99968600000005,620.999946,360.000018,1,car,car_580.00,"pink, red, colorful, blue, white, purple",

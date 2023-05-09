@@ -1,0 +1,12 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0304.jpg,0.9998564999999928,330.0000795,162.0000555,441.0002205,1,car,car_1.00,"black, green, gray, parked, silver, red","gray, parked"
+00070007_0304.jpg,422.0000295,165.999897,640.9997925,277.99978500000003,1,car,car_422.00,"red, black, silver, white, parked, green",black
+00070007_0304.jpg,616.0001534999999,233.000145,717.0003585,312.000003,1,car,car_616.00,"black, metal, silver, gray, white, large","black, metal"
+00070007_0304.jpg,83.00027849999995,156.9997485,447.0003855,323.9998335,1,car,car_83.00,"black, yellow, green, train, gray, moving",black
+00070007_0304.jpg,3.0002865000000014,273.000168,73.00027949999999,358.00027199999994,1,man,man_3.00,"green, yellow, plastic, small, white, metal",green
+00070007_0304.jpg,657.9998625000001,198.00018,699.0000735000001,320.000184,1,broom,broom_658.00,"black, metal, large, white, old, gray",black
+00070007_0304.jpg,62.99992199999997,353.000214,717.0,441.0,1,road,road_63.00,"gray, concrete, paved, cement, wet, asphalt","gray, asphalt"
+00070007_0304.jpg,65.00035199999999,1.0001879999999943,131.000202,198.00018,1,tree,tree_65.00,"orange, white, black, tall, brown, gray",brown
+00070007_0304.jpg,343.99975049999995,134.000055,493.9997355,172.000143,1,car,car_344.00,"green, white, metal, clear, silver, red","white, metal"
+00070007_0304.jpg,0.9998565000000212,229.00005450000003,713.9997135000001,319.99996350000004,1,road,road_1.00,"black, yellow, train, metal, empty, gray",
+00070007_0304.jpg,0.9998564999999644,1.0001879999999943,716.9996414999999,240.000138,1,field,field_1.00,"green, white, gray, black, large, snow-covered","gray, snow-covered"

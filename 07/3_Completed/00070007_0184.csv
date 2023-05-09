@@ -1,0 +1,16 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0184.jpg,964.000446,64.000161,2137.999858,935.000667,1,building,building_964.00,"red, large, blue, tall, white, brick",brick
+00070007_0184.jpg,504.999419,626.000256,1515.998657,1220.99997,1,bus,bus_505.00,"red, double decker, black, yellow, large, white",black
+00070007_0184.jpg,1265.000798,418.999662,1317.00159,495.999294,1,clock,clock_1265.00,"blue, white, small, green, square, red",small
+00070007_0184.jpg,1736.999522,726.0002145,2415.000614,1256.999768,1,horse,horse_1737.00,"green, black, brown, colorful, large, yellow",brown
+00070007_0184.jpg,1983.998282,698.9993895,2148.999256,1056.999851,1,police,police_1984.00,"yellow, green, black, sitting, colorful, small","yellow, sitting"
+00070007_0184.jpg,290.000954,891.999411,479.001524,1506.999273,1,man,man_290.00,"standing, orange, walking, red, black, wearing","standing, orange"
+00070007_0184.jpg,29.9982445,712.9991805,426.9994815,1177.999496,1,man,man_30.00,"black, standing, white, wearing, tall, young","black, standing"
+00070007_0184.jpg,1498.99936,939.9999225,1746.99852,1073.000282,1,polices,polices_1499.00,"yellow, orange, red, green, colorful, black",yellow
+00070007_0184.jpg,1501.99931,875.000223,1833.999557,965.000889,1,people,people_1502.00,"metal, yellow, red, black, silver, white",
+00070007_0184.jpg,1.0004,1179.999354,2501,1563,1,road,road_1.00,"wet, black, white, gray, paved, dark","black, paved"
+00070007_0184.jpg,1.0004,974.9994,179.001572,1248.999552,1,person,person_1.00,"black, white, glass, dark, yellow, large",
+00070007_0184.jpg,442.0004795,987.000114,511.0005685,1200.999822,1,police,police_442.00,"black, metal, glass, green, yellow, silver",yellow
+00070007_0184.jpg,2255.999539,887.0001555,2370.000121,1076.999999,1,police,police_2256.00,"pink, red, orange, colorful, purple, blue",orange
+00070007_0184.jpg,95.9996345,0.9995385,1524.998506,1286.99999,1,smoke,smoke_96.00,"red, blue, white, cloudy, pink, gray","red, pink"
+00070007_0184.jpg,1520.999406,307.9993095,2500.99875,1181.999213,1,smoke,smoke_1521.00,"red, pink, colorful, yellow, large, black",pink

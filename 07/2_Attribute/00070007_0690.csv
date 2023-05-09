@@ -1,0 +1,8 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0690.jpg,197.000152,0.999984000000012,214.000008,159.000112,1,pole,pole_197.00,"green, metal, tall, gray, silver, white","green, metal, tall, gray, silver, white"
+00070007_0690.jpg,0.9997920000000136,66.999924,424.0,153.99986,1,trees,trees_1.00,"green, white, red, yellow, tall, large","green, white, red, yellow, tall, large"
+00070007_0690.jpg,0.9997920000000136,133.999848,424.0,332.0,1,water,water_1.00,"calm, green, murky, clear, brown, large","calm, green, murky, clear, brown, large"
+00070007_0690.jpg,314.999776,160.00009599999998,350.99992,206.000024,1,woman,woman_315.00,"white, sitting, standing, young, walking, small","white, sitting, standing, young, walking, small"
+00070007_0690.jpg,197.000152,146.999806,218.000024,200.999938,1,woman,woman_197.00,"orange, red, open, small, standing, wooden","orange, red, open, small, standing, wooden"
+00070007_0690.jpg,149.999752,134.999832,201.99996,174.999856,1,umbrella,umbrella_150.00,"blue, red, green, white, orange, open","blue, red, green, white, orange, open"
+00070007_0690.jpg,1.0002159999999949,100.00006000000002,295.00012000000004,224.000068,1,building,building_1.00,"green, yellow, white, large, wooden, moving","green, yellow, white, large, wooden, moving"

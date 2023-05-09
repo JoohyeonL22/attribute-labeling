@@ -1,0 +1,12 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0941.jpg,316.99980000000005,94.00006399999998,414.00004,167.999968,1,car,car_317.00,"yellow, orange, blue, white, large, double decker","yellow, orange, blue, white, large, double decker"
+00070007_0941.jpg,2.9995600000000096,79.00011599999999,110.99984,131.00018799999998,1,car,car_3.00,"yellow, black, red, white, parked, driving","yellow, black, red, white, parked, driving"
+00070007_0941.jpg,102.99998,34.99993599999999,342.00006,298.999984,1,car,car_103.00,"black, white, blue, silver, gray, red","black, white, blue, silver, gray, red"
+00070007_0941.jpg,0.9997499999999492,161.99992,619.99969,344.0,1,crosswalk,crosswalk_1.00,"gray, wet, black, paved, white, empty","gray, wet, black, paved, white, empty"
+00070007_0941.jpg,479.00022,79.00011599999999,519.00014,172.000172,1,firefighter,firefighter_479.00,"standing, sitting, blue, walking, watching, wearing","standing, sitting, blue, walking, watching, wearing"
+00070007_0941.jpg,517.00033,87.00018,547.0002699999999,170.000156,1,firefighter,firefighter_517.00,"red, blue, open, glass, small, wooden","red, blue, open, glass, small, wooden"
+00070007_0941.jpg,559.0000600000001,81.999796,605.00034,176.999868,1,man,man_559.00,"standing, blue, walking, green, sitting, white","standing, blue, walking, green, sitting, white"
+00070007_0941.jpg,193.00042,1.0000079999999976,271.00014,50.000056,1,pole,pole_193.00,"yellow, blue, white, large, glass, clear","yellow, blue, white, large, glass, clear"
+00070007_0941.jpg,0.9997499999999492,118.000084,619.99969,344.000172,1,road,road_1.00,"gray, black, wet, white, empty, paved","gray, black, wet, white, empty, paved"
+00070007_0941.jpg,1.0000600000000048,1.0000080000000082,114.00002,89.000024,1,trees,trees_1.00,"red, large, white, green, blue, big","red, large, white, green, blue, big"
+00070007_0941.jpg,297.00015,44.99984399999999,455.00033,129.999836,1,fire truck,fire truck_297.00,"yellow, orange, blue, black, double decker, large","yellow, orange, blue, black, double decker, large"

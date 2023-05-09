@@ -1,0 +1,9 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0189.jpg,189.0011655,563.000526,451.0012365,1423.000062,1,man,man_189.00,"standing, walking, black, wearing, young, looking","standing, black"
+00070007_0189.jpg,2195.99964,571.0006665,2642.99859,1683.0008414999998,1,man,man_2196.00,"standing, walking, black, wearing, watching, looking","standing, black"
+00070007_0189.jpg,2563.000524,510.999192,2979.0,984.999312,1,car,car_2563.00,"white, yellow, parked, black, gold, large","white, parked"
+00070007_0189.jpg,2021.001264,576.9997200000001,2757.999906,1683.0,1,tripod,tripod_2021.00,"standing, walking, yellow, black, wearing, green","standing, yellow"
+00070007_0189.jpg,400.0007564999999,0.9997019999999566,2566.9998315000003,1345.9994459999998,1,bus,bus_400.00,"white, parked, green, gray, large, silver",white
+00070007_0189.jpg,1.0009439999998904,989.0006445,2979.0,1683.0008415,1,grass,grass_1.00,"green, yellow, grassy, brown, short, grass","green, grassy"
+00070007_0189.jpg,101.00001600000002,516.999087,461.00025,1012.999383,1,car,car_101.00,"white, blue, red, gray, purple, pink",gray
+00070007_0189.jpg,0.9994544999999846,892.0000980000002,248.9982255,1187.999406,1,car,car_1.00,"gray, red, green, paved, concrete, blue",gray

@@ -1,0 +1,11 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0989.jpg,43.000320000000016,335.999952,500.000256,527.0000220000001,1,car,car_43.00,"['blue', 'silver', 'black', 'gray', 'red', 'metal']"
+00070007_0989.jpg,666.000384,310.000053,819.00032,627.000105,1,man,man_666.00,"['purple', 'standing', 'walking', 'pink', 'young', 'wearing']"
+00070007_0989.jpg,550.000128,256.00015799999994,1024.000512,681.0,1,road,road_550.00,"['gray', 'white', 'purple', 'paved', 'concrete', 'silver']"
+00070007_0989.jpg,0.999935999999991,0.9997080000000268,845.9996160000001,457.000032,1,trees,trees_1.00,"['green', 'tall', 'red', 'large', 'leafy', 'white']"
+00070007_0989.jpg,582.0006400000001,245.999673,814.000128,459.999837,1,truck,truck_582.00,"['purple', 'pink', 'white', 'parked', 'large', 'silver']"
+00070007_0989.jpg,319.999488,1.0000484999999912,402.999808,577.9997715,1,pole,pole_320.00,"['tall', 'gray', 'wooden', 'metal', 'brown', 'white']"
+00070007_0989.jpg,473.999872,304.0001025,500.99968,357.9999975,1,man,man_474.00,"['pink', 'purple', 'small', 'black', 'metal', 'plastic']"
+00070007_0989.jpg,784.0,328.999953,865.9998720000001,609.999621,1,police,police_784.00,"['blue', 'standing', 'purple', 'walking', 'pink', 'green']"
+00070007_0989.jpg,775.999488,264.0002055,853.999616,373.0003845,1,truck,truck_776.00,"['pink', 'purple', 'white', 'blue', 'red', 'colorful']"
+00070007_0989.jpg,909.000192,327.0001965000001,1024.000512,427.9999875,1,suv,suv_909.00,"['black', 'silver', 'parked', 'gray', 'white', 'small']"

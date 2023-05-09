@@ -1,0 +1,12 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0993.jpg,1227.000096,377.00056799999993,4032.002016,2861.001864,1,car,car_1227.00,"['parked', 'black', 'white', 'gray', 'silver', 'old']"
+00070007_0993.jpg,417.9974399999999,753.000192,1652.99904,1424.0016,1,car,car_418.00,"['green', 'white', 'black', 'blue', 'gray', 'large']"
+00070007_0993.jpg,0.9999360000001616,464.9989680000001,4032.0,1306.998504,1,fence,fence_1.00,"['green', 'metal', 'silver', 'black', 'white', 'tall']"
+00070007_0993.jpg,2628.999072,581.9990399999999,2848.997088,843.0004799999999,1,firefighter,firefighter_2629.00,"['sitting', 'pink', 'standing', 'purple', 'young', 'riding']"
+00070007_0993.jpg,0.9999360000001616,1293.0004080000003,4032.0,3024.0015120000003,1,road,road_1.00,"['gray', 'black', 'white', 'wet', 'concrete', 'paved']"
+00070007_0993.jpg,315.0000000000001,1273.999104,1714.999104,1514.999808,1,debris,debris_315.00,"['white', 'metal', 'gray', 'small', 'red', 'black']"
+00070007_0993.jpg,1313.0006399999995,2512.000512,2196.000576,2849.99904,1,debris,debris_1313.00,"['black', 'gray', 'purple', 'metal', 'dirty', 'old']"
+00070007_0993.jpg,9.999360000000252,431.001648,4032.0,1205.000496,1,bush,bush_10.00,"['green', 'metal', 'tall', 'chain link', 'silver', 'white']"
+00070007_0993.jpg,0.999935999999991,1148.99904,241.000704,1253.000448,1,debris,debris_1.00,"['small', 'white', 'black', 'wooden', 'green', 'brown']"
+00070007_0993.jpg,0.9999360000001616,0.999431999999956,4032.0,740.999448,1,building,building_1.00,"['red', 'orange', 'brick', 'brown', 'large', 'tall']"
+00070007_0993.jpg,2613.002112,686.0004479999999,3001.001472,965.0007359999998,1,firefighter,firefighter_2613.00,"['standing', 'sitting', 'pink', 'purple', 'walking', 'riding']"

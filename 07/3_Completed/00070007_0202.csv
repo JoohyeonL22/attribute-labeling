@@ -1,0 +1,8 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0202.jpg,245.000025,9.000170000000011,329.000175,215.000038,1,man,man_245.00,"standing, green, glass, large, sitting, brown","standing, brown"
+00070007_0202.jpg,327.00015,34.00018800000001,389.00025,205.00006,1,man,man_327.00,"green, brown, gray, large, standing, big","brown, standing"
+00070007_0202.jpg,0.9998999999999684,195.99989,450.0,291.999854,1,road,road_1.00,"brown, concrete, gray, yellow, tan, paved","brown, gray"
+00070007_0202.jpg,345.999825,0.9999539999999952,449.999775,90.00009399999999,1,trees,trees_346.00,"brown, bare, green, tall, yellow, leafless","brown, green"
+00070007_0202.jpg,419.000175,69.000184,450.000225,164.000048,1,man,man_419.00,"green, standing, sitting, white, watching, walking","green, walking"
+00070007_0202.jpg,17.999775,0.9998080000000158,318.999825,191.999928,1,bus,bus_18.00,"yellow, brown, white, wooden, metal, purple","yellow, metal"
+00070007_0202.jpg,0.9998999999999968,65.00007599999999,449.0001,190.00002,1,field,field_1.00,"green, metal, yellow, wooden, brown, silver","yellow, brown"

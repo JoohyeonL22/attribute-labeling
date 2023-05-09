@@ -1,0 +1,13 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0811.jpg,0.9999360000000052,312.999876,179.00063999999998,866.0002679999999,1,building,building_1.00,"white, large, red, tall, pink, blue","white, large, red, tall, pink, blue"
+00070007_0811.jpg,1327.99968,592.000164,1588.9991040000002,1433.000268,1,firefighter,firefighter_1328.00,"walking, standing, yellow, green, young, wearing","walking, standing, yellow, green, young, wearing"
+00070007_0811.jpg,1537.999344,612.0001440000001,1823.999184,1243.00008,1,firefighter,firefighter_1538.00,"standing, walking, young, wearing, purple, yellow","standing, walking, young, wearing, purple, yellow"
+00070007_0811.jpg,363.00096,672.9995159999999,567.0,1180.999764,1,man,man_363.00,"standing, walking, young, gray, green, wearing","standing, walking, young, gray, green, wearing"
+00070007_0811.jpg,556.9996319999999,655.000668,662.998896,1092.0004199999998,1,man,man_557.00,"standing, walking, black, gray, older, brown","standing, walking, black, gray, older, brown"
+00070007_0811.jpg,1104.99984,6.00037199999997,1218.000672,914.00022,1,pole,pole_1105.00,"gray, metal, tall, silver, white, long","gray, metal, tall, silver, white, long"
+00070007_0811.jpg,1329.000624,515.000052,1372.9998240000002,885.00006,1,pole,pole_1329.00,"green, metal, tall, silver, white, black","green, metal, tall, silver, white, black"
+00070007_0811.jpg,185.00025599999992,1.00018799999998,2016.0,717.000228,1,smoke,smoke_185.00,"blue, purple, cloudy, dark, white, black","blue, purple, cloudy, dark, white, black"
+00070007_0811.jpg,0.9999360000001616,795.000528,2016.0,1512.0,1,road,road_1.00,"gray, black, paved, concrete, yellow, white","gray, black, paved, concrete, yellow, white"
+00070007_0811.jpg,169.99919999999997,681.000264,417.999456,790.000344,1,cars,cars_170.00,"purple, pink, colorful, red, yellow, small","purple, pink, colorful, red, yellow, small"
+00070007_0811.jpg,712.0008000000001,661.0010399999999,1210.0011840000002,955.000368,1,fence,fence_712.00,"metal, yellow, gray, white, chain link, tall","metal, yellow, gray, white, chain link, tall"
+00070007_0811.jpg,1657.999728,641.000304,2015.998992,729.9996480000001,1,building,building_1658.00,"pink, purple, brown, red, colorful, white","pink, purple, brown, red, colorful, white"

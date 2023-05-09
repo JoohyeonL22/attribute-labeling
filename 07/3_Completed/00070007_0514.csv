@@ -1,0 +1,6 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0514.jpg,304.99968,548.999808,348.0,677.0000640000001,1,man,man_305.00,"standing, walking, blue, skiing, yellow, white","standing, skiing"
+00070007_0514.jpg,90.000384,594.9995519999999,139.00032,709.999872,1,man,man_90.00,"standing, walking, green, young, wearing, looking","standing, wearing"
+00070007_0514.jpg,0.999935999999991,0.999935999999991,768.0,677.9996160000001,1,trees,trees_1.00,"orange, green, brown, large, red, yellow","green, large"
+00070007_0514.jpg,0.999935999999991,490.99968,287.000064,647.999616,1,truck,truck_1.00,"white, green, parked, large, blue, small",white
+00070007_0514.jpg,0.9995519999999942,25.999871999999986,729.999744,675.9997440000001,1,fire,fire_1.00,"orange, green, brown, large, yellow, red","orange, large"

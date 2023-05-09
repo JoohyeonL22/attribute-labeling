@@ -1,0 +1,8 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0054.jpg,1.0001949999999908,1.0000399999999985,410.0002050000001,107.00014,1,mountain,mountain_1.00,"['purple', 'pink', 'white', 'gray', 'brown', 'cloudy']"
+00070007_0054.jpg,167.99996,52.000125,181.99982,80.000095,1,sign,sign_168.00,"['green', 'white', 'small', 'blue', 'metal', 'square']"
+00070007_0054.jpg,19.000015,51.00008500000001,144.999985,99.999975,1,truck,truck_19.00,"['green', 'yellow', 'large', 'orange', 'big', 'metal']"
+00070007_0054.jpg,190.999935,78.00001499999999,248.999765,107.000025,1,truck,truck_191.00,"['pink', 'purple', 'white', 'small', 'wooden', 'colorful']"
+00070007_0054.jpg,201.999825,84.99983499999999,403.999855,196.999945,1,bus,bus_202.00,"['purple', 'pink', 'white', 'colorful', 'silver', 'black']"
+00070007_0054.jpg,329.99998,180.999995,380.99988,195.999905,1,debris,debris_330.00,"['white', 'silver', 'metal', 'black', 'blue', 'wooden']"
+00070007_0054.jpg,4.999949999999984,132.00010500000002,315.00013,230.000115,1,rock,rock_5.00,"['yellow', 'black', 'gray', 'brown', 'large', 'white']"

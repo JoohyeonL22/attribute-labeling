@@ -1,0 +1,7 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0503.jpg,0.9999760000000038,128.999865,533.999736,321.999625,1,car,car_1.00,"green, black, moving, blue, yellow, silver",black
+00070007_0503.jpg,462.999871,151.99995499999997,1045.999477,318.999945,1,fence,fence_463.00,"metal, white, wooden, silver, green, long","white, wooden"
+00070007_0503.jpg,108.99999899999996,1.0000750000000096,917.000481,195.999985,1,trees,trees_109.00,"green, yellow, bare, tall, white, large","green, large"
+00070007_0503.jpg,338.000256,81.00008,513.00024,368.00035,1,woman,woman_338.00,"standing, walking, green, blue, blonde, young","standing, blue"
+00070007_0503.jpg,0.9999760000000038,296.0001275,516.000168,545.0002725,1,water,water_1.00,"wet, brown, clear, white, gray, green","wet, brown"
+00070007_0503.jpg,0.9999760000000606,241.9998925,1046.0,544.9997275000001,1,dirt,dirt_1.00,"wet, brown, dirty, black, gray, green","wet, brown"

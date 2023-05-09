@@ -1,0 +1,4 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0215.jpg,156.0003,22.99982749999998,404.0001,327.9999905,1,bus,bus_156.00,"['purple', 'pink', 'white', 'green', 'black', 'metal']"
+00070007_0215.jpg,212.0001,189.99989450000004,402.9999,376.9998115,1,debris,debris_212.00,"['pink', 'purple', 'white', 'black', 'silver', 'metal']"
+00070007_0215.jpg,465.9999,83.999747,509.9997,140.999885,1,person,person_466.00,"['green', 'blue', 'white', 'colorful', 'red', 'small']"

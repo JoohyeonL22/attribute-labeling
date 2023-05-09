@@ -1,0 +1,4 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0244.jpg,29.00002500000005,498.9996,639.000225,873.9996,1,car,car_29.00,"['blue', 'red', 'black', 'yellow', 'green', 'parked']"
+00070007_0244.jpg,1.0000125000000253,333.0,675.0003375,1200.0,1,grass,grass_1.00,"['green', 'yellow', 'black', 'brown', 'grassy', 'long']"
+00070007_0244.jpg,1.0000125000000253,566.9993999999999,675.0003375,1120.9998,1,vehicle,vehicle_1.00,"['green', 'yellow', 'black', 'old', 'red', 'brown']"

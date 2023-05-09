@@ -1,0 +1,10 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0245.jpg,5.000254999999996,186.00026000000005,107.000125,230.0002,1,building,building_5.00,"black, small, red, large, green, glass",large
+00070007_0245.jpg,117.000205,69.00034249999999,129.000215,257.0001375,1,pole,pole_117.00,"red, metal, pink, black, tall, white","metal, black"
+00070007_0245.jpg,100.999905,102.000015,207.999815,232.999785,1,trees,trees_101.00,"purple, pink, large, red, tall, black",black
+00070007_0245.jpg,225.000295,105.9999325,408.000125,255.0000375,1,trees,trees_225.00,"tall, bare, black, leafless, large, green","bare, leafless"
+00070007_0245.jpg,1.0001800000000003,59.99989249999999,92.00022,227.9998175,1,trees,trees_1.00,"red, large, tall, bare, white, black",bare
+00070007_0245.jpg,104.00023000000002,202.99998000000005,361.00005,355.99972,1,truck,truck_104.00,"red, black, purple, pink, parked, maroon",red
+00070007_0245.jpg,1.0001800000000003,264.9999725,430.0,564.9997175,1,road,road_1.00,"gray, paved, concrete, asphalt, cement, gravel","gray, asphalt"
+00070007_0245.jpg,1.0001800000000003,247.0002025,139.00008,417.0002275,1,grass,grass_1.00,"green, yellow, grassy, short, brown, grass","green, grassy"
+00070007_0245.jpg,158.99980999999997,422.9999625,374.99999,564.9997175,1,debris,debris_159.00,"blue, metal, gray, silver, concrete, white",gray

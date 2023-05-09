@@ -1,0 +1,6 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0666.jpg,32.0,174.9999,507.0,470.0001,1,car,car_32.00,"['red', 'parked', 'black', 'double decker', 'maroon', 'blue']"
+00070007_0666.jpg,1.0,29.99969999999999,800.0,351.9999,1,trees,trees_1.00,"['white', 'red', 'cloudy', 'gray', 'bare', 'blue']"
+00070007_0666.jpg,430.0,208.9998,800.0,472.9998,1,truck,truck_430.00,"['white', 'parked', 'silver', 'black', 'gray', 'blue']"
+00070007_0666.jpg,1.0,375.0,800.0,600.0,1,road,road_1.00,"['gray', 'concrete', 'wet', 'paved', 'cement', 'asphalt']"
+00070007_0666.jpg,368.0,251.0001,469.0,420.0003,1,debris,debris_368.00,"['red', 'blue', 'metal', 'sitting', 'black', 'white']"

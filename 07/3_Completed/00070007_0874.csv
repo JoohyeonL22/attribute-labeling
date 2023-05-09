@@ -1,0 +1,7 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0874.jpg,1.0,207.0002085,75.0,314.00008949999994,1,building,building_1.00,"red, yellow, large, pink, black, purple",red
+00070007_0874.jpg,81.0,2.9997680000000457,675.0,322.999678,1,building,building_81.00,"bare, tall, large, white, brown, green","brown, green"
+00070007_0874.jpg,537.0,464.000154,747.0,569.0,1,sign,sign_537.00,"red, white, stop, green, black, street",red
+00070007_0874.jpg,1.0,1.000302000000033,770.0,321.000212,1,tree,tree_1.00,"white, green, tall, large, bare, blue",green
+00070007_0874.jpg,638.0,90.9998855,1000.0,295.9997745,1,tree,tree_638.00,"green, tall, large, blue, white, glass",green
+00070007_0874.jpg,0.9999999999999432,303.99991450000005,1000.0,568.9997155,1,water,water_1.00,"calm, clear, dark, green, reflective, black","green, reflective"

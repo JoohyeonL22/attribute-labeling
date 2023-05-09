@@ -1,0 +1,5 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0116.jpg,492.0,1.000080000000004,640.0,92.00016,1,tree,tree_492.00,"white, black, blue, large, green, glass",
+00070007_0116.jpg,1.0,286.99992000000003,639.99968,360.00000000000006,1,water,water_1.00,"gray, wet, black, yellow, dark, calm","wet, dark"
+00070007_0116.jpg,312.0,43.99992000000002,640.0,199.00008000000005,1,water,water_312.00,"black, bare, gray, large, green, glass",gray
+00070007_0116.jpg,0.999680000000012,0.9999000000000252,568.0,284.99994,1,bus,bus_1.00,"black, white, green, gray, yellow, dark",yellow

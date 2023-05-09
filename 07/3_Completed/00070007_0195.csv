@@ -1,0 +1,9 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0195.jpg,1.000368999999978,0.9997349999999868,373.999975,385.999691,1,building,building_1.00,"red, purple, gray, black, blue, pink","gray, black"
+00070007_0195.jpg,585.9999379999999,1.0001364999999964,1423.0,392.9998435,1,building,building_586.00,"black, brown, brick, dark, blue, purple","black, brown"
+00070007_0195.jpg,165.00040750000002,69.99991899999998,617.0007045,490.999971,1,bus,bus_165.00,"red, black, purple, blue, double decker, parked",parked
+00070007_0195.jpg,607.999518,316.999507,702.000052,421.999787,1,car,car_608.00,"blue, silver, white, gray, black, small",white
+00070007_0195.jpg,759.0004515,245.999853,1071.0003165,501.99946499999993,1,car,car_759.00,"black, green, gray, blue, metal, white","gray, metal"
+00070007_0195.jpg,1105.0000555,219.0001825,1184.0007465,537.0002274999999,1,man,man_1105.00,"black, tall, gray, metal, standing, silver","black, standing"
+00070007_0195.jpg,756.000056,226.000335,1031.000498,515.000035,1,man,man_756.00,"green, black, blue, white, metal, small",white
+00070007_0195.jpg,1097.000661,193.9995805,1130.000031,508.9996175,1,pole,pole_1097.00,"black, metal, silver, long, tall, gray","black, metal"

@@ -1,0 +1,9 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0742.jpg,814.0012800000001,891.0,937.00032,1057.00032,1,chair,chair_814.00,"blue, green, metal, silver, wooden, small","blue, green, metal, silver, wooden, small"
+00070007_0742.jpg,283.00032,1052.00064,652.0012800000001,1196.00064,1,pole,pole_283.00,"green, metal, blue, silver, white, metallic","green, metal, blue, silver, white, metallic"
+00070007_0742.jpg,844.0012800000001,780.0004799999999,1339.00032,964.0008,1,suv,suv_844.00,"parked, silver, white, gray, tan, brown","parked, silver, white, gray, tan, brown"
+00070007_0742.jpg,127.99968,337.0003200000001,1917.0,786.0009600000001,1,trees,trees_128.00,"blue, green, cloudy, tall, white, clear","blue, green, cloudy, tall, white, clear"
+00070007_0742.jpg,508.00032,432.0,1119.0,828.0,1,tree,tree_508.00,"green, bare, tall, brown, large, leafless","green, bare, tall, brown, large, leafless"
+00070007_0742.jpg,8.000640000000004,1.0000799999999117,162.0,1164.0002399999998,1,pole,pole_8.00,"wooden, brown, tall, large, gray, wood","wooden, brown, tall, large, gray, wood"
+00070007_0742.jpg,334.9996799999999,1.0000800000000822,1198.99968,754.00056,1,tree,tree_335.00,"blue, green, tall, white, cloudy, large","blue, green, tall, white, cloudy, large"
+00070007_0742.jpg,1375.00032,639.99936,1672.00128,931.99968,1,bus,bus_1375.00,"blue, white, large, parked, green, big","blue, white, large, parked, green, big"

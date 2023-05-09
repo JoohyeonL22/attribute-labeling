@@ -1,0 +1,10 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0871.jpg,1412.99784,1231.999944,2425.999248,1646.999112,1,bicycle,bicycle_1413.00,"['green', 'blue', 'black', 'wooden', 'metal', 'white']"
+00070007_0871.jpg,2723.000064,799.999284,3216.0,1255.998972,1,bicycle,bicycle_2723.00,"['purple', 'pink', 'black', 'metal', 'parked', 'red']"
+00070007_0871.jpg,1.0001760000000104,1593.999612,1090.999056,2135.998932,1,bicycle,bicycle_1.00,"['red', 'silver', 'metal', 'parked', 'white', 'gray']"
+00070007_0871.jpg,1.0017839999999865,0.9996479999999792,762.000648,922.000128,1,tree,tree_1.00,"['bare', 'tall', 'large', 'green', 'brown', 'leafless']"
+00070007_0871.jpg,91.99850399999993,20.00043600000004,3215.9983919999995,1204.000188,1,building,building_92.00,"['brick', 'brown', 'large', 'white', 'old', 'red']"
+00070007_0871.jpg,1.0001760000000104,979.000356,1852.001136,1472.999484,1,debris,debris_1.00,"['wooden', 'brown', 'stone', 'wood', 'long', 'old']"
+00070007_0871.jpg,8.001408000000083,985.00038,3216.0,2131.000692,1,grass,grass_8.00,"['green', 'brown', 'wooden', 'white', 'gray', 'metal']"
+00070007_0871.jpg,432.9990240000001,1780.000356,2231.000304,2136.001068,1,chairs,chairs_433.00,"['white', 'metal', 'silver', 'wooden', 'gray', 'brown']"
+00070007_0871.jpg,33.00098399999979,3.0000119999999697,3216.001608,567.99978,1,trees,trees_33.00,"['white', 'blue', 'gray', 'cloudy', 'brown', 'clear']"

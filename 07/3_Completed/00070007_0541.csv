@@ -1,0 +1,6 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0541.jpg,66.99999750000003,327.000168,441.9999765,445.000248,1,truck,truck_67.00,"white, green, purple, parked, black, pink",white
+00070007_0541.jpg,0.999565500000017,0.9997679999999888,616.9995285,320.99997599999995,1,tree,tree_1.00,"black, bare, green, tall, brown, dark",green
+00070007_0541.jpg,513.9996795,1.0000319999999905,938.9995305,235.000128,1,trees,trees_514.00,"green, blue, clear, white, large, blurry",blurry
+00070007_0541.jpg,235.99933950000005,351.999912,622.9997385,499.999896,1,truck,truck_236.00,"purple, white, pink, silver, small, parked",white
+00070007_0541.jpg,0.999565500000017,174.00002399999997,938.9995305,528.000264,1,water,water_1.00,"white, clear, black, brown, gray, dark",brown

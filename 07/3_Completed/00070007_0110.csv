@@ -1,0 +1,11 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0110.jpg,478.000128,478.000128,576,764.000256,1,stick,stick_478.00,"metal, blue, black, long, brown, silver","long, brown"
+00070007_0110.jpg,1.00032,0.999936,757.00032,365.999616,1,trees,trees_1.00,"bare, tall, green, brown, white, leafless","green, brown"
+00070007_0110.jpg,0.999936,267.999744,337.999872,408,1,truck,truck_1.00,"red, orange, green, colorful, white, double decker",orange
+00070007_0110.jpg,214.000128,405.000192,768,768,1,wood,wood_214.00,"brown, dead, dry, dried, bare, blue","brown, dead"
+00070007_0110.jpg,576,391.999872,768,522,1,fire,fire_576.00,"brown, purple, colorful, yellow, orange, dead",orange
+00070007_0110.jpg,94.000128,225.999744,768,427.999872,1,water,water_94.00,"red, green, blue, metal, white, silver",white
+00070007_0110.jpg,15.000192,294.999552,100.000128,507.999744,1,man,man_15.00,"purple, pink, standing, little, colorful, young",standing
+00070007_0110.jpg,219.999744,319.999872,263.000064,450,1,woman,woman_220.00,"yellow, blue, colorful, standing, green, glass","yellow, standing"
+00070007_0110.jpg,346.99968,311.000064,382.99968,429.000192,1,man,man_347.00,"blue, white, metal, red, tall, green",
+00070007_0110.jpg,373.999872,306.000384,401.999616,403.00032,1,man,man_374.00,"yellow, red, white, tall, blue, metal",yellow

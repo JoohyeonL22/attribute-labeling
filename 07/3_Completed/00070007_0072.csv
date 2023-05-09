@@ -1,0 +1,9 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0072.jpg,2.000232000000011,72.00007500000001,178.000056,134.000125,1,cloth,cloth_2.00,"white, red, clear, dirty, gray, pink",dirty
+00070007_0072.jpg,567.000096,114.000075,624.0,157.00002500000002,1,sign,sign_567.00,"red, white, blue, large, pink, black",red
+00070007_0072.jpg,0.9996479999999934,0.9999500000000126,255.999744,245.99995,1,bus,bus_1.00,"red, green, metal, white, black, large",metal
+00070007_0072.jpg,296.000016,58.00007500000002,565.999824,262.000025,1,truck,truck_296.00,"red, white, large, pink, double decker, big",red
+00070007_0072.jpg,0.9999600000000016,281.000125,183.00016800000003,339.999975,1,debris,debris_1.00,"metal, gray, red, black, pink, silver",gray
+00070007_0072.jpg,133.99994399999997,221.999925,447.000216,308.999775,1,debris,debris_134.00,"metal, silver, white, black, yellow, glass",metal
+00070007_0072.jpg,461.99992800000007,196.000175,623.999688,297.000025,1,debris,debris_462.00,"red, black, metal, white, yellow, silver","red, metal"
+00070007_0072.jpg,0.999960000000044,264.999875,623.9996880000001,349.999825,1,road,road_1.00,"yellow, wet, red, gray, metal, white","gray, metal"

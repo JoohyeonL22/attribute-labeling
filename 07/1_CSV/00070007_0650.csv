@@ -1,0 +1,13 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0650.jpg,178.0,316.00044,286.0,394.0002,1,car,car_178.00,"['green', 'blue', 'black', 'white', 'small', 'silver']"
+00070007_0650.jpg,286.0,305.99999999999994,467.99936,389.00016,1,car,car_286.00,"['green', 'red', 'black', 'parked', 'driving', 'white']"
+00070007_0650.jpg,340.00000000000006,272.00016,743.0003200000001,465.00048,1,car,car_340.00,"['black', 'purple', 'green', 'pink', 'white', 'colorful']"
+00070007_0650.jpg,722.00064,282.00024,983.00032,410.0004,1,car,car_722.00,"['purple', 'pink', 'blue', 'parked', 'red', 'white']"
+00070007_0650.jpg,944.00064,294.00012,1069.9999999999998,362.99988,1,car,car_944.00,"['red', 'blue', 'white', 'black', 'driving', 'parked']"
+00070007_0650.jpg,29.99936,9.00036,85.99936,393.00012,1,pole,pole_30.00,"['tall', 'blue', 'metal', 'silver', 'gray', 'black']"
+00070007_0650.jpg,628.00064,352.99980000000005,1280.00064,558.99972,1,road,road_628.00,"['white', 'yellow', 'green', 'gray', 'black', 'blue']"
+00070007_0650.jpg,0.999680000000012,181.99980000000005,492.0,333.99972,1,trees,trees_1.00,"['green', 'red', 'tall', 'black', 'large', 'dark']"
+00070007_0650.jpg,722.0,1.000079999999997,1241.00032,320.0004,1,trees,trees_722.00,"['green', 'tall', 'large', 'blue', 'dark', 'big']"
+00070007_0650.jpg,494.0,1.0000799999999683,568.00064,442.00008,1,pole,pole_494.00,"['purple', 'black', 'pink', 'metal', 'tall', 'dark']"
+00070007_0650.jpg,31.000319999999988,316.00008,188.0,345.00024,1,cars,cars_31.00,"['red', 'white', 'pink', 'black', 'blue', 'orange']"
+00070007_0650.jpg,4.000639999999976,391.99968,1245.00032,720.0,1,sidewalk,sidewalk_4.00,"['green', 'brown', 'gray', 'long', 'grassy', 'concrete']"

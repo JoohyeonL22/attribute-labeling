@@ -1,0 +1,13 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0154.jpg,0.999990000000004,1.0000399999999985,73.00009,79.99998,1,building,building_1.00,"brown, black, brick, pink, red, dark","brown, black"
+00070007_0154.jpg,193.99990500000004,0.9999250000000046,409.99979500000006,147.00001500000002,1,building,building_194.00,"brown, tall, yellow, large, tan, brick","yellow, large"
+00070007_0154.jpg,174.99989000000002,106.99991,239.00007,154.99998999999997,1,van,van_175.00,"yellow, wooden, large, white, framed, brown",yellow
+00070007_0154.jpg,379.99989,114.000075,397.99971,155.000105,1,person,person_380.00,"glass, wooden, brown, white, open, wood",
+00070007_0154.jpg,1.0001949999999908,135.99992000000003,410.0002050000001,230.0,1,road,road_1.00,"gray, black, wet, paved, yellow, white","gray, paved"
+00070007_0154.jpg,62.00019999999999,0.9999250000000046,195.0001,75.99993500000001,1,trees,trees_62.00,"green, tall, large, black, bare, white","green, large"
+00070007_0154.jpg,97.99984,73.00004500000003,169.99993999999998,162.000155,1,truck,truck_98.00,"yellow, black, white, blue, parked, large",white
+00070007_0154.jpg,0.9999899999999968,72.00011999999998,151.00013,198.0001,1,van,van_1.00,"black, yellow, parked, double decker, white, large","parked, white"
+00070007_0154.jpg,396.999925,113.000035,409.999795,156.000145,1,person,person_397.00,"wooden, brown, yellow, glass, tall, metal",yellow
+00070007_0154.jpg,358.999895,113.99996,383.000065,194.99998,1,person,person_359.00,"white, black, standing, walking, open, glass","black, standing"
+00070007_0154.jpg,350.99997499999995,115.0,361.999865,148.99998,1,person,person_351.00,"green, blue, white, small, red, metal",red
+00070007_0154.jpg,254.99991,108.999875,266.99979,139.999965,1,person,person_255.00,"green, standing, white, small, walking, sitting",standing

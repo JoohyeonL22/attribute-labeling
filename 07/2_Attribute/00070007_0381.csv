@@ -1,0 +1,13 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0381.jpg,1.0003829999999994,0.9999660000000006,834.000417,300.999774,1,building,building_1.00,"pink, brick, brown, red, purple, white","pink, brick, brown, red, purple, white"
+00070007_0381.jpg,95.99965500000002,175.00009649999998,306.000021,304.0002975,1,car,car_96.00,"black, purple, parked, pink, red, maroon","black, purple, parked, pink, red, maroon"
+00070007_0381.jpg,512.0001060000001,136.0001715,587.000058,318.0002385,1,firefighter,firefighter_512.00,"standing, sitting, red, pink, old, older","standing, sitting, red, pink, old, older"
+00070007_0381.jpg,595.000203,162.00012150000003,673.000053,325.0000005,1,firefighter,firefighter_595.00,"yellow, standing, glass, walking, white, large","yellow, standing, glass, walking, white, large"
+00070007_0381.jpg,618.0002549999999,0.9999660000000006,834.000417,118.000158,1,tree,tree_618.00,"green, large, dark, leafy, tall, brown","green, large, dark, leafy, tall, brown"
+00070007_0381.jpg,1.0003829999999994,300.9999825,834.000417,410.0000295,1,grass,grass_1.00,"green, short, grassy, gray, tall, long","green, short, grassy, gray, tall, long"
+00070007_0381.jpg,438.000537,142.999725,499.000131,309.999885,1,firefighter,firefighter_438.00,"pink, standing, brown, sitting, purple, little","pink, standing, brown, sitting, purple, little"
+00070007_0381.jpg,420.999864,147.999972,453.9995760000001,242.000112,1,firefighter,firefighter_421.00,"purple, pink, metal, black, blue, long","purple, pink, metal, black, blue, long"
+00070007_0381.jpg,377.000109,146.00004,437.999703,266.00013,1,firefighter,firefighter_377.00,"pink, purple, sitting, standing, walking, old","pink, purple, sitting, standing, walking, old"
+00070007_0381.jpg,307.999953,162.99987899999996,366.999615,305.000055,1,firefighter,firefighter_308.00,"standing, sitting, walking, pink, watching, young","standing, sitting, walking, pink, watching, young"
+00070007_0381.jpg,288.000216,141.00020999999998,328.000524,216.000162,1,firefighter,firefighter_288.00,"purple, pink, white, black, red, metal","purple, pink, white, black, red, metal"
+00070007_0381.jpg,580.999845,147.000006,833.999583,346.999878,1,truck,truck_581.00,"white, pink, purple, parked, silver, yellow","white, pink, purple, parked, silver, yellow"

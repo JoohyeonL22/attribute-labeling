@@ -1,0 +1,11 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0948.jpg,141.9999,139.0,350.9997,333.0,1,fire,fire_142.00,"green, yellow, large, glass, metal, big","green, yellow, large, glass, metal, big"
+00070007_0948.jpg,336.00030000000004,195.0,422.0001,347.0,1,firefighter,firefighter_336.00,"yellow, standing, green, black, sitting, walking","yellow, standing, green, black, sitting, walking"
+00070007_0948.jpg,198.9999,1.0,599.9997,325.0,1,smoke,smoke_199.00,"gray, white, black, dark, cloudy, blue","gray, white, black, dark, cloudy, blue"
+00070007_0948.jpg,0.9999000000000252,1.0,365.0001,67.0,1,trees,trees_1.00,"red, white, bare, clear, large, gray","red, white, bare, clear, large, gray"
+00070007_0948.jpg,71.00009999999997,5.0,210.0003,142.0,1,tree,tree_71.00,"bare, leafless, white, tall, large, brown","bare, leafless, white, tall, large, brown"
+00070007_0948.jpg,0.9999000000000108,168.0,188.9997,325.0,1,truck,truck_1.00,"black, green, white, parked, yellow, moving","black, green, white, parked, yellow, moving"
+00070007_0948.jpg,0.9998999999999684,320.0,599.9997000000001,400.0,1,snow,snow_1.00,"gray, white, yellow, concrete, paved, cement","gray, white, yellow, concrete, paved, cement"
+00070007_0948.jpg,0.9998999999999684,5.0,599.9997000000001,257.0,1,snow,snow_1.00,"white, gray, black, cloudy, dark, blue","white, gray, black, cloudy, dark, blue"
+00070007_0948.jpg,225.0,169.0,453.0,294.0,1,van,van_225.00,"yellow, black, large, blue, red, colorful","yellow, black, large, blue, red, colorful"
+00070007_0948.jpg,0.9999000000000252,281.0,599.0001,345.0,1,road,road_1.00,"yellow, white, green, black, long, gray","yellow, white, green, black, long, gray"

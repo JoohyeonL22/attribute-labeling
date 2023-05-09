@@ -1,0 +1,9 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0111.jpg,174.0,313.00008,258.0,436.99992,1,cone,cone_174.00,"['orange', 'red', 'colorful', 'white', 'yellow', 'pink']"
+00070007_0111.jpg,349.0,273.0,415.0,372.0,1,cone,cone_349.00,"['orange', 'red', 'white', 'gray', 'small', 'plastic']"
+00070007_0111.jpg,461.0,253.00008000000005,519.0,330.0002400000001,1,cone,cone_461.00,"['yellow', 'orange', 'red', 'metal', 'black', 'white']"
+00070007_0111.jpg,540.0,234.99984,588.0,300.99984,1,cone,cone_540.00,"['orange', 'green', 'red', 'blue', 'white', 'plastic']"
+00070007_0111.jpg,590.0,219.99984,634.0,279.99984,1,cone,cone_590.00,"['orange', 'red', 'white', 'black', 'green', 'small']"
+00070007_0111.jpg,1.0,273.0,639.99968,480.0,1,road,road_1.00,"['gray', 'concrete', 'red', 'paved', 'cement', 'yellow']"
+00070007_0111.jpg,170.99968,154.00008000000005,438.99968,406.99992,1,bus,bus_171.00,"['purple', 'pink', 'yellow', 'colorful', 'multi colored', 'orange']"
+00070007_0111.jpg,1.0,0.999840000000006,639.99968,465.99984,1,trees,trees_1.00,"['green', 'gray', 'red', 'black', 'tall', 'pink']"

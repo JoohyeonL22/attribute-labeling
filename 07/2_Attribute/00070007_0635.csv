@@ -1,0 +1,5 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0635.jpg,0.9996979999999952,1.0,103.000002,164.0,1,bush,bush_1.00,"purple, pink, green, colorful, blue, multi colored","purple, pink, green, colorful, blue, multi colored"
+00070007_0635.jpg,56.00005599999997,1.0,707.0,346.0,1,car,car_56.00,"green, blue, silver, parked, black, white","green, blue, silver, parked, black, white"
+00070007_0635.jpg,85.99983349999997,1.0,706.9996464999999,170.0,1,field,field_86.00,"green, blue, metal, silver, gray, black","green, blue, metal, silver, gray, black"
+00070007_0635.jpg,299.00019799999995,19.0,707.0,177.0,1,fence,fence_299.00,"green, metal, blue, silver, wooden, gray","green, metal, blue, silver, wooden, gray"

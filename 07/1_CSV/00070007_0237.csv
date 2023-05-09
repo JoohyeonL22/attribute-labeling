@@ -1,0 +1,12 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0237.jpg,453.0003,75.99984699999999,521.0001,228.999827,1,man,man_453.00,"['white', 'sitting', 'black', 'yellow', 'metal', 'standing']"
+00070007_0237.jpg,0.9998999999999968,88.99984799999999,212.0001,413.0,1,woman,woman_1.00,"['purple', 'sitting', 'standing', 'pink', 'little', 'young']"
+00070007_0237.jpg,135.0003,103.000135,272.0001,265.000211,1,car,car_135.00,"['white', 'purple', 'blue', 'pink', 'colorful', 'red']"
+00070007_0237.jpg,248.0001,91.99988000000002,345.00030000000004,308.999992,1,woman,woman_248.00,"['blue', 'standing', 'green', 'colorful', 'walking', 'skiing']"
+00070007_0237.jpg,294.9999,77.000133,365.0001,247.000019,1,man,man_295.00,"['red', 'yellow', 'standing', 'blue', 'pink', 'white']"
+00070007_0237.jpg,246.9999,85.0001495,296.0001,170.0000925,1,man,man_247.00,"['colorful', 'blue', 'green', 'red', 'black', 'multi colored']"
+00070007_0237.jpg,183.0,90.9998005,237.0,121.9999935,1,man,man_183.00,"['yellow', 'red', 'orange', 'wooden', 'small', 'blue']"
+00070007_0237.jpg,38.9997,56.999782,93.9999,143.999884,1,man,man_39.00,"['blue', 'glass', 'clear', 'green', 'orange', 'open']"
+00070007_0237.jpg,0.9998999999999684,27.00008150000002,599.9997000000001,413.0002065000001,1,bush,bush_1.00,"['green', 'purple', 'pink', 'colorful', 'black', 'white']"
+00070007_0237.jpg,0.9998999999999824,1.0000794999999911,221.9997,105.9999605,1,tree,tree_1.00,"['purple', 'green', 'pink', 'brown', 'large', 'colorful']"
+00070007_0237.jpg,294.9999,8.000016500000001,503.9997,132.99983550000002,1,tree,tree_295.00,"['purple', 'green', 'pink', 'tall', 'large', 'white']"

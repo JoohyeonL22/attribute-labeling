@@ -1,0 +1,4 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0286.jpg,55.00003199999992,414.00025199999993,1203.99984,862.0001639999999,1,car,car_55.00,"['white', 'parked', 'silver', 'yellow', 'gold', 'gray']"
+00070007_0286.jpg,1121.0004,1.0000080000000366,1221.0012,518.000472,1,pole,pole_1121.00,"['purple', 'pink', 'tall', 'red', 'large', 'maroon']"
+00070007_0286.jpg,0.9995999999999868,539.9994240000001,1631.9991840000002,1224.0,1,road,road_1.00,"['gray', 'wet', 'black', 'white', 'paved', 'concrete']"

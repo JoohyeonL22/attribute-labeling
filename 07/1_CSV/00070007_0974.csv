@@ -1,0 +1,10 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0974.jpg,181.0006,257.000191,887.0004,516.000165,1,car,car_181.00,"['black', 'purple', 'blue', 'parked', 'white', 'silver']"
+00070007_0974.jpg,782.0004500000001,262.99954,1012.00055,472.999876,1,man,man_782.00,"['sitting', 'standing', 'smiling', 'black', 'looking', 'wearing']"
+00070007_0974.jpg,823.00075,114.000109,839.0002499999999,242.000167,1,pole,pole_823.00,"['yellow', 'blue', 'orange', 'metal', 'white', 'long']"
+00070007_0974.jpg,799.9997500000001,41.000139,855.9996500000001,114.000109,1,sign,sign_800.00,"['yellow', 'red', 'black', 'traffic', 'green', 'orange']"
+00070007_0974.jpg,95.00040000000008,269.000357,1100.0,734.0003670000001,1,water,water_95.00,"['white', 'wet', 'gray', 'brown', 'black', 'large']"
+00070007_0974.jpg,156.99970000000002,60.00009599999999,1099.0001,266.000132,1,field,field_157.00,"['green', 'tall', 'yellow', 'white', 'leafy', 'large']"
+00070007_0974.jpg,158.0007000000001,0.9997079999999912,1097.0003000000002,75.99982800000001,1,trees,trees_158.00,"['yellow', 'white', 'red', 'cloudy', 'green', 'pink']"
+00070007_0974.jpg,257.9995,309.999762,374.9999,425.999654,1,man,man_258.00,"['yellow', 'sitting', 'blue', 'black', 'orange', 'white']"
+00070007_0974.jpg,159.99994999999998,382.000024,188.00045,452.999844,1,ladder,ladder_160.00,"['blue', 'white', 'purple', 'colorful', 'red', 'american']"

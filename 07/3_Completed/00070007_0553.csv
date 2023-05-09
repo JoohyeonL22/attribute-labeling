@@ -1,0 +1,6 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0553.jpg,114.00001200000008,75.99949699999999,1533.0,330.999739,1,bridge,bridge_114.00,"green, brown, large, gray, tall, white","brown, large"
+00070007_0553.jpg,477.0006149999999,462.999726,1428.000231,749.99981,1,car,car_477.00,"green, silver, gray, small, parked, black",silver
+00070007_0553.jpg,0.9995160000000852,1.0005379999999775,1533.0,331.00025000000005,1,trees,trees_1.00,"green, tall, blue, large, white, brown",large
+00070007_0553.jpg,0.9995160000000852,287.9996000000001,1533.0,1022.0,1,water,water_1.00,"wet, calm, green, gray, dark, brown","wet, gray"
+00070007_0553.jpg,539.0005005,1.0000270000000029,1531.0002015000002,256.99978500000003,1,tree,tree_539.00,"green, blue, large, tall, brown, leafy","green, brown"

@@ -1,0 +1,6 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0551.jpg,329.99936,453.000192,1186.999296,902.00064,1,car,car_330.00,"white, small, black, large, yellow, blue","white, small, black, large, yellow, blue"
+00070007_0551.jpg,504.999936,499.999488,617.00096,648.9991679999999,1,man,man_505.00,"green, black, sitting, standing, blue, dark","green, black, sitting, standing, blue, dark"
+00070007_0551.jpg,0.99942400000009,130.00012800000002,2048.0,1536.000768,1,water,water_1.00,"gray, calm, wet, dark, brown, large","gray, calm, wet, dark, brown, large"
+00070007_0551.jpg,988.000256,719.0000640000001,1301.000192,1189.000704,1,person,person_988.00,"black, wet, standing, sitting, gray, young","black, wet, standing, sitting, gray, young"
+00070007_0551.jpg,0.99942400000009,1.0007039999999847,2048.0,438.000384,1,dock,dock_1.00,"concrete, gray, large, brown, long, white","concrete, gray, large, brown, long, white"

@@ -1,0 +1,11 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0938.jpg,1104.9996,346.99995,1158.9996,473.99985,1,man,man_1105.00,"standing, walking, yellow, green, wearing, black","standing, walking, yellow, green, wearing, black"
+00070007_0938.jpg,1142.0004,340.99965,1187.0004,474.99975,1,man,man_1142.00,"standing, green, walking, sitting, watching, yellow","standing, green, walking, sitting, watching, yellow"
+00070007_0938.jpg,1.0001999999999498,0.9998999999999968,1200.0006,314.0001,1,trees,trees_1.00,"bare, blue, orange, tall, green, large","bare, blue, orange, tall, green, large"
+00070007_0938.jpg,164.99939999999998,230.99985,1099.9998,645.99975,1,van,van_165.00,"black, silver, gray, white, green, red","black, silver, gray, white, green, red"
+00070007_0938.jpg,361.9998,657.0,520.0002,748.9998,1,debris,debris_362.00,"purple, pink, black, metal, green, sitting","purple, pink, black, metal, green, sitting"
+00070007_0938.jpg,1072.9998,253.00035000000003,1199.9994000000002,468.00045,1,fire truck,fire truck_1073.00,"red, white, green, standing, yellow, double decker","red, white, green, standing, yellow, double decker"
+00070007_0938.jpg,1.0002000000000066,320.0004,187.9998,437.0004,1,pole,pole_1.00,"green, wooden, metal, brown, yellow, wood","green, wooden, metal, brown, yellow, wood"
+00070007_0938.jpg,1011.0,418.9999499999999,1200.0,896.9998499999999,1,road,road_1011.00,"white, painted, gray, green, long, yellow","white, painted, gray, green, long, yellow"
+00070007_0938.jpg,1.0002000000000066,372.9996,999.0006,900.0,1,field,field_1.00,"green, grassy, short, brown, yellow, tall","green, grassy, short, brown, yellow, tall"
+00070007_0938.jpg,18.0,171.00000000000006,423.0,329.0004,1,building,building_18.00,"orange, yellow, red, large, metal, black","orange, yellow, red, large, metal, black"

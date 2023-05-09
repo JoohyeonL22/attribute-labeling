@@ -1,0 +1,6 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0937.jpg,1.0003500000000258,134.00005199999998,983.00085,867.0,1,car,car_1.00,"green, white, silver, gray, old, black","green, white, silver, gray, old, black"
+00070007_0937.jpg,947.0006,354.0000015,1300.0,676.9999845,1,road,road_947.00,"white, yellow, gray, painted, paved, wet","white, yellow, gray, painted, paved, wet"
+00070007_0937.jpg,1048.0002,1.0000844999999856,1300.0,411.0000495000001,1,tree,tree_1048.00,"green, tall, red, pink, large, purple","green, tall, red, pink, large, purple"
+00070007_0937.jpg,439.0002500000001,603.0002340000001,750.00055,867.0,1,debris,debris_439.00,"gray, wooden, old, metal, dead, brown","gray, wooden, old, metal, dead, brown"
+00070007_0937.jpg,1.0003500000000258,1.0005179999999996,1300.00065,345.000108,1,trees,trees_1.00,"green, white, red, cloudy, blue, clear","green, white, red, cloudy, blue, clear"

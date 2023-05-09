@@ -1,0 +1,7 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_1000.jpg,171.0,27.9999,450.0,306.0,1,ambulance,ambulance_171.00,"white, red, parked, double decker, large, big","white, red, parked, double decker, large, big"
+00070007_1000.jpg,0.9998999999999684,0.9998999999999968,450.0,137.9997,1,building,building_1.00,"purple, white, blue, pink, red, green","purple, white, blue, pink, red, green"
+00070007_1000.jpg,22.000050000000016,1.000124999999997,229.99995,167.000175,1,trees,trees_22.00,"purple, green, pink, blue, large, tall","purple, green, pink, blue, large, tall"
+00070007_1000.jpg,1.000124999999997,97.0002,194.000175,332.0001,1,car,car_1.00,"green, gray, purple, blue, silver, black","green, gray, purple, blue, silver, black"
+00070007_1000.jpg,0.9998999999999684,275.000175,450.0,450.000225,1,road,road_1.00,"gray, black, paved, concrete, asphalt, cement","gray, black, paved, concrete, asphalt, cement"
+00070007_1000.jpg,1.0001250000000006,0.9998999999999968,24.999975,144.9999,1,building,building_1.00,"purple, pink, metal, white, tall, red","purple, pink, metal, white, tall, red"

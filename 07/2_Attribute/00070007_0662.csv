@@ -1,0 +1,5 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0662.jpg,1372.0,100.00031249999996,2259.0,1873.9996875,1,man,man_1372.00,"standing, smiling, walking, young, looking, old","standing, smiling, walking, young, looking, old"
+00070007_0662.jpg,308.0000000000001,331.99968750000005,1281.0,1678.0003125000003,1,vehicle,vehicle_308.00,"white, gray, black, old, parked, red","white, gray, black, old, parked, red"
+00070007_0662.jpg,1.0,1.0003125000000637,2500.0,1875.0009375,1,building,building_1.00,"brick, brown, red, white, tan, gray","brick, brown, red, white, tan, gray"
+00070007_0662.jpg,326.0000000000001,1536.0,1180.0,1875.0,1,debris,debris_326.00,"brown, gray, old, rocky, black, stone","brown, gray, old, rocky, black, stone"

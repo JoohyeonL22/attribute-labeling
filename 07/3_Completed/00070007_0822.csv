@@ -1,0 +1,7 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0822.jpg,0.9996,772,2399.9988,1600,1,road,road_1.00,"gray, brown, dirt, dirty, white, wet","gray, dirt"
+00070007_0822.jpg,0.9996,1,1670.9988,779,1,trees,trees_1.00,"green, tall, blue, bare, white, large",green
+00070007_0822.jpg,1.0008,99.9992,1504.0008,994.9992,1,tree,tree_1.00,"green, tall, bare, black, blue, large","green, large"
+00070007_0822.jpg,1762.9992,1,2392.9992,677,1,trees,trees_1763.00,"green, tall, bare, large, brown, leafless","green, brown"
+00070007_0822.jpg,1520.0004,219,2118.9996,829,1,landslide,landslide_1520.00,"orange, bare, black, dead, red, brown","dead, brown"
+00070007_0822.jpg,362.0004,626.9992,528.9996,1151.9992,1,man,man_362.00,"standing, walking, yellow, young, blonde, little","standing, yellow"

@@ -1,0 +1,6 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0850.jpg,214.001424,291.99970799999994,259.00056,672.000084,1,pole,pole_214.00,"purple, pink, tall, blue, colorful, white","purple, pink, tall, blue, colorful, white"
+00070007_0850.jpg,0.9999360000001616,1010.000124,2016.0,1512.000756,1,road,road_1.00,"yellow, wet, gray, paved, black, white","yellow, wet, gray, paved, black, white"
+00070007_0850.jpg,214.9993440000001,1.00018799999998,2015.998992,930.999636,1,trees,trees_215.00,"tall, green, large, bare, brown, white","tall, green, large, bare, brown, white"
+00070007_0850.jpg,0.9999360000001616,654.00048,2016.0,1227.0000960000002,1,water,water_1.00,"wet, yellow, gray, blue, brown, paved","wet, yellow, gray, blue, brown, paved"
+00070007_0850.jpg,126.999936,23.00054399999999,183.000384,756.0,1,pole,pole_127.00,"tall, metal, green, gray, silver, large","tall, metal, green, gray, silver, large"

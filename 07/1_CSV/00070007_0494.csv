@@ -1,0 +1,4 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0494.jpg,495.0000720000001,1.0000799999999828,852.0,192.00024,1,car,car_495.00,"['red', 'parked', 'black', 'white', 'maroon', 'blurry']"
+00070007_0494.jpg,1.000248000000056,1.0000799999999683,852.0,480.00024,1,water,water_1.00,"['gray', 'white', 'black', 'brown', 'blurry', 'dark']"
+00070007_0494.jpg,287.999856,123.99984,852.0,267.99984,1,wave,wave_288.00,"['blurry', 'white', 'brown', 'yellow', 'black', 'orange']"

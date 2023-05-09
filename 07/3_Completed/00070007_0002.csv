@@ -1,0 +1,14 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0002.jpg,0.99984,113.00004,533.00016,386.00028,1,car,car_1.00,"white, green, parked, silver, black, gray",white
+00070007_0002.jpg,779.00016,67.00032,836.00016,103.00032,1,car,car_779.00,"yellow, white, green, parked, double decker, large","white, large"
+00070007_0002.jpg,893.00016,63.00036,942.99984,89.00028,1,car,car_893.00,"red, green, white, colorful, yellow, pink",red
+00070007_0002.jpg,908.99952,56.00016,959.99952,177.99984,1,man,man_909.00,"green, standing, walking, sitting, watching, young","green, walking"
+00070007_0002.jpg,600.00048,67.99968,710.00016,123.99984,1,suv,suv_600.00,"purple, pink, black, yellow, parked, colorful",black
+00070007_0002.jpg,220.99968,0.99972,534,125.99964,1,tree,tree_221.00,"green, large, tall, leafy, blue, brown","green, brown"
+00070007_0002.jpg,862.99968,62.00028,898.99968,90.00036,1,car,car_863.00,"green, blue, white, large, glass, double decker",large
+00070007_0002.jpg,547.00032,22.99968,762,67.99968,1,building,building_547.00,"purple, pink, large, colorful, white, brown",brown
+00070007_0002.jpg,8.99952,32.99976,222.99984,102.9996,1,building,building_9.00,"green, brown, yellow, tall, large, small","brown, yellow"
+00070007_0002.jpg,174,96.99984,216,117,1,man,man_174.00,"colorful, blue, purple, green, multi colored, pink",
+00070007_0002.jpg,1.00032,87.00012,960,720.00036,1,road,road_1.00,"gray, dirt, brown, black, wet, paved","gray, dirt"
+00070007_0002.jpg,374.00016,253.9998,960.00048,630.99972,1,debris,debris_374.00,"green, brown, dirt, gray, dirty, black","brown, dirt"
+00070007_0002.jpg,39,544.00032,229.99968,621,1,debris,debris_39.00,"blue, white, metal, gray, silver, dirty","white, metal"

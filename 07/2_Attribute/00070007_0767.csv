@@ -1,0 +1,10 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0767.jpg,0.9997715000000014,10.000084999999997,41.9998565,67.99997499999999,1,man,man_1.00,"standing, walking, large, sitting, black, gray","standing, walking, large, sitting, black, gray"
+00070007_0767.jpg,100.000145,44.0000725,212.000103,197.9999075,1,man,man_100.00,"sitting, smiling, young, old, white, orange","sitting, smiling, young, old, white, orange"
+00070007_0767.jpg,188.0002215,34.99996250000001,295.0000445,203.0001175,1,man,man_188.00,"sitting, smiling, young, blue, old, white","sitting, smiling, young, blue, old, white"
+00070007_0767.jpg,307.9998845,25.000045,420.9998695000001,200.000025,1,man,man_308.00,"sitting, orange, yellow, wooden, white, young","sitting, orange, yellow, wooden, white, young"
+00070007_0767.jpg,0.9997715000000084,1.0001424999999813,510.9997445,335.0001675,1,water,water_1.00,"calm, clear, wet, gray, blue, yellow","calm, clear, wet, gray, blue, yellow"
+00070007_0767.jpg,324.000061,36.99991249999999,433.999965,171.9998875,1,man,man_324.00,"sitting, orange, young, wooden, brown, smiling","sitting, orange, young, wooden, brown, smiling"
+00070007_0767.jpg,56.000234500000005,105.9998625,103.9999975,147.9998175,1,man,man_56.00,"purple, pink, small, little, black, white","purple, pink, small, little, black, white"
+00070007_0767.jpg,34.0001515,3.0000924999999974,73.0001825,52.0002075,1,man,man_34.00,"green, blue, white, metal, teal, hanging","green, blue, white, metal, teal, hanging"
+00070007_0767.jpg,127.00010749999998,145.00006,364.9998905,193.0002,1,structure,structure_127.00,"blue, brown, orange, metal, wooden, white","blue, brown, orange, metal, wooden, white"

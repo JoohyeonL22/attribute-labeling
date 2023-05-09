@@ -1,0 +1,15 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0683.jpg,1195,253.9998175,1655,450.9998885,1,building,building_1195.00,"white, gray, large, blue, brown, green","gray, large"
+00070007_0683.jpg,1,63.9993295,451,569.9994645,1,building,building_1.00,"brown, white, gray, large, tall, tan","brown, white"
+00070007_0683.jpg,438,518.0004675,1376,662.0004585,1,fence,fence_438.00,"blue, metal, white, green, black, wooden","metal, black"
+00070007_0683.jpg,456,815.000199,691,1018.000103,1,woman,woman_456.00,"colorful, multi colored, striped, rainbow colored, blue, red",
+00070007_0683.jpg,539,765.0000355,755,875.0005285,1,man,man_539.00,"green, colorful, blue, white, sitting, red",
+00070007_0683.jpg,1158,157.0000735,2000,429.0000565,1,trees,trees_1158.00,"green, large, blue, tall, white, purple",green
+00070007_0683.jpg,1,498.0001355,2000,1333.000667,1,water,water_1.00,"brown, wet, dark, black, calm, gray","brown, wet"
+00070007_0683.jpg,673,874.000112,1143,1130.999846,1,man,man_673.00,"colorful, multi colored, purple, pink, yellow, white","multi colored, yellow"
+00070007_0683.jpg,422,839.000864,767,969.000356,1,tube,tube_422.00,"colorful, multi colored, striped, blue, red, rainbow colored","colorful, rainbow colored"
+00070007_0683.jpg,379,935.0001915,788,1068.000267,1,tube,tube_379.00,"colorful, multi colored, white, striped, rainbow colored, pink","colorful, rainbow colored"
+00070007_0683.jpg,839,874.999862,1251,1141.000012,1,tube,tube_839.00,"colorful, pink, purple, multi colored, white, rainbow colored","colorful, rainbow colored"
+00070007_0683.jpg,1684,389.999809,2000,559.000215,1,tractor,tractor_1684.00,"purple, pink, green, colorful, double decker, red",green
+00070007_0683.jpg,1417,455.0002215,1599,514.9998845,1,crane,crane_1417.00,"red, yellow, orange, colorful, white, black",black
+00070007_0683.jpg,471,1.0004165,1307,571.0005475,1,building,building_471.00,"white, large, gray, blue, tall, big","white, large"

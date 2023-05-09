@@ -1,0 +1,7 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0835.jpg,169.0005000000001,732.0003839999999,3000.0015000000003,1602.999972,1,airplane,airplane_169.00,"['blue', 'small', 'long', 'white', 'green', 'yellow']"
+00070007_0835.jpg,1.0004999999998745,174.00077399999998,2983.9995,541.00047,1,fence,fence_1.00,"['green', 'red', 'long', 'metal', 'black', 'gray']"
+00070007_0835.jpg,1.000500000000102,204.00009149999997,3000.0015,1893.0009465,1,field,field_1.00,"['brown', 'tall', 'green', 'long', 'yellow', 'dry']"
+00070007_0835.jpg,1287.999,178.99924049999998,1539.999,831.9990554999999,1,man,man_1288.00,"['standing', 'pink', 'young', 'smiling', 'skiing', 'walking']"
+00070007_0835.jpg,1.000500000000102,0.9995040000000016,3000.0015,290.999532,1,trees,trees_1.00,"['green', 'red', 'white', 'tall', 'black', 'large']"
+00070007_0835.jpg,1033.0005,233.00085149999995,1227.0015,840.0007665,1,man,man_1033.00,"['standing', 'yellow', 'skiing', 'young', 'walking', 'wearing']"

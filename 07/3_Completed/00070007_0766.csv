@@ -1,0 +1,9 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0766.jpg,572.0004,345.99960000000004,641.0004,900.0,1,pole,pole_572.00,"purple, metal, gray, silver, pink, tall","metal, gray"
+00070007_0766.jpg,433.0002,109.00034999999998,712.9998,353.00025,1,sign,sign_433.00,"green, white, street, large, hanging, metal","green, street"
+00070007_0766.jpg,1.0001999999999498,522.0,1200.0006,900.0,1,water,water_1.00,"wet, gray, black, calm, dark, paved","wet, gray"
+00070007_0766.jpg,1.0001999999999498,1.000349999999969,1200.0006,576.00045,1,trees,trees_1.00,"bare, white, tall, green, leafless, gray","bare, leafless"
+00070007_0766.jpg,2.9993999999999232,494.99955000000006,1087.9998,635.99985,1,grass,grass_3.00,"green, white, yellow, red, long, gray",green
+00070007_0766.jpg,1.000200000000003,457.99965,43.99979999999999,485.99955000000006,1,van,van_1.00,"white, black, large, blue, small, red","white, large"
+00070007_0766.jpg,392.0004,507.00015,449.0004,536.99985,1,bench,bench_392.00,"pink, purple, small, colorful, green, white",green
+00070007_0766.jpg,344.0004,500.99985,392.0004,525.00015,1,bench,bench_344.00,"wooden, brown, small, wood, orange, square",brown

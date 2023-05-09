@@ -1,0 +1,13 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0253.jpg,61.0,93.0,668.0,356.999968,1,car,car_61.00,"black, green, red, metal, silver, pink","black, green, red, metal, silver, pink"
+00070007_0253.jpg,559.0,130.9998,618.0,228.999976,1,man,man_559.00,"yellow, sitting, colorful, green, pink, white","yellow, sitting, colorful, green, pink, white"
+00070007_0253.jpg,700.0,26.00007199999999,800.0,467.00012,1,man,man_700.00,"gray, purple, black, standing, brown, dark","gray, purple, black, standing, brown, dark"
+00070007_0253.jpg,284.0,0.999687999999992,390.0,362.999832,1,pole,pole_284.00,"gray, purple, pink, brown, black, tall","gray, purple, pink, brown, black, tall"
+00070007_0253.jpg,429.0,125.000184,718.0,241.0002,1,truck,truck_429.00,"colorful, pink, green, multi colored, clear, yellow","colorful, pink, green, multi colored, clear, yellow"
+00070007_0253.jpg,1.0,119.000072,800.0,496.000248,1,grass,grass_1.00,"green, purple, black, yellow, gray, white","green, purple, black, yellow, gray, white"
+00070007_0253.jpg,143.0,404.999872,388.0,496.0,1,debris,debris_143.00,"black, blue, metal, green, silver, gray","black, blue, metal, green, silver, gray"
+00070007_0253.jpg,456.0,117.99988800000004,531.0,194.99992,1,person,person_456.00,"colorful, green, pink, multi colored, small, blue","colorful, green, pink, multi colored, small, blue"
+00070007_0253.jpg,680.0,286.999984,721.0,350.999856,1,debris,debris_680.00,"yellow, pink, small, black, square, framed","yellow, pink, small, black, square, framed"
+00070007_0253.jpg,73.0,38.000048,761.0,145.000144,1,cars,cars_73.00,"pink, purple, metal, white, silver, black","pink, purple, metal, white, silver, black"
+00070007_0253.jpg,386.0,116.99995199999998,714.0,160.00017599999998,1,road,road_386.00,"pink, colorful, metal, purple, green, multi colored","pink, colorful, metal, purple, green, multi colored"
+00070007_0253.jpg,105.00000000000006,1.0001839999999973,800.0,85.00026399999999,1,trees,trees_105.00,"pink, purple, green, white, colorful, large","pink, purple, green, white, colorful, large"

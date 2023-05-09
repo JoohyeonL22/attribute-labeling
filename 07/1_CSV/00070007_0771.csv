@@ -1,0 +1,10 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0771.jpg,1606.0,1655.001516,4000.0,2100.001134,1,boat,boat_1606.00,"['black', 'long', 'white', 'yellow', 'gray', 'wooden']"
+00070007_0771.jpg,2093.0,102.0007485,3348.0,1467.0006855,1,building,building_2093.00,"['brick', 'brown', 'large', 'tall', 'red', 'old']"
+00070007_0771.jpg,154.0,1101.999066,805.0,2316.998922,1,man,man_154.00,"['skiing', 'standing', 'yellow', 'young', 'wearing', 'purple']"
+00070007_0771.jpg,1582.0,1063.0008585,2144.0,2319.0005055,1,man,man_1582.00,"['standing', 'yellow', 'skiing', 'walking', 'black', 'wearing']"
+00070007_0771.jpg,3185.0,1195.9988145000002,3748.0,1756.9995975000002,1,man,man_3185.00,"['sitting', 'green', 'yellow', 'blue', 'white', 'riding']"
+00070007_0771.jpg,587.0,1591.9989749999995,1712.0,1853.999721,1,rope,rope_587.00,"['white', 'long', 'black', 'red', 'tennis', 'yellow']"
+00070007_0771.jpg,1.0,0.9987915000000384,2294.0,1304.9991045000002,1,trees,trees_1.00,"['bare', 'leafless', 'tall', 'brown', 'large', 'white']"
+00070007_0771.jpg,1.0000000000002274,1338.0005625,4000.0,2667.0013335,1,water,water_1.00,"['wet', 'gray', 'black', 'calm', 'green', 'clear']"
+00070007_0771.jpg,2952.0,1312.9987709999998,3325.0,1765.9993889999998,1,man,man_2952.00,"['yellow', 'blue', 'green', 'sitting', 'colorful', 'red']"

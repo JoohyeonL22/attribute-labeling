@@ -1,0 +1,12 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0610.jpg,1177.000704,762.000225,1443.000576,922.000275,1,broom,broom_1177.00,"green, blue, metal, colorful, wooden, long","green, blue, metal, colorful, wooden, long"
+00070007_0610.jpg,1.0007040000000416,483.0,1536.000768,1050.0,1,road,road_1.00,"wet, gray, black, white, concrete, empty","wet, gray, black, white, concrete, empty"
+00070007_0610.jpg,274.000896,112.99942499999996,1530.000384,571.9995749999999,1,trees,trees_274.00,"green, orange, tall, blue, white, yellow","green, orange, tall, blue, white, yellow"
+00070007_0610.jpg,153.99936,477.0003,339.999744,665.0007,1,truck,truck_154.00,"white, green, black, orange, large, gray","white, green, black, orange, large, gray"
+00070007_0610.jpg,366.000384,449.9995500000001,1319.000832,811.9996500000001,1,truck,truck_366.00,"black, white, yellow, gray, metal, orange","black, white, yellow, gray, metal, orange"
+00070007_0610.jpg,1158.999552,648.99975,1293.0001920000002,926.00025,1,person,person_1159.00,"standing, walking, blue, skiing, yellow, green","standing, walking, blue, skiing, yellow, green"
+00070007_0610.jpg,0.9991680000000044,544.0002749999999,68.999424,620.000325,1,car,car_1.00,"green, red, white, parked, yellow, black","green, red, white, parked, yellow, black"
+00070007_0610.jpg,0.9991679999999992,619.9997999999999,18.999552,719.9997,1,car,car_1.00,"green, yellow, black, hanging, colorful, white","green, yellow, black, hanging, colorful, white"
+00070007_0610.jpg,143.999232,529.9995749999999,163.999488,563.999625,1,car,car_144.00,"red, traffic, black, white, hanging, pink","red, traffic, black, white, hanging, pink"
+00070007_0610.jpg,133.999872,521.000025,148.000512,534.999675,1,car,car_134.00,"red, pink, green, white, orange, black","red, pink, green, white, orange, black"
+00070007_0610.jpg,1.000703999999999,491.000475,129.00019200000003,546.000525,1,cars,cars_1.00,"green, large, blue, yellow, colorful, white","green, large, blue, yellow, colorful, white"

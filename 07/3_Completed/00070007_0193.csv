@@ -1,0 +1,11 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0193.jpg,162,190.9998,498,373.9998,1,bus,bus_162.00,"yellow, parked, large, tan, white, black","yellow, large"
+00070007_0193.jpg,552,202.9998,697,589.9998,1,man,man_552.00,"standing, walking, smiling, wearing, young, looking","walking, wearing"
+00070007_0193.jpg,695,189.0003,800,548.0001,1,firefighter,firefighter_695.00,"standing, walking, black, smiling, young, wearing","standing, black"
+00070007_0193.jpg,1,194.0001,725,600.0003,1,road,road_1.00,"gray, black, paved, wet, asphalt, concrete",paved
+00070007_0193.jpg,498,45,734,204,1,trees,trees_498.00,"tall, red, green, orange, large, blue",green
+00070007_0193.jpg,1,1.0002,589,370.0002,1,trees,trees_1.00,"bare, leafless, tall, brown, green, large","bare, leafless"
+00070007_0193.jpg,490,243,520,309,1,firefighter,firefighter_490.00,"green, walking, standing, blue, white, metal","green, standing"
+00070007_0193.jpg,741,265.9998,800,301.9998,1,firefighter,firefighter_741.00,"black, orange, gray, red, white, large",red
+00070007_0193.jpg,610,198,690,291,1,fire truck,fire truck_610.00,"yellow, black, orange, colorful, red, white",red
+00070007_0193.jpg,190,115.9998,469,202.9998,1,building,building_190.00,"tall, bare, brown, large, green, leafless","brown, large"

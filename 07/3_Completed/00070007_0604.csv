@@ -1,0 +1,10 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0604.jpg,218.00032,192.00024,364.00032,340.00008,1,junk vehicle,junk vehicle_218.00,"black, purple, white, pink, blue, open",black
+00070007_0604.jpg,64.00031999999999,211.00008,127.0,292.99992,1,junk vehicle,junk vehicle_64.00,"purple, sitting, pink, black, open, green",
+00070007_0604.jpg,504.99968,162.99983999999998,640.0,294.99983999999995,1,fire,fire_505.00,"green, red, large, orange, blurry, brown","red, large"
+00070007_0604.jpg,53.0,10.000079999999985,67.0,246.00024,1,pole,pole_53.00,"yellow, tall, metal, long, gold, silver","metal, long"
+00070007_0604.jpg,277.00032,1.000079999999997,637.00032,235.99992,1,smoke,smoke_277.00,"white, blue, dark, gray, cloudy, black","dark, gray"
+00070007_0604.jpg,292.0,214.00008,488.0,400.99992,1,junk vehicle,junk vehicle_292.00,"black, white, orange, red, double decker, parked",white
+00070007_0604.jpg,3.999999999999986,257.00016,227.00032,332.00016,1,debris,debris_4.00,"green, metal, black, white, silver, pink","metal, black"
+00070007_0604.jpg,99.0,427.00008,292.00032,480.00024,1,debris,debris_99.00,"green, metal, black, white, gray, silver","metal, black"
+00070007_0604.jpg,2.000319999999988,270.0,620.00032,480.0,1,road,road_2.00,"black, wet, gray, green, dark, empty","wet, gray"

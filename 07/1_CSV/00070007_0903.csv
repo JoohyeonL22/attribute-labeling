@@ -1,0 +1,10 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0903.jpg,1.0003124999999995,368.0,88.0002915,505.0,1,firefighter,firefighter_1.00,"['standing', 'walking', 'sitting', 'pink', 'brown', 'purple']"
+00070007_0903.jpg,149.000148,408.0,352.999878,657.0,1,firefighter,firefighter_149.00,"['black', 'sitting', 'standing', 'brown', 'red', 'white']"
+00070007_0903.jpg,383.0001835,338.0,524.9997445,656.0,1,firefighter,firefighter_383.00,"['standing', 'green', 'walking', 'black', 'old', 'wearing']"
+00070007_0903.jpg,1.0003125000000637,1.0,1067.0005335,597.0,1,trees,trees_1.00,"['bare', 'white', 'pink', 'brown', 'tall', 'black']"
+00070007_0903.jpg,687.9999995000001,453.0,1066.9994665,731.0,1,fire,fire_688.00,"['orange', 'yellow', 'large', 'dead', 'colorful', 'wooden']"
+00070007_0903.jpg,275.999823,550.0,396.99975699999993,600.0,1,chainsaw,chainsaw_276.00,"['sitting', 'blue', 'watching', 'white', 'standing', 'large']"
+00070007_0903.jpg,1.0003125000000068,474.0,431.0002455,636.0,1,log,log_1.00,"['red', 'metal', 'pink', 'gray', 'white', 'brown']"
+00070007_0903.jpg,1.0003125000000068,706.0,514.0000415,799.0,1,log,log_1.00,"['red', 'brown', 'white', 'gray', 'metal', 'dead']"
+00070007_0903.jpg,6.999519999999961,1.0000000000000284,1067.0,503.0,1,smoke,smoke_7.00,"['bare', 'white', 'tall', 'pink', 'leafless', 'brown']"

@@ -1,0 +1,6 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0740.jpg,26.000327,233.00021199999995,374.000153,554.0,1,firefighter,firefighter_26.00,"black, red, sitting, metal, white, brown","black, red"
+00070007_0740.jpg,488.99979800000006,131.99964100000005,661.9994140000001,492.9998910000001,1,firefighter,firefighter_489.00,"standing, green, yellow, white, black, sitting","standing, black"
+00070007_0740.jpg,40.00004799999999,92.00001,843.00042,553.00003,1,trailer,trailer_40.00,"white, black, blue, glass, metal, large","white, metal"
+00070007_0740.jpg,462.999964,176.999953,865.000052,553.999723,1,hose,hose_463.00,"green, white, black, metal, glass, blue",
+00070007_0740.jpg,725.9996879999999,92.99970300000004,986.0,550.999813,1,building,building_726.00,"black, brown, dark, tall, large, gray","dark, gray"

@@ -1,0 +1,12 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0112.jpg,700.000329,344.00004099999995,1240.999611,750.9997109999999,1,bus,bus_700.00,"white, yellow, large, black, parked, big","white, yellow, large, black, parked, big"
+00070007_0112.jpg,1255.999992,526.999438,1352.0004359999998,790.9994260000001,1,man,man_1256.00,"yellow, standing, purple, pink, green, colorful","yellow, standing, purple, pink, green, colorful"
+00070007_0112.jpg,235.999845,413.999698,422.999775,1043.999726,1,man,man_236.00,"standing, yellow, walking, black, gray, skiing","standing, yellow, walking, black, gray, skiing"
+00070007_0112.jpg,359.00031,377.000351,490.999674,970.000409,1,man,man_359.00,"standing, blue, yellow, walking, skiing, green","standing, blue, yellow, walking, skiing, green"
+00070007_0112.jpg,641.00016,612.000312,731.0007840000001,686.0002519999999,1,man,man_641.00,"green, sitting, standing, small, walking, brown","green, sitting, standing, small, walking, brown"
+00070007_0112.jpg,1.0005240000000413,681.9993460000001,1662.0,1244.999462,1,road,road_1.00,"gray, black, paved, dirt, brown, concrete","gray, black, paved, dirt, brown, concrete"
+00070007_0112.jpg,335.99989199999993,0.9999149999999872,1662.0,541.000117,1,trees,trees_336.00,"bare, white, tall, leafless, cloudy, blue","bare, white, tall, leafless, cloudy, blue"
+00070007_0112.jpg,1.0005240000000128,245.999649,335.99989200000005,782.9994829999999,1,truck,truck_1.00,"red, white, large, double decker, parked, green","red, white, large, double decker, parked, green"
+00070007_0112.jpg,1.0005240000000128,30.99923400000003,243.00102,311.999646,1,tree,tree_1.00,"bare, leafless, green, tall, large, white","bare, leafless, green, tall, large, white"
+00070007_0112.jpg,1329.999711,666.000706,1363.999245,793.0005020000001,1,person,person_1330.00,"yellow, metal, green, wooden, blue, black","yellow, metal, green, wooden, blue, black"
+00070007_0112.jpg,1216.9995,592.0001430000001,1285.999092,773.999625,1,man,man_1217.00,"pink, purple, red, metal, black, green","pink, purple, red, metal, black, green"

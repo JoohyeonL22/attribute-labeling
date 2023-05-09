@@ -1,0 +1,6 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0055.jpg,371.000097,33.9999425,414.000207,153.9998355,1,bus,bus_371.00,"glass, large, brown, open, wooden, metal",metal
+00070007_0055.jpg,1.0000169999999855,0.9999195000000008,414.0002070000001,32.999906499999994,1,ceiling,ceiling_1.00,"purple, pink, white, blue, metal, red",
+00070007_0055.jpg,16.999875000000003,1.0000359999999944,358.99989300000004,233.0,1,bus,bus_17.00,"blue, yellow, white, purple, black, metal","yellow, metal"
+00070007_0055.jpg,328.999797,91.000014,356.999859,130.00002,1,man,man_329.00,"green, black, dark, glass, open, large",black
+00070007_0055.jpg,318.00002400000005,137.9999585,414.0,232.9998835,1,floor,floor_318.00,"blue, brown, gray, wooden, metal, tiled","brown, gray"

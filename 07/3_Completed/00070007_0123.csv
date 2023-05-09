@@ -1,0 +1,11 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0123.jpg,332.000046,254.000142,372.00021,268.000082,1,debris,debris_332.00,"pink, purple, small, white, black, square","small, black"
+00070007_0123.jpg,1.000168500000001,0.9999540000000025,281.0000835,160.999894,1,building,building_1.00,"red, double decker, yellow, orange, brick, pink","red, brick"
+00070007_0123.jpg,11.999761500000004,26.999925999999974,230.9998785,250.999842,1,bus,bus_12.00,"double decker, yellow, red, orange, black, parked",yellow
+00070007_0123.jpg,137.0000685,93.99991,411.0002055,253.000042,1,suv,suv_137.00,"black, parked, gray, silver, red, white",gray
+00070007_0123.jpg,396.000144,203.000006,411.0,271.00009,1,cone,cone_396.00,"pink, purple, orange, white, metal, colorful",orange
+00070007_0123.jpg,204.0000555,73.999808,401.0001645,109.99990400000002,1,fence,fence_204.00,"yellow, glass, clear, metal, white, black",yellow
+00070007_0123.jpg,1.0001684999999991,182.000096,22.0002135,237.000048,1,fire hydrant,fire hydrant_1.00,"black, green, red, glass, small, large","black, small"
+00070007_0123.jpg,1.000168500000001,216.999946,411.0002055,291.999854,1,road,road_1.00,"gray, concrete, paved, black, yellow, cement","gray, paved"
+00070007_0123.jpg,262.00017,0.9999539999999952,411.0,69.00003799999999,1,building,building_262.00,"white, tall, green, large, gray, brick","white, gray"
+00070007_0123.jpg,45.999942,2.0000540000000058,143.00005199999998,73.000146,1,tree,tree_46.00,"green, leafy, red, large, small, tall","green, leafy"

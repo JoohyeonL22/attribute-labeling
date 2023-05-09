@@ -1,0 +1,10 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0698.jpg,431.0001000000001,1.000047500000008,600.0003,121.0000185,1,building,building_431.00,"yellow, blue, gray, white, large, metal","gray, large"
+00070007_0698.jpg,192.9999,25.999886999999973,263.9997,242.000037,1,man,man_193.00,"blue, green, yellow, standing, sitting, metal","yellow, standing"
+00070007_0698.jpg,376.0002,51.99994249999999,553.0002,249.9999115,1,man,man_376.00,"yellow, black, blue, sitting, purple, metal",black
+00070007_0698.jpg,67.9998,48.00008949999999,232.9998,279.9999885,1,man,man_68.00,"standing, young, walking, blue, white, looking","standing, white"
+00070007_0698.jpg,0.9999000000000038,82.99989849999999,83.0001,177.9998615,1,sign,sign_1.00,"green, yellow, glass, white, metal, black","metal, black"
+00070007_0698.jpg,2.000100000000017,2.9999740000000017,198.0003,83.999946,1,umbrella,umbrella_2.00,"green, white, blue, black, gray, clear","black, gray"
+00070007_0698.jpg,0.9998999999999684,117.999876,599.9997000000001,337.0,1,water,water_1.00,"wet, yellow, black, gray, blue, dark","wet, gray"
+00070007_0698.jpg,216.9999,23.99996050000001,482.9997,274.99991950000003,1,vehicle,vehicle_217.00,"black, yellow, blue, double decker, green, moving",yellow
+00070007_0698.jpg,405.9999,92.0001575,470.0001,184.00014650000003,1,man,man_406.00,"purple, pink, open, black, small, white",

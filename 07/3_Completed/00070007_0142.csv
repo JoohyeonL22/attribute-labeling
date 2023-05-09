@@ -1,0 +1,7 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0142.jpg,240.0,151.00019999999995,1280.0,593.00028,1,bus,bus_240.00,"yellow, black, white, moving, parked, green",yellow
+00070007_0142.jpg,1.0003200000001016,493.99956,1280.00064,613.9998,1,road,road_1.00,"yellow, metal, black, empty, train, gray",gray
+00070007_0142.jpg,501.99936,326.00016000000005,557.99936,391.00032,1,sign,sign_502.00,"red, white, stop, round, large, octagonal","red, stop"
+00070007_0142.jpg,0.9996799999999552,1.0000799999999683,933.99936,554.9997599999999,1,tree,tree_1.00,"green, yellow, black, white, tall, brown","green, brown"
+00070007_0142.jpg,806.0006400000001,1.000079999999997,1280.0,349.99992,1,tree,tree_806.00,"green, tall, large, white, blue, brown",green
+00070007_0142.jpg,1.0003200000001016,549.0,1280.00064,717.99984,1,grass,grass_1.00,"green, yellow, grassy, short, long, tall","green, grassy"

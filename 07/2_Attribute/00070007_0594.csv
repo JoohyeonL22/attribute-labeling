@@ -1,0 +1,5 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0594.jpg,1.0,164.999933,305.0,265.999867,1,debris,debris_1.00,"purple, wooden, brown, metal, pink, white","purple, wooden, brown, metal, pink, white"
+00070007_0594.jpg,1.0,0.9998939999999834,308.0,223.99993,1,building,building_1.00,"pink, brown, brick, red, purple, white","pink, brown, brick, red, purple, white"
+00070007_0594.jpg,40.0,23.999983000000007,181.0,139.000029,1,car,car_40.00,"white, parked, black, old, silver, open","white, parked, black, old, silver, open"
+00070007_0594.jpg,39.0,138.99989599999998,323.0,266.0,1,man,man_39.00,"purple, metal, pink, white, silver, wooden","purple, metal, pink, white, silver, wooden"

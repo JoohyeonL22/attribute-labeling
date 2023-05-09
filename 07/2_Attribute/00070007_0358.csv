@@ -1,0 +1,11 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0358.jpg,36.99968000000001,223.000153,618.999296,584.999845,1,car,car_37.00,"red, black, large, parked, blue, big","red, black, large, parked, blue, big"
+00070007_0358.jpg,789.000192,138.9998655,871.0000640000001,227.0001045,1,car,car_789.00,"red, pink, small, black, white, purple","red, pink, small, black, white, purple"
+00070007_0358.jpg,399.000064,355.000185,525.000192,586.000241,1,police,police_399.00,"standing, blue, red, walking, black, wearing","standing, blue, red, walking, black, wearing"
+00070007_0358.jpg,687.0000640000001,311.9998085000001,813.000192,606.9997415,1,police,police_687.00,"standing, walking, black, wearing, watching, green","standing, walking, black, wearing, watching, green"
+00070007_0358.jpg,789.000192,283.00007850000003,920.000512,628.0002215,1,man,man_789.00,"standing, walking, black, blue, green, wearing","standing, walking, black, blue, green, wearing"
+00070007_0358.jpg,888.0005120000001,308.0001835,992.0,600.0002345,1,police,police_888.00,"standing, black, walking, blue, skiing, wearing","standing, black, walking, blue, skiing, wearing"
+00070007_0358.jpg,256.000512,5.000021000000004,315.00032,238.999959,1,tree,tree_256.00,"green, tall, large, white, glass, small","green, tall, large, white, glass, small"
+00070007_0358.jpg,0.999936000000048,582.0002895,1023.999488,653.0003265,1,road,road_1.00,"gray, concrete, paved, wet, yellow, cement","gray, concrete, paved, wet, yellow, cement"
+00070007_0358.jpg,0.9994239999999976,152.000116,78.999552,264.000064,1,truck,truck_1.00,"green, black, blue, white, silver, digital","green, black, blue, white, silver, digital"
+00070007_0358.jpg,277.99961599999995,208.999833,654.000128,247.999605,1,road,road_278.00,"red, blue, black, white, long, metal","red, blue, black, white, long, metal"

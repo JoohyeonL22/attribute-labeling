@@ -1,0 +1,5 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0438.jpg,148.99999999999997,70.00022249999998,622.0,382.0001775,1,car,car_149.00,"black, white, large, snow-covered, covered, big","black, white, large, snow-covered, covered, big"
+00070007_0438.jpg,1.0,4.0002675,77.0,59.0003325,1,sign,sign_1.00,"green, white, black, brown, metal, street","green, white, black, brown, metal, street"
+00070007_0438.jpg,1.0,0.9999899999999684,800.0,615.0,1,snow,snow_1.00,"white, snow-covered, snowy, covered, large, thick","white, snow-covered, snowy, covered, large, thick"
+00070007_0438.jpg,31.0,3.9999599999999873,45.0,222.00024,1,pole,pole_31.00,"wooden, metal, brown, silver, wood, tall","wooden, metal, brown, silver, wood, tall"

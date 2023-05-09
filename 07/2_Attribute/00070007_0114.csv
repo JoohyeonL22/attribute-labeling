@@ -1,0 +1,11 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0114.jpg,530.0001800000001,140.99992500000002,603.00022,329.999835,1,man,man_530.00,"pink, purple, standing, red, orange, young","pink, purple, standing, red, orange, young"
+00070007_0114.jpg,259.9997900000001,175.000155,404.99981,330.00016500000004,1,man,man_260.00,"orange, red, white, sitting, young, smiling","orange, red, white, sitting, young, smiling"
+00070007_0114.jpg,419.99978,137.00016,525.99994,330.0,1,man,man_420.00,"young, smiling, orange, standing, red, looking","young, smiling, orange, standing, red, looking"
+00070007_0114.jpg,472.00011,36.999930000000006,539.00041,108.99999,1,man,man_472.00,"orange, sitting, blue, white, black, red","orange, sitting, blue, white, black, red"
+00070007_0114.jpg,469.99999,1.0000650000000064,619.9996900000001,136.000095,1,tree,tree_470.00,"green, orange, large, tall, red, brown","green, orange, large, tall, red, brown"
+00070007_0114.jpg,460.00001,175.000155,527.99975,330.00016500000004,1,man,man_460.00,"orange, red, young, pink, smiling, little","orange, red, young, pink, smiling, little"
+00070007_0114.jpg,563.99974,195.00013500000003,618.9999399999999,330.00016500000004,1,man,man_564.00,"pink, purple, black, gray, red, orange","pink, purple, black, gray, red, orange"
+00070007_0114.jpg,366.9997,42.99999,450.99978,142.99989000000002,1,man,man_367.00,"sitting, blue, yellow, watching, standing, white","sitting, blue, yellow, watching, standing, white"
+00070007_0114.jpg,344.00018,1.999965000000003,415.0001,130.999935,1,person,person_344.00,"yellow, blue, sitting, white, standing, large","yellow, blue, sitting, white, standing, large"
+00070007_0114.jpg,6.999799999999993,1.0000650000000064,438.99968,328.999935,1,debris,debris_7.00,"white, red, yellow, black, brown, gray","white, red, yellow, black, brown, gray"

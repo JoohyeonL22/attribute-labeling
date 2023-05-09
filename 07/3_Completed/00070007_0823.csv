@@ -1,0 +1,14 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0823.jpg,1025.000928,1.000188,1982.00016,413.000532,1,building,building_1025.00,"green, white, large, tall, gray, brown",brown
+00070007_0823.jpg,0.998928,0.999432,1024.99992,588.000168,1,building,building_1.00,"brown, green, large, brick, stone, tall","brown, brick"
+00070007_0823.jpg,348.998832,508.000248,556.999632,598.000536,1,car,car_349.00,"white, parked, silver, small, large, driving","white, small"
+00070007_0823.jpg,409.000032,469.999908,1154.000736,1004.000508,1,car,car_409.00,"red, parked, maroon, double decker, black, moving",red
+00070007_0823.jpg,566.000064,1014.00012,882.999936,1479.0006,1,fire hydrant,fire hydrant_566.00,"green, old, black, sitting, gray, large",black
+00070007_0823.jpg,1392.999552,318.999492,1642.99968,632.000124,1,people,people_1393.00,"standing, sitting, watching, looking, walking, wearing","standing, watching"
+00070007_0823.jpg,1705.99968,304.999884,2015.000064,610.999956,1,people,people_1706.00,"purple, standing, watching, pink, sitting, blue","standing, watching"
+00070007_0823.jpg,362.000016,792.00072,2016.001008,1298.000592,1,tape,tape_362.00,"yellow, gray, white, brown, green, black",yellow
+00070007_0823.jpg,1.000944,148.999284,1748.000016,877.9995,1,tree,tree_1.00,"green, gray, black, large, brown, long","green, brown"
+00070007_0823.jpg,1.000944,658.999908,1359.00072,1511.999244,1,road,road_1.00,"gray, wet, paved, concrete, black, green","gray, paved"
+00070007_0823.jpg,939.000384,764.000748,2016,1512.000756,1,sidewalk,sidewalk_939.00,"yellow, gray, black, metal, brown, wet","gray, brown"
+00070007_0823.jpg,1197.001008,391.000176,1305.000144,777.9996,1,man,man_1197.00,"green, black, standing, metal, blue, gray","black, standing"
+00070007_0823.jpg,0.998928,423.000144,83.999664,769.000176,1,man,man_1.00,"standing, walking, blue, sitting, watching, young","standing, blue"

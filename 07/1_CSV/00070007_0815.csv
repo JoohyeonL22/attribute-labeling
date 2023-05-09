@@ -1,0 +1,5 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0815.jpg,397.0008959999998,790.000848,3458.001216,2564.00136,1,motorbike,motorbike_397.00,"['red', 'black', 'green', 'old', 'purple', 'brown']"
+00070007_0815.jpg,0.9995519999999942,1.0000079999999798,3648.0,2736.001368,1,trees,trees_1.00,"['green', 'brown', 'tall', 'dry', 'dead', 'black']"
+00070007_0815.jpg,8.000064000000066,761.999256,2888.001216,2735.998632,1,grass,grass_8.00,"['green', 'tall', 'brown', 'red', 'black', 'yellow']"
+00070007_0815.jpg,2010.998304,1.99864800000006,3647.998176000001,839.9998800000001,1,grass,grass_2011.00,"['green', 'brown', 'bare', 'tall', 'leafless', 'large']"

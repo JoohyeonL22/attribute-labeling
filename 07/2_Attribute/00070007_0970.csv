@@ -1,0 +1,6 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0970.jpg,1413.0,824.00004,1565.0006400000002,1061.99964,1,barrel,barrel_1413.00,"blue, striped, colorful, red, orange, multi colored","blue, striped, colorful, red, orange, multi colored"
+00070007_0970.jpg,870.0009600000001,360.00018,1505.00064,772.99974,1,van,van_870.00,"white, silver, blue, black, large, parked","white, silver, blue, black, large, parked"
+00070007_0970.jpg,0.999360000000138,1.0000800000000254,1919.99904,1080.0,1,water,water_1.00,"gray, white, wet, tan, brown, dark","gray, white, wet, tan, brown, dark"
+00070007_0970.jpg,1.000320000000002,42.00012000000001,130.99968,170.99964,1,debris,debris_1.00,"red, pink, black, purple, white, colorful","red, pink, black, purple, white, colorful"
+00070007_0970.jpg,513.9993599999999,166.00032,779.9999999999999,218.00016,1,car,car_514.00,"green, colorful, multi colored, blue, rainbow colored, white","green, colorful, multi colored, blue, rainbow colored, white"

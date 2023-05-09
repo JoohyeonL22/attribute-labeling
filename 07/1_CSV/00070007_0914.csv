@@ -1,0 +1,12 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0914.jpg,295.000064,153.99974399999996,458.000384,282.0,1,ambulance,ambulance_295.00,"['white', 'large', 'red', 'double decker', 'blue', 'colorful']"
+00070007_0914.jpg,103.000576,158.000256,262.000128,291.000192,1,ambulance,ambulance_103.00,"['white', 'yellow', 'parked', 'red', 'large', 'double decker']"
+00070007_0914.jpg,0.999936000000048,1.000319999999988,1023.999488,156.000384,1,bridge,bridge_1.00,"['gray', 'concrete', 'yellow', 'white', 'black', 'metal']"
+00070007_0914.jpg,210.000384,121.99987199999998,863.0000640000001,482.999808,1,car,car_210.00,"['black', 'yellow', 'parked', 'gray', 'large', 'old']"
+00070007_0914.jpg,576.000512,2.000256000000004,735.000064,36.000384,1,car,car_576.00,"['yellow', 'white', 'metal', 'large', 'gray', 'empty']"
+00070007_0914.jpg,75.00032,199.999488,102.000128,290.999808,1,people,people_75.00,"['blue', 'green', 'black', 'open', 'metal', 'white']"
+00070007_0914.jpg,885.0001920000001,198.0,931.00032,282.0,1,man,man_885.00,"['standing', 'green', 'walking', 'yellow', 'blue', 'sitting']"
+00070007_0914.jpg,0.999936000000048,265.9998720000001,1023.999488,768.0,1,road,road_1.00,"['gray', 'paved', 'black', 'yellow', 'asphalt', 'wet']"
+00070007_0914.jpg,663.000576,447.000192,726.000128,511.999872,1,debris,debris_663.00,"['purple', 'pink', 'metal', 'small', 'black', 'white']"
+00070007_0914.jpg,456.000512,198.999552,506.000384,241.999872,1,truck,truck_456.00,"['yellow', 'green', 'wooden', 'brown', 'small', 'empty']"
+00070007_0914.jpg,262.999552,198.0,296.0,262.99968,1,people,people_263.00,"['purple', 'pink', 'standing', 'black', 'small', 'colorful']"

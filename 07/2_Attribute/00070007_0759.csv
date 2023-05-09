@@ -1,0 +1,6 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0759.jpg,688.000929,530.000082,1051.000463,703.000174,1,car,car_688.00,"silver, green, white, gray, large, blue","silver, green, white, gray, large, blue"
+00070007_0759.jpg,1.0004389999999717,23.999630000000025,433.001125,948.999458,1,tree,tree_1.00,"green, tall, leafy, large, brown, dark","green, tall, leafy, large, brown, dark"
+00070007_0759.jpg,860.9991719999999,0.999715999999978,1766.0,921.999508,1,tree,tree_861.00,"green, large, tall, brown, dark, black","green, large, tall, brown, dark, black"
+00070007_0759.jpg,304.999679,1.000302000000033,1765.9991169999998,689.000634,1,trees,trees_305.00,"green, tall, large, dark, leafy, brown","green, tall, large, dark, leafy, brown"
+00070007_0759.jpg,0.9995560000000978,576.999626,1766.0,1171.999414,1,water,water_1.00,"brown, wet, calm, large, dirty, green","brown, wet, calm, large, dirty, green"

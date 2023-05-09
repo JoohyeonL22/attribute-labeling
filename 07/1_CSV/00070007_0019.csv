@@ -1,0 +1,8 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0019.jpg,0.999750000000006,1.0002719999999954,513.99975,336.999936,1,building,building_1.00,"['white', 'pink', 'blue', 'brown', 'large', 'purple']"
+00070007_0019.jpg,498.0,1.0002720000000522,750.0,708.0003839999999,1,bus,bus_498.00,"['blue', 'white', 'parked', 'black', 'large', 'double decker']"
+00070007_0019.jpg,0.9997499999999916,280.000084,153.99975,503.000316,1,car,car_1.00,"['green', 'black', 'blue', 'gray', 'parked', 'dark']"
+00070007_0019.jpg,105.99974999999998,199.9998,519.9997500000001,563.9998,1,suv,suv_106.00,"['blue', 'black', 'green', 'red', 'gray', 'colorful']"
+00070007_0019.jpg,0.9997499999999988,368.999904,39.99975,518.999936,1,car,car_1.00,"['green', 'orange', 'gray', 'white', 'black', 'yellow']"
+00070007_0019.jpg,2.9996249999999804,463.9999,724.999875,727.999636,1,snow,snow_3.00,"['gray', 'white', 'black', 'yellow', 'blue', 'dirty']"
+00070007_0019.jpg,1.000124999999997,537.0001,316.999875,725.99982,1,road,road_1.00,"['black', 'yellow', 'blue', 'white', 'gray', 'metal']"

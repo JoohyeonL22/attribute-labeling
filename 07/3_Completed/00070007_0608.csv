@@ -1,0 +1,14 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0608.jpg,949.9996,311.99973750000004,979.0,333.0001125,1,car,car_950.00,"red, green, white, blue, small, yellow",white
+00070007_0608.jpg,976.0003,314.99985,1020.0003,345.00015,1,car,car_976.00,"blue, purple, white, red, small, parked","white, parked"
+00070007_0608.jpg,856.0002,326.0003999999999,1100.0,825.0,1,road,road_856.00,"gray, green, dirt, paved, gravel, concrete","gray, paved"
+00070007_0608.jpg,73.0004,568.000125,286.0,649.0002750000001,1,sign,sign_73.00,"blue, white, red, round, circular, yellow","blue, round"
+00070007_0608.jpg,1037.0002499999998,263.0001,1098.00075,327.00030000000004,1,trees,trees_1037.00,"green, small, large, leafy, tall, brown","green, leafy"
+00070007_0608.jpg,104.00005,125.0002875,169.00015000000002,263.0005125,1,tree,tree_104.00,"green, white, red, black, tall, street","green, street"
+00070007_0608.jpg,208.00065,165.0,255.00035000000003,265.9998,1,tree,tree_208.00,"yellow, green, white, colorful, black, blue",green
+00070007_0608.jpg,336.00050000000005,230.9995875,637.0001,284.9999625,1,trees,trees_336.00,"green, yellow, tall, small, leafy, large","green, leafy"
+00070007_0608.jpg,777.99975,198.9999,1022.99945,316.99965,1,trees,trees_778.00,"green, tall, white, large, blue, metal",green
+00070007_0608.jpg,124.99960000000004,231.9999,892.9998,594.0,1,truck,truck_125.00,"red, black, metal, brown, small, green","red, metal"
+00070007_0608.jpg,0.9998999999999684,223.0003875,968.9999,694.0003125,1,field,field_1.00,"green, metal, long, red, white, blue",green
+00070007_0608.jpg,1019.0004,313.00005000000004,1061.0006,329.00010000000003,1,cars,cars_1019.00,"pink, purple, white, red, parked, small","white, small"
+00070007_0608.jpg,924.00055,315.0002625,949.00025,342.9999375,1,people,people_924.00,"red, pink, small, white, green, orange",

@@ -1,0 +1,8 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0155.jpg,59.00064000000001,264.00024,82.00032000000002,446.0004,1,pole,pole_59.00,"['blue', 'green', 'tall', 'metal', 'white', 'silver']"
+00070007_0155.jpg,1.000319999999988,468.00036,960.0,503.00028,1,road,road_1.00,"['yellow', 'white', 'gray', 'long', 'painted', 'black']"
+00070007_0155.jpg,244.00032,266.0004,556.00032,334.00008,1,smoke,smoke_244.00,"['purple', 'pink', 'white', 'blue', 'green', 'black']"
+00070007_0155.jpg,640.9996799999999,71.99999999999997,960.0,468.0,1,smoke,smoke_641.00,"['black', 'gray', 'large', 'green', 'stuffed', 'dark']"
+00070007_0155.jpg,132.99984,318.00024,627.99984,464.0004,1,bus,bus_133.00,"['purple', 'white', 'pink', 'large', 'double decker', 'black']"
+00070007_0155.jpg,0.9998399999999776,295.99992,260.99952,446.99976,1,trees,trees_1.00,"['purple', 'pink', 'green', 'red', 'tall', 'large']"
+00070007_0155.jpg,464.9995199999999,237.99996,768.99984,473.00004,1,fire,fire_465.00,"['yellow', 'orange', 'large', 'bright', 'lit', 'red']"

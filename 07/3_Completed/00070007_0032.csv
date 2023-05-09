@@ -1,0 +1,21 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0032.jpg,73.00035,1.000234,619.00025,72.000096,1,building,building_73.00,"pink, colorful, purple, green, white, multi colored",white
+00070007_0032.jpg,100.00011,1.0000595,322.00041,304.0001145,1,bus,bus_100.00,"yellow, purple, white, pink, colorful, black",yellow
+00070007_0032.jpg,383.00035,44.9998855,453.00021,74.0000405,1,car,car_383.00,"purple, colorful, orange, yellow, white, pink",white
+00070007_0032.jpg,445.00035,43.0001155,564.00005,89.0000605,1,suv,suv_445.00,"green, white, parked, silver, blue, small","white, parked"
+00070007_0032.jpg,9.00023,37.0001075,32.00037,98.0000725,1,man,man_9.00,"green, standing, white, walking, sitting, glass",standing
+00070007_0032.jpg,54.00014,38.9998775,109.00034,96.9998385,1,people,people_54.00,"purple, green, white, pink, colorful, blue",
+00070007_0032.jpg,361.00027,1.0000595,402.00025,27.0002105,1,sign,sign_361.00,"green, white, colorful, blue, small, pink","white, small"
+00070007_0032.jpg,1.00006,1.000234,76.00022,81.000108,1,tree,tree_1.00,"green, white, black, blue, glass, large",green
+00070007_0032.jpg,273.00026,28.0000955,362.00002,71.0000365,1,truck,truck_273.00,"purple, pink, blue, white, red, colorful",white
+00070007_0032.jpg,1.00037,164.999871,618.00019,346.999881,1,water,water_1.00,"yellow, wet, clear, calm, green, brown","yellow, wet"
+00070007_0032.jpg,26.00032,57.000076,53.00008,102.000136,1,man,man_26.00,"green, glass, open, white, blue, standing","blue, standing"
+00070007_0032.jpg,237.99971,30.999925,260.99985,72.999981,1,people,people_238.00,"pink, red, black, white, small, purple",black
+00070007_0032.jpg,255.99986,39.000052,293.99966,72.000096,1,car,car_256.00,"pink, red, small, white, open, black",white
+00070007_0032.jpg,311.00037,48.999949,421.00015,72.999981,1,car,car_311.00,"white, purple, metal, pink, blue, red","white, metal"
+00070007_0032.jpg,303.99964,44.0000005,316.9998,68.9999175,1,person,person_304.00,"blue, small, black, open, glass, red",black
+00070007_0032.jpg,417.00022,41.9998815,437.00018,87.9998265,1,man,man_417.00,"yellow, purple, pink, colorful, orange, wooden",
+00070007_0032.jpg,433.99969,46.99983,445.99979,88.999886,1,person,person_434.00,"purple, pink, colorful, yellow, multi colored, orange",
+00070007_0032.jpg,533.9998,42.9997665,551.99964,83.9999375,1,man,man_534.00,"green, black, metal, sitting, wooden, small",black
+00070007_0032.jpg,580.00008,38.000167,597.99992,88.000001,1,man,man_580.00,"standing, walking, green, blue, sitting, watching","standing, watching"
+00070007_0032.jpg,325.99972,109.999914,595.9998,212.00005,1,rocks,rocks_326.00,"gray, yellow, white, metal, black, silver",gray

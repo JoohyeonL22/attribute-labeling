@@ -1,0 +1,7 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0628.jpg,0.9997549999999932,132.00053999999997,589.999705,307.00022,1,fence,fence_1.00,"metal, green, silver, red, wire, chain link",metal
+00070007_0628.jpg,254.00001500000005,29.000490000000013,377.000265,304.00011,1,man,man_254.00,"standing, walking, looking, black, blue, green","walking, green"
+00070007_0628.jpg,219.99979,581.00009,466.99975,653.0001500000001,1,truck,truck_220.00,"blue, green, black, white, laying, small",
+00070007_0628.jpg,0.9997549999999932,0.9997499999999776,585.000045,275.00005,1,trees,trees_1.00,"green, metal, red, black, tall, silver",green
+00070007_0628.jpg,0.9997549999999932,387.0,589.999705,860.0,1,water,water_1.00,"green, calm, brown, murky, dark, gray","brown, murky"
+00070007_0628.jpg,105.99999,44.00017999999999,195.99977,297.00014,1,woman,woman_106.00,"standing, looking, sitting, walking, smiling, white","standing, looking"

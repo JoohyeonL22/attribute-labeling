@@ -1,0 +1,17 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0287.jpg,173,81.99984,395,195.99984,1,ambulance,ambulance_173.00,"colorful, white, purple, large, pink, multi colored",white
+00070007_0287.jpg,0.99968,50.00016,204,170.00016,1,building,building_1.00,"pink, red, purple, large, orange, brown",red
+00070007_0287.jpg,0.99968,159,60,210,1,car,car_1.00,"green, yellow, colorful, neon, double decker, purple",
+00070007_0287.jpg,1,147,59,177,1,car,car_1.00,"green, white, double decker, pink, large, neon",white
+00070007_0287.jpg,7.99968,180.99984,505.99968,369.99984,1,car,car_8.00,"white, parked, silver, red, gray, black","white, parked"
+00070007_0287.jpg,364,160.00008,640,337.99992,1,car,car_364.00,"parked, black, white, silver, gray, red","parked, white"
+00070007_0287.jpg,97,146.00016,187,200.00016,1,car,car_97.00,"pink, purple, sitting, white, silver, standing",white
+00070007_0287.jpg,103.00032,129.99984,148,231.99984,1,police,police_103.00,"sitting, pink, standing, white, blonde, looking","standing, white"
+00070007_0287.jpg,301,141.00024,390.00032,223.00008,1,police,police_301.00,"sitting, standing, pink, white, walking, wearing","standing, white"
+00070007_0287.jpg,560,66,584,174,1,pole,pole_560.00,"blue, white, red, tall, metal, glass","white, metal"
+00070007_0287.jpg,359,93.99984,561,201.99984,1,truck,truck_359.00,"white, silver, parked, orange, purple, red",white
+00070007_0287.jpg,1,196.99992,639,424.00008,1,road,road_1.00,"white, parked, gray, yellow, silver, red",gray
+00070007_0287.jpg,186,151.00008,221.00032,184.99992,1,man,man_186.00,"sitting, pink, white, green, standing, blonde","white, standing"
+00070007_0287.jpg,146,129.99984,178,147.99984,1,car,car_146.00,"purple, pink, black, white, blue, colorful",white
+00070007_0287.jpg,544.00032,141.99984,567,171.99984,1,car,car_544.00,"red, white, blue, orange, black, small",white
+00070007_0287.jpg,627,150.99984,640.00032,174.99984,1,car,car_627.00,"white, orange, silver, parked, gray, small",white

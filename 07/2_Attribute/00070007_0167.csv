@@ -1,0 +1,11 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0167.jpg,1.0001949999999908,0.999920000000003,410.0002050000001,174.99992,1,bridge,bridge_1.00,"brick, brown, large, stone, red, white","brick, brown, large, stone, red, white"
+00070007_0167.jpg,132.000115,171.000095,240.000265,290.000145,1,man,man_132.00,"sitting, striped, young, looking, white, standing","sitting, striped, young, looking, white, standing"
+00070007_0167.jpg,241.00005,146.000065,268.00019,215.00005500000003,1,man,man_241.00,"purple, pink, colorful, blue, multi colored, wooden","purple, pink, colorful, blue, multi colored, wooden"
+00070007_0167.jpg,298.99988,149.000115,410.0,248.000025,1,people,people_299.00,"green, standing, blue, metal, brown, watching","green, standing, blue, metal, brown, watching"
+00070007_0167.jpg,12.99987,94.00001999999998,254.99991,268.00001999999995,1,bus,bus_13.00,"white, pink, purple, metal, large, colorful","white, pink, purple, metal, large, colorful"
+00070007_0167.jpg,27.999925,205.999905,136.000075,273.999975,1,debris,debris_28.00,"metal, red, pink, white, purple, silver","metal, red, pink, white, purple, silver"
+00070007_0167.jpg,266.00021,153.00008499999998,286.00001000000003,215.000055,1,man,man_266.00,"orange, pink, purple, wooden, open, brown","orange, pink, purple, wooden, open, brown"
+00070007_0167.jpg,274.999915,147.00012999999998,287.999785,184.99999,1,person,person_275.00,"purple, pink, white, small, colorful, blue","purple, pink, white, small, colorful, blue"
+00070007_0167.jpg,1.000194999999998,188.00004,53.000085,289.00008,1,person,person_1.00,"pink, purple, white, red, standing, black","pink, purple, white, red, standing, black"
+00070007_0167.jpg,318.999885,43.99996,350.999975,66.99986,1,vehicle,vehicle_319.00,"white, framed, red, small, wooden, open","white, framed, red, small, wooden, open"

@@ -1,0 +1,12 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0779.jpg,829.0007040000003,794.9988800000001,3387.0015840000005,1916.99888,1,boat,boat_829.00,"green, wooden, blue, brown, long, small","green, wooden, blue, brown, long, small"
+00070007_0779.jpg,2305.000812,766.0009600000001,2722.99916,1319.99968,1,boy,boy_2305.00,"orange, black, sitting, young, small, white","orange, black, sitting, young, small, white"
+00070007_0779.jpg,2394.999136,833.00136,2966.000316,1810.00088,1,boy,boy_2395.00,"sitting, young, little, small, smiling, white","sitting, young, little, small, smiling, white"
+00070007_0779.jpg,2156.001197,475.00040000000007,2754.000251,971.00056,1,man,man_2156.00,"sitting, white, standing, smiling, gray, blue","sitting, white, standing, smiling, gray, blue"
+00070007_0779.jpg,2853.001248,523.0002400000001,3523.999664,1438.00008,1,man,man_2853.00,"sitting, young, smiling, kneeling, old, wearing","sitting, young, smiling, kneeling, old, wearing"
+00070007_0779.jpg,901.001798,1138.0004,2410.99983,1691.00088,1,wood,wood_901.00,"wooden, blue, wood, old, brown, long","wooden, blue, wood, old, brown, long"
+00070007_0779.jpg,833.001892,37.9984,1433.00154,429.99936,1,sign,sign_833.00,"blue, white, large, square, hanging, street","blue, white, large, square, hanging, street"
+00070007_0779.jpg,0.9982679999998254,451.9987200000003,4058.0,2720.0,1,water,water_1.00,"green, brown, calm, murky, dark, clear","green, brown, calm, murky, dark, clear"
+00070007_0779.jpg,3510.999861,370.99984000000006,3958.999003,632.00016,1,people,people_3511.00,"standing, walking, watching, sitting, green, metal","standing, walking, watching, sitting, green, metal"
+00070007_0779.jpg,3103.000425,344.99936,3513.0004550000003,581.9984,1,vehicle,vehicle_3103.00,"yellow, black, colorful, double decker, purple, red","yellow, black, colorful, double decker, purple, red"
+00070007_0779.jpg,4.997427000000016,0.9995999999999868,3328.9985610000003,784.9988000000001,1,building,building_5.00,"pink, brick, red, brown, large, colorful","pink, brick, red, brown, large, colorful"

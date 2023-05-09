@@ -1,0 +1,6 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0539.jpg,1.0004939999999465,1.0002125000000035,1023.0,239.0001875,1,building,building_1.00,"white, gray, large, red, tall, brown",white
+00070007_0539.jpg,445.0003965,136.00015000000002,654.0003195,412.00015,1,man,man_445.00,"green, red, blue, standing, sitting, riding","blue, standing"
+00070007_0539.jpg,374.9995755000001,110.0000875,1022.9994885,422.0002625,1,truck,truck_375.00,"red, black, white, parked, green, moving","red, parked"
+00070007_0539.jpg,1.0004939999999465,210.0000625,1023.0,573.9997875,1,water,water_1.00,"wet, calm, gray, black, dark, clear","wet, calm"
+00070007_0539.jpg,608.000613,1.0002125000000035,661.000197,147.0001875,1,pole,pole_608.00,"wooden, brown, wood, tall, metal, gray","wooden, brown"

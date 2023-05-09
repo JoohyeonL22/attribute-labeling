@@ -1,0 +1,16 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0490.jpg,208.000576,116.000109,336.00032,138.000375,1,cars,cars_208.00,"yellow, green, blue, white, gold, long",white
+00070007_0490.jpg,333.0000159999999,148.99994999999998,992.000496,408.000114,1,car,car_333.00,"black, parked, white, dark, blue, gray","black, parked"
+00070007_0490.jpg,692.9997920000001,104.00004,773.999568,139.000032,1,car,car_693.00,"blue, yellow, white, metal, empty, silver",metal
+00070007_0490.jpg,803.000688,99.000081,888.000208,143.000055,1,car,car_803.00,"white, black, blue, parked, silver, red",white
+00070007_0490.jpg,108.000032,191.000052,362.999584,347.00011199999994,1,man,man_108.00,"red, white, green, sitting, black, metal",green
+00070007_0490.jpg,294.999968,161.000019,419.999904,222.000021,1,man,man_295.00,"white, red, sitting, driving, silver, large",white
+00070007_0490.jpg,453.99971199999993,40.99988700000001,577.9997119999999,100.000017,1,sign,sign_454.00,"white, black, large, blue, hanging, big","white, large"
+00070007_0490.jpg,48.999840000000006,0.9999359999999982,788.00016,122.99994,1,trees,trees_49.00,"blue, white, green, cloudy, tall, gray",green
+00070007_0490.jpg,0.9999359999999982,114.000237,89.00025600000001,160.000083,1,truck,truck_1.00,"green, yellow, white, black, parked, blue",white
+00070007_0490.jpg,369.999632,93.999843,725.9996639999999,208.999737,1,truck,truck_370.00,"yellow, white, silver, double decker, gray, parked","silver, parked"
+00070007_0490.jpg,0.999935999999991,135.00000899999998,992.0,558.000279,1,water,water_1.00,"black, white, gray, dark, wet, blue","gray, dark"
+00070007_0490.jpg,112.999712,135.000288,202.999904,418.000032,1,woman,woman_113.00,"red, standing, young, white, wearing, walking","standing, white"
+00070007_0490.jpg,256.00048,198.999819,349.00048,314.999649,1,man,man_256.00,"sitting, blue, white, black, green, silver",blue
+00070007_0490.jpg,783.00048,68.000112,882.0000960000001,100.000296,1,building,building_783.00,"blue, red, white, green, large, black",red
+00070007_0490.jpg,379.999984,115.000173,433.999504,139.000311,1,truck,truck_380.00,"yellow, large, white, blue, empty, gold",white

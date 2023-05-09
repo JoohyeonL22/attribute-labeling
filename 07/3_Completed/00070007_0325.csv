@@ -1,0 +1,21 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0325.jpg,425.999848,64.9999205,652.0,153.9999895,1,building,building_426.00,"green, pink, tall, white, large, purple","white, large"
+00070007_0325.jpg,129.00015599999998,118.000042,262.000332,208.999894,1,car,car_129.00,"green, white, black, colorful, orange, parked",white
+00070007_0325.jpg,259.99967000000004,116.0000755,505.999922,228.0000345,1,car,car_260.00,"white, silver, parked, gray, black, red",white
+00070007_0325.jpg,22.000436,99.000085,67.00017199999999,199.000245,1,man,man_22.00,"standing, walking, white, open, green, glass","standing, green"
+00070007_0325.jpg,486.999664,106.0000595,510.999784,165.0000805,1,man,man_487.00,"red, glass, open, pink, large, wooden",
+00070007_0325.jpg,89.999798,104.000093,142.000058,247.000175,1,man,man_90.00,"green, red, orange, wooden, colorful, metal",green
+00070007_0325.jpg,127.000146,160.00007250000002,186.000278,216.0002355,1,broom,broom_127.00,"orange, white, red, green, black, silver",white
+00070007_0325.jpg,127.00014599999996,0.999891500000004,652.000326,140.0000405,1,trees,trees_127.00,"green, pink, purple, tall, white, large","green, large"
+00070007_0325.jpg,18.000415999999994,103.9999095,117.00009599999998,140.9997485,1,suv,suv_18.00,"green, blue, yellow, glass, white, open",
+00070007_0325.jpg,1.0001679999999735,138.000074,652.0,367.0,1,road,road_1.00,"black, gray, dark, paved, wet, concrete","gray, dark"
+00070007_0325.jpg,477.000266,194.0000535,652.000326,268.00009850000004,1,ramp,ramp_477.00,"red, silver, blue, gray, white, black","gray, white"
+00070007_0325.jpg,113.999918,108.9999175,146.999594,225.9998845,1,man,man_114.00,"green, red, orange, metal, wooden, pink",green
+00070007_0325.jpg,152.99994999999998,106.999951,166.00017799999998,119.999825,1,man,man_153.00,"green, white, blue, black, small, street","white, small"
+00070007_0325.jpg,206.000052,104.000093,220.999964,119.000117,1,man,man_206.00,"red, pink, small, black, large, white",
+00070007_0325.jpg,515.999972,107.9998425,533.00022,166.9998635,1,man,man_516.00,"pink, purple, red, lit, white, colorful",white
+00070007_0325.jpg,527.0001900000001,116.999967,544.999954,174.99991300000002,1,woman,woman_527.00,"pink, purple, red, lit, neon, white",white
+00070007_0325.jpg,554.0001619999999,112.9998505,567.00039,164.0000055,1,person,person_554.00,"pink, white, metal, purple, red, tall",white
+00070007_0325.jpg,569.999916,113.000034,592.9998679999999,160.999964,1,woman,woman_570.00,"green, glass, wooden, open, red, white",
+00070007_0325.jpg,460.99986,107.9998425,478.000108,146.99983150000003,1,man,man_461.00,"red, green, wooden, metal, orange, black",black
+00070007_0325.jpg,490.000168,161.0001475,652.0,187.9999705,1,sidewalk,sidewalk_490.00,"red, brown, black, empty, metal, green","brown, black"

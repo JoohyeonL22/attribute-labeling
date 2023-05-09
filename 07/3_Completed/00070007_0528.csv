@@ -1,0 +1,14 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0528.jpg,267.99984000000006,7.000290000000007,959.99952,429.00003,1,building,building_268.00,"brick, black, tall, large, old, white","brick, old"
+00070007_0528.jpg,451.00032,265.00014,648.0,464.99994,1,car,car_451.00,"purple, pink, white, metal, colorful, silver","white, metal"
+00070007_0528.jpg,612.99984,282.00015,737.00016,393.99993,1,junk vehicle,junk vehicle_613.00,"red, black, pink, white, blue, orange",white
+00070007_0528.jpg,171.99983999999998,267.99984,257.99952,510.99984,1,man,man_172.00,"green, blue, standing, black, skiing, sitting","blue, standing"
+00070007_0528.jpg,425.99952,265.99995,531.9998400000001,501.99993000000006,1,firefighter,firefighter_426.00,"purple, blue, pink, metal, colorful, sitting",
+00070007_0528.jpg,4.999679999999998,260.00001,90.0,506.99979,1,firefighter,firefighter_5.00,"purple, pink, black, colorful, green, blue",black
+00070007_0528.jpg,1.000319999999988,7.000020000000006,398.00064,436.99986,1,building,building_1.00,"blue, cloudy, white, green, gray, black","white, gray"
+00070007_0528.jpg,209.00016,251.99991,291.00048000000004,458.99973,1,debris,debris_209.00,"green, black, blue, standing, sitting, metal","black, metal"
+00070007_0528.jpg,388.00032,275.00013,491.00064,526.00023,1,man,man_388.00,"purple, blue, metal, pink, colorful, black",black
+00070007_0528.jpg,56.99952000000002,410.00013,959.99952,537.0000299999999,1,hose,hose_57.00,"wet, black, metal, blue, gray, white",gray
+00070007_0528.jpg,0.999839999999999,294.99984,17.00016,482.99976,1,firefighter,firefighter_1.00,"purple, pink, colorful, multi colored, metal, blue",multi colored
+00070007_0528.jpg,0.9998399999999776,1.000079999999997,411.99984,436.00032,1,smoke,smoke_1.00,"blue, cloudy, white, green, gray, black","cloudy, gray"
+00070007_0528.jpg,403.00032,218.99997,848.00064,403.00011,1,smoke,smoke_403.00,"purple, black, pink, white, blue, red",black

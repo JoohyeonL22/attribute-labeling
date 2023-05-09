@@ -1,0 +1,9 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0595.jpg,1.000024999999999,136.00011,29.999775,187.000014,1,fire,fire_1.00,"orange, red, blurry, brown, black, white","orange, blurry"
+00070007_0595.jpg,512.9998250000001,106.000005,649.999675,226.000059,1,fire,fire_513.00,"large, red, orange, brown, yellow, blurry","red, blurry"
+00070007_0595.jpg,78.0,155.999997,156.0,226.000059,1,fire,fire_78.00,"blue, green, white, silver, small, colorful",blue
+00070007_0595.jpg,0.9997000000000752,0.9999119999999948,650.0,232.00008,1,smoke,smoke_1.00,"black, dark, blurry, blue, glass, white","black, dark"
+00070007_0595.jpg,157.000025,156.00018,488.999875,323.000124,1,car,car_157.00,"metal, black, silver, blue, glass, clear",metal
+00070007_0595.jpg,144.999725,289.000005,233.999675,359.99997899999994,1,fire,fire_145.00,"red, metal, small, square, glass, brown",
+00070007_0595.jpg,131.999725,63.99985799999999,458.999775,279.999882,1,fire,fire_132.00,"black, metal, glass, yellow, silver, clear",silver
+00070007_0595.jpg,541.9999,183.0,650.0,324.999948,1,debris,debris_542.00,"green, metal, silver, black, white, glass","metal, silver"

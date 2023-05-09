@@ -1,0 +1,12 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0321.jpg,1,19.999995,208,290.000261,1,building,building_1.00,"bare, large, tall, red, green, leafless","large, red"
+00070007_0321.jpg,257,11.999997,1000,234.000275,1,building,building_257.00,"pink, purple, red, white, brown, large","red, brown"
+00070007_0321.jpg,1,220.0002785,555,541.0000315,1,car,car_1.00,"black, green, purple, pink, silver, gray",silver
+00070007_0321.jpg,248,85.0001455,905,519.0003705,1,truck,truck_248.00,"red, purple, black, pink, parked, double decker",red
+00070007_0321.jpg,908,70.9998155,1000,357.9999105,1,truck,truck_908.00,"red, white, purple, pink, parked, double decker",red
+00070007_0321.jpg,1,361.0000765,1000,667.0003335,1,road,road_1.00,"gray, wet, concrete, paved, black, asphalt","gray, asphalt"
+00070007_0321.jpg,820,485.9998785,922,525.0000355,1,bag,bag_820.00,"green, pink, purple, metal, colorful, small",small
+00070007_0321.jpg,476,561.0000265,550,595.0003515,1,debris,debris_476.00,"green, small, blue, white, metal, square","small, metal"
+00070007_0321.jpg,805,225.9999435,895,261.9999345,1,car,car_805.00,"purple, metal, white, black, silver, pink","metal, black"
+00070007_0321.jpg,855,72.0003155,1000,356.0002445,1,fire truck,fire truck_855.00,"purple, pink, white, red, maroon, parked","white, red"
+00070007_0321.jpg,95,1.0001665,338,224.0002775,1,tree,tree_95.00,"pink, purple, white, red, tall, large",tall

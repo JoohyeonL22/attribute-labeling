@@ -1,0 +1,11 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0319.jpg,1053.000312,326.000157,1199.000712,488.000163,1,bag,bag_1053.00,"gray, pink, white, purple, black, large","gray, pink, white, purple, black, large"
+00070007_0319.jpg,0.9995440000000144,0.9996209999999904,1285.999624,269.999709,1,building,building_1.00,"red, brick, pink, brown, gray, white","red, brick, pink, brown, gray, white"
+00070007_0319.jpg,286.0006239999999,174.0004245000001,1376.0000799999998,723.0000435,1,car,car_286.00,"purple, white, pink, silver, green, colorful","purple, white, pink, silver, green, colorful"
+00070007_0319.jpg,1071.000112,209.9994225,1341.999568,711.9996974999999,1,man,man_1071.00,"sitting, young, standing, walking, blue, wearing","sitting, young, standing, walking, blue, wearing"
+00070007_0319.jpg,31.999968,22.99986150000001,341.99983999999995,806.9998125,1,man,man_32.00,"standing, walking, young, smiling, white, wearing","standing, walking, young, smiling, white, wearing"
+00070007_0319.jpg,226.999864,117.9999765,668.000424,448.0004235,1,truck,truck_227.00,"purple, white, pink, colorful, multi colored, green","purple, white, pink, colorful, multi colored, green"
+00070007_0319.jpg,0.9995440000000144,291.0003285,1455.999272,903.0004515,1,road,road_1.00,"gray, white, paved, black, blue, concrete","gray, white, paved, black, blue, concrete"
+00070007_0319.jpg,491.000328,243.0004605,863.999864,561.0000375,1,fire,fire_491.00,"purple, colorful, pink, large, black, yellow","purple, colorful, pink, large, black, yellow"
+00070007_0319.jpg,504.000224,1.0005239999999844,1456.0,521.0002979999999,1,smoke,smoke_504.00,"pink, gray, red, purple, white, painted","pink, gray, red, purple, white, painted"
+00070007_0319.jpg,1148.999488,78.000237,1456.0,419.000127,1,fence,fence_1149.00,"gray, pink, green, purple, red, white","gray, pink, green, purple, red, white"

@@ -1,0 +1,13 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0578.jpg,1.0000600000000048,176.00000200000002,202.99978,260.00011400000005,1,car,car_1.00,"white, blue, yellow, red, green, large","white, blue, yellow, red, green, large"
+00070007_0578.jpg,174.00020999999998,153.9999145,379.00011,223.9998915,1,car,car_174.00,"red, green, large, metal, glass, silver","red, green, large, metal, glass, silver"
+00070007_0578.jpg,272.99964,146.00013650000002,409.9998000000001,249.00015750000003,1,fire,fire_273.00,"large, red, colorful, black, pink, metal","large, red, colorful, black, pink, metal"
+00070007_0578.jpg,489.00020000000006,4.00006350000001,513.0004,226.0000105,1,pole,pole_489.00,"red, black, white, long, metal, tall","red, black, white, long, metal, tall"
+00070007_0578.jpg,0.9997499999999492,243.99986,619.99969,349.0,1,road,road_1.00,"gray, paved, yellow, black, white, asphalt","gray, paved, yellow, black, white, asphalt"
+00070007_0578.jpg,439.0003,3.999889000000003,497.00006,33.999929,1,sign,sign_439.00,"blue, yellow, orange, white, colorful, red","blue, yellow, orange, white, colorful, red"
+00070007_0578.jpg,502.00005,39.000052,567.00023,66.000088,1,sign,sign_502.00,"blue, black, red, orange, small, white","blue, black, red, orange, small, white"
+00070007_0578.jpg,1.0003700000000038,0.999885000000006,432.00019,239.999971,1,smoke,smoke_1.00,"black, green, white, red, tall, blue","black, green, white, red, tall, blue"
+00070007_0578.jpg,0.9997499999999492,1.000059499999992,619.99969,165.9999305,1,trees,trees_1.00,"white, black, green, red, gray, cloudy","white, black, green, red, gray, cloudy"
+00070007_0578.jpg,59.999880000000005,142.000073,221.99968,251.999987,1,fire,fire_60.00,"green, blue, double decker, red, colorful, white","green, blue, double decker, red, colorful, white"
+00070007_0578.jpg,436.00012,44.99988549999999,620.0,235.0000225,1,smoke,smoke_436.00,"red, white, glass, clear, large, orange","red, white, glass, clear, large, orange"
+00070007_0578.jpg,134.99973,171.00005350000004,279.99975,250.0000425,1,car,car_135.00,"red, glass, green, closed, pink, clear","red, glass, green, closed, pink, clear"

@@ -1,0 +1,12 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0447.jpg,204.00021250000003,52.000032,595.0002975,211.999856,1,field,field_204.00,"['green', 'purple', 'yellow', 'pink', 'tall', 'silver']"
+00070007_0447.jpg,104.00005,85.00001800000001,470.00002,266.000198,1,car,car_104.00,"['yellow', 'parked', 'purple', 'silver', 'white', 'gray']"
+00070007_0447.jpg,86.0004075,350.000061,219.0001625,424.999867,1,cone,cone_86.00,"['orange', 'red', 'black', 'yellow', 'traffic', 'metal']"
+00070007_0447.jpg,387.9997975,225.99979600000003,594.9997025,446.0,1,pole,pole_388.00,"['wooden', 'wood', 'old', 'brown', 'gray', 'large']"
+00070007_0447.jpg,405.0001375,28.000103,549.0002525,73.000165,1,sign,sign_405.00,"['pink', 'purple', 'white', 'large', 'green', 'colorful']"
+00070007_0447.jpg,109.0001325,53.000187,253.9998475,127.999993,1,suv,suv_109.00,"['yellow', 'green', 'white', 'parked', 'double decker', 'black']"
+00070007_0447.jpg,0.999897500000003,3.99995100000001,82.9998225,181.999889,1,truck,truck_1.00,"['green', 'black', 'yellow', 'white', 'double decker', 'large']"
+00070007_0447.jpg,70.00026250000002,18.000114000000004,161.0001575,85.00001800000001,1,truck,truck_70.00,"['green', 'tall', 'black', 'white', 'large', 'yellow']"
+00070007_0447.jpg,78.00003749999999,64.000108,121.0000925,118.999936,1,truck,truck_78.00,"['green', 'orange', 'yellow', 'red', 'wooden', 'colorful']"
+00070007_0447.jpg,0.999897499999996,118.999936,118.0001025,446.0,1,road,road_1.00,"['gray', 'concrete', 'paved', 'yellow', 'cement', 'empty']"
+00070007_0447.jpg,29.99989999999997,122.999887,595.0,445.9997770000001,1,grass,grass_30.00,"['green', 'yellow', 'brown', 'gray', 'metal', 'old']"

@@ -1,0 +1,4 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0064.jpg,24.00030000000001,82.0,233.0001,400.0,1,man,man_24.00,"white, green, gray, metal, old, standing","white, green, gray, metal, old, standing"
+00070007_0064.jpg,201.0,46.0,600.0,400.0,1,bus,bus_201.00,"blue, white, green, metal, yellow, gray","blue, white, green, metal, yellow, gray"
+00070007_0064.jpg,0.9998999999999684,1.0,599.9997000000001,207.0,1,trees,trees_1.00,"green, red, gray, white, black, metal","green, red, gray, white, black, metal"

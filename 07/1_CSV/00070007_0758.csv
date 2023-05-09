@@ -1,0 +1,5 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0758.jpg,1305.00018,652.00032,1327.999452,1141.999956,1,pole,pole_1305.00,"['blue', 'metal', 'long', 'white', 'silver', 'light blue']"
+00070007_0758.jpg,1122.000825,260.000142,1522.000149,656.00025,1,traffic light,traffic light_1122.00,"['yellow', 'black', 'white', 'orange', 'street', 'metal']"
+00070007_0758.jpg,1.000122000000033,32.00002650000005,1767.0,674.9999175,1,trees,trees_1.00,"['green', 'clear', 'blue', 'white', 'cloudy', 'tall']"
+00070007_0758.jpg,1.000122000000033,582.9997679999999,1767.0,1173.0,1,water,water_1.00,"['calm', 'brown', 'dark', 'wet', 'large', 'clear']"

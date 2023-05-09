@@ -1,0 +1,8 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0431.jpg,2.0000564999999995,192.99959,78.9999495,292.99973,1,car,car_2.00,"red, standing, large, colorful, yellow, sitting","red, standing, large, colorful, yellow, sitting"
+00070007_0431.jpg,32.999723999999986,114.999982,405.999924,391.000082,1,truck,truck_33.00,"gray, white, black, large, silver, big","gray, white, black, large, silver, big"
+00070007_0431.jpg,141.00009,2.000145999999944,537.0,423.999806,1,pole,pole_141.00,"white, gray, clear, black, silver, blue","white, gray, clear, black, silver, blue"
+00070007_0431.jpg,297.9998265,374.99963,536.9997314999999,502.999666,1,debris,debris_298.00,"yellow, black, red, colorful, blurry, metal","yellow, black, red, colorful, blurry, metal"
+00070007_0431.jpg,130.000182,275.999742,537.0,712.999602,1,field,field_130.00,"gray, brown, black, green, metal, wet","gray, brown, black, green, metal, wet"
+00070007_0431.jpg,1.0001625000000018,285.00022,67.0001475,344.000052,1,road,road_1.00,"yellow, black, square, green, white, blue","yellow, black, square, green, white, blue"
+00070007_0431.jpg,0.9998940000000118,0.999535999999992,364.00008,200.999816,1,trees,trees_1.00,"black, white, red, gray, large, green","black, white, red, gray, large, green"

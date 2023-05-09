@@ -1,0 +1,9 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0170.jpg,343.00002000000006,74.000034,440.00022,284.000142,1,woman,woman_343.00,"['green', 'walking', 'standing', 'blue', 'white', 'black']"
+00070007_0170.jpg,299.00002,105.000054,382.99998,205.000146,1,people,people_299.00,"['green', 'glass', 'clear', 'blue', 'white', 'open']"
+00070007_0170.jpg,88.0,182.999944,376.99992,284.0,1,road,road_88.00,"['gray', 'white', 'concrete', 'green', 'blue', 'cement']"
+00070007_0170.jpg,297.0,5.999926000000002,440.0,130.99997000000002,1,tree,tree_297.00,"['green', 'tall', 'large', 'white', 'clear', 'leafy']"
+00070007_0170.jpg,111.00012,4.999962000000011,306.0002,243.999878,1,bus,bus_111.00,"['blue', 'double decker', 'black', 'parked', 'white', 'red']"
+00070007_0170.jpg,412.99984,163.00009599999998,440.00000000000006,188.000048,1,person,person_413.00,"['blurry', 'green', 'white', 'blue', 'black', 'small']"
+00070007_0170.jpg,313.99984,215.00007,343.99992000000003,237.00013,1,bag,bag_314.00,"['green', 'white', 'square', 'black', 'blue', 'small']"
+00070007_0170.jpg,272.00008,229.000134,302.00016,246.00009,1,bag,bag_272.00,"['green', 'black', 'digital', 'small', 'square', 'white']"

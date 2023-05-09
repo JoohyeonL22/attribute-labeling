@@ -1,0 +1,6 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0080.jpg,254.000041,1.0000800000000112,473.999855,189.0,1,building,building_254.00,"green, white, brick, brown, large, red","brick, brown"
+00070007_0080.jpg,0.9997679999999888,1.0000799999999683,349.99995,360.0,1,bus,bus_1.00,"white, red, orange, green, parked, gray","white, parked"
+00070007_0080.jpg,350.00022050000007,222.00011999999995,506.0002755,300.99996,1,bush,bush_350.00,"red, white, black, large, green, small","white, green"
+00070007_0080.jpg,503.0001600000001,1.000079999999997,540.0002320000001,279.0,1,pole,pole_503.00,"gray, red, pink, white, concrete, metal",gray
+00070007_0080.jpg,329.9999915,136.99998,500.9998125,313.00002,1,snow,snow_330.00,"white, red, green, black, blue, glass",white

@@ -1,0 +1,10 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0963.jpg,428.9999445,86.9998635,452.0002095,104.0000565,1,car,car_429.00,"green, standing, white, sitting, small, watching","green, standing, white, sitting, small, watching"
+00070007_0963.jpg,202.0000995,1.000168500000001,214.0001685,105.0000195,1,pole,pole_202.00,"blue, tall, metal, large, long, green","blue, tall, metal, large, long, green"
+00070007_0963.jpg,283.00016700000003,86.000106,478.000359,306.000186,1,sign,sign_283.00,"yellow, black, orange, white, red, green","yellow, black, orange, white, red, green"
+00070007_0963.jpg,43.00011449999998,57.0001515,186.0000075,124.0001385,1,jeep,jeep_43.00,"green, red, white, blue, double decker, black","green, red, white, blue, double decker, black"
+00070007_0963.jpg,18.0001035,1.000168500000008,89.9999865,77.00023350000001,1,tree,tree_18.00,"green, red, tall, large, leafy, black","green, red, tall, large, leafy, black"
+00070007_0963.jpg,1.0001384999999914,104.999814,531.0002655000001,411.0,1,water,water_1.00,"calm, green, wet, black, dark, gray","calm, green, wet, black, dark, gray"
+00070007_0963.jpg,269.99995950000005,144.00022049999998,504.9998505,360.0000375,1,barrier,barrier_270.00,"green, yellow, black, white, orange, red","green, yellow, black, white, orange, red"
+00070007_0963.jpg,505.000116,86.9998635,531.0,111.9997605,1,car,car_505.00,"red, yellow, black, white, orange, double decker","red, yellow, black, white, orange, double decker"
+00070007_0963.jpg,1.0001384999999914,3.000094499999996,499.0000815,101.0001675,1,building,building_1.00,"blue, white, green, gray, large, tall","blue, white, green, gray, large, tall"

@@ -1,0 +1,9 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0003.jpg,0.9999899999999968,0.9999089999999882,480.00012,243.000015,1,building,building_1.00,"['white', 'pink', 'tan', 'green', 'red', 'tall']"
+00070007_0003.jpg,30.00031499999997,119.9999135,529.000245,342.9999045,1,car,car_30.00,"['black', 'parked', 'green', 'gray', 'silver', 'red']"
+00070007_0003.jpg,526.9999575,223.9999,609.9997425,350.999868,1,cone,cone_527.00,"['red', 'white', 'orange', 'metal', 'gray', 'silver']"
+00070007_0003.jpg,1.9996725000000009,16.999835999999988,32.9999775,345.999862,1,pole,pole_2.00,"['green', 'black', 'metal', 'tall', 'dark', 'wooden']"
+00070007_0003.jpg,0.9999899999999684,168.99983400000002,615.0,461.00000000000006,1,sidewalk,sidewalk_1.00,"['gray', 'brick', 'black', 'paved', 'concrete', 'red']"
+00070007_0003.jpg,429.9996975,143.0001255,464.9999625,209.0001125,1,people,people_430.00,"['blue', 'white', 'open', 'black', 'green', 'closed']"
+00070007_0003.jpg,472.9998825,135.9998405,525.9999675,205.0000155,1,p[eople,p[eople_473.00,"['open', 'black', 'glass', 'red', 'large', 'green']"
+00070007_0003.jpg,466.9999425,142.0002165,503.00019750000007,193.0001855,1,car,car_467.00,"['red', 'black', 'glass', 'open', 'pink', 'large']"

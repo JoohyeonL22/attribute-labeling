@@ -1,0 +1,5 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0969.jpg,212.0,0.9999000000000252,640.0,327.99978,1,trees,trees_212.00,"green, tall, large, brown, pink, purple",green
+00070007_0969.jpg,1.0,208.00008,639.99968,359.99999999999994,1,water,water_1.00,"brown, wet, gray, concrete, large, tan","brown, wet"
+00070007_0969.jpg,1.0,1.000079999999997,339.0,358.99992,1,tree,tree_1.00,"brown, brick, pink, large, white, gray",brown
+00070007_0969.jpg,1.0003200000000163,86.99994000000001,385.00032,306.9999,1,building,building_1.00,"brick, brown, pink, red, purple, gray","brick, brown"

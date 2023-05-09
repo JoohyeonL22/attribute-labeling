@@ -1,0 +1,9 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0200.jpg,129.99973999999995,240.0002175,171.99978,395.0000625,1,man,man_130.00,"yellow, standing, black, walking, white, old","standing, black"
+00070007_0200.jpg,373.00037,212.00001,412.00023,267.00021,1,man,man_373.00,"green, yellow, hanging, white, metal, red",green
+00070007_0200.jpg,38.00011,225.0002475,105.00041,387.0002025,1,man,man_38.00,"purple, pink, standing, little, black, small",standing
+00070007_0200.jpg,424.00002,206.000115,508.0001,299.00011500000005,1,man,man_424.00,"green, blue, metal, white, colorful, wooden",green
+00070007_0200.jpg,460.00001,158.00025749999998,503.00011,250.0000425,1,man,man_460.00,"green, yellow, sitting, standing, colorful, blue","green, standing"
+00070007_0200.jpg,257.00023,39.99976500000001,619.0002499999999,221.999835,1,truck,truck_257.00,"red, purple, pink, parked, yellow, double decker",red
+00070007_0200.jpg,0.9997499999999492,0.9999825000000442,619.99969,464.9997675,1,grass,grass_1.00,"green, tall, grassy, yellow, long, white","green, grassy"
+00070007_0200.jpg,94.00006,80.9999775,441.99986,339.0001125,1,bus,bus_94.00,"white, silver, gray, parked, black, red",white

@@ -1,0 +1,12 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0902.jpg,1.000512,898.000048,236.0016,1332.000912,1,ladder,ladder_1.00,"white, metal, green, gray, black, silver","white, metal"
+00070007_0902.jpg,1056.00024,644.00072,1205.00136,1355.000592,1,ladder,ladder_1056.00,"white, red, tall, metal, gray, silver","white, metal"
+00070007_0902.jpg,0.999216,597.000448,909.000144,1932.000224,1,tree,tree_1.00,"green, white, red, tall, large, small",green
+00070007_0902.jpg,1.000512,0.999944,2592,804.000472,1,trees,trees_1.00,"blue, green, clear, cloudy, white, tall",green
+00070007_0902.jpg,1499.000256,1478.00048,2592,1936,1,road,road_1499.00,"white, gray, blue, painted, wet, paved","gray, paved"
+00070007_0902.jpg,625.999104,1197.000728,760.00032,1532.00036,1,firefighter,firefighter_626.00,"standing, yellow, walking, black, red, tall",yellow
+00070007_0902.jpg,909.00144,1195.999816,1070.000928,1613.000664,1,firefighter,firefighter_909.00,"standing, walking, white, wearing, young, watching","standing, white"
+00070007_0902.jpg,1085.000832,1194.000896,1228.001472,1607.000032,1,firefighter,firefighter_1085.00,"purple, standing, pink, black, green, tall",standing
+00070007_0902.jpg,1226.000448,1170.000304,1360.001664,1578.000688,1,firefighter,firefighter_1226.00,"standing, pink, purple, walking, small, black",standing
+00070007_0902.jpg,1.000512,504.999792,2592,1503.999024,1,building,building_1.00,"white, red, large, pink, gray, tall",white
+00070007_0902.jpg,569.001024,1463.999328,1641.000384,1936,1,grass,grass_569.00,"green, yellow, white, red, long, grassy","green, grassy"

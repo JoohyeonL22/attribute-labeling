@@ -1,0 +1,9 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0207.jpg,1.0,0.9998399999999776,639.99968,381.99984,1,bus,bus_1.00,"yellow, white, orange, parked, black, large",yellow
+00070007_0207.jpg,408.0,400.00008,435.00032,426.00024,1,debris,debris_408.00,"yellow, green, colorful, blue, small, white","yellow, small"
+00070007_0207.jpg,97.0,182.99976,247.0,430.99992,1,firefighter,firefighter_97.00,"yellow, green, colorful, black, white, purple",yellow
+00070007_0207.jpg,415.0,81.00023999999999,492.00031999999993,160.00008,1,sign,sign_415.00,"red, white, stop, black, blue, square","red, stop"
+00070007_0207.jpg,1.0,1.0000800000000112,147.0,198.00024,1,tree,tree_1.00,"large, green, tall, black, brown, dark","green, brown"
+00070007_0207.jpg,216.0,260.99976,336.0,391.99992,1,debris,debris_216.00,"pink, purple, brown, black, yellow, large","brown, yellow"
+00070007_0207.jpg,66.0,152.99976,242.0,415.99992,1,firefighter,firefighter_66.00,"green, yellow, sitting, white, black, brown","yellow, sitting"
+00070007_0207.jpg,1.0,415.00008,639.99968,480.00024,1,road,road_1.00,"gray, yellow, paved, concrete, black, white","gray, paved"

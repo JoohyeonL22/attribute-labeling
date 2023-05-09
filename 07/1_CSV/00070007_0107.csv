@@ -1,0 +1,8 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0107.jpg,373.99986,13.000104000000004,390.0,68.000028,1,building,building_374.00,"['glass', 'red', 'large', 'white', 'tall', 'brick']"
+00070007_0107.jpg,0.9999600000000016,1.000007999999994,252.00006,194.000004,1,bus,bus_1.00,"['white', 'green', 'yellow', 'parked', 'silver', 'gray']"
+00070007_0107.jpg,206.000145,67.999899,390.000195,175.999989,1,suv,suv_206.00,"['silver', 'white', 'parked', 'gray', 'black', 'yellow']"
+00070007_0107.jpg,0.9999599999999872,164.99990100000002,390.0,257.999871,1,road,road_1.00,"['gray', 'black', 'yellow', 'concrete', 'paved', 'empty']"
+00070007_0107.jpg,121.99999499999998,136.000056,226.000125,206.0001,1,debris,debris_122.00,"['yellow', 'black', 'green', 'metal', 'white', 'blue']"
+00070007_0107.jpg,122.00018999999998,0.999879,222.00009,35.999901,1,building,building_122.00,"['green', 'white', 'tall', 'black', 'large', 'clear']"
+00070007_0107.jpg,326.00022,47.99999699999999,367.00014,69.999915,1,building,building_326.00,"['glass', 'clear', 'white', 'black', 'blue', 'small']"

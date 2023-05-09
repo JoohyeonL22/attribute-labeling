@@ -1,0 +1,18 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0906.jpg,206,0.99972,1280.00064,305.99964,1,building,building_206.00,"tall, large, white, gray, brown, tan","large, gray"
+00070007_0906.jpg,1166,269.00028,1226,369.00036,1,car,car_1166.00,"green, parked, black, white, blue, red",black
+00070007_0906.jpg,96.00064,334.00044,289.00032,457.0002,1,car,car_96.00,"purple, green, pink, colorful, white, multi colored",white
+00070007_0906.jpg,723.00032,9.00036,800,458.00028,1,pole,pole_723.00,"red, white, gray, long, metal, pink","gray, long"
+00070007_0906.jpg,605.00096,137.99988,1079.00032,476.99964,1,tree,tree_605.00,"green, red, metal, long, white, blue",green
+00070007_0906.jpg,150.00064,270,235.00032,328.00032,1,truck,truck_150.00,"purple, pink, clear, small, large, open",small
+00070007_0906.jpg,1052,214.0002,1188,289.00044,1,umbrella,umbrella_1052.00,"purple, white, gray, blue, black, open","purple, open"
+00070007_0906.jpg,1121.00032,278.00028,1181.00032,486.00036,1,woman,woman_1121.00,"walking, standing, young, blonde, little, wearing","walking, wearing"
+00070007_0906.jpg,156.99968,371.00016,1280,720,1,sidewalk,sidewalk_157.00,"brick, wet, gray, brown, concrete, paved","gray, brown"
+00070007_0906.jpg,1.00032,276.00048,93.00032,353.00016,1,truck,truck_1.00,"red, parked, green, black, white, large","red, large"
+00070007_0906.jpg,1.00096,270.00036,779.00032,719.00028,1,trees,trees_1.00,"green, gray, wet, brown, wooden, yellow","green, brown"
+00070007_0906.jpg,0.99968,0.99972,117.99936,280.9998,1,building,building_1.00,"green, tall, gray, brown, tan, white","gray, tan"
+00070007_0906.jpg,76.99968,329.0004,152,361.00008,1,car,car_77.00,"green, pink, purple, colorful, metal, white",metal
+00070007_0906.jpg,280.00064,324.00036,372.00064,413.00028,1,car,car_280.00,"purple, white, pink, parked, green, red",white
+00070007_0906.jpg,328,285.00012,678.00064,358.0002,1,cars,cars_328.00,"purple, green, parked, pink, white, red",
+00070007_0906.jpg,1219.99936,227.99988,1279.99936,386.99964,1,van,van_1220.00,"green, parked, red, blue, black, white",green
+00070007_0906.jpg,1.00032,353.00016,733.00032,720,1,road,road_1.00,"green, wet, brown, gray, large, long",gray

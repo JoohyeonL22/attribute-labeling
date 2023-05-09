@@ -1,0 +1,11 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0117.jpg,603.0003200000001,40.99992,628.0,88.00008,1,bus,bus_603.00,"purple, pink, open, green, white, small","purple, pink, open, green, white, small"
+00070007_0117.jpg,0.9999999999999964,2.0001600000000224,50.00032,260.00016000000005,1,bus,bus_1.00,"green, white, yellow, blue, double decker, parked","green, white, yellow, blue, double decker, parked"
+00070007_0117.jpg,545.0003200000001,34.00008,606.0,94.99992,1,bus,bus_545.00,"pink, purple, yellow, colorful, double decker, red","pink, purple, yellow, colorful, double decker, red"
+00070007_0117.jpg,99.0,0.999840000000006,521.99968,297.99984,1,bus,bus_99.00,"red, double decker, white, parked, green, large","red, double decker, white, parked, green, large"
+00070007_0117.jpg,150.00032000000002,81.99983999999999,216.00032,138.99984,1,man,man_150.00,"blue, clear, large, sitting, black, driving","blue, clear, large, sitting, black, driving"
+00070007_0117.jpg,70.0,260.00016,302.0,479.00016,1,man,man_70.00,"sitting, young, looking, standing, black, smiling","sitting, young, looking, standing, black, smiling"
+00070007_0117.jpg,1.0,76.00007999999997,639.99968,480.00024,1,water,water_1.00,"blue, white, large, calm, wet, clear","blue, white, large, calm, wet, clear"
+00070007_0117.jpg,1.0,279.0,99.0,480.0,1,man,man_1.00,"standing, young, sitting, walking, blue, looking","standing, young, sitting, walking, blue, looking"
+00070007_0117.jpg,369.0,301.00008,491.0,480.00024,1,man,man_369.00,"young, sitting, little, walking, standing, blonde","young, sitting, little, walking, standing, blonde"
+00070007_0117.jpg,520.0,34.99992,536.0,94.00008,1,bus,bus_520.00,"yellow, purple, pink, metal, white, wooden","yellow, purple, pink, metal, white, wooden"

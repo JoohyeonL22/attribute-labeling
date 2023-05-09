@@ -1,0 +1,5 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0933.jpg,53.0000955,64.00008,59.000166500000006,103.00008,1,pole,pole_53.00,"yellow, wooden, tall, orange, metal, blue","tall, metal"
+00070007_0933.jpg,0.999905500000004,70.99992,52.9997765,103.99992,1,tree,tree_1.00,"green, large, tall, small, white, leafy","green, large"
+00070007_0933.jpg,0.9999055000000112,101.00004,318.9998405,240.00012,1,field,field_1.00,"brown, green, white, gray, dirty, dirt","dirty, dirt"
+00070007_0933.jpg,0.9999055000000112,18.99996,318.9998405,239.00004,1,debris,debris_1.00,"white, red, brown, green, parked, black","white, red"

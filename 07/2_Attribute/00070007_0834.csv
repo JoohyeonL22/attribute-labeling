@@ -1,0 +1,3 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0834.jpg,1.0006319999998825,284.99945499999995,1446.0,800.999585,1,airplane,airplane_1.00,"black, red, green, white, old, yellow","black, red, green, white, old, yellow"
+00070007_0834.jpg,1.0006319999998825,1.0001300000000128,1446.0,456.00057,1,trees,trees_1.00,"green, tall, pine, brown, bare, white","green, tall, pine, brown, bare, white"

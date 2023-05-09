@@ -1,0 +1,10 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0104.jpg,34.00110000000018,0.9996000000001004,2365.0011000000004,2047.9998,1,bus,bus_34.00,"blue, white, parked, yellow, colorful, large","blue, white, parked, yellow, colorful, large"
+00070007_0104.jpg,1946.0007,913.0002000000002,2268.0,1868.0004,1,man,man_1946.00,"standing, walking, young, orange, wearing, smiling","standing, walking, young, orange, wearing, smiling"
+00070007_0104.jpg,2033.00055,562.00095,2344.00005,1042.00005,1,man,man_2033.00,"standing, wearing, sitting, young, watching, yellow","standing, wearing, sitting, young, watching, yellow"
+00070007_0104.jpg,2130.000075,1106.9992499999998,2538.999225,2099.99895,1,man,man_2130.00,"standing, walking, young, yellow, orange, wearing","standing, walking, young, yellow, orange, wearing"
+00070007_0104.jpg,97.0011,1433.9996999999998,256.0005,1686.9993,1,bin,bin_97.00,"blue, small, plastic, large, white, light blue","blue, small, plastic, large, white, light blue"
+00070007_0104.jpg,2347.998975,0.9996000000001004,3149.998425,1702.9992,1,bus,bus_2348.00,"white, parked, blue, large, green, black","white, parked, blue, large, green, black"
+00070007_0104.jpg,2616.000975,233.00025,2799.000225,468.00075,1,person,person_2616.00,"large, clear, black, glass, open, green","large, clear, black, glass, open, green"
+00070007_0104.jpg,1332.9981,1925.0007,1592.9991000000002,2072.0007,1,debris,debris_1333.00,"white, gray, purple, pink, black, small","white, gray, purple, pink, black, small"
+00070007_0104.jpg,1.0001250000002528,516.9989999999999,3150.001575,2100.0,1,road,road_1.00,"blue, white, gray, parked, red, yellow","blue, white, gray, parked, red, yellow"

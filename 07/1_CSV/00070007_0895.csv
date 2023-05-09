@@ -1,0 +1,6 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0895.jpg,239.0004,321.0006,618.0011999999999,643.0002,1,boy,boy_239.00,"['standing', 'smiling', 'white', 'young', 'orange', 'leaning']"
+00070007_0895.jpg,0.9999000000000252,1.0002000000000637,488.9997,660.0006,1,building,building_1.00,"['white', 'gray', 'old', 'blue', 'brown', 'wooden']"
+00070007_0895.jpg,860.0004,138.9996,1085.0004,672.9996,1,boy,boy_860.00,"['standing', 'smiling', 'young', 'looking', 'walking', 'white']"
+00070007_0895.jpg,1.0008000000000266,627.0,1800.0,1200.0,1,water,water_1.00,"['wet', 'clear', 'brown', 'gray', 'white', 'dirty']"
+00070007_0895.jpg,533.9997000000002,162.00060000000002,1799.9991,628.0002,1,building,building_534.00,"['blue', 'wooden', 'white', 'brown', 'old', 'metal']"

@@ -1,0 +1,8 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0223.jpg,1042.9992000000002,1.00018799999998,3600.0,1918.000728,1,bus,bus_1043.00,"yellow, blue, parked, large, black, white","yellow, parked"
+00070007_0223.jpg,613.0008,688.9985549999999,3403.0008,2313.999765,1,car,car_613.00,"blue, parked, black, yellow, green, silver","parked, black"
+00070007_0223.jpg,219.00060000000008,517.9994820000001,1206.0018,1048.9987620000002,1,suv,suv_219.00,"white, blue, parked, green, black, large","white, parked"
+00070007_0223.jpg,248.9994,499.99874399999976,784.9998,2138.99994,1,police,police_249.00,"standing, walking, white, smiling, wearing, young","walking, white"
+00070007_0223.jpg,1.0007999999997992,993.000141,3600.0,2646.001323,1,road,road_1.00,"gray, blue, yellow, parked, white, black",gray
+00070007_0223.jpg,1.000799999999998,650.9993489999999,309.0024,1026.998595,1,car,car_1.00,"blue, red, black, white, large, purple",white
+00070007_0223.jpg,375.0012,1.00018799999998,516.9996,345.001356,1,traffic light,traffic light_375.00,"green, red, traffic, colorful, yellow, electric","traffic, electric"

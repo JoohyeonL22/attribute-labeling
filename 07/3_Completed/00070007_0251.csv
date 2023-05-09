@@ -1,0 +1,9 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0251.jpg,608.0004,494.999316,950.000688,728.000028,1,suv,suv_608.00,"purple, blue, parked, black, red, white","parked, black"
+00070007_0251.jpg,1129.00032,54.00032400000004,2016.0,885.0000600000001,1,fire truck,fire truck_1129.00,"red, white, double decker, parked, large, big","red, large"
+00070007_0251.jpg,416.99952,0.999432000000013,550.999008,798.9997679999999,1,pole,pole_417.00,"brown, tall, wooden, wood, large, long",brown
+00070007_0251.jpg,857.0005920000001,1.000188000000037,1967.000112,573.000372,1,trees,trees_857.00,"green, red, tall, large, big, white","green, large"
+00070007_0251.jpg,0.999935999999991,196.00056,392.99904,551.000016,1,trees,trees_1.00,"green, tall, large, red, leafy, big","green, leafy"
+00070007_0251.jpg,0.998927999999978,488.000268,658.999152,911.999844,1,truck,truck_1.00,"white, parked, red, green, small, silver",white
+00070007_0251.jpg,520.99992,517.99986,616.999824,605.999772,1,car,car_521.00,"red, blue, black, parked, white, pink",black
+00070007_0251.jpg,532.9991519999999,586.99998,2015.998992,1494.999828,1,road,road_533.00,"wet, green, gray, paved, brown, black","gray, brown"

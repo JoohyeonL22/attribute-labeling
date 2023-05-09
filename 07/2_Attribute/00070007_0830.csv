@@ -1,0 +1,6 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0830.jpg,25.999360000000024,148.00032000000004,1048.0,526.0003200000001,1,airplane,airplane_26.00,"white, green, silver, long, small, large","white, green, silver, long, small, large"
+00070007_0830.jpg,1.000319999999988,266.0004,146.0,354.00024,1,fence,fence_1.00,"blue, metal, green, silver, white, empty","blue, metal, green, silver, white, empty"
+00070007_0830.jpg,344.0,2.9998800000000188,387.00032,280.9998,1,pole,pole_344.00,"tall, blue, metal, green, long, black","tall, blue, metal, green, long, black"
+00070007_0830.jpg,1.0003200000001016,0.9997199999999964,1280.00064,390.99996,1,trees,trees_1.00,"green, white, blue, cloudy, red, clear","green, white, blue, cloudy, red, clear"
+00070007_0830.jpg,1.000319999999988,292.99968,922.0,720.0,1,field,field_1.00,"green, brown, white, grassy, dry, tan","green, brown, white, grassy, dry, tan"

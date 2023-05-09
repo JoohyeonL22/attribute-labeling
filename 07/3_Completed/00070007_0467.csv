@@ -1,0 +1,12 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0467.jpg,261.99992,174.000043,826.999612,359.000033,1,building,building_262.00,"white, large, green, tall, black, gray","white, large"
+00070007_0467.jpg,344.999921,359.999726,612.999651,465.99987,1,car,car_345.00,"red, yellow, parked, driving, moving, black","red, parked"
+00070007_0467.jpg,2.000101,367.00007,37.999947,395.000338,1,car,car_2.00,"yellow, red, black, white, small, blue",white
+00070007_0467.jpg,55.000066,362.999913,133.000554,407.999671,1,truck,truck_55.00,"white, red, yellow, large, double decker, black",white
+00070007_0467.jpg,0.999804,398.000248,986,554,1,road,road_1.00,"gray, paved, yellow, black, asphalt, concrete","gray, asphalt"
+00070007_0467.jpg,754.99992,219.999771,956.999768,309.999841,1,building,building_755.00,"white, orange, green, large, glass, black",green
+00070007_0467.jpg,287.000443,145.000082,767.000033,422.000082,1,pole,pole_287.00,"white, yellow, large, silver, green, metal",metal
+00070007_0467.jpg,195.000234,1.000247,214.000454,408.000225,1,pole,pole_195.00,"blue, metal, tall, red, long, white","metal, white"
+00070007_0467.jpg,358.999642,212.000288,509.999626,364.00016,1,tree,tree_359.00,"glass, tall, large, white, orange, green","large, green"
+00070007_0467.jpg,500.999418,105.999867,670.999622,353.999629,1,tree,tree_501.00,"green, tall, large, leafy, big, white","green, leafy"
+00070007_0467.jpg,0.999804,156.999999,200.00024,370.000257,1,trees,trees_1.00,"green, tall, large, leafy, white, red","green, leafy"

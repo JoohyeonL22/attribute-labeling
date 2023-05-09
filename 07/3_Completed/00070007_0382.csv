@@ -1,0 +1,9 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0382.jpg,1.0001625,0.9999,56.0002395,20.00002,1,truck,truck_1.00,"yellow, green, colorful, neon, blue, large",yellow
+00070007_0382.jpg,9.00012,44.999944,537,404,1,car,car_9.00,"parked, red, black, yellow, brown, white",red
+00070007_0382.jpg,482.0001915,41.000142,537.0002685,85.000186,1,car,car_482.00,"white, parked, black, green, blue, silver",white
+00070007_0382.jpg,63.0000345,1.000102,88.0000695,29.00013,1,car,car_63.00,"yellow, black, white, metal, large, small","white, metal"
+00070007_0382.jpg,144.0000405,9.00011,343.9997835,77.000178,1,truck,truck_144.00,"white, parked, black, blue, silver, metal","white, parked"
+00070007_0382.jpg,85.9997445,1.000102,393.9998535,48.00025,1,building,building_86.00,"white, yellow, metal, black, large, silver",large
+00070007_0382.jpg,0.999894,16.999916,537,185.000084,1,road,road_1.00,"yellow, black, parked, gray, white, silver",gray
+00070007_0382.jpg,166.000125,360.999856,228.999891,404,1,debris,debris_166.00,"blue, white, open, clear, red, green",blue

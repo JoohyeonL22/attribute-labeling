@@ -1,0 +1,14 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0453.jpg,1.0001879999999943,73.00018250000002,147.00042000000002,207.0000775,1,bush,bush_1.00,"pink, purple, green, red, colorful, white",green
+00070007_0453.jpg,358.999776,110.9999675,648.0,364.0000825,1,bush,bush_359.00,"green, tall, leafy, growing, short, metal","green, leafy"
+00070007_0453.jpg,1.0001879999999943,170.00002750000002,134.000244,365.0001825000001,1,car,car_1.00,"white, gray, green, pink, orange, painted",white
+00070007_0453.jpg,0.999863999999988,5.999869999999987,237.00016800000003,146.0,1,suv,suv_1.00,"purple, pink, green, black, parked, red","black, parked"
+00070007_0453.jpg,159.99994800000002,20.999909999999986,585.999684,225.99997,1,car,car_160.00,"green, white, silver, parked, black, gray",white
+00070007_0453.jpg,33.00004800000002,162.999875,375.000192,287.999965,1,dirt,dirt_33.00,"green, brown, metal, orange, yellow, rusty","brown, rusty"
+00070007_0453.jpg,375.999732,1.0000999999999998,442.999692,46.00022,1,man,man_376.00,"yellow, blue, black, large, gray, orange",gray
+00070007_0453.jpg,447.00012,1.000100000000003,524.99988,73.0,1,man,man_447.00,"black, purple, pink, open, dark, sitting",black
+00070007_0453.jpg,58.000212000000005,1.0000999999999962,107.000028,126.00019,1,pole,pole_58.00,"pink, white, red, purple, metal, gray","metal, gray"
+00070007_0453.jpg,50.00032799999997,234.00004,622.0002959999999,365.0,1,sidewalk,sidewalk_50.00,"gray, concrete, green, cement, paved, orange","gray, paved"
+00070007_0453.jpg,565.000272,0.9999175000000022,648.0,69.99988249999998,1,truck,truck_565.00,"white, parked, silver, green, gray, black","white, parked"
+00070007_0453.jpg,226.00004400000003,1.000100000000003,459.99997200000007,52.00009,1,truck,truck_226.00,"orange, white, yellow, colorful, blue, multi colored",white
+00070007_0453.jpg,524.000016,66.00002999999998,648.0,133.00016,1,road,road_524.00,"green, white, metal, yellow, gray, silver",gray

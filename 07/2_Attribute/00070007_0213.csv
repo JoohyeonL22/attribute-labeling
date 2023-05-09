@@ -1,0 +1,11 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0213.jpg,251.00024400000004,300.00009800000004,293.00008800000006,357.00005400000003,1,bucket,bucket_251.00,"green, blue, black, plastic, clear, small","green, blue, black, plastic, clear, small"
+00070007_0213.jpg,0.9998940000000012,162.00016200000002,60.999978,208.000006,1,truck,truck_1.00,"yellow, white, digital, large, lit, black","yellow, white, digital, large, lit, black"
+00070007_0213.jpg,186.000153,141.000242,468.000333,320.000118,1,van,van_186.00,"green, white, yellow, colorful, large, metal","green, white, yellow, colorful, large, metal"
+00070007_0213.jpg,126.999963,145.000044,199.999743,315.000012,1,man,man_127.00,"yellow, green, black, standing, purple, sitting","yellow, green, black, standing, purple, sitting"
+00070007_0213.jpg,457.0001565,163.000062,501.0003255,279.000178,1,man,man_457.00,"standing, blue, walking, green, watching, wearing","standing, blue, walking, green, watching, wearing"
+00070007_0213.jpg,98.0000835,152.99984999999998,134.0000265,217.999814,1,man,man_98.00,"green, yellow, white, colorful, open, red","green, yellow, white, colorful, open, red"
+00070007_0213.jpg,63.000303,121.00002000000002,227.000103,238.000036,1,truck,truck_63.00,"purple, yellow, pink, colorful, green, multi colored","purple, yellow, pink, colorful, green, multi colored"
+00070007_0213.jpg,0.9998940000000404,203.9998,537.0,404.0,1,road,road_1.00,"gray, yellow, metal, wet, black, concrete","gray, yellow, metal, wet, black, concrete"
+00070007_0213.jpg,18.999865500000013,234.99993200000003,248.99965050000003,307.000004,1,debris,debris_19.00,"purple, pink, black, metal, white, wooden","purple, pink, black, metal, white, wooden"
+00070007_0213.jpg,0.9998940000000404,0.9998999999999968,537.0,210.999908,1,trees,trees_1.00,"bare, brown, black, tall, red, green","bare, brown, black, tall, red, green"

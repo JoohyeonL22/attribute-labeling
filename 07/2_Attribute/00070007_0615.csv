@@ -1,0 +1,8 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0615.jpg,253.00032,124.99992,578.0,270.0,1,jeep,jeep_253.00,"purple, pink, silver, white, metal, black","purple, pink, silver, white, metal, black"
+00070007_0615.jpg,285.00032,158.00003999999998,302.0,169.00019999999998,1,car,car_285.00,"orange, yellow, red, small, colorful, white","orange, yellow, red, small, colorful, white"
+00070007_0615.jpg,302.00032,157.99985999999998,324.00032,171.9999,1,car,car_302.00,"colorful, yellow, green, small, blue, multi colored","colorful, yellow, green, small, blue, multi colored"
+00070007_0615.jpg,1.0,162.0,639.99968,360.0,1,road,road_1.00,"yellow, gray, wet, empty, concrete, black","yellow, gray, wet, empty, concrete, black"
+00070007_0615.jpg,350.00032,152.0001,384.00032,174.00006,1,car,car_350.00,"red, yellow, wooden, orange, black, small","red, yellow, wooden, orange, black, small"
+00070007_0615.jpg,247.0,159.00012,256.00032,167.00003999999998,1,car,car_247.00,"pink, white, purple, small, red, blue","pink, white, purple, small, red, blue"
+00070007_0615.jpg,202.0,157.00014,226.0,169.00002,1,cars,cars_202.00,"yellow, black, white, blue, green, red","yellow, black, white, blue, green, red"

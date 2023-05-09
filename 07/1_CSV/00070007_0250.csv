@@ -1,0 +1,9 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0250.jpg,1.000079999999997,169.00011,370.99992,244.000026,1,hose,hose_1.00,"['blue', 'metal', 'white', 'brown', 'silver', 'red']"
+00070007_0250.jpg,228.0,33.000057,291.0,205.000101,1,firefighter,firefighter_228.00,"['red', 'metal', 'standing', 'sitting', 'pink', 'yellow']"
+00070007_0250.jpg,274.00008,32.0000355,324.0002400000001,195.0000165,1,firefighter,firefighter_274.00,"['red', 'sitting', 'metal', 'brown', 'standing', 'glass']"
+00070007_0250.jpg,315.00024,5.999868000000006,406.00008,232.99992,1,firefighter,firefighter_315.00,"['standing', 'walking', 'yellow', 'green', 'sitting', 'looking']"
+00070007_0250.jpg,1.0000799999999683,1.0000215000000026,480.00024,77.99998049999999,1,trees,trees_1.00,"['red', 'white', 'green', 'metal', 'black', 'large']"
+00070007_0250.jpg,20.000160000000022,20.000038499999988,242.00016,207.0000135,1,car,car_20.00,"['white', 'silver', 'parked', 'red', 'double decker', 'large']"
+00070007_0250.jpg,130.99992,190.0000395,278.99976000000004,233.0000505,1,debris,debris_131.00,"['white', 'purple', 'pink', 'small', 'red', 'silver']"
+00070007_0250.jpg,392.00016,91.99989,440.00016,189.000018,1,firefighter,firefighter_392.00,"['green', 'blue', 'glass', 'metal', 'yellow', 'black']"

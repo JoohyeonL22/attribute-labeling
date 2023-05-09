@@ -1,0 +1,10 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0863.jpg,1094.0022,1538.0004,1358.001,1785.0012,1,sign,sign_1094.00,"green, white, street, blue, metal, traffic","green, white, street, blue, metal, traffic"
+00070007_0863.jpg,794.0016,1288.0008,1593.0,1594.0008,1,sign,sign_794.00,"green, white, street, blue, metal, black","green, white, street, blue, metal, black"
+00070007_0863.jpg,920.0016,1807.0008,1595.0016,2062.0008,1,sign,sign_920.00,"red, white, black, metal, orange, small","red, white, black, metal, orange, small"
+00070007_0863.jpg,1101.0005999999998,7.999199999999973,2313.0018,1354.9992,1,tree,tree_1101.00,"bare, leafless, dead, brown, tall, dry","bare, leafless, dead, brown, tall, dry"
+00070007_0863.jpg,159.99840000000006,19.000800000000027,1239.9984,1210.0008,1,tree,tree_160.00,"bare, leafless, brown, dead, tall, green","bare, leafless, brown, dead, tall, green"
+00070007_0863.jpg,2647.0008,0.9995999999999868,3583.0008,1085.9987999999998,1,tree,tree_2647.00,"bare, leafless, white, brown, tall, gray","bare, leafless, white, brown, tall, gray"
+00070007_0863.jpg,1.0007999999997992,1067.0004,3600.0,2400.0012,1,water,water_1.00,"brown, calm, wet, murky, large, clear","brown, calm, wet, murky, large, clear"
+00070007_0863.jpg,2110.0014,533.0004,2869.0002000000004,1086.9996,1,tree,tree_2110.00,"purple, pink, white, bare, tall, large","purple, pink, white, bare, tall, large"
+00070007_0863.jpg,1910.0016000000005,26.99879999999996,3600.0,1068.9996,1,building,building_1910.00,"white, bare, gray, brown, pink, large","white, bare, gray, brown, pink, large"

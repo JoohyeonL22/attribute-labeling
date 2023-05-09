@@ -1,0 +1,12 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0717.jpg,552.99996,164.0001575,594.000216,327.0000325,1,broom,broom_553.00,"['blue', 'green', 'metal', 'white', 'black', 'standing']"
+00070007_0717.jpg,223.000128,135.00017749999998,333.999936,210.0000125,1,building,building_223.00,"['blue', 'metal', 'red', 'white', 'gray', 'silver']"
+00070007_0717.jpg,324.00032400000003,142.0001475,391.000284,211.0001125,1,building,building_324.00,"['black', 'red', 'open', 'dark', 'metal', 'small']"
+00070007_0717.jpg,4.000103999999993,131.99987749999997,265.00024800000006,273.9998425,1,suv,suv_4.00,"['black', 'blue', 'green', 'parked', 'dark', 'white']"
+00070007_0717.jpg,469.000044,137.99993,555.999876,209.99983000000003,1,car,car_469.00,"['purple', 'pink', 'black', 'white', 'open', 'red']"
+00070007_0717.jpg,590.000112,128.00002500000002,608.000256,319.000145,1,pole,pole_590.00,"['green', 'white', 'metal', 'blue', 'wooden', 'glass']"
+00070007_0717.jpg,572.9998320000001,112.999985,633.99996,173.000145,1,sign,sign_573.00,"['yellow', 'white', 'green', 'black', 'blue', 'glass']"
+00070007_0717.jpg,0.9998640000000024,1.000100000000003,533.000088,154.00007,1,trees,trees_1.00,"['green', 'white', 'red', 'large', 'tall', 'big']"
+00070007_0717.jpg,388.999908,144.9999,406.000188,196.99999,1,man,man_389.00,"['red', 'white', 'metal', 'black', 'silver', 'tall']"
+00070007_0717.jpg,398.99952,1.000100000000003,591.99984,213.00013,1,building,building_399.00,"['white', 'large', 'tall', 'pink', 'big', 'gray']"
+00070007_0717.jpg,1.00018799999998,225.99997,648.000324,365.0,1,dirt,dirt_1.00,"['brown', 'green', 'dirt', 'dirty', 'gray', 'wet']"

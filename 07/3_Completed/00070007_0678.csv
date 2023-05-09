@@ -1,0 +1,12 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0678.jpg,23.000036500000004,50.999949,84.0001855,90.999997,1,boat,boat_23.00,"red, double decker, black, yellow, large, white",black
+00070007_0678.jpg,203.999936,36.00011799999999,343.0,89.000032,1,building,building_204.00,"green, white, black, yellow, large, tall",white
+00070007_0678.jpg,109.99992850000002,90.999997,244.0000815,153.999923,1,truck,truck_110.00,"white, black, small, parked, silver, gray",black
+00070007_0678.jpg,242.9998935,97.000079,288.9999665,160.00000500000002,1,man,man_243.00,"small, green, red, brown, sitting, little",red
+00070007_0678.jpg,0.9998450000000004,1.000076000000007,117.999889,70.000084,1,trees,trees_1.00,"green, red, tall, large, white, leafy","green, leafy"
+00070007_0678.jpg,115.99985600000002,0.9999825000000016,343.0,71.9999555,1,trees,trees_116.00,"green, black, tall, dark, large, white",green
+00070007_0678.jpg,1.0000164999999868,61.99994350000001,343.0001715,186.9999065,1,water,water_1.00,"gray, brown, yellow, concrete, wet, black","brown, wet"
+00070007_0678.jpg,164.99980700000003,93.0000555,201.999903,165.0001045,1,man,man_165.00,"sitting, red, small, black, blue, white",red
+00070007_0678.jpg,187.9998435,80.0000025,248.9999925,152.0000515,1,man,man_188.00,"sitting, glass, black, small, open, white",
+00070007_0678.jpg,128.000054,68.9999145,139.00006399999998,86.9999735,1,person,person_128.00,"white, small, open, square, black, blue",black
+00070007_0678.jpg,260.9998475,65.99996700000001,269.9998245,94.999927,1,person,person_261.00,"green, small, open, white, tall, standing",standing

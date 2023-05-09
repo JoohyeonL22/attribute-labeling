@@ -1,0 +1,11 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0682.jpg,383.999616,241.999935,836.999644,472.999669,1,car,car_384.00,"white, parked, silver, gray, blue, large","white, parked"
+00070007_0682.jpg,101.999898,221.000134,245.999754,315.00022,1,car,car_102.00,"green, double decker, yellow, red, white, black",white
+00070007_0682.jpg,643.000319,194.0002525,697.000265,248.9999755,1,man,man_643.00,"purple, pink, sitting, white, small, little",
+00070007_0682.jpg,1.00048,1.0002805,962,278.0000975,1,trees,trees_1.00,"black, bare, red, tall, large, white",bare
+00070007_0682.jpg,51.999948,171.000211,215.999784,295.000379,1,truck,truck_52.00,"red, double decker, white, blue, green, yellow",white
+00070007_0682.jpg,1.00048,264.9999765,962,640.9996795,1,water,water_1.00,"calm, white, blue, gray, large, wet","white, wet"
+00070007_0682.jpg,422.00054,249.9999355,550.000412,462.9997485,1,man,man_422.00,"gray, black, silver, blue, open, white",
+00070007_0682.jpg,537.999943,206.9997325,567.999913,249.9999355,1,man,man_538.00,"pink, purple, black, small, white, colorful",
+00070007_0682.jpg,559.999921,285.000138,631.000331,322.9999,1,person,person_560.00,"glass, large, small, clear, square, closed",
+00070007_0682.jpg,295.000186,197.0001325,352.00061,314.9998995,1,person,person_295.00,"standing, blue, black, red, walking, white","standing, red"

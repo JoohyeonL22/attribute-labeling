@@ -1,0 +1,10 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0375.jpg,628.0001619999999,349.9999275,807.000574,554.9997225,1,ladder,ladder_628.00,"metal, white, gray, wooden, green, blue","metal, white, gray, wooden, green, blue"
+00070007_0375.jpg,201.000044,180.00009750000004,311.000176,347.0001525,1,man,man_201.00,"green, white, yellow, black, standing, blue","green, white, yellow, black, standing, blue"
+00070007_0375.jpg,95.000114,243.00009,176.999818,344.0001,1,man,man_95.00,"purple, pink, black, standing, colorful, white","purple, pink, black, standing, colorful, white"
+00070007_0375.jpg,490.000095,0.9998324999999966,656.000097,210.0000675,1,tree,tree_490.00,"green, brown, black, bare, gray, long","green, brown, black, bare, gray, long"
+00070007_0375.jpg,656.0000969999999,0.999832499999968,812.9998909999999,351.0000375,1,tree,tree_656.00,"green, brown, gray, bare, long, dead","green, brown, gray, bare, long, dead"
+00070007_0375.jpg,279.000039,174.99982500000004,676.000121,415.999695,1,car,car_279.00,"green, blue, black, white, gray, open","green, blue, black, white, gray, open"
+00070007_0375.jpg,1.0002970000000175,0.9998324999999966,467.000659,338.99982750000004,1,tree,tree_1.00,"bare, green, brown, leafless, dead, tall","bare, green, brown, leafless, dead, tall"
+00070007_0375.jpg,0.9998039999999832,1.0001100000000065,986.0,555.0,1,field,field_1.00,"brown, green, bare, dead, dry, gray","brown, green, bare, dead, dry, gray"
+00070007_0375.jpg,851.999642,288.0003225,972.99959,331.0000575,1,debris,debris_852.00,"metal, black, blue, iron, gray, silver","metal, black, blue, iron, gray, silver"

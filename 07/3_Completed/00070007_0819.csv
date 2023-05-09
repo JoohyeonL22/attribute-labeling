@@ -1,0 +1,12 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0819.jpg,64.99942399999998,424.999674,1045.999616,1169.999094,1,car,car_65.00,"black, blue, large, old, parked, small","black, old"
+00070007_0819.jpg,756.000768,517.999548,805.001216,594.999108,1,cone,cone_756.00,"pink, red, orange, yellow, colorful, purple",orange
+00070007_0819.jpg,1038.999552,562.0002300000001,1251.999744,1096.000818,1,man,man_1039.00,"standing, purple, pink, young, walking, gray","walking, gray"
+00070007_0819.jpg,426.999808,213.000414,583.000064,379.000314,1,sign,sign_427.00,"pink, purple, black, orange, red, colorful",orange
+00070007_0819.jpg,981.999616,404.999826,2048.0,899.9996940000001,1,debris,debris_982.00,"brown, rocky, gray, large, dry, dead","brown, rocky"
+00070007_0819.jpg,149.99961599999995,0.9997020000000134,2047.000576,574.999986,1,trees,trees_150.00,"green, black, gray, dark, tall, bare",green
+00070007_0819.jpg,1137.000448,1020.9999360000002,2047.000576,1452.0,1,branch,branch_1137.00,"green, brown, small, dead, growing, dry","green, brown"
+00070007_0819.jpg,0.99942400000009,564.00036,2048.0,1452.0,1,road,road_1.00,"gray, brown, dirty, concrete, old, white","gray, dirty"
+00070007_0819.jpg,1400.9999360000002,0.9997020000000134,1479.999488,540.9999539999999,1,pole,pole_1401.00,"red, orange, black, tall, long, blue",long
+00070007_0819.jpg,504.9989120000001,370.000092,528.9994240000001,565.999764,1,pole,pole_505.00,"blue, green, metal, silver, tall, white",
+00070007_0819.jpg,943.998976,909.000642,1297.999872,1050.000006,1,debris,debris_944.00,"purple, pink, colorful, metal, black, small","metal, small"

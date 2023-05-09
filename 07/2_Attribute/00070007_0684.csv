@@ -1,0 +1,7 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0684.jpg,73.0,55.000107000000014,552.0,187.000029,1,banner,banner_73.00,"white, green, blue, black, large, street","white, green, blue, black, large, street"
+00070007_0684.jpg,1.0,0.9999360000000196,800.0,365.000076,1,building,building_1.00,"black, gray, brown, white, metal, concrete","black, gray, brown, white, metal, concrete"
+00070007_0684.jpg,475.0,149.000229,597.0,334.000107,1,man,man_475.00,"sitting, black, standing, young, looking, smiling","sitting, black, standing, young, looking, smiling"
+00070007_0684.jpg,690.0,0.9999359999999626,721.0,351.999792,1,pole,pole_690.00,"white, metal, tall, gray, silver, long","white, metal, tall, gray, silver, long"
+00070007_0684.jpg,1.0,332.999892,800.0,558.0,1,water,water_1.00,"calm, blue, clear, white, gray, dark","calm, blue, clear, white, gray, dark"
+00070007_0684.jpg,451.0,270.00001799999995,642.0,391.000086,1,boat,boat_451.00,"red, blue, yellow, white, colorful, black","red, blue, yellow, white, colorful, black"

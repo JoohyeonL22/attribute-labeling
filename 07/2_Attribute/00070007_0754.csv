@@ -1,0 +1,6 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0754.jpg,318.999926,343.9996525,426.99983,446.9996275,1,van,van_319.00,"clear, small, blurry, white, empty, glass","clear, small, blurry, white, empty, glass"
+00070007_0754.jpg,1.0000514999999837,243.9997925,632.9995945000001,388.9998875,1,trees,trees_1.00,"green, red, blurry, tall, white, black","green, red, blurry, tall, white, black"
+00070007_0754.jpg,678.0004975,218.99982750000004,892.0002025,399.0000225,1,tree,tree_678.00,"green, purple, pink, black, blurry, white","green, purple, pink, black, blurry, white"
+00070007_0754.jpg,0.9995799999999804,373.0002675,943.0,745.0003725,1,water,water_1.00,"white, gray, clear, blurry, wet, clean","white, gray, clear, blurry, wet, clean"
+00070007_0754.jpg,547.999932,492.9996525,628.9998599999999,587.9998175,1,person,person_548.00,"pink, black, red, small, white, purple","pink, black, red, small, white, purple"

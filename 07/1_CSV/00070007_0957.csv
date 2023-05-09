@@ -1,0 +1,11 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0957.jpg,485.00121599999966,40.99939200000017,4032.0,2183.999328,1,building,building_485.00,"['white', 'brown', 'large', 'tan', 'red', 'old']"
+00070007_0957.jpg,1681.00128,1783.000296,2039.00256,1985.000472,1,bush,bush_1681.00,"['green', 'blue', 'small', 'large', 'tall', 'purple']"
+00070007_0957.jpg,3313.999584,1250.00064,4031.997984000001,3024.0,1,bush,bush_3314.00,"['green', 'tall', 'leafy', 'large', 'small', 'growing']"
+00070007_0957.jpg,726.0019199999999,1332.000936,1117.001088,2249.00172,1,man,man_726.00,"['standing', 'walking', 'young', 'watching', 'playing', 'white']"
+00070007_0957.jpg,0.9999359999999342,0.9994320000000698,1115.001216,2354.998968,1,tree,tree_1.00,"['green', 'tall', 'large', 'bare', 'brown', 'white']"
+00070007_0957.jpg,3710.998368,16.00149600000003,4023.998496,742.0003919999999,1,tree,tree_3711.00,"['green', 'tall', 'purple', 'pink', 'small', 'leafy']"
+00070007_0957.jpg,373.0023359999999,1208.000304,2350.0008,1972.999728,1,van,van_373.00,"['white', 'parked', 'gray', 'silver', 'large', 'blue']"
+00070007_0957.jpg,0.997920000000022,1852.9998480000004,3319.9992,3023.998488,1,grass,grass_1.00,"['green', 'short', 'grassy', 'brown', 'grass', 'large']"
+00070007_0957.jpg,2075.000256,1348.00092,2563.00128,1774.000872,1,debris,debris_2075.00,"['gray', 'green', 'black', 'white', 'silver', 'purple']"
+00070007_0957.jpg,449.001504,1618.000272,630.002016,1818.999504,1,man,man_449.00,"['red', 'black', 'brown', 'green', 'white', 'dark']"

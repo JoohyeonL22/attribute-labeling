@@ -1,0 +1,12 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0757.jpg,1048.001472,1020.001248,1923.00192,1503.000576,1,suv,suv_1048.00,"white, parked, silver, driving, yellow, moving","white, parked, silver, driving, yellow, moving"
+00070007_0757.jpg,1852.998336,1096.001928,2103.9984,1258.000632,1,car,car_1853.00,"white, parked, yellow, small, driving, large","white, parked, yellow, small, driving, large"
+00070007_0757.jpg,2179.0016640000003,1060.001208,2425.0020480000003,1262.001384,1,jeep,jeep_2179.00,"red, white, double decker, large, driving, moving","red, white, double decker, large, driving, moving"
+00070007_0757.jpg,607.0014719999999,1079.001,1109.0016,1424.000088,1,car,car_607.00,"black, dark, parked, red, white, small","black, dark, parked, red, white, small"
+00070007_0757.jpg,2328.998112,1127.000952,4031.997984,3024.001512,1,sidewalk,sidewalk_2329.00,"wet, gray, concrete, black, paved, yellow","wet, gray, concrete, black, paved, yellow"
+00070007_0757.jpg,2599.998912,1418.000472,3624.997824,2408.000616,1,sign,sign_2600.00,"yellow, black, orange, white, red, traffic","yellow, black, orange, white, red, traffic"
+00070007_0757.jpg,0.9999359999999342,1197.9999360000002,2912.99904,3024.0,1,water,water_1.00,"wet, black, dark, paved, blue, large","wet, black, dark, paved, blue, large"
+00070007_0757.jpg,0.997920000000022,175.99982400000005,686.998368,1152.999792,1,trees,trees_1.00,"tall, green, palm, large, leafy, blue","tall, green, palm, large, leafy, blue"
+00070007_0757.jpg,2753.001216,1455.0006239999998,3399.000192,2603.001744,1,barricade,barricade_2753.00,"yellow, black, white, orange, red, traffic","yellow, black, white, orange, red, traffic"
+00070007_0757.jpg,894.001248,586.0013039999999,2575.002528,1088.000424,1,trees,trees_894.00,"tall, green, large, white, red, blue","tall, green, large, white, red, blue"
+00070007_0757.jpg,3448.999008,1069.0006320000002,3905.997984,1184.000328,1,truck,truck_3449.00,"white, blue, parked, green, silver, small","white, blue, parked, green, silver, small"

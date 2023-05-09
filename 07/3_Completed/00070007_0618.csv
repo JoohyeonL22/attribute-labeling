@@ -1,0 +1,8 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0618.jpg,0.9995999999999868,652.9998999999998,841.9992,1293.0001,1,car,car_1.00,"black, green, parked, old, red, large","black, old"
+00070007_0618.jpg,574.0013999999999,195.00040000000013,1521.0006,1225.0,1,truck,truck_574.00,"white, green, black, red, gray, parked",white
+00070007_0618.jpg,1406.0004,198.9995,1879.0002,1399.9993,1,firefighter,firefighter_1406.00,"standing, walking, smiling, black, young, looking","walking, black"
+00070007_0618.jpg,0.999599999999873,0.9995999999999868,2100.0,876.9992,1,trees,trees_1.00,"green, white, black, tall, red, leafy","green, leafy"
+00070007_0618.jpg,1866.99975,944.0004,2060.99985,1140.0004,1,debris,debris_1867.00,"purple, pink, brown, black, gray, sitting","brown, gray"
+00070007_0618.jpg,806.0009999999999,1073.9995,2100.0,1399.9993,1,road,road_806.00,"gray, concrete, paved, cement, wet, green","gray, paved"
+00070007_0618.jpg,4.000500000000002,1.0003000000000384,96.0015,1104.9996999999998,1,pole,pole_4.00,"brown, black, tall, green, metal, long","black, metal"

@@ -1,0 +1,10 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0917.jpg,470.0001,255.0,525.9999,288.0,1,container,container_470.00,"['pink', 'purple', 'white', 'small', 'plastic', 'colorful']"
+00070007_0917.jpg,421.9998,260.0001,460.9998,287.0001,1,debris,debris_422.00,"['white', 'green', 'small', 'black', 'gray', 'blue']"
+00070007_0917.jpg,0.9998999999999684,1.0000500000000017,599.9997000000001,133.99995,1,trees,trees_1.00,"['red', 'green', 'white', 'black', 'gray', 'large']"
+00070007_0917.jpg,93.0003,1.0000499999999874,392.0001,205.99995,1,truck,truck_93.00,"['green', 'white', 'blue', 'black', 'red', 'colorful']"
+00070007_0917.jpg,102.99990000000004,225.0,341.9997,300.0,1,machine,machine_103.00,"['black', 'gray', 'old', 'parked', 'blue', 'metal']"
+00070007_0917.jpg,368.0001,196.99995,489.9999,241.00005,1,tire,tire_368.00,"['black', 'gray', 'metal', 'large', 'small', 'white']"
+00070007_0917.jpg,20.0001,188.0001,60.9999,203.0001,1,tire,tire_20.00,"['blue', 'white', 'small', 'metal', 'green', 'wooden']"
+00070007_0917.jpg,0.9998999999999968,183.00000000000003,143.9997,300.0,1,road,road_1.00,"['gray', 'concrete', 'black', 'wet', 'paved', 'cement']"
+00070007_0917.jpg,392.0001,10.999949999999998,510.0003,199.00005,1,tree,tree_392.00,"['green', 'blue', 'tall', 'glass', 'large', 'white']"

@@ -1,0 +1,20 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0693.jpg,238.000128,128.0000055,480.0,648.0000064999999,1,boy,boy_238.00,"standing, skiing, young, walking, smiling, black","young, walking"
+00070007_0693.jpg,0.999935999999991,1.0002534999999853,152.0,399.0000625,1,building,building_1.00,"white, gray, green, brick, brown, tall","white, gray"
+00070007_0693.jpg,273.000448,178.00004499999997,490.000384,318.00001899999995,1,building,building_273.00,"white, black, large, blue, tall, glass",white
+00070007_0693.jpg,518.000128,273.00022249999995,619.00032,326.0003395,1,car,car_518.00,"yellow, blue, green, red, white, colorful",blue
+00070007_0693.jpg,595.00032,270.00014500000003,776.000512,333.000065,1,car,car_595.00,"yellow, blue, black, parked, white, moving","black, parked"
+00070007_0693.jpg,203.00032,271.000057,237.000192,349.000023,1,man,man_203.00,"walking, red, standing, white, black, blue","standing, black"
+00070007_0693.jpg,143.00057600000002,171.0003195,186.000384,225.0003485,1,sign,sign_143.00,"white, green, yellow, black, hanging, orange",white
+00070007_0693.jpg,0.999935999999991,303.00031450000006,1023.000064,683.0003415,1,water,water_1.00,"wet, white, gray, large, calm, black","wet, gray"
+00070007_0693.jpg,52.00025599999999,230.00025,111.000064,387.000094,1,woman,woman_52.00,"standing, walking, red, looking, wearing, green","standing, red"
+00070007_0693.jpg,145.000448,121.99985049999997,188.000256,360.0000795,1,lamp,lamp_145.00,"green, yellow, white, black, tall, metal","black, metal"
+00070007_0693.jpg,153.000448,262.00016600000004,187.00032,357.000002,1,person,person_153.00,"black, yellow, metal, green, glass, white",
+00070007_0693.jpg,134.000128,275.0000465,164.000256,359.00016750000003,1,tripod,tripod_134.00,"yellow, black, green, metal, wooden, gold","black, metal"
+00070007_0693.jpg,275.00032,291.0000045,286.000128,314.00002950000004,1,person,person_275.00,"pink, purple, white, colorful, small, black",
+00070007_0693.jpg,301.000192,287.000015,313.000448,318.000019,1,person,person_301.00,"pink, yellow, purple, colorful, red, orange",
+00070007_0693.jpg,565.000192,271.000057,653.000704,332.000153,1,car,car_565.00,"blue, yellow, red, colorful, glass, parked",parked
+00070007_0693.jpg,792.0005120000001,265.999814,1024.0,296.999818,1,cars,cars_792.00,"blue, green, yellow, white, colorful, red",
+00070007_0693.jpg,678.00064,248.000032,789.000192,310.99995199999995,1,boat,boat_678.00,"yellow, blue, white, green, black, large",white
+00070007_0693.jpg,725.000192,218.0002815,1024.0,272.0003105,1,building,building_725.00,"large, white, green, blue, tall, big","large, white"
+00070007_0693.jpg,821.000704,288.0002685,980.000256,314.99994150000003,1,boat,boat_821.00,"yellow, blue, green, colorful, small, wooden","green, small"

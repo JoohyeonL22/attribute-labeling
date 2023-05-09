@@ -1,0 +1,9 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0707.jpg,547.0003200000001,410.99988300000007,843.0003200000001,853.9995729999999,1,man,man_547.00,"orange, pink, striped, standing, purple, gray","orange, pink, striped, standing, purple, gray"
+00070007_0707.jpg,1.0009600000000205,0.999607000000026,939.00032,534.9998290000001,1,trees,trees_1.00,"bare, pink, white, leafless, purple, gray","bare, pink, white, leafless, purple, gray"
+00070007_0707.jpg,302.9996800000001,40.999686,1082.99968,669.999722,1,tree,tree_303.00,"bare, purple, pink, white, leafless, gray","bare, purple, pink, white, leafless, gray"
+00070007_0707.jpg,747.0003199999999,0.999607000000026,1280.0,591.000025,1,trees,trees_747.00,"bare, leafless, tall, brown, white, pink","bare, leafless, tall, brown, white, pink"
+00070007_0707.jpg,426.00064,1.0004610000000014,460.0,371.000231,1,tower,tower_426.00,"blue, metal, tall, long, large, green","blue, metal, tall, long, large, green"
+00070007_0707.jpg,321.99936,383.000212,608.0,854.0,1,firefighter,firefighter_322.00,"brown, gray, standing, purple, young, pink","brown, gray, standing, purple, young, pink"
+00070007_0707.jpg,34.000640000000004,439.000408,266.00064,854.0,1,firefighter,firefighter_34.00,"sitting, brown, standing, gray, old, yellow","sitting, brown, standing, gray, old, yellow"
+00070007_0707.jpg,588.99968,541.99964,1062.99904,854.0,1,sidewalk,sidewalk_589.00,"gray, orange, white, large, wet, brown","gray, orange, white, large, wet, brown"

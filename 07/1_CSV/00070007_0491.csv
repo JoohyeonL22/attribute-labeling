@@ -1,0 +1,7 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0491.jpg,543.0004,73.00005,629.0000000000001,126.00015,1,billboard,billboard_543.00,"['green', 'white', 'red', 'yellow', 'pink', 'neon']"
+00070007_0491.jpg,629.9996000000001,44.0001,850.0,116.0001,1,billboard,billboard_630.00,"['white', 'large', 'green', 'black', 'hanging', 'big']"
+00070007_0491.jpg,1.0004500000000007,1.0000499999999874,558.00035,225.00015,1,building,building_1.00,"['brown', 'brick', 'pink', 'tan', 'large', 'purple']"
+00070007_0491.jpg,823.000175,106.00005,838.0001249999999,211.99995,1,pole,pole_823.00,"['red', 'blue', 'white', 'metal', 'tall', 'orange']"
+00070007_0491.jpg,0.9996000000000436,183.00000000000003,850.0,300.0,1,water,water_1.00,"['wet', 'calm', 'brown', 'murky', 'reflective', 'gray']"
+00070007_0491.jpg,605.0002499999999,108.9999,741.99985,189.9999,1,building,building_605.00,"['pink', 'red', 'brown', 'wooden', 'green', 'yellow']"

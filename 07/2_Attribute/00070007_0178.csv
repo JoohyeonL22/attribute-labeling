@@ -1,0 +1,7 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0178.jpg,48.00025099999998,1.0000075000000097,302.000255,269.00013450000006,1,building,building_48.00,"brick, pink, purple, tall, red, large","brick, pink, purple, tall, red, large"
+00070007_0178.jpg,94.999661,23.000038000000004,225.999901,269.0,1,machine,machine_95.00,"green, purple, blue, white, double decker, pink","green, purple, blue, white, double decker, pink"
+00070007_0178.jpg,187.999724,134.0000635,464.999794,269.0001345,1,debris,debris_188.00,"white, red, metal, colorful, purple, black","white, red, metal, colorful, purple, black"
+00070007_0178.jpg,1.000059500000006,132.99992150000003,167.9998365,267.9999925,1,car,car_1.00,"green, purple, black, dark, white, pink","green, purple, black, dark, white, pink"
+00070007_0178.jpg,327.9999785,6.000045,520.9997395,266.999985,1,bus,bus_328.00,"white, red, double decker, large, parked, big","white, red, double decker, large, parked, big"
+00070007_0178.jpg,1.0000595000000203,30.999963500000007,382.9998645,168.9999225,1,building,building_1.00,"purple, pink, brick, red, tall, large","purple, pink, brick, red, tall, large"

@@ -1,0 +1,13 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0950.jpg,1.0,1.0001249999999828,71.0,225.000375,1,building,building_1.00,"tall, gray, brown, large, green, tan","tall, gray, brown, large, green, tan"
+00070007_0950.jpg,702.0,36.0,729.0,282.0,1,pole,pole_702.00,"green, blue, tall, metal, white, long","green, blue, tall, metal, white, long"
+00070007_0950.jpg,782.0,409.000125,1000.0,514.999875,1,sidewalk,sidewalk_782.00,"concrete, gray, brown, cement, paved, green","concrete, gray, brown, cement, paved, green"
+00070007_0950.jpg,351.0,0.9997499999999776,1000.0,495.99975,1,trees,trees_351.00,"green, white, black, large, tall, parked","green, white, black, large, tall, parked"
+00070007_0950.jpg,247.0,188.00025,813.0,587.00025,1,van,van_247.00,"white, blue, parked, yellow, black, large","white, blue, parked, yellow, black, large"
+00070007_0950.jpg,2.0,211.999875,239.0,352.000125,1,van,van_2.00,"white, parked, red, yellow, silver, orange","white, parked, red, yellow, silver, orange"
+00070007_0950.jpg,0.9999999999999432,331.0001249999999,1000.0,750.000375,1,road,road_1.00,"gray, black, paved, concrete, wet, asphalt","gray, black, paved, concrete, wet, asphalt"
+00070007_0950.jpg,34.0,86.00025,292.0,239.00025,1,trees,trees_34.00,"green, tall, large, white, leafy, big","green, tall, large, white, leafy, big"
+00070007_0950.jpg,250.0,193.000125,298.0,291.000375,1,fire truck,fire truck_250.00,"purple, pink, open, blue, colorful, small","purple, pink, open, blue, colorful, small"
+00070007_0950.jpg,177.0,247.999875,208.0,355.000125,1,man,man_177.00,"orange, open, yellow, red, glass, closed","orange, open, yellow, red, glass, closed"
+00070007_0950.jpg,197.0,254.00025,234.0,353.00025,1,woman,woman_197.00,"open, orange, red, glass, yellow, closed","open, orange, red, glass, yellow, closed"
+00070007_0950.jpg,751.0,292.000125,777.0,346.999875,1,man,man_751.00,"yellow, metal, gold, black, orange, glass","yellow, metal, gold, black, orange, glass"

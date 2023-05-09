@@ -1,0 +1,8 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0775.jpg,295.99936,205.99992,718.99968,451.00008,1,car,car_296.00,"black, parked, blue, dark, gray, small","black, small"
+00070007_0775.jpg,834,1.00008,860.00064,329.99976,1,pole,pole_834.00,"black, metal, tall, red, long, silver","metal, long"
+00070007_0775.jpg,0.99968,1.00008,1164,340.99992,1,trees,trees_1.00,"green, red, tall, yellow, leafy, black","green, leafy"
+00070007_0775.jpg,1.00032,222.99984,1072.00064,720,1,water,water_1.00,"wet, green, black, clear, yellow, calm","wet, yellow"
+00070007_0775.jpg,596.99968,12.9996,1280,718.99992,1,road,road_597.00,"wet, green, clear, white, black, gray","wet, gray"
+00070007_0775.jpg,773.99936,0.99972,917.99936,98.99964,1,sign,sign_774.00,"red, white, glass, hanging, large, black",white
+00070007_0775.jpg,816,108.99972,880,172.9998,1,sign,sign_816.00,"white, black, red, metal, pink, square","white, square"

@@ -1,0 +1,11 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0878.jpg,1287.9993089999998,255.00013,1521.000075,367.000578,1,suv,suv_1288.00,"['white', 'purple', 'pink', 'red', 'parked', 'colorful']"
+00070007_0878.jpg,1531.000329,293.99992999999995,1659.9997829999998,378.000266,1,car,car_1531.00,"['yellow', 'parked', 'red', 'purple', 'black', 'blue']"
+00070007_0878.jpg,327.999855,496.000204,929.000661,703.999968,1,car,car_328.00,"['white', 'blue', 'parked', 'large', 'small', 'big']"
+00070007_0878.jpg,1159.000686,272.000554,1228.0002780000002,455.000574,1,man,man_1159.00,"['standing', 'green', 'yellow', 'walking', 'black', 'blue']"
+00070007_0878.jpg,1.0005240000000413,1.000538000000006,1662.0,315.000014,1,trees,trees_1.00,"['green', 'tall', 'leafy', 'large', 'thick', 'dark']"
+00070007_0878.jpg,0.9996929999999792,535.999919,1271.999235,1245.999377,1,water,water_1.00,"['brown', 'dirty', 'dirt', 'orange', 'green', 'wet']"
+00070007_0878.jpg,510.000489,451.999583,964.000719,562.000201,1,ladder,ladder_510.00,"['green', 'white', 'blue', 'metal', 'silver', 'yellow']"
+00070007_0878.jpg,1.0005240000000413,321.999419,1662.0,425.000009,1,road,road_1.00,"['metal', 'gray', 'silver', 'white', 'yellow', 'orange']"
+00070007_0878.jpg,1575.000117,313.000184,1662.0008309999998,379.000804,1,car,car_1575.00,"['parked', 'black', 'yellow', 'blue', 'red', 'dark']"
+00070007_0878.jpg,119.9997239999999,390.000492,1659.998952,1246.0,1,grass,grass_120.00,"['green', 'brown', 'grassy', 'dirty', 'short', 'large']"

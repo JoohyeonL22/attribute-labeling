@@ -1,0 +1,5 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0356.jpg,44.000298999999984,57.0,753.0002509999999,438.0,1,car,car_44.00,"white, green, red, purple, pink, black","white, green, red, purple, pink, black"
+00070007_0356.jpg,0.9997159999999212,319.00008,853.0,480.00024,1,road,road_1.00,"black, gray, green, concrete, brown, paved","black, gray, green, concrete, brown, paved"
+00070007_0356.jpg,0.9997159999999212,281.99976,853.0,391.99992,1,field,field_1.00,"yellow, green, metal, white, black, long","yellow, green, metal, white, black, long"
+00070007_0356.jpg,664.0003635,252.99984,776.0001165000001,282.99984,1,building,building_664.00,"pink, purple, small, metal, wooden, red","pink, purple, small, metal, wooden, red"

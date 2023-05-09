@@ -1,0 +1,7 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0015.jpg,266.99980800000003,305.999712,380.99968,402.99984,1,bag,bag_267.00,"red, brown, blue, small, clear, white","red, brown, blue, small, clear, white"
+00070007_0015.jpg,46.00064000000003,0.9999360000000196,987.00032,377.000064,1,bus,bus_46.00,"white, black, brown, old, green, metal","white, black, brown, old, green, metal"
+00070007_0015.jpg,65.99936,427.000032,386.999808,576.000288,1,debris,debris_66.00,"green, brown, gray, dead, wooden, large","green, brown, gray, dead, wooden, large"
+00070007_0015.jpg,946.999808,189.000288,994.999808,327.00009600000004,1,man,man_947.00,"standing, walking, black, purple, pink, sitting","standing, walking, black, purple, pink, sitting"
+00070007_0015.jpg,995.999744,194.000256,1024.0,337.00032,1,man,man_996.00,"purple, standing, pink, black, brown, walking","purple, standing, pink, black, brown, walking"
+00070007_0015.jpg,410.999808,374.000256,524.99968,432.0,1,debris,debris_411.00,"red, small, white, colorful, blue, open","red, small, white, colorful, blue, open"

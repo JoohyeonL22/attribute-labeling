@@ -1,0 +1,11 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0135.jpg,1.0001999999999782,113.0001635,357.0006,326.99987250000004,1,building,building_1.00,"red, large, clear, green, pink, tall","red, large, clear, green, pink, tall"
+00070007_0135.jpg,793.0002,194.0004465,1014.0005999999998,375.0002235,1,camera,camera_793.00,"black, green, digital, silver, white, glass","black, green, digital, silver, white, glass"
+00070007_0135.jpg,1.0002000000000066,232.00028250000005,222.0006,342.0002915,1,fence,fence_1.00,"glass, green, blue, clear, yellow, metal","glass, green, blue, clear, yellow, metal"
+00070007_0135.jpg,828.0,248.999744,1200.0,707.0,1,man,man_828.00,"black, young, green, sitting, brown, standing","black, young, green, sitting, brown, standing"
+00070007_0135.jpg,124.99979999999994,1.0000514999999837,1199.9994000000002,654.0000984999999,1,smoke,smoke_125.00,"black, gray, dark, white, yellow, blue","black, gray, dark, white, yellow, blue"
+00070007_0135.jpg,0.9996000000000153,1.0004050000000009,390.9996,320.000219,1,trees,trees_1.00,"red, large, green, clear, big, pink","red, large, green, clear, big, pink"
+00070007_0135.jpg,63.99960000000005,193.9997395,732.9996000000001,481.0000265,1,fire,fire_64.00,"red, large, black, orange, yellow, clear","red, large, black, orange, yellow, clear"
+00070007_0135.jpg,20.99939999999998,280.0002800000001,739.9998,664.999958,1,bus,bus_21.00,"yellow, red, black, large, double decker, moving","yellow, red, black, large, double decker, moving"
+00070007_0135.jpg,0.99959999999993,575.9999700000001,897.9996000000001,707.0,1,road,road_1.00,"yellow, gray, concrete, wet, white, paved","yellow, gray, concrete, wet, white, paved"
+00070007_0135.jpg,895.9998,359.0001065,1006.0002,707.0003535,1,tripod,tripod_896.00,"green, silver, white, blue, metal, gray","green, silver, white, blue, metal, gray"

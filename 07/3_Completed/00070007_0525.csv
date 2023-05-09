@@ -1,0 +1,5 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0525.jpg,207.0,83.99987999999999,253.0,171.99996,1,man,man_207.00,"sitting, blue, gray, purple, standing, metal","gray, standing"
+00070007_0525.jpg,144.99984,153.99996,319.99984,239.99988,1,debris,debris_145.00,"wooden, brown, gray, pink, wood, metal","wooden, brown"
+00070007_0525.jpg,59.0,71.00004,119.0,105.99996,1,car,car_59.00,"purple, pink, black, small, square, lit","black, small"
+00070007_0525.jpg,78.99984,4.000079999999997,319.99984,133.00008,1,building,building_79.00,"brown, brick, blue, large, tan, old","brown, brick"

@@ -1,0 +1,13 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0139.jpg,449.0001,168.000027,492.0003,228.000097,1,car,car_449.00,"purple, pink, white, colorful, small, metal","white, small"
+00070007_0139.jpg,480,165.999912,543,234.999908,1,car,car_480.00,"yellow, orange, glass, black, metal, blue","black, metal"
+00070007_0139.jpg,501,171.000115,585,245.000145,1,car,car_501.00,"glass, orange, yellow, open, metal, brown",sitting
+00070007_0139.jpg,120.0003,0.999973,350.0001,240.000111,1,fire,fire_120.00,"red, yellow, green, large, white, tall","red, large"
+00070007_0139.jpg,206.0001,207.000157,321.0003,299.000039,1,motorbike,motorbike_206.00,"green, blue, metal, silver, white, small","metal, small"
+00070007_0139.jpg,0.9999,182.99996,599.9997,338,1,road,road_1.00,"gray, black, concrete, wet, empty, yellow",gray
+00070007_0139.jpg,0.9999,1.000142,155.0001,153.000094,1,trees,trees_1.00,"green, large, brown, red, dark, brick","green, brown"
+00070007_0139.jpg,492.9999,0.999973,599.9997,264.999943,1,tree,tree_493.00,"green, tall, large, leafy, brown, big","green, brown"
+00070007_0139.jpg,161.0001,99.000031,321.0003,225.000009,1,bus,bus_161.00,"glass, large, metal, white, red, yellow","large, metal"
+00070007_0139.jpg,240.9999,157.000155,302.9997,273.000065,1,man,man_241.00,"blue, metal, green, glass, sitting, open",sitting
+00070007_0139.jpg,209.9997,0.999973,441.9999,178.000095,1,smoke,smoke_210.00,"large, black, dark, blue, red, blurry","dark, blurry"
+00070007_0139.jpg,1.0002,143.000026,151.0002,194.999974,1,people,people_1.00,"yellow, red, black, white, metal, glass",

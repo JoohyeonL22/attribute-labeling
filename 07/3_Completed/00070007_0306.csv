@@ -1,0 +1,15 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0306.jpg,191.000196,9.000375,1003.000276,385.000125,1,fence,fence_191.00,"white, gray, black, red, silver, metal","white, metal"
+00070007_0306.jpg,125.999276,165,245.999764,522,1,man,man_126.00,"standing, walking, sitting, green, gray, watching","standing, gray"
+00070007_0306.jpg,255.999992,185.00025,391.999496,494.00025,1,firefighter,firefighter_256.00,"standing, skiing, walking, yellow, wearing, green","standing, wearing"
+00070007_0306.jpg,84.99969,205.999875,144.999934,490.000125,1,man,man_85.00,"green, metal, blue, black, colorful, silver",
+00070007_0306.jpg,1.00036,376.000125,1124,750.000375,1,track,track_1.00,"gray, metal, brown, silver, train, empty","gray, metal"
+00070007_0306.jpg,26.000368,1.000125,1124,477.000375,1,train,train_26.00,"white, black, gray, metal, silver, green","white, metal"
+00070007_0306.jpg,348.999752,234.99975,910.999752,495.99975,1,debris,debris_349.00,"black, green, metal, gray, silver, white",metal
+00070007_0306.jpg,123.99968,297.000375,150.000048,499.000125,1,firefighter,firefighter_124.00,"green, metal, blue, white, silver, black",
+00070007_0306.jpg,181.999766,284.999625,255.000194,451.999875,1,firefighter,firefighter_182.00,"brown, black, gray, pink, tan, white",tan
+00070007_0306.jpg,59.999682,234,111.999294,489,1,man,man_60.00,"green, black, brown, metal, standing, blue","brown, standing"
+00070007_0306.jpg,27.999964,322.000125,63.999436,402.000375,1,man,man_28.00,"red, pink, green, black, purple, blue",green
+00070007_0306.jpg,11.999824,331.000125,30.99992,396.000375,1,man,man_12.00,"pink, purple, red, black, small, colorful",black
+00070007_0306.jpg,0.999798,329.00025,9.999666,389.00025,1,person,person_1.00,"pink, purple, red, small, colorful, black",black
+00070007_0306.jpg,162.000434,1.999875,564.000158,205.000125,1,trees,trees_162.00,"white, gray, green, blue, orange, large",green

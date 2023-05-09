@@ -1,0 +1,19 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0597.jpg,1310.999552,868.0005120000001,2047.998976,1212.9999360000002,1,debris,debris_1311.00,"white, blue, gray, brown, dirty, wooden","white, gray"
+00070007_0597.jpg,1493.000192,0.9999359999999342,2048.0,868.99968,1,building,building_1493.00,"pink, brown, large, purple, tall, red",brown
+00070007_0597.jpg,1642.998784,741.0009600000001,1929.99936,965.000448,1,car,car_1643.00,"purple, black, blue, yellow, red, pink",
+00070007_0597.jpg,220.00128,820.99968,787.0003200000001,1170.000384,1,car,car_220.00,"blue, white, parked, large, silver, gray",white
+00070007_0597.jpg,1279.000576,682.000128,1571.999744,1024.99968,1,fire,fire_1279.00,"blue, colorful, green, metal, black, sitting",
+00070007_0597.jpg,1072.0,284.00025600000004,1786.000384,785.000448,1,tree,tree_1072.00,"purple, green, pink, large, tall, black","green, large"
+00070007_0597.jpg,0.99942400000009,831.0005759999999,2048.0,1536.0,1,road,road_1.00,"wet, brown, sandy, gray, dirty, dirt","brown, dirty"
+00070007_0597.jpg,1240.999936,776.0002559999999,1560.0005119999998,976.99968,1,car,car_1241.00,"green, colorful, blue, metal, black, multi colored",metal
+00070007_0597.jpg,198.00064000000003,1125.000192,617.0009600000001,1198.000128,1,fire,fire_198.00,"blue, red, orange, metal, black, colorful",red
+00070007_0597.jpg,576.0,876.0007680000001,683.9992319999999,936.0,1,fire,fire_576.00,"colorful, multi colored, pink, yellow, red, purple",red
+00070007_0597.jpg,1517.999104,768.999936,1677.999104,882.000384,1,people,people_1518.00,"colorful, yellow, pink, purple, red, multi colored",
+00070007_0597.jpg,1.0004480000000058,0.9999359999999342,1512.999936,847.9994879999999,1,smoke,smoke_1.00,"blue, cloudy, white, gray, dark, purple","cloudy, gray"
+00070007_0597.jpg,0.9994239999999764,445.000704,654.999552,998.00064,1,smoke,smoke_1.00,"blue, gray, black, white, dark, clear","gray, black"
+00070007_0597.jpg,0.9994240000000332,85.99987200000001,534.9990399999999,549.99936,1,building,building_1.00,"large, blue, white, big, gray, red",large
+00070007_0597.jpg,723.00032,538.000896,1089.999872,811.0003200000001,1,building,building_723.00,"large, tall, glass, blue, clear, bare",large
+00070007_0597.jpg,853.999616,780.9991679999999,1166.000128,914.999808,1,people,people_854.00,"orange, blue, yellow, green, colorful, red",
+00070007_0597.jpg,751.000576,774.9995520000001,791.000064,893.9996160000002,1,person,person_751.00,"blue, green, white, light blue, metal, glass",
+00070007_0597.jpg,0.9994239999999764,826.0001279999999,1066.999808,1151.000832,1,sidewalk,sidewalk_1.00,"blue, metal, white, parked, silver, gray",gray

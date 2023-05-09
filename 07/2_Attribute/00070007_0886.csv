@@ -1,0 +1,12 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0886.jpg,142.9998,208.0000755,365.9994,428.0003325,1,bag,bag_143.00,"black, red, orange, large, gray, big","black, red, orange, large, gray, big"
+00070007_0886.jpg,821.0004,383.0001525,962.0004,503.0003655,1,bag,bag_821.00,"white, blue, yellow, red, colorful, green","white, blue, yellow, red, colorful, green"
+00070007_0886.jpg,229.0002,34.00044750000001,471.0006,747.0001844999999,1,man,man_229.00,"standing, black, walking, smiling, young, skiing","standing, black, walking, smiling, young, skiing"
+00070007_0886.jpg,485.0004,336.999924,935.0004,491.0001840000001,1,woman,woman_485.00,"green, blue, metal, white, sitting, silver","green, blue, metal, white, sitting, silver"
+00070007_0886.jpg,401.9994,344.0002635,1102.9998,733.0003065,1,stretcher,stretcher_402.00,"metal, green, silver, gray, wooden, blue","metal, green, silver, gray, wooden, blue"
+00070007_0886.jpg,653.9994,141.99967799999996,835.9997999999999,751.999626,1,girl,girl_654.00,"young, standing, sitting, smiling, green, wearing","young, standing, sitting, smiling, green, wearing"
+00070007_0886.jpg,749.0004,132.00039449999997,818.0004,289.0003995,1,woman,woman_749.00,"green, blue, black, colorful, white, brown","green, blue, black, colorful, white, brown"
+00070007_0886.jpg,787.9997999999999,136.00018800000004,881.9994,404.00037,1,man,man_788.00,"green, blue, black, standing, metal, white","green, blue, black, standing, metal, white"
+00070007_0886.jpg,424.9998,107.999631,1199.9994,403.999569,1,junk vehicles,junk vehicles_425.00,"green, black, metal, silver, blue, parked","green, black, metal, silver, blue, parked"
+00070007_0886.jpg,1.0001999999999924,27.000108,190.9998,172.000332,1,van,van_1.00,"white, parked, silver, small, large, black","white, parked, silver, small, large, black"
+00070007_0886.jpg,1.0001999999999498,709.000344,1200.0006,801.0,1,road,road_1.00,"gray, yellow, wet, concrete, paved, black","gray, yellow, wet, concrete, paved, black"

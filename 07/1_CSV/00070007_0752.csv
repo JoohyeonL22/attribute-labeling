@@ -1,0 +1,12 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0752.jpg,387.00039,406.999974,521.00033,467.000066,1,car,car_387.00,"['yellow', 'white', 'metal', 'gray', 'silver', 'wooden']"
+00070007_0752.jpg,267.99988,332.0000580000001,399.9996,478.999766,1,man,man_268.00,"['sitting', 'green', 'purple', 'pink', 'standing', 'blue']"
+00070007_0752.jpg,38.00011000000001,317.000234,179.00045,492.000038,1,man,man_38.00,"['purple', 'sitting', 'pink', 'young', 'wearing', 'little']"
+00070007_0752.jpg,112.99984999999998,0.9997759999999688,739.99963,511.0001600000001,1,trees,trees_113.00,"['green', 'purple', 'tall', 'pink', 'colorful', 'large']"
+00070007_0752.jpg,38.00010999999998,387.000076,388.00013,614.999948,1,truck,truck_38.00,"['green', 'black', 'pink', 'colorful', 'purple', 'gray']"
+00070007_0752.jpg,1.0001100000000065,446.0003920000001,740.00037,796.0,1,water,water_1.00,"['calm', 'wet', 'gray', 'brown', 'murky', 'green']"
+00070007_0752.jpg,95.00046,245.99982000000003,196.0001,437.00002000000006,1,man,man_95.00,"['purple', 'pink', 'black', 'green', 'sitting', 'blue']"
+00070007_0752.jpg,263.99981,325.99981,379.99999,428.000046,1,man,man_264.00,"['green', 'black', 'sitting', 'blue', 'purple', 'pink']"
+00070007_0752.jpg,151.9997,393.999702,299.9997,460.00004200000006,1,tube,tube_152.00,"['purple', 'pink', 'yellow', 'red', 'black', 'gray']"
+00070007_0752.jpg,151.9997,424.000146,244.99994,477.000214,1,tube,tube_152.00,"['yellow', 'pink', 'purple', 'red', 'black', 'orange']"
+00070007_0752.jpg,367.99977999999993,0.9997759999999688,734.99982,511.0001600000001,1,building,building_368.00,"['purple', 'green', 'tall', 'pink', 'colorful', 'large']"

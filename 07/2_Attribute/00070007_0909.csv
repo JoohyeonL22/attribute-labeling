@@ -1,0 +1,11 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0909.jpg,471.0002175,392.000115,784.0000124999999,794.999805,1,vehicle,vehicle_471.00,"green, yellow, blue, white, black, moving","green, yellow, blue, white, black, moving"
+00070007_0909.jpg,229.0001625,531.9995250000001,377.0005275,812.9999550000001,1,man,man_229.00,"blue, orange, green, sitting, white, standing","blue, orange, green, sitting, white, standing"
+00070007_0909.jpg,0.9993374999999104,0.999750000000006,1166.9996025,314.99937,1,trees,trees_1.00,"green, black, dark, blurry, red, large","green, black, dark, blurry, red, large"
+00070007_0909.jpg,889.99965,295.000185,979.99956,338.000595,1,umbrella,umbrella_890.00,"red, blue, white, green, pink, purple","red, blue, white, green, pink, purple"
+00070007_0909.jpg,1.0005525000000262,294.000435,1215.0006075,930.000465,1,water,water_1.00,"gray, white, wet, brown, concrete, dirty","gray, white, wet, brown, concrete, dirty"
+00070007_0909.jpg,303.99968249999995,357.0000299999999,582.0001875,795.00027,1,vehicle,vehicle_304.00,"green, white, blue, clear, double decker, colorful","green, white, blue, clear, double decker, colorful"
+00070007_0909.jpg,710.0004375000001,406.00033500000006,896.9998725,853.000185,1,man,man_710.00,"green, blue, sitting, standing, light blue, teal","green, blue, sitting, standing, light blue, teal"
+00070007_0909.jpg,910.0003725,331.00002,949.0006575,405.00012,1,person,person_910.00,"green, black, glass, small, metal, open","green, black, glass, small, metal, open"
+00070007_0909.jpg,946.9995525,335.000415,989.9996175,402.000405,1,person,person_947.00,"green, glass, small, open, blue, metal","green, glass, small, open, blue, metal"
+00070007_0909.jpg,779.0002875,0.9997499999999988,1212.0007725,68.99949000000001,1,tree,tree_779.00,"purple, pink, green, white, colorful, black","purple, pink, green, white, colorful, black"

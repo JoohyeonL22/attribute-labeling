@@ -1,0 +1,8 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0872.jpg,0.9992099999999482,293.0001165,701.999368,1183.0005915000002,1,man,man_1.00,"gray, standing, smiling, old, bald, looking","gray, standing, smiling, old, bald, looking"
+00070007_0872.jpg,495.0007455000001,366.0006805,879.0006545000001,613.0004335,1,trailer,trailer_495.00,"white, blue, red, gray, silver, large","white, blue, red, gray, silver, large"
+00070007_0872.jpg,1479.9991745,70.00047599999999,1752.9991235,371.00063,1,tree,tree_1480.00,"green, tall, white, large, bare, pine","green, tall, white, large, bare, pine"
+00070007_0872.jpg,1.000962999999956,0.9996349999999836,1404.000489,451.999457,1,trees,trees_1.00,"green, tall, white, large, gray, brown","green, tall, white, large, gray, brown"
+00070007_0872.jpg,806.0004755,76.99969550000003,1753.0008764999998,644.9994005,1,tree,tree_806.00,"green, large, brown, gray, big, tall","green, large, brown, gray, big, tall"
+00070007_0872.jpg,418.9994304999999,611.9996154999999,1752.9991234999998,1182.9994085,1,grass,grass_419.00,"green, grassy, short, brown, tall, growing","green, grassy, short, brown, tall, growing"
+00070007_0872.jpg,342.9998685,415.999584,580.9994194999999,756.999334,1,tree,tree_343.00,"red, gray, black, orange, metal, silver","red, gray, black, orange, metal, silver"

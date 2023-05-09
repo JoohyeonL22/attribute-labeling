@@ -1,0 +1,8 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0147.jpg,0.999808,305.9999925,428,344.9998275,1,road,road_1.00,"yellow, black, gray, wet, metal, empty",gray
+00070007_0147.jpg,49.000008,0.99981,428,192.9999,1,smoke,smoke_49.00,"green, black, white, dark, yellow, red","black, dark"
+00070007_0147.jpg,21.999842,134.00007,326.999918,345,1,truck,truck_22.00,"white, yellow, green, silver, gray, moving",white
+00070007_0147.jpg,37.000172,6.9998775,349.000188,251.9999025,1,fire,fire_37.00,"white, green, yellow, red, black, double decker",red
+00070007_0147.jpg,331.00022,221.0001,407.00018,264.00021,1,building,building_331.00,"black, square, blue, white, framed, glass",square
+00070007_0147.jpg,1.000022,150.999945,39.99981,256.999815,1,building,building_1.00,"green, red, glass, pink, metal, black",red
+00070007_0147.jpg,1.000022,47.00004,159.999882,97.0002,1,trees,trees_1.00,"red, black, white, bare, large, green","bare, large"

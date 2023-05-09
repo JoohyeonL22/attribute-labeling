@@ -1,0 +1,10 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0056.jpg,68.00016000000001,291.00024,131.00016,334.00008,1,car,car_68.00,"purple, pink, small, black, white, colorful","small, black"
+00070007_0056.jpg,1.000320000000002,374.0004,26.00064,435.0002400000001,1,cone,cone_1.00,"orange, green, white, plastic, red, yellow","orange, plastic"
+00070007_0056.jpg,31.99968,304.99956000000003,51.0,361.9998,1,cone,cone_32.00,"green, orange, colorful, plastic, pink, red","orange, plastic"
+00070007_0056.jpg,93.0,354.00024,559.99968,705.00024,1,debris,debris_93.00,"blue, gray, brown, metal, white, black",gray
+00070007_0056.jpg,175.00031999999993,90.00035999999997,960.0,557.00028,1,truck,truck_175.00,"green, white, black, blue, large, silver",black
+00070007_0056.jpg,48.99984,276.99983999999995,86.99951999999999,308.99952,1,car,car_49.00,"pink, purple, colorful, white, black, red",white
+00070007_0056.jpg,0.999839999999999,269.00028,17.00016,295.00019999999995,1,cars,cars_1.00,"red, green, white, pink, black, orange",white
+00070007_0056.jpg,1.000319999999988,267.99984000000006,505.00032,720.0,1,road,road_1.00,"blue, gray, white, brown, black, metal",gray
+00070007_0056.jpg,1.000319999999988,1.0000800000000254,960.0,453.00024,1,trees,trees_1.00,"green, blue, black, white, red, large",green

@@ -1,0 +1,13 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0119.jpg,312.00000000000006,294.0003,1071.0,564.0002999999999,1,bus,bus_312.00,"yellow, double decker, white, parked, large, black","yellow, parked"
+00070007_0119.jpg,969.0,617.99985,1200.0,897.9997500000001,1,car,car_969.00,"black, yellow, parked, blue, gray, dark","black, parked"
+00070007_0119.jpg,664.0002,454.99995,1200.0006,652.00005,1,fence,fence_664.00,"white, metal, striped, red, green, wooden",white
+00070007_0119.jpg,1.0002000000000066,377.0001,165.00060000000002,557.0001,1,people,people_1.00,"red, yellow, standing, metal, pink, colorful","yellow, standing"
+00070007_0119.jpg,1.0002000000000637,401.99985,1065.0005999999998,897.9997500000001,1,road,road_1.00,"gray, yellow, paved, white, empty, black","gray, paved"
+00070007_0119.jpg,480.9996,382.9995,519.9996,423.9999,1,sign,sign_481.00,"red, blue, white, colorful, round, pink",red
+00070007_0119.jpg,1.0001999999999498,53.00055,1200.0006,497.0002500000001,1,trees,trees_1.00,"green, blue, cloudy, white, large, tall",green
+00070007_0119.jpg,213.0,385.99965,246.0,483.99975,1,man,man_213.00,"green, standing, sitting, walking, blue, yellow",standing
+00070007_0119.jpg,249.0,389.00025,285.0,498.00015,1,man,man_249.00,"standing, green, walking, sitting, colorful, pink","standing, green"
+00070007_0119.jpg,295.9998,383.0004,331.0002,495.0,1,man,man_296.00,"green, yellow, blue, colorful, metal, tall",green
+00070007_0119.jpg,204.0,382.99995,291.0,448.99965,1,car,car_204.00,"green, standing, yellow, blue, colorful, sitting",
+00070007_0119.jpg,281.0004,493.00020000000006,680.0004,900.0000000000001,1,hose,hose_281.00,"yellow, painted, white, purple, gray, long","yellow, long"

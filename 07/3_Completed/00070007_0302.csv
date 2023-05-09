@@ -1,0 +1,18 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0302.jpg,0.99996,1.000042,351.99996,234.00017,1,building,building_1.00,"purple, pink, white, large, blue, gray","white, blue"
+00070007_0302.jpg,458.00001,137.9998695,638.99979,216.0000725,1,car,car_458.00,"green, black, large, blue, metal, yellow","black, metal"
+00070007_0302.jpg,193.00008,56.000157,234,157.000009,1,glass,glass_193.00,"purple, pink, red, colorful, large, blue",
+00070007_0302.jpg,566.99955,125.0002015,618.99981,234.9999925,1,man,man_567.00,"green, metal, black, blue, yellow, glass",black
+00070007_0302.jpg,604.00002,105.9998425,637.00026,204.0000075,1,man,man_604.00,"green, yellow, tall, metal, standing, black","standing, black"
+00070007_0302.jpg,523.99971,1.000042,779.99961,191.00012,1,trees,trees_524.00,"green, tall, large, brown, bare, big","green, large"
+00070007_0302.jpg,0.99996,270.999968,189.00024,380.000156,1,debris,debris_1.00,"black, red, purple, yellow, colorful, pink",black
+00070007_0302.jpg,25.00017,140.999776,440.99991,266.9998,1,debris,debris_25.00,"metal, blue, silver, white, green, black","metal, black"
+00070007_0302.jpg,315.99984,284.000075,351.99996,321.999915,1,debris,debris_316.00,"green, white, small, blue, black, square","white, small"
+00070007_0302.jpg,0.99996,223.000147,780,368.000091,1,sidewalk,sidewalk_1.00,"yellow, wet, gray, black, white, empty","yellow, wet"
+00070007_0302.jpg,589.9998,345.000003,738.00012,381.999801,1,debris,debris_590.00,"yellow, metal, silver, green, white, gold","yellow, metal"
+00070007_0302.jpg,607.00029,209.0002175,780.00039,260.0001645,1,debris,debris_607.00,"yellow, metal, white, green, gray, empty",gray
+00070007_0302.jpg,463.0002,158.000051,697.0002,215.999853,1,car,car_463.00,"green, blue, black, metal, yellow, white","black, metal"
+00070007_0302.jpg,506.00004,236.000254,780,295.000098,1,ramp,ramp_506.00,"yellow, white, gray, silver, large, empty","yellow, large"
+00070007_0302.jpg,0.99996,352.9999,780,439,1,road,road_1.00,"gray, wet, concrete, paved, black, yellow","gray, paved"
+00070007_0302.jpg,547.99992,97.999726,588.99984,144.999944,1,firefighter,firefighter_548.00,"yellow, orange, white, glass, red, large",
+00070007_0302.jpg,506.00004,110.0000105,549.99984,227.0000955,1,firefighter,firefighter_506.00,"green, glass, open, black, blue, metal",black

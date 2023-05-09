@@ -1,0 +1,10 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0676.jpg,491.00005,1.99984,530.99986,35.999904,1,car,car_491.00,"yellow, white, small, wooden, empty, large",white
+00070007_0676.jpg,254.0002595,137.000176,328.0002745,219.000112,1,man,man_254.00,"green, black, small, open, white, sitting",black
+00070007_0676.jpg,315.9995985,144.999768,395.9999515,242.999816,1,firefighter,firefighter_316.00,"green, sitting, colorful, stuffed, blue, white",
+00070007_0676.jpg,0.999812,107.000024,327.000096,464.000232,1,man,man_1.00,"yellow, large, wet, gray, brown, wooden",yellow
+00070007_0676.jpg,0.999812,117.99984,733,464,1,water,water_1.00,"wet, gray, yellow, concrete, paved, green","wet, gray"
+00070007_0676.jpg,304.999834,137.000176,376.999492,243.000048,1,child,child_305.00,"green, blue, sitting, colorful, white, open",
+00070007_0676.jpg,444.00009,21.999864,733,462.999848,1,person,person_444.00,"yellow, blurry, wet, large, sitting, gray","yellow, blurry"
+00070007_0676.jpg,0.999812,157.0002,319.999946,205.999992,1,car,car_1.00,"green, white, parked, black, silver, blue",white
+00070007_0676.jpg,295.000248,21.999864,733,121.999752,1,road,road_295.00,"yellow, green, wet, gray, clear, white","wet, gray"

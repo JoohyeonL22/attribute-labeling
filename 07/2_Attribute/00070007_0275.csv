@@ -1,0 +1,8 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0275.jpg,0.9990000000000236,1.0,2700.999,1578.0,1,building,building_1.00,"brick, red, brown, large, gray, pink","brick, red, brown, large, gray, pink"
+00070007_0275.jpg,590.0009999999999,783.0,2258.001,1767.0,1,suv,suv_590.00,"blue, black, parked, red, gray, dark","blue, black, parked, red, gray, dark"
+00070007_0275.jpg,2136.0,685.0,3000.0,1794.0,1,fence,fence_2136.00,"purple, pink, gray, white, wooden, metal","purple, pink, gray, white, wooden, metal"
+00070007_0275.jpg,1.000500000000102,1566.0,2404.9995,2000.0,1,grass,grass_1.00,"green, gray, blue, white, concrete, paved","green, gray, blue, white, concrete, paved"
+00070007_0275.jpg,2350.0005,904.0,3000.0015,1995.0,1,fence,fence_2350.00,"white, purple, pink, gray, green, metal","white, purple, pink, gray, green, metal"
+00070007_0275.jpg,1.0004999999999882,1015.0,1165.9995,1883.0,1,debris,debris_1.00,"black, red, blue, old, gray, metal","black, red, blue, old, gray, metal"
+00070007_0275.jpg,2527.9995,369.0,2999.9985,703.0,1,building,building_2528.00,"white, gray, blue, red, small, green","white, gray, blue, red, small, green"

@@ -1,0 +1,13 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0383.jpg,175.0,103.99986,408.00032,244.99998,1,car,car_175.00,"['black', 'green', 'white', 'yellow', 'gray', 'parked']"
+00070007_0383.jpg,362.99968,131.99994000000004,634.0,289.99998,1,car,car_363.00,"['green', 'black', 'white', 'yellow', 'parked', 'double decker']"
+00070007_0383.jpg,584.0,159.00012000000004,640.0,313.0002,1,car,car_584.00,"['green', 'black', 'parked', 'white', 'silver', 'open']"
+00070007_0383.jpg,1.000320000000002,89.0001,69.00032,274.00014,1,man,man_1.00,"['standing', 'walking', 'yellow', 'watching', 'young', 'wearing']"
+00070007_0383.jpg,135.00032,102.00006,180.0,242.0001,1,man,man_135.00,"['yellow', 'standing', 'green', 'black', 'walking', 'metal']"
+00070007_0383.jpg,166.0,105.99984,202.0,234.0,1,man,man_166.00,"['green', 'yellow', 'metal', 'standing', 'black', 'glass']"
+00070007_0383.jpg,348.0,97.99992,395.00032,172.00008,1,man,man_348.00,"['blue', 'purple', 'green', 'pink', 'white', 'open']"
+00070007_0383.jpg,384.00032,106.00002,471.00000000000006,225.9999,1,man,man_384.00,"['purple', 'pink', 'black', 'sitting', 'metal', 'small']"
+00070007_0383.jpg,0.999679999999998,160.99991999999995,144.99968,252.0,1,motorbike,motorbike_1.00,"['black', 'yellow', 'parked', 'blue', 'gray', 'metal']"
+00070007_0383.jpg,489.0,9.9999,547.0,59.99994000000001,1,sign,sign_489.00,"['green', 'white', 'street', 'blue', 'black', 'square']"
+00070007_0383.jpg,0.999680000000012,1.000080000000004,288.99968,108.0,1,trees,trees_1.00,"['green', 'large', 'yellow', 'tall', 'leafy', 'red']"
+00070007_0383.jpg,1.0,4.000139999999988,639.99968,360.00018,1,road,road_1.00,"['white', 'gray', 'yellow', 'black', 'empty', 'green']"

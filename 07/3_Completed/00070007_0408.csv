@@ -1,0 +1,13 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0408.jpg,1.001724499999909,0.998800000000074,3983.0019915,1271.99904,1,building,building_1.00,"blue, red, green, purple, large, brick","green, brick"
+00070007_0408.jpg,1580.9980795,782.000245,1789.9980385,1404.000675,1,man,man_1581.00,"standing, walking, blue, black, looking, old","standing, black"
+00070007_0408.jpg,1862.000721,760.9993399999998,2210.999147,1665.9984,1,man,man_1862.00,"yellow, green, standing, black, skiing, wearing","green, standing"
+00070007_0408.jpg,2163.0020055,766.9989499999999,2402.0019205000003,1575.9997099999998,1,man,man_2163.00,"standing, green, walking, yellow, skiing, black","standing, green"
+00070007_0408.jpg,2539.0011885,749.9989199999999,2750.0006135,1309.9988399999995,1,man,man_2539.00,"standing, black, walking, tall, watching, looking","standing, black"
+00070007_0408.jpg,2773.000447,721.999605,2981.000673,1321.000395,1,man,man_2773.00,"standing, yellow, walking, green, black, wearing","standing, black"
+00070007_0408.jpg,370.9985264999999,0.9999350000000504,1503.9987235,1376.000225,1,tree,tree_371.00,"green, large, tall, leafy, big, red",green
+00070007_0408.jpg,1876.000966,1627.999735,2297.999816,1883.998985,1,tire,tire_1876.00,"black, gray, blue, small, large, green","black, small"
+00070007_0408.jpg,2128.001393,794.0006,2223.999659,956.00142,1,man,man_2128.00,"black, green, gray, white, blue, yellow",black
+00070007_0408.jpg,1555.99878,739.99957,2007.997586,1121.99971,1,debris,debris_1556.00,"standing, wooden, metal, blue, brown, yellow",brown
+00070007_0408.jpg,1392.0007465,791.9995949999999,3979.9988095,2269.998865,1,debris,debris_1392.00,"red, blue, white, gray, metal, black","gray, metal"
+00070007_0408.jpg,1.0017244999999662,1339.99916,990.0005395,2266.0002600000003,1,debris,debris_1.00,"red, blue, white, black, colorful, striped","red, striped"

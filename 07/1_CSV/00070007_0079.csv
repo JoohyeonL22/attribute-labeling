@@ -1,0 +1,9 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0079.jpg,50.99986650000005,0.9999290000000088,723.9998535,385.000095,1,car,car_51.00,"['white', 'green', 'parked', 'black', 'gray', 'silver']"
+00070007_0079.jpg,123.0001245,45.000181,151.0003935,150.000111,1,man,man_123.00,"['green', 'brown', 'standing', 'yellow', 'long', 'sitting']"
+00070007_0079.jpg,21.000012,33.00018899999999,66.999966,174.000095,1,man,man_21.00,"['green', 'white', 'hanging', 'black', 'blue', 'metal']"
+00070007_0079.jpg,5.000291999999998,34.000118,42.000024,161.00017400000002,1,man,man_5.00,"['brown', 'white', 'black', 'large', 'tall', 'hanging']"
+00070007_0079.jpg,61.000071000000005,41.000254,107.000025,173.00016599999998,1,man,man_61.00,"['standing', 'green', 'walking', 'brown', 'black', 'large']"
+00070007_0079.jpg,94.0002525,37.000116000000006,134.0003115,164.00017200000002,1,man,man_94.00,"['green', 'colorful', 'yellow', 'standing', 'blue', 'multi colored']"
+00070007_0079.jpg,37.00049099999998,1.000140000000009,275.00012100000004,104.000212,1,tree,tree_37.00,"['green', 'white', 'blue', 'large', 'colorful', 'big']"
+00070007_0079.jpg,1.0003619999999955,152.00018,759.0,422.0,1,grass,grass_1.00,"['green', 'white', 'tall', 'grassy', 'gray', 'yellow']"

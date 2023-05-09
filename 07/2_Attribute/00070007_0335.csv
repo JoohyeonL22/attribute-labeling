@@ -1,0 +1,13 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0335.jpg,1.0005120000000716,1471.0005,2592.0,1944.000972,1,road,road_1.00,"green, gray, brown, dirt, black, old","green, gray, brown, dirt, black, old"
+00070007_0335.jpg,1049.9997600000002,762.000372,1391.000688,1408.001292,1,firefighter,firefighter_1050.00,"green, yellow, black, blue, colorful, white","green, yellow, black, blue, colorful, white"
+00070007_0335.jpg,1689.998256,653.9995079999999,2000.999376,1499.999148,1,firefighter,firefighter_1690.00,"standing, walking, green, skiing, wearing, yellow","standing, walking, green, skiing, wearing, yellow"
+00070007_0335.jpg,2169.999072,630.000828,2563.998624,1471.0005,1,firefighter,firefighter_2170.00,"standing, green, walking, yellow, young, wearing","standing, green, walking, yellow, young, wearing"
+00070007_0335.jpg,905.0006879999996,1.00018799999998,2592.001296,861.999732,1,trees,trees_905.00,"bare, leafless, blue, tall, large, brown","bare, leafless, blue, tall, large, brown"
+00070007_0335.jpg,3.001535999999988,1021.99968,2300.000832,1944.0,1,hose,hose_3.00,"green, metal, brown, gray, long, old","green, metal, brown, gray, long, old"
+00070007_0335.jpg,1504.000224,712.0006920000001,1707.00048,1365.000012,1,firefighter,firefighter_1504.00,"standing, green, yellow, walking, skiing, wearing","standing, green, yellow, walking, skiing, wearing"
+00070007_0335.jpg,1254.999744,896.0002920000001,1525.998528,1379.0007,1,firefighter,firefighter_1255.00,"green, black, yellow, blue, colorful, large","green, black, yellow, blue, colorful, large"
+00070007_0335.jpg,1609.000848,662.001012,1695.000816,720.000252,1,firefighter,firefighter_1609.00,"black, small, glass, large, white, metal","black, small, glass, large, white, metal"
+00070007_0335.jpg,45.99892799999998,1.0011600000000271,1763.999856,1286.000712,1,bridge,bridge_46.00,"green, old, bare, brown, blue, gray","green, old, bare, brown, blue, gray"
+00070007_0335.jpg,917.001648,639.9997920000001,2287.000656,1314.000144,1,suv,suv_917.00,"green, colorful, yellow, black, multi colored, large","green, colorful, yellow, black, multi colored, large"
+00070007_0335.jpg,1942.999488,954.998748,2592.0,1233.999684,1,stretcher,stretcher_1943.00,"yellow, black, wooden, orange, metal, green","yellow, black, wooden, orange, metal, green"

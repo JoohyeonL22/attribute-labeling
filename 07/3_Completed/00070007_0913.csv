@@ -1,0 +1,6 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0913.jpg,125.99997000000002,43.00020000000001,491.00001,221.000184,1,car,car_126.00,"black, old, parked, green, gray, silver","black, old"
+00070007_0913.jpg,165.9998775,204.00012,249.9996525,416.000232,1,police,police_166.00,"standing, walking, young, wearing, black, smiling","standing, wearing"
+00070007_0913.jpg,69.999915,139.00010400000002,168.00016499999998,346.000248,1,police,police_70.00,"purple, pink, standing, young, black, skiing","standing, black"
+00070007_0913.jpg,0.9999899999999684,304.000128,615.0,432.0,1,road,road_1.00,"white, gray, paved, black, asphalt, painted","gray, asphalt"
+00070007_0913.jpg,0.9999899999999684,1.0000800000000254,615.0,300.00024,1,trees,trees_1.00,"green, black, red, tall, gray, metal",green

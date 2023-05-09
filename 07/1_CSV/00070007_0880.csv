@@ -1,0 +1,11 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0880.jpg,1922.0004000000004,783.00027,2400.0012,1107.00093,1,building,building_1922.00,"['green', 'red', 'brick', 'brown', 'small', 'tall']"
+00070007_0880.jpg,430.0008,978.9995700000002,532.0008,1092.9993900000002,1,car,car_430.00,"['white', 'silver', 'parked', 'gray', 'small', 'large']"
+00070007_0880.jpg,0.999599999999873,1287.0000599999998,2399.9988000000003,1590.0,1,road,road_1.00,"['wet', 'gray', 'black', 'paved', 'concrete', 'dark']"
+00070007_0880.jpg,666.9996,1001.0004,1004.9988,1080.00114,1,car,car_667.00,"['red', 'blue', 'parked', 'orange', 'black', 'white']"
+00070007_0880.jpg,562.9992,486.0001950000001,1357.9992,1185.000765,1,debris,debris_563.00,"['green', 'white', 'blue', 'large', 'silver', 'gray']"
+00070007_0880.jpg,1815.9996,842.999715,2036.9988,1185.999285,1,debris,debris_1816.00,"['pink', 'red', 'purple', 'metal', 'white', 'gray']"
+00070007_0880.jpg,76.00080000000003,363.00018000000006,2329.0008,1190.00052,1,building,building_76.00,"['green', 'white', 'red', 'large', 'metal', 'tall']"
+00070007_0880.jpg,0.9996000000000008,1.000109999999978,197.0004,490.99995,1,sign,sign_1.00,"['red', 'white', 'stop', 'black', 'large', 'street']"
+00070007_0880.jpg,0.9996000000000153,463.000845,437.9988,1081.000455,1,tree,tree_1.00,"['green', 'large', 'tall', 'leafy', 'big', 'small']"
+00070007_0880.jpg,667.0008,2.9995349999999235,2392.0008,1067.999025,1,tree,tree_667.00,"['green', 'tall', 'blue', 'white', 'clear', 'large']"

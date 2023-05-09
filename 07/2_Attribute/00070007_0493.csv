@@ -1,0 +1,9 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0493.jpg,469.0001920000001,354.99997200000007,575.000576,429.999768,1,car,car_469.00,"purple, pink, white, small, parked, red","purple, pink, white, small, parked, red"
+00070007_0493.jpg,690.9998079999999,381.999629,852.99968,432.999795,1,car,car_691.00,"red, parked, small, white, driving, moving","red, parked, small, white, driving, moving"
+00070007_0493.jpg,98.999808,335.000085,459.999744,436.0001150000001,1,car,car_99.00,"white, red, silver, parked, gray, black","white, red, silver, parked, gray, black"
+00070007_0493.jpg,340.00025600000004,311.000162,363.00032,344.000166,1,sign,sign_340.00,"orange, red, yellow, white, black, traffic","orange, red, yellow, white, black, traffic"
+00070007_0493.jpg,363.00032,305.000108,390.000128,338.000112,1,sign,sign_363.00,"yellow, red, metal, black, white, orange","yellow, red, metal, black, white, orange"
+00070007_0493.jpg,1.0004480000000058,1.000302000000005,798.000128,398.00006600000006,1,trees,trees_1.00,"green, tall, red, dark, leafy, large","green, tall, red, dark, leafy, large"
+00070007_0493.jpg,622.999552,0.999715999999978,1024.0,425.999732,1,trees,trees_623.00,"green, tall, red, large, leafy, dark","green, tall, red, large, leafy, dark"
+00070007_0493.jpg,0.999936000000048,329.00003100000004,1023.999488,586.0002929999999,1,water,water_1.00,"white, gray, wet, calm, green, large","white, gray, wet, calm, green, large"

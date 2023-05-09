@@ -1,0 +1,10 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0031.jpg,55.0,71.00003849999997,225.0,251.0001315,1,bus,bus_55.00,"green, blue, white, double decker, black, large","green, blue, white, double decker, black, large"
+00070007_0031.jpg,237.0,132.9998925,328.0,197.9999715,1,car,car_237.00,"purple, pink, black, colorful, metal, small","purple, pink, black, colorful, metal, small"
+00070007_0031.jpg,1.0,173.99997000000002,90.0,327.0,1,road,road_1.00,"black, gray, dark, concrete, yellow, paved","black, gray, dark, concrete, yellow, paved"
+00070007_0031.jpg,151.0,134.000022,192.0,153.00002999999998,1,sign,sign_151.00,"purple, pink, small, white, black, colorful","purple, pink, small, white, black, colorful"
+00070007_0031.jpg,1.0,0.9999659999999936,69.0,120.99981,1,tree,tree_1.00,"green, blue, large, tall, white, leafy","green, blue, large, tall, white, leafy"
+00070007_0031.jpg,83.0,43.0000095,136.0,75.9998685,1,tree,tree_83.00,"orange, framed, white, green, small, square","orange, framed, white, green, small, square"
+00070007_0031.jpg,252.0,81.9999915,317.0,133.9998585,1,truck,truck_252.00,"purple, pink, large, yellow, lit, big","purple, pink, large, yellow, lit, big"
+00070007_0031.jpg,267.0,123.00023249999998,362.0,195.0000735,1,debris,debris_267.00,"purple, pink, metal, black, colorful, small","purple, pink, metal, black, colorful, small"
+00070007_0031.jpg,217.0,89.0000805,356.0,140.9999475,1,cars,cars_217.00,"purple, pink, black, large, yellow, colorful","purple, pink, black, large, yellow, colorful"

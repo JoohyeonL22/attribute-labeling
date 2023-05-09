@@ -1,0 +1,9 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0148.jpg,82.0,10.999915000000016,347.0,268.00006499999995,1,fire,fire_82.00,"orange, white, red, bright, yellow, large","orange, bright"
+00070007_0148.jpg,138.0,299.00014500000003,155.0,326.000155,1,fire extinguisher,fire extinguisher_138.00,"red, yellow, pink, orange, metal, wooden",yellow
+00070007_0148.jpg,106.0,229.00021500000005,143.0,325.000045,1,man,man_106.00,"yellow, wooden, white, sitting, red, metal",yellow
+00070007_0148.jpg,67.0,231.000065,105.0,326.000155,1,man,man_67.00,"yellow, white, open, glass, metal, red",yellow
+00070007_0148.jpg,1.0,0.9999250000000046,498.0,212.999935,1,tree,tree_1.00,"green, white, orange, red, clear, yellow",green
+00070007_0148.jpg,1.0,39.999775,500.0,313.999945,1,trees,trees_1.00,"red, green, yellow, orange, large, white","green, large"
+00070007_0148.jpg,164.0,241.00005500000003,278.0,305.000065,1,truck,truck_164.00,"large, glass, double decker, clear, big, blue",
+00070007_0148.jpg,1.0,303.99977,394.0,368.9998900000001,1,road,road_1.00,"yellow, gray, green, concrete, paved, cement","gray, paved"

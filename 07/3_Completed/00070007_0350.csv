@@ -1,0 +1,7 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0350.jpg,44.99996200000001,1.0,329.0,132.0,1,building,building_45.00,"white, blue, green, brick, brown, parked","brick, brown"
+00070007_0350.jpg,56.000076999999976,58.000000000000014,305.999939,187.0,1,car,car_56.00,"blue, white, parked, black, silver, green",blue
+00070007_0350.jpg,246.9998755,38.0,297.9998105,96.0,1,man,man_247.00,"blue, sitting, white, standing, watching, looking","blue, standing"
+00070007_0350.jpg,0.9998309999999968,80.00000000000001,42.999971,140.0,1,road,road_1.00,"yellow, white, large, green, blue, black",large
+00070007_0350.jpg,0.9998310000000004,1.0,46.999953,78.0,1,tree,tree_1.00,"green, large, tall, leafy, small, yellow","green, leafy"
+00070007_0350.jpg,1.0001600000000082,127.0,182.000168,200.0,1,sidewalk,sidewalk_1.00,"brick, concrete, gray, cement, black, paved","brick, gray"

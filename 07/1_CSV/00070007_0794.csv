@@ -1,0 +1,3 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0794.jpg,1.0000499999999874,0.999855999999994,1180.00059,351.999824,1,water,water_1.00,"['blue', 'calm', 'clear', 'gray', 'dark', 'wet']"
+00070007_0794.jpg,24.000609999999934,127.000192,645.00039,189.000064,1,car,car_24.00,"['red', 'black', 'clear', 'white', 'parked', 'pink']"

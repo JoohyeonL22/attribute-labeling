@@ -1,0 +1,10 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0903.jpg,1.0003125,368,88.0002915,505,1,firefighter,firefighter_1.00,"standing, walking, sitting, pink, brown, purple","standing, brown"
+00070007_0903.jpg,149.000148,408,352.999878,657,1,firefighter,firefighter_149.00,"black, sitting, standing, brown, red, white","black, standing"
+00070007_0903.jpg,383.0001835,338,524.9997445,656,1,firefighter,firefighter_383.00,"standing, green, walking, black, old, wearing","standing, black"
+00070007_0903.jpg,1.0003125,1,1067.000534,597,1,trees,trees_1.00,"bare, white, pink, brown, tall, black",brown
+00070007_0903.jpg,687.9999995,453,1066.999467,731,1,fire,fire_688.00,"orange, yellow, large, dead, colorful, wooden","orange, large"
+00070007_0903.jpg,275.999823,550,396.999757,600,1,chainsaw,chainsaw_276.00,"sitting, blue, watching, white, standing, large",
+00070007_0903.jpg,1.0003125,474,431.0002455,636,1,log,log_1.00,"red, metal, pink, gray, white, brown",gray
+00070007_0903.jpg,1.0003125,706,514.0000415,799,1,log,log_1.00,"red, brown, white, gray, metal, dead",brown
+00070007_0903.jpg,6.99952,1,1067,503,1,smoke,smoke_7.00,"bare, white, tall, pink, leafless, brown",brown

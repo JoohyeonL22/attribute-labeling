@@ -1,0 +1,5 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0124.jpg,30.999599999999987,245.000316,363.9996,744.000372,1,woman,woman_31.00,"young, sitting, standing, gray, old, purple","standing, old"
+00070007_0124.jpg,1.0001999999999498,303.99988799999994,1200.0006,743.9999999999999,1,debris,debris_1.00,"gray, old, brown, dirty, wooden, large","gray, dirty"
+00070007_0124.jpg,346.99980000000005,17.000027999999986,1138.0002,490.00026,1,vehicle,vehicle_347.00,"old, metal, gray, blue, green, rusty","old, metal"
+00070007_0124.jpg,1048.9998,0.9995640000000208,1199.9994000000002,518.999892,1,tree,tree_1049.00,"blue, gray, green, long, metal, white",gray

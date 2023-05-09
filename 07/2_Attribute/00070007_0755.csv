@@ -1,0 +1,9 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0755.jpg,101.00025000000002,67.99970199999998,188.00055,130.999774,1,building,building_101.00,"pink, purple, small, black, square, white","pink, purple, small, black, square, white"
+00070007_0755.jpg,292.00005000000004,76.99982499999999,492.99975,217.999911,1,billboard,billboard_292.00,"blue, white, large, red, purple, big","blue, white, large, red, purple, big"
+00070007_0755.jpg,0.9998999999999968,0.999926000000002,364.9995,169.000118,1,trees,trees_1.00,"green, red, leafy, tall, purple, black","green, red, leafy, tall, purple, black"
+00070007_0755.jpg,372.00015,1.000189000000006,900.00045,302.000007,1,trees,trees_372.00,"green, tall, large, leafy, big, brown","green, tall, large, leafy, big, brown"
+00070007_0755.jpg,0.9999000000000038,99.999964,72.9999,192.99992,1,tractor,tractor_1.00,"green, yellow, white, red, glass, open","green, yellow, white, red, glass, open"
+00070007_0755.jpg,1.0003500000000258,294.00007300000004,900.00045,526.000263,1,water,water_1.00,"blue, calm, clear, wet, gray, large","blue, calm, clear, wet, gray, large"
+00070007_0755.jpg,505.9998000000001,365.000079,657.0,434.000233,1,dumpster,dumpster_506.00,"pink, purple, black, colorful, blue, small","pink, purple, black, colorful, blue, small"
+00070007_0755.jpg,0.9999000000000038,187.000101,121.9995,230.000075,1,road,road_1.00,"yellow, black, gold, square, metal, small","yellow, black, gold, square, metal, small"

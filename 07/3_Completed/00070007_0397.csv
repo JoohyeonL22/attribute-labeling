@@ -1,0 +1,21 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0397.jpg,780.9996,459,831.9996,523.9998,1,bag,bag_781.00,"white, black, blue, hanging, small, brown",brown
+00070007_0397.jpg,933,579.00015,1017,641.00025,1,bag,bag_933.00,"green, small, blue, white, open, colorful","green, small"
+00070007_0397.jpg,855.0006,411.0003,961.0002,499.0005,1,car,car_855.00,"yellow, colorful, blue, green, pink, purple",
+00070007_0397.jpg,97.9998,441,664.0002,673.0002,1,car,car_98.00,"green, black, parked, blue, large, white",black
+00070007_0397.jpg,1035.9996,441,1050.9996,468,1,cone,cone_1036.00,"red, pink, green, white, small, orange",red
+00070007_0397.jpg,1107.9996,432,1128.9996,468,1,cone,cone_1108.00,"red, pink, orange, yellow, small, colorful","red, small"
+00070007_0397.jpg,728.0004,407.00025,782.0004,595.00035,1,man,man_728.00,"standing, walking, white, young, watching, pink","standing, watching"
+00070007_0397.jpg,1.0002,1.00035,934.9998,434.00025,1,trees,trees_1.00,"green, tall, large, leafy, red, big","green, leafy"
+00070007_0397.jpg,807.9996,360.9999,1035.9996,461.9997,1,fire truck,fire truck_808.00,"colorful, pink, multi colored, yellow, red, purple",red
+00070007_0397.jpg,789.9996,419.99985,843.9996,602.99955,1,woman,woman_790.00,"green, blue, standing, walking, metal, black","standing, black"
+00070007_0397.jpg,297,447.99975,1200,898.99965,1,road,road_297.00,"gray, paved, green, wet, concrete, asphalt","gray, asphalt"
+00070007_0397.jpg,562.0002,390.9996,633.0006,468,1,firefighter,firefighter_562.00,"yellow, green, colorful, multi colored, orange, red",yellow
+00070007_0397.jpg,538.0002,364.99995,568.9998,391.00005,1,man,man_538.00,"pink, purple, small, colorful, bright, lit",
+00070007_0397.jpg,523.0002,384.99975,747.0006,502.99965,1,van,van_523.00,"colorful, purple, multi colored, pink, green, large",large
+00070007_0397.jpg,801,384.99975,837,448.99965,1,man,man_801.00,"colorful, pink, purple, multi colored, rainbow colored, green",
+00070007_0397.jpg,835.0002,396,864.0006,511.0002,1,man,man_835.00,"pink, purple, colorful, blue, green, multi colored",
+00070007_0397.jpg,883.0002,390.9996,912.0006,504,1,firefighter,firefighter_883.00,"yellow, orange, red, colorful, wooden, standing","orange, standing"
+00070007_0397.jpg,957.9996,440.0001,978.9996,472.0005,1,cones,cones_958.00,"blue, red, green, white, small, orange","red, small"
+00070007_0397.jpg,1030.0002,386.00055,1198.9998,461.00025,1,cars,cars_1030.00,"colorful, pink, purple, multi colored, green, red",
+00070007_0397.jpg,955.9998,307.9998,1199.9994,401.9994,1,trees,trees_956.00,"green, tall, large, white, leafy, colorful","green, leafy"

@@ -1,0 +1,13 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0379.jpg,153.99964,101.0000175,591.999904,353.0001325,1,car,car_154.00,"gray, black, silver, blue, red, parked","gray, black, silver, blue, red, parked"
+00070007_0379.jpg,769.9997495,98.00011750000002,820.0000485,138.0003125,1,van,van_770.00,"green, blue, double decker, colorful, white, glass","green, blue, double decker, colorful, white, glass"
+00070007_0379.jpg,797.999731,97.00026,903.000049,142.00007,1,car,car_798.00,"green, blue, white, double decker, large, colorful","green, blue, white, double decker, large, colorful"
+00070007_0379.jpg,890.0002605,93.000175,990.9997695,112.999945,1,cars,cars_890.00,"yellow, red, white, black, orange, metal","yellow, red, white, black, orange, metal"
+00070007_0379.jpg,907.999769,82.00043250000002,936.000267,162.0001675,1,man,man_908.00,"red, black, orange, white, blue, colorful","red, black, orange, white, blue, colorful"
+00070007_0379.jpg,0.9999440000000276,103.00005999999996,1033.0,655.0,1,road,road_1.00,"gray, wet, paved, black, asphalt, white","gray, wet, paved, black, asphalt, white"
+00070007_0379.jpg,406.999934,79.00020500000002,963.999732,483.000275,1,debris,debris_407.00,"black, white, gray, wet, parked, paved","black, white, gray, wet, parked, paved"
+00070007_0379.jpg,1.000460500000031,390.9999575,285.9999955,620.9999325,1,debris,debris_1.00,"red, gray, yellow, black, white, painted","red, gray, yellow, black, white, painted"
+00070007_0379.jpg,141.9997955,167.9999675,167.9993725,241.9999025,1,woman,woman_142.00,"red, white, glass, open, blue, black","red, white, glass, open, blue, black"
+00070007_0379.jpg,1.0004605000000009,186.99988,22.0003175,314.99998,1,person,person_1.00,"red, orange, metal, black, small, tall","red, orange, metal, black, small, tall"
+00070007_0379.jpg,0.9994274999999676,0.9998574999999904,714.9997304999999,219.9997625,1,trees,trees_1.00,"green, red, tall, large, black, leafy","green, red, tall, large, black, leafy"
+00070007_0379.jpg,545.9998975000001,96.000075,713.9997865,179.999895,1,van,van_546.00,"green, black, blue, large, white, gray","green, black, blue, large, white, gray"

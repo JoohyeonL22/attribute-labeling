@@ -1,0 +1,10 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0774.jpg,1049.0,1585.9995000000004,4000.0,2999.9985,1,tree,tree_1049.00,"['brown', 'green', 'dead', 'large', 'dry', 'long']"
+00070007_0774.jpg,3263.0,1027.0005,3562.0,1242.0015,1,sign,sign_3263.00,"['green', 'white', 'blue', 'street', 'small', 'black']"
+00070007_0774.jpg,1.0,52.99950000000001,1402.0,1304.9985,1,tree,tree_1.00,"['green', 'tall', 'large', 'brown', 'leafy', 'thin']"
+00070007_0774.jpg,1.0000000000002274,1363.9995,4000.0,2999.9985,1,water,water_1.00,"['brown', 'wet', 'large', 'wooden', 'dirty', 'green']"
+00070007_0774.jpg,6.0,1576.0004999999996,1498.0,3000.0015,1,road,road_6.00,"['gray', 'concrete', 'large', 'cement', 'brown', 'wet']"
+00070007_0774.jpg,4.0,5.00100000000009,3637.0,1196.0010000000002,1,trees,trees_4.00,"['green', 'tall', 'leafy', 'large', 'big', 'thick']"
+00070007_0774.jpg,3230.0,4.000499999999988,4000.0,1134.0015,1,tree,tree_3230.00,"['green', 'tall', 'large', 'leafy', 'big', 'small']"
+00070007_0774.jpg,1471.0,937.9995,3711.0,1373.9985,1,road,road_1471.00,"['white', 'black', 'green', 'gray', 'metal', 'long']"
+00070007_0774.jpg,3409.0,736.0005,3644.0,1066.9995,1,sign,sign_3409.00,"['black', 'striped', 'orange', 'yellow', 'blue', 'white']"

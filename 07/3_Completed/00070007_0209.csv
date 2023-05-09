@@ -1,0 +1,14 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0209.jpg,135.00008499999998,72.99993,161.000235,142.99997,1,man,man_135.00,"green, metal, black, red, white, tall",white
+00070007_0209.jpg,174.99989,70.999965,198.00007,156.999955,1,man,man_175.00,"open, glass, black, large, white, dark","white, dark"
+00070007_0209.jpg,197.00008,82.99998500000001,210.99994,131.999875,1,man,man_197.00,"orange, wooden, open, brown, glass, closed",
+00070007_0209.jpg,265.000015,86.00010500000002,289.00018500000004,149.00009500000002,1,man,man_265.00,"standing, walking, blue, watching, sitting, looking","walking, blue"
+00070007_0209.jpg,121.00002000000003,133.999955,410.0,229.999885,1,road,road_121.00,"gray, black, yellow, paved, concrete, empty","gray, yellow"
+00070007_0209.jpg,0.9999899999999968,1.0000400000000056,155.00009,94.00008,1,trees,trees_1.00,"white, red, pink, green, cloudy, clear",green
+00070007_0209.jpg,259.99986,58.000135,384.99984,142.000045,1,truck,truck_260.00,"purple, white, pink, double decker, yellow, red",white
+00070007_0209.jpg,0.9999900000000004,37.99991000000001,43.999970000000005,82.99987000000002,1,people,people_1.00,"pink, purple, small, red, white, framed",
+00070007_0209.jpg,218.99986,83.0001,240.00006,151.00006000000002,1,man,man_219.00,"pink, red, open, purple, glass, large",red
+00070007_0209.jpg,237.999875,86.99991500000002,250.999745,148.999865,1,man,man_238.00,"pink, purple, wooden, red, metal, white",
+00070007_0209.jpg,82.000205,50.99996999999999,257.000095,142.99997,1,bus,bus_82.00,"white, red, double decker, black, orange, metal","red, metal"
+00070007_0209.jpg,187.99976,193.00013,212.99992,214.00005,1,debris,debris_188.00,"orange, small, square, black, framed, white",small
+00070007_0209.jpg,218.99986,164.000005,265.9998,179.999955,1,debris,debris_219.00,"black, purple, pink, small, digital, white","black, small"

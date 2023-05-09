@@ -1,0 +1,4 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0619.jpg,0.9998999999999684,1.000047500000008,599.9997000000001,203.0002065,1,trees,trees_1.00,"['green', 'tall', 'bare', 'brown', 'black', 'red']"
+00070007_0619.jpg,165.0,82.00018800000001,417.0,219.000124,1,car,car_165.00,"['silver', 'gray', 'old', 'metal', 'black', 'white']"
+00070007_0619.jpg,528.0002999999999,253.99993300000003,563.0001,287.999863,1,debris,debris_528.00,"['black', 'small', 'square', 'metal', 'framed', 'white']"

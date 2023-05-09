@@ -1,0 +1,12 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0914.jpg,295.000064,153.999744,458.000384,282,1,ambulance,ambulance_295.00,"white, large, red, double decker, blue, colorful","white, red"
+00070007_0914.jpg,103.000576,158.000256,262.000128,291.000192,1,ambulance,ambulance_103.00,"white, yellow, parked, red, large, double decker","white, parked"
+00070007_0914.jpg,0.999936,1.00032,1023.999488,156.000384,1,bridge,bridge_1.00,"gray, concrete, yellow, white, black, metal",gray
+00070007_0914.jpg,210.000384,121.999872,863.000064,482.999808,1,car,car_210.00,"black, yellow, parked, gray, large, old","black, old"
+00070007_0914.jpg,576.000512,2.000256,735.000064,36.000384,1,car,car_576.00,"yellow, white, metal, large, gray, empty","metal, gray"
+00070007_0914.jpg,75.00032,199.999488,102.000128,290.999808,1,people,people_75.00,"blue, green, black, open, metal, white",black
+00070007_0914.jpg,885.000192,198,931.00032,282,1,man,man_885.00,"standing, green, walking, yellow, blue, sitting","standing, green"
+00070007_0914.jpg,0.999936,265.999872,1023.999488,768,1,road,road_1.00,"gray, paved, black, yellow, asphalt, wet","gray, asphalt"
+00070007_0914.jpg,663.000576,447.000192,726.000128,511.999872,1,debris,debris_663.00,"purple, pink, metal, small, black, white","metal, black"
+00070007_0914.jpg,456.000512,198.999552,506.000384,241.999872,1,truck,truck_456.00,"yellow, green, wooden, brown, small, empty",yellow
+00070007_0914.jpg,262.999552,198,296,262.99968,1,people,people_263.00,"purple, pink, standing, black, small, colorful",standing

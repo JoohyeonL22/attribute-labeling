@@ -1,0 +1,12 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0605.jpg,166.000104,462.000342,231.000012,496.000098,1,debris,debris_166.00,"['green', 'black', 'metal', 'old', 'gray', 'small']"
+00070007_0605.jpg,321.999975,363.000066,426.999897,421.000014,1,debris,debris_322.00,"['yellow', 'gray', 'small', 'black', 'metal', 'white']"
+00070007_0605.jpg,149.999823,58.99995599999997,753.000057,332.00007600000004,1,car,car_150.00,"['blue', 'white', 'parked', 'silver', 'orange', 'red']"
+00070007_0605.jpg,163.00053899999995,9.000071999999989,398.000277,160.000248,1,car,car_163.00,"['red', 'blue', 'parked', 'white', 'double decker', 'black']"
+00070007_0605.jpg,247.999995,158.00023200000004,917.999541,516.0,1,road,road_248.00,"['gray', 'white', 'wet', 'orange', 'dirty', 'dirt']"
+00070007_0605.jpg,703.999971,184.000182,864.9997289999999,506.000178,1,woman,woman_704.00,"['standing', 'orange', 'walking', 'young', 'gray', 'smiling']"
+00070007_0605.jpg,73.99998000000001,297.999804,166.00010400000002,330.00006,1,debris,debris_74.00,"['black', 'gray', 'wooden', 'metal', 'small', 'large']"
+00070007_0605.jpg,606.000258,491.999808,654.000642,513.9999839999999,1,debris,debris_606.00,"['red', 'black', 'white', 'small', 'large', 'blue']"
+00070007_0605.jpg,450.0003870000001,310.999908,528.000093,334.000092,1,debris,debris_450.00,"['black', 'white', 'metal', 'small', 'gray', 'silver']"
+00070007_0605.jpg,215.00019,1.0002659999999963,240.999786,181.000158,1,tree,tree_215.00,"['red', 'brown', 'tall', 'metal', 'pink', 'purple']"
+00070007_0605.jpg,1.0001609999999914,173.00009400000002,284.000283,514.0002420000001,1,sidewalk,sidewalk_1.00,"['green', 'dirt', 'brown', 'gray', 'rocky', 'dirty']"

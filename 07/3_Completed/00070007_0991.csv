@@ -1,0 +1,11 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0991.jpg,425,370.99982,800,515,1,car,car_425.00,"silver, black, metal, green, gray, blue","black, metal"
+00070007_0991.jpg,168,161.0000725,227,356.0001875,1,man,man_168.00,"purple, pink, standing, blue, colorful, red",standing
+00070007_0991.jpg,224,175.9999625,298,377.9999575,1,firefighter,firefighter_224.00,"standing, blue, young, wearing, skiing, smiling","standing, blue"
+00070007_0991.jpg,93,148.000185,167,353.000055,1,firefighter,firefighter_93.00,"standing, red, pink, walking, young, colorful",standing
+00070007_0991.jpg,1,374.00021,287,515,1,road,road_1.00,"gray, dirt, paved, concrete, green, yellow","gray, dirt"
+00070007_0991.jpg,1,0.9998725,800,276.0000875,1,trees,trees_1.00,"green, red, tall, leafy, large, black","green, leafy"
+00070007_0991.jpg,14,66.999955,458,383.999965,1,trailer,trailer_14.00,"green, metal, black, gray, white, silver","metal, white"
+00070007_0991.jpg,407,170.0002125,800,444.0002975,1,truck,truck_407.00,"green, blue, parked, black, silver, gray","blue, parked"
+00070007_0991.jpg,154,171.9997,191,347.99992,1,man,man_154.00,"pink, purple, black, colorful, red, gray",gray
+00070007_0991.jpg,289,319.00027,430,381.00009,1,debris,debris_289.00,"sitting, green, white, brown, wooden, laying","wooden, brown"

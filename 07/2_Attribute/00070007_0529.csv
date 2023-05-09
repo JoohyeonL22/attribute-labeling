@@ -1,0 +1,13 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0529.jpg,468.999774,196.00021400000003,779.000146,331.000042,1,jeep,jeep_469.00,"white, red, black, small, parked, silver","white, red, black, small, parked, silver"
+00070007_0529.jpg,201.000044,0.9999700000000048,231.00008000000005,196.00021400000003,1,pole,pole_201.00,"blue, metal, red, long, tall, black","blue, metal, red, long, tall, black"
+00070007_0529.jpg,804.000176,42.000125,824.0002,183.000327,1,pole,pole_804.00,"pink, purple, blue, white, metal, red","pink, purple, blue, white, metal, red"
+00070007_0529.jpg,903.999803,26.999744,918.999821,295.99998400000004,1,pole,pole_904.00,"pink, purple, red, black, metal, white","pink, purple, red, black, metal, white"
+00070007_0529.jpg,164.000394,33.000118,175.00021,190.000394,1,pole,pole_164.00,"red, white, orange, metal, long, pink","red, white, orange, metal, long, pink"
+00070007_0529.jpg,149.000376,29.999931000000004,181.00002,74.999689,1,sign,sign_149.00,"red, white, black, blue, hanging, orange","red, white, black, blue, hanging, orange"
+00070007_0529.jpg,791.0002589999999,34.000364999999995,825.000497,79.000123,1,sign,sign_791.00,"purple, pink, white, black, small, hanging","purple, pink, white, black, small, hanging"
+00070007_0529.jpg,865.0000520000001,1.0002470000000017,965.000172,82.000033,1,sign,sign_865.00,"black, white, red, pink, hanging, black and white","black, white, red, pink, hanging, black and white"
+00070007_0529.jpg,889.000278,83.99997300000001,940.000142,139.999955,1,sign,sign_889.00,"red, black, white, pink, metal, purple","red, black, white, pink, metal, purple"
+00070007_0529.jpg,0.9998039999999832,0.9999699999999904,986.0,137.999738,1,trees,trees_1.00,"red, green, black, white, blurry, dark","red, green, black, white, blurry, dark"
+00070007_0529.jpg,0.9998039999999832,170.99985600000002,986.0,554.0,1,water,water_1.00,"gray, white, concrete, blue, clean, wet","gray, white, concrete, blue, clean, wet"
+00070007_0529.jpg,176.999325,259.999956,189.999735,360.999696,1,post,post_177.00,"blue, green, metal, long, white, light blue","blue, green, metal, long, white, light blue"

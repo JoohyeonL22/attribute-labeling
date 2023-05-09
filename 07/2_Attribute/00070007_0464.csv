@@ -1,0 +1,9 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0464.jpg,54.9999,96.99974999999998,545.0001,356.99985000000004,1,car,car_55.00,"white, parked, gray, black, red, silver","white, parked, gray, black, red, silver"
+00070007_0464.jpg,222.9999,56.999925,362.0001,97.999875,1,car,car_223.00,"white, large, parked, silver, big, black","white, large, parked, silver, big, black"
+00070007_0464.jpg,529.0002,75.00015,598.0002,120.00015,1,car,car_529.00,"blue, parked, red, yellow, green, white","blue, parked, red, yellow, green, white"
+00070007_0464.jpg,78.00030000000001,82.99980000000001,188.0001,288.9999,1,man,man_78.00,"standing, orange, black, walking, sitting, young","standing, orange, black, walking, sitting, young"
+00070007_0464.jpg,193.0002,50.00017499999999,421.0002,136.000125,1,truck,truck_193.00,"red, white, parked, double decker, large, silver","red, white, parked, double decker, large, silver"
+00070007_0464.jpg,0.9998999999999684,0.9998999999999968,599.9997000000001,143.0001,1,trees,trees_1.00,"green, red, white, black, tall, large","green, red, white, black, tall, large"
+00070007_0464.jpg,0.9998999999999684,109.99980000000002,599.9997000000001,450.0,1,road,road_1.00,"gray, black, paved, white, blue, asphalt","gray, black, paved, white, blue, asphalt"
+00070007_0464.jpg,288.0002999999999,66.00015,578.0001,166.00005,1,debris,debris_288.00,"red, white, parked, yellow, silver, double decker","red, white, parked, yellow, silver, double decker"

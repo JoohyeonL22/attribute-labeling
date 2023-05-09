@@ -1,0 +1,6 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0575.jpg,1.0002000000000066,109.0,471.0006,700.0,1,building,building_1.00,"pink, brown, wooden, old, purple, gray","pink, brown, wooden, old, purple, gray"
+00070007_0575.jpg,849.9996,402.0,897.9996,515.0,1,boy,boy_850.00,"standing, walking, blue, white, green, young","standing, walking, blue, white, green, young"
+00070007_0575.jpg,989.0004,412.0,1073.0004,537.0,1,man,man_989.00,"blue, green, walking, standing, white, young","blue, green, walking, standing, white, young"
+00070007_0575.jpg,200.0004,347.0,731.0004,747.0,1,van,van_200.00,"pink, purple, white, brown, large, red","pink, purple, white, brown, large, red"
+00070007_0575.jpg,1.0001999999999498,463.0,1200.0006,796.0,1,debris,debris_1.00,"brown, pink, gray, purple, dirty, red","brown, pink, gray, purple, dirty, red"

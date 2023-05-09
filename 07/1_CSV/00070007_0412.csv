@@ -1,0 +1,8 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0412.jpg,172.999977,118.000041,542.9997989999999,267.000007,1,car,car_173.00,"['white', 'green', 'purple', 'silver', 'parked', 'yellow']"
+00070007_0412.jpg,362.0001755,252.999872,426.0004425,273.9999,1,debris,debris_362.00,"['pink', 'purple', 'red', 'metal', 'small', 'black']"
+00070007_0412.jpg,473.999869,74.0000405,583.999883,308.0000035,1,police,police_474.00,"['standing', 'green', 'walking', 'sitting', 'blue', 'wearing']"
+00070007_0412.jpg,551.0000645,84.999997,619.0003095,285.000031,1,police,police_551.00,"['green', 'standing', 'walking', 'black', 'yellow', 'blue']"
+00070007_0412.jpg,0.999994500000014,54.9997825,175.0002755,229.99989950000003,1,truck,truck_1.00,"['yellow', 'green', 'white', 'parked', 'black', 'double decker']"
+00070007_0412.jpg,1.0003039999999714,216.9999985,619.0,348.9998255,1,road,road_1.00,"['gray', 'concrete', 'paved', 'black', 'empty', 'yellow']"
+00070007_0412.jpg,250.9998575,142.999958,338.9999925,266.00012200000003,1,police,police_251.00,"['green', 'white', 'yellow', 'silver', 'metal', 'open']"

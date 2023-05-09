@@ -1,0 +1,8 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0181.jpg,489.00105600000006,4.999427999999966,554.000352,951.99966,1,pole,pole_489.00,"['red', 'black', 'long', 'metal', 'tall', 'large']"
+00070007_0181.jpg,0.9995999999999868,618.0000479999999,1115.999952,1224.0,1,sidewalk,sidewalk_1.00,"['brick', 'brown', 'wet', 'gray', 'tiled', 'concrete']"
+00070007_0181.jpg,21.000576000000024,0.9993959999999332,1632.0,1223.999388,1,building,building_21.00,"['brown', 'brick', 'large', 'tan', 'white', 'gray']"
+00070007_0181.jpg,223.00056,682.999956,297.000336,788.99958,1,bin,bin_223.00,"['green', 'black', 'blue', 'small', 'metal', 'silver']"
+00070007_0181.jpg,91.00032000000002,639.000216,126.000192,687.0006,1,bin,bin_91.00,"['black', 'metal', 'small', 'white', 'silver', 'brown']"
+00070007_0181.jpg,1.0004159999999995,596.99988,20.00016,655.0003439999999,1,person,person_1.00,"['red', 'green', 'pink', 'hanging', 'colorful', 'white']"
+00070007_0181.jpg,18.000144,593.9992440000001,32.999856,642.999636,1,person,person_18.00,"['green', 'red', 'white', 'hanging', 'traffic', 'street']"

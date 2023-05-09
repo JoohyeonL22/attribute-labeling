@@ -1,0 +1,12 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0616.jpg,124.0,37.000068000000006,394.0,149.000052,1,ambulance,ambulance_124.00,"white, double decker, parked, yellow, large, blue","white, parked"
+00070007_0616.jpg,124.00000000000004,90.00003600000001,337.0,161.00014800000002,1,car,car_124.00,"white, parked, large, silver, black, metal","silver, metal"
+00070007_0616.jpg,254.0,74.000022,284.0,101.00001,1,man,man_254.00,"blue, white, glass, yellow, small, empty",
+00070007_0616.jpg,330.0,69.99999,365.0,148.999938,1,man,man_330.00,"yellow, green, purple, metal, pink, colorful",green
+00070007_0616.jpg,335.0,150.999954,353.0,225.99987,1,post,post_335.00,"green, metal, gray, silver, long, blue","gray, long"
+00070007_0616.jpg,190.0,1.0001220000000046,400.0,83.000094,1,tree,tree_190.00,"white, bare, blue, large, tall, leafless",leafless
+00070007_0616.jpg,1.0,150.999954,400.0,226.999878,1,grass,grass_1.00,"green, white, brown, gray, black, metal",green
+00070007_0616.jpg,134.0,173.99991,226.0,209.99997,1,debris,debris_134.00,"white, glass, black, framed, clear, metal","framed, metal"
+00070007_0616.jpg,215.0,159.00001799999998,290.0,175.999926,1,debris,debris_215.00,"blue, white, metal, small, silver, empty",metal
+00070007_0616.jpg,189.00000000000003,68.00008799999999,251.00000000000003,111.999984,1,people,people_189.00,"blue, yellow, glass, white, green, small",yellow
+00070007_0616.jpg,6.0,69.99999,148.0,158.00001,1,people,people_6.00,"white, standing, large, yellow, metal, blue","standing, yellow"

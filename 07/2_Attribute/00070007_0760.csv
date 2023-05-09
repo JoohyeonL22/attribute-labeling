@@ -1,0 +1,6 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0760.jpg,1.00009,212.9997845,277.00043,323.9999895,1,building,building_1.00,"red, white, pink, brick, brown, large","red, white, pink, brick, brown, large"
+00070007_0760.jpg,370.9995799999999,161.00041500000003,762.9995799999999,332.000219,1,building,building_371.00,"red, large, glass, tall, brown, big","red, large, glass, tall, brown, big"
+00070007_0760.jpg,76.00046999999999,383.9995885000001,241.00013,646.9999095000001,1,sign,sign_76.00,"yellow, blue, black, white, metal, traffic","yellow, blue, black, white, metal, traffic"
+00070007_0760.jpg,0.9995999999999868,28.99973,318.9998,335.999844,1,trees,trees_1.00,"bare, red, leafless, pink, large, blue","bare, red, leafless, pink, large, blue"
+00070007_0760.jpg,0.9995999999999868,318.9999684999999,980.0,652.9996735,1,water,water_1.00,"blue, calm, clear, large, dark, dark blue","blue, calm, clear, large, dark, dark blue"

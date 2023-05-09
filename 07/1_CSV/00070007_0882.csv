@@ -1,0 +1,9 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0882.jpg,0.9999359999999342,0.9996645000000228,1736.0,510.0000315,1,building,building_1.00,"['white', 'gray', 'red', 'tan', 'concrete', 'beige']"
+00070007_0882.jpg,1397.000864,35.00025600000004,1736.0,1263.0,1,car,car_1397.00,"['red', 'black', 'gray', 'parked', 'double decker', 'metal']"
+00070007_0882.jpg,0.999936000000048,421.9992435,597.99992,819.9995925,1,car,car_1.00,"['black', 'green', 'parked', 'gray', 'red', 'dark']"
+00070007_0882.jpg,797.0002039999999,189.999405,1627.0009,506.999775,1,fence,fence_797.00,"['gray', 'metal', 'silver', 'white', 'red', 'black']"
+00070007_0882.jpg,0.9999359999999342,505.000446,1736.0,1263.0,1,parking lot,parking lot_1.00,"['gray', 'wet', 'paved', 'black', 'yellow', 'asphalt']"
+00070007_0882.jpg,471.000236,373.000527,982.000516,575.999991,1,car,car_471.00,"['white', 'red', 'black', 'silver', 'gray', 'orange']"
+00070007_0882.jpg,955.000508,343.999521,1192.000964,568.000149,1,car,car_955.00,"['black', 'white', 'red', 'large', 'open', 'silver']"
+00070007_0882.jpg,1279.999672,275.000568,1543.0002,1057.999944,1,firefighter,firefighter_1280.00,"['yellow', 'standing', 'red', 'brown', 'jumping', 'black']"

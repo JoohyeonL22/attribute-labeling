@@ -1,0 +1,9 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0338.jpg,175.99948800000004,52.99986500000003,651.9997440000001,322.999875,1,truck,truck_176.00,"purple, black, pink, parked, green, white",black
+00070007_0338.jpg,29.000063999999995,202.00024,133.00032,259.00018,1,car,car_29.00,"red, white, green, yellow, silver, pink",yellow
+00070007_0338.jpg,604.9996799999999,142.99993999999998,768.0,314.99994,1,car,car_605.00,"red, parked, maroon, black, brown, old","red, parked"
+00070007_0338.jpg,122.99980800000002,153.00001999999998,168.0,304.99986,1,man,man_123.00,"standing, walking, green, gray, black, young","standing, black"
+00070007_0338.jpg,102.999552,0.9997499999999916,147.99974400000002,197.99995,1,pole,pole_103.00,"purple, wooden, pink, brown, wood, tall","wooden, pink"
+00070007_0338.jpg,362.999808,1.0001800000000003,412.99968,73.00024,1,trees,trees_363.00,"red, black, green, orange, open, metal",red
+00070007_0338.jpg,0.999935999999991,285.99988,768.0,430.0,1,road,road_1.00,"gray, yellow, paved, black, concrete, asphalt","gray, asphalt"
+00070007_0338.jpg,163.99987199999998,164.00006499999995,243.000192,303.999895,1,people,people_164.00,"standing, walking, green, black, purple, white","standing, black"

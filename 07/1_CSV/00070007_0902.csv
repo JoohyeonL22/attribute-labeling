@@ -1,0 +1,12 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0902.jpg,1.0005120000000147,898.0000480000001,236.0016,1332.0009120000002,1,ladder,ladder_1.00,"['white', 'metal', 'green', 'gray', 'black', 'silver']"
+00070007_0902.jpg,1056.00024,644.00072,1205.00136,1355.000592,1,ladder,ladder_1056.00,"['white', 'red', 'tall', 'metal', 'gray', 'silver']"
+00070007_0902.jpg,0.9992160000000468,597.000448,909.000144,1932.000224,1,tree,tree_1.00,"['green', 'white', 'red', 'tall', 'large', 'small']"
+00070007_0902.jpg,1.0005120000000716,0.9999439999999707,2592.0,804.000472,1,trees,trees_1.00,"['blue', 'green', 'clear', 'cloudy', 'white', 'tall']"
+00070007_0902.jpg,1499.0002560000005,1478.0004800000002,2592.0,1936.0,1,road,road_1499.00,"['white', 'gray', 'blue', 'painted', 'wet', 'paved']"
+00070007_0902.jpg,625.999104,1197.000728,760.0003200000001,1532.00036,1,firefighter,firefighter_626.00,"['standing', 'yellow', 'walking', 'black', 'red', 'tall']"
+00070007_0902.jpg,909.00144,1195.999816,1070.000928,1613.000664,1,firefighter,firefighter_909.00,"['standing', 'walking', 'white', 'wearing', 'young', 'watching']"
+00070007_0902.jpg,1085.000832,1194.000896,1228.001472,1607.000032,1,firefighter,firefighter_1085.00,"['purple', 'standing', 'pink', 'black', 'green', 'tall']"
+00070007_0902.jpg,1226.000448,1170.000304,1360.001664,1578.000688,1,firefighter,firefighter_1226.00,"['standing', 'pink', 'purple', 'walking', 'small', 'black']"
+00070007_0902.jpg,1.0005120000000716,504.999792,2592.0,1503.999024,1,building,building_1.00,"['white', 'red', 'large', 'pink', 'gray', 'tall']"
+00070007_0902.jpg,569.001024,1463.999328,1641.000384,1936.0,1,grass,grass_569.00,"['green', 'yellow', 'white', 'red', 'long', 'grassy']"

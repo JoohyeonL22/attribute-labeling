@@ -1,0 +1,11 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0829.jpg,237.00015,609.9996,351.00045,738.9996,1,fire,fire_237.00,"['orange', 'red', 'yellow', 'large', 'white', 'silver']"
+00070007_0829.jpg,1.0003500000000258,1.0001999999999498,900.00045,690.0006,1,trees,trees_1.00,"['tall', 'green', 'blue', 'large', 'brown', 'clear']"
+00070007_0829.jpg,664.0002000000001,617.0004,889.0002000000001,737.0004,1,debris,debris_664.00,"['red', 'white', 'black', 'blue', 'parked', 'small']"
+00070007_0829.jpg,232.00019999999995,757.0002,691.0002,900.0005999999998,1,debris,debris_232.00,"['red', 'white', 'metal', 'long', 'black', 'wooden']"
+00070007_0829.jpg,101.00024999999998,800.9994000000002,217.00035,829.9998,1,debris,debris_101.00,"['green', 'metal', 'wooden', 'blue', 'white', 'small']"
+00070007_0829.jpg,474.99975,604.0002000000001,556.99965,652.9998000000002,1,debris,debris_475.00,"['green', 'white', 'blue', 'large', 'colorful', 'wooden']"
+00070007_0829.jpg,567.9998999999999,663.9996,652.9995,714.9996,1,fire,fire_568.00,"['sitting', 'standing', 'red', 'watching', 'walking', 'white']"
+00070007_0829.jpg,1.0003499999999974,675.0006,99.00045,751.0002000000001,1,fire,fire_1.00,"['yellow', 'red', 'orange', 'colorful', 'blue', 'white']"
+00070007_0829.jpg,1.000349999999969,0.9996000000000436,387.00045,759.9995999999999,1,smoke,smoke_1.00,"['tall', 'green', 'blue', 'large', 'white', 'clear']"
+00070007_0829.jpg,503.0001,25.999799999999997,852.0002999999999,704.9993999999999,1,smoke,smoke_503.00,"['green', 'tall', 'brown', 'large', 'leafy', 'big']"

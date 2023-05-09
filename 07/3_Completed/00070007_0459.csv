@@ -1,0 +1,9 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0459.jpg,181.99872,337.000416,2118.999168,1460.000736,1,car,car_182.00,"red, parked, white, blue, black, silver",red
+00070007_0459.jpg,166.00132799999997,199.000224,579.000528,622.000416,1,suv,suv_166.00,"clear, red, white, glass, large, blue",white
+00070007_0459.jpg,1614.0005999999998,233.00049600000003,2213.001288,441.00033600000006,1,car,car_1614.00,"black, parked, green, silver, gray, blue","black, parked"
+00070007_0459.jpg,483.001128,156.000336,1475.000856,567.999984,1,car,car_483.00,"blue, white, large, parked, glass, green",large
+00070007_0459.jpg,1461.9993840000002,425.00020799999993,2735.9986320000003,1771.000944,1,road,road_1462.00,"gray, blue, white, paved, green, black","gray, paved"
+00070007_0459.jpg,1209.0000959999998,235.99915199999995,1655.000928,556.9994399999999,1,car,car_1209.00,"white, green, parked, blue, driving, double decker",blue
+00070007_0459.jpg,1462.000752,249.000624,1617.000624,360.000144,1,car,car_1462.00,"white, red, small, clear, blue, pink","white, small"
+00070007_0459.jpg,567.000432,1.9991039999999884,2584.00152,1824.0,1,debris,debris_567.00,"gray, blue, white, black, parked, green",gray

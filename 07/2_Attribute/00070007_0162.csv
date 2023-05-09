@@ -1,0 +1,9 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0162.jpg,626.0000505,239.00012200000003,650.0003895,324.00020600000005,1,man,man_626.00,"standing, walking, blue, watching, sitting, white","standing, walking, blue, watching, sitting, white"
+00070007_0162.jpg,706.9997715000001,240.999769,742.9999005000001,334.999847,1,man,man_707.00,"standing, walking, watching, blue, talking, wearing","standing, walking, watching, blue, talking, wearing"
+00070007_0162.jpg,0.9996029999999224,0.9999289999999944,604.9996590000001,180.000091,1,smoke,smoke_1.00,"blue, black, white, clear, dark, large","blue, black, white, clear, dark, large"
+00070007_0162.jpg,551.9998275,0.9999290000000088,758.9996205,331.000131,1,tree,tree_552.00,"green, blue, tall, large, leafy, big","green, blue, tall, large, leafy, big"
+00070007_0162.jpg,56.99976149999998,107.999928,628.9996185,395.999736,1,bus,bus_57.00,"red, yellow, white, metal, purple, black","red, yellow, white, metal, purple, black"
+00070007_0162.jpg,63.000036,78.99987700000001,290.000238,210.000071,1,fire,fire_63.00,"blue, colorful, yellow, white, red, brown","blue, colorful, yellow, white, red, brown"
+00070007_0162.jpg,344.000052,77.999737,636.9998579999999,286.999879,1,fire,fire_344.00,"metal, glass, black, large, clear, blue","metal, glass, black, large, clear, blue"
+00070007_0162.jpg,1.0003619999999955,352.999835,759.0,421.999789,1,road,road_1.00,"gray, black, blue, wet, metal, empty","gray, black, blue, wet, metal, empty"

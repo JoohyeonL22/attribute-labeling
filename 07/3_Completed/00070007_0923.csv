@@ -1,0 +1,7 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0923.jpg,588.0,160.00001999999998,640.0,207.9999,1,car,car_588.00,"white, green, parked, large, small, blue","white, small"
+00070007_0923.jpg,439.99968,131.00021999999998,489.99968,260.0001,1,man,man_440.00,"red, black, white, standing, walking, gray","black, standing"
+00070007_0923.jpg,1.0,202.99986,639.99968,359.99982,1,road,road_1.00,"gray, yellow, paved, black, asphalt, concrete","gray, asphalt"
+00070007_0923.jpg,1.0,1.0000800000000112,639.99968,164.00016,1,trees,trees_1.00,"bare, brown, leafless, tall, white, snow-covered","bare, brown"
+00070007_0923.jpg,121.00032,160.0002,306.0,248.00004,1,car,car_121.00,"blue, green, black, large, white, parked",blue
+00070007_0923.jpg,135.99967999999998,232.99992000000003,277.99968,259.99992000000003,1,debris,debris_136.00,"green, metal, white, wooden, empty, long",metal

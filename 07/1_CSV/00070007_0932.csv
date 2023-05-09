@@ -1,0 +1,12 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0932.jpg,314.99949600000014,1611.0017280000002,3023.998488,3127.001472,1,jeep,jeep_315.00,"['black', 'red', 'white', 'yellow', 'large', 'standing']"
+00070007_0932.jpg,0.9994319999998424,3486.000672,3023.998488,4032.002016,1,road,road_1.00,"['gray', 'red', 'white', 'paved', 'concrete', 'black']"
+00070007_0932.jpg,2286.999792,1804.999392,2740.9989600000004,3130.9992,1,firefighter,firefighter_2287.00,"['standing', 'black', 'walking', 'wearing', 'smiling', 'looking']"
+00070007_0932.jpg,775.9992239999999,1982.00016,1364.998824,3317.9993280000003,1,firefighter,firefighter_776.00,"['black', 'sitting', 'yellow', 'standing', 'gray', 'wearing']"
+00070007_0932.jpg,0.9994319999998424,0.997920000000022,3023.998488,2449.9984320000003,1,trees,trees_1.00,"['bare', 'large', 'brown', 'gray', 'white', 'green']"
+00070007_0932.jpg,1518.001128,3069.0011520000003,2857.001112,3576.00096,1,debris,debris_1518.00,"['black', 'red', 'yellow', 'gray', 'green', 'metal']"
+00070007_0932.jpg,0.9994319999998424,2962.999872,1746.999576,3730.999104,1,debris,debris_1.00,"['red', 'white', 'black', 'orange', 'gray', 'metal']"
+00070007_0932.jpg,11.99923200000012,1237.001472,3024.0,2256.000768,1,building,building_12.00,"['red', 'white', 'bare', 'black', 'gray', 'large']"
+00070007_0932.jpg,1843.998912,2023.999488,2282.99904,3159.9993600000003,1,firefighter,firefighter_1844.00,"['standing', 'yellow', 'black', 'red', 'white', 'orange']"
+00070007_0932.jpg,1546.998264,2004.998688,2082.99924,3220.997472,1,firefighter,firefighter_1547.00,"['standing', 'black', 'yellow', 'skiing', 'gray', 'wearing']"
+00070007_0932.jpg,1211.998032,2160.000864,1536.999408,3237.00048,1,firefighter,firefighter_1212.00,"['standing', 'black', 'sitting', 'watching', 'wearing', 'gray']"

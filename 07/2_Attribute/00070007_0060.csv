@@ -1,0 +1,13 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0060.jpg,0.999674999999968,1.000349999999969,328.999725,587.00025,1,building,building_1.00,"tall, large, blue, white, green, bare","tall, large, blue, white, green, bare"
+00070007_0060.jpg,317.00025,310.00005,421.0002,510.99975,1,building,building_317.00,"red, glass, tall, blue, white, large","red, glass, tall, blue, white, large"
+00070007_0060.jpg,463.00005,228.99960000000004,668.0002499999999,595.9998,1,building,building_463.00,"large, tall, glass, white, gray, big","large, tall, glass, white, gray, big"
+00070007_0060.jpg,166.00038750000002,497.9997,291.0002625,702.9998999999999,1,man,man_166.00,"standing, walking, sitting, black, watching, white","standing, walking, sitting, black, watching, white"
+00070007_0060.jpg,103.99994999999998,9.999900000000023,157.99994999999998,704.9997,1,pole,pole_104.00,"tall, brown, green, metal, long, blue","tall, brown, green, metal, long, blue"
+00070007_0060.jpg,1.0000125000000253,645.0002999999999,675.0003375,699.0002999999999,1,road,road_1.00,"yellow, gray, metal, black, white, long","yellow, gray, metal, black, white, long"
+00070007_0060.jpg,58.0003875,42.0003,291.0002625,175.0005,1,sign,sign_58.00,"blue, white, green, large, black, hanging","blue, white, green, large, black, hanging"
+00070007_0060.jpg,264.0002625,403.0002,462.0000375,615.0006,1,smoke,smoke_264.00,"red, blue, white, glass, large, tall","red, blue, white, glass, large, tall"
+00070007_0060.jpg,18.000225,0.9999000000000252,381.000375,710.0001,1,tree,tree_18.00,"tall, large, red, blue, white, gray","tall, large, red, blue, white, gray"
+00070007_0060.jpg,257.99985000000004,530.0001,588.9996,663.0002999999999,1,van,van_258.00,"white, gray, silver, parked, black, red","white, gray, silver, parked, black, red"
+00070007_0060.jpg,261.000225,529.0002000000001,365.000175,617.0004,1,fire,fire_261.00,"yellow, orange, large, colorful, red, lit","yellow, orange, large, colorful, red, lit"
+00070007_0060.jpg,269.99999999999994,356.0004,675.0,585.0,1,smoke,smoke_270.00,"white, glass, large, gray, tall, red","white, glass, large, gray, tall, red"

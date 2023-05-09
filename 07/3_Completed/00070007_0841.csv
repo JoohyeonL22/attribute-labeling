@@ -1,0 +1,5 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0841.jpg,550.0008045,66.00030449999997,3607.0005255,1402.0000795,1,airplane,airplane_550.00,"white, green, red, silver, gray, blue",white
+00070007_0841.jpg,0.999192000000221,149.99945550000007,4029.0,958.9988085,1,trees,trees_1.00,"green, white, blue, red, cloudy, gray",green
+00070007_0841.jpg,0.999192000000221,836.0004565000002,4029.0,2267.0011335,1,field,field_1.00,"green, brown, dry, tall, grassy, long","green, brown"
+00070007_0841.jpg,3113.9999985000004,2159.9998670000004,4028.9979855,2266.000253,1,tape,tape_3114.00,"yellow, black, gold, white, orange, painted",yellow

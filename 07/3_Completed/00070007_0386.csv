@@ -1,0 +1,12 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0386.jpg,291.999879,310.9998925,768.999825,595.9998495,1,car,car_292.00,"purple, black, green, pink, large, colorful",black
+00070007_0386.jpg,293.000256,316.9999085,798.000804,567.0003075,1,car,car_293.00,"purple, black, green, pink, large, gray",black
+00070007_0386.jpg,745.999686,281.000214,1345.000122,639.000098,1,car,car_746.00,"green, black, purple, parked, pink, red",black
+00070007_0386.jpg,1.000377,449.0002605,1422.000711,803.0004015,1,dirt,dirt_1.00,"brown, dirt, green, dirty, sandy, dry","brown, dirt"
+00070007_0386.jpg,0.999666,304.0001415,306.999846,431.0002125,1,fire truck,fire truck_1.00,"red, white, parked, double decker, large, purple","red, white"
+00070007_0386.jpg,1124.000703,288.0003665,1368.000261,588.0003635,1,man,man_1124.00,"black, green, purple, metal, silver, blue",black
+00070007_0386.jpg,155.999799,1.0001365,1421.999289,398.9998595,1,mountain,mountain_156.00,"green, brown, pink, purple, large, cloudy","brown, cloudy"
+00070007_0386.jpg,962.000064,200.0003995,1422,443.0002445,1,fire truck,fire truck_962.00,"double decker, red, pink, purple, colorful, green",red
+00070007_0386.jpg,5.000463,559.0000185,890.000649,725.0001935,1,debris,debris_5.00,"brown, pink, dirt, purple, sandy, red","brown, sandy"
+00070007_0386.jpg,247.999644,410.9998915,380.999304,438.9996985,1,road,road_248.00,"green, white, metal, black, brown, wooden",black
+00070007_0386.jpg,1329.000489,471.0000515,1422.000711,598.0001225,1,road,road_1329.00,"green, white, black, blue, silver, gray",gray

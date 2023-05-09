@@ -1,0 +1,8 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0402.jpg,140.99995000000007,147.99987649999997,650.99965,341.9997655,1,car,car_141.00,"['purple', 'white', 'metal', 'silver', 'black', 'blue']"
+00070007_0402.jpg,246.9999,120.99991249999998,341.9997,349.0000515,1,man,man_247.00,"['standing', 'purple', 'black', 'white', 'pink', 'sitting']"
+00070007_0402.jpg,560.0003499999999,3.000217499999991,590.0002499999999,200.0001025,1,pole,pole_560.00,"['blue', 'tall', 'purple', 'metal', 'black', 'green']"
+00070007_0402.jpg,70.00035,0.9998509999999924,86.00025,208.999869,1,pole,pole_70.00,"['green', 'metal', 'white', 'tall', 'black', 'long']"
+00070007_0402.jpg,0.9999500000000126,299.000192,699.99965,443.0,1,road,road_1.00,"['wet', 'black', 'white', 'gray', 'paved', 'concrete']"
+00070007_0402.jpg,0.9999499999999985,290.000204,219.99985,386.000076,1,debris,debris_1.00,"['white', 'purple', 'red', 'black', 'metal', 'colorful']"
+00070007_0402.jpg,587.0000500000001,59.000069,700.00035,187.999897,1,building,building_587.00,"['brown', 'pink', 'wooden', 'purple', 'tan', 'brick']"

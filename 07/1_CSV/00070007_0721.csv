@@ -1,0 +1,12 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0721.jpg,0.999679999999998,283.0001625,132.0,495.0002475,1,building,building_1.00,"['blue', 'white', 'large', 'gray', 'glass', 'red']"
+00070007_0721.jpg,575.00036,329.0000175,798.00028,443.9999025,1,building,building_575.00,"['green', 'brown', 'large', 'blue', 'red', 'glass']"
+00070007_0721.jpg,95.99964000000004,298.0001475,543.99972,441.0002025,1,building,building_96.00,"['glass', 'black', 'metal', 'blue', 'clear', 'large']"
+00070007_0721.jpg,764.00016,447.0000975,819.00016,492.9999525,1,man,man_764.00,"['pink', 'red', 'purple', 'open', 'white', 'small']"
+00070007_0721.jpg,0.999680000000012,0.9998999999999968,880.0,365.00013,1,smoke,smoke_1.00,"['black', 'dark', 'blue', 'white', 'clear', 'blurry']"
+00070007_0721.jpg,542.00036,146.00000250000002,798.00028,489.9997575,1,tree,tree_542.00,"['large', 'bare', 'tall', 'glass', 'black', 'brown']"
+00070007_0721.jpg,734.00052,292.000005,875.00028,490.999905,1,tree,tree_734.00,"['glass', 'green', 'black', 'tall', 'large', 'red']"
+00070007_0721.jpg,294.00008,425.99997,348.0004,495.0,1,man,man_294.00,"['green', 'black', 'white', 'dark', 'red', 'lit']"
+00070007_0721.jpg,849.99992,445.00005,877.9997599999999,495.0,1,man,man_850.00,"['black', 'blue', 'red', 'white', 'metal', 'yellow']"
+00070007_0721.jpg,129.00052,422.0001225,177.00011999999998,495.0002475,1,man,man_129.00,"['green', 'blue', 'traffic', 'black', 'red', 'metal']"
+00070007_0721.jpg,201.9996,110.00013749999997,806.9996,442.0001025,1,fire,fire_202.00,"['black', 'white', 'large', 'dark', 'red', 'clear']"

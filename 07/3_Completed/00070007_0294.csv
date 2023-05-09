@@ -1,0 +1,21 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0294.jpg,380,65.000082,800,259.000146,1,building,building_380.00,"gray, green, brown, brick, white, large","gray, brown"
+00070007_0294.jpg,1,252.999855,142,345.999693,1,car,car_1.00,"white, green, parked, large, silver, gray","white, parked"
+00070007_0294.jpg,97,272.000109,501,470.000367,1,car,car_97.00,"purple, black, parked, white, pink, green","black, parked"
+00070007_0294.jpg,154,235.00005,189,292.000278,1,man,man_154.00,"pink, purple, standing, white, walking, sitting","standing, white"
+00070007_0294.jpg,187,11.000133,213,276.000303,1,pole,pole_187.00,"tall, metal, white, gray, black, silver","metal, white"
+00070007_0294.jpg,83,0.999915,103,342.000033,1,pole,pole_83.00,"green, metal, tall, silver, gray, white","metal, gray"
+00070007_0294.jpg,1,1.000182,86,68.000094,1,sign,sign_1.00,"white, green, black, large, blue, black and white",white
+00070007_0294.jpg,1,84.000069,83,164.000211,1,sign,sign_1.00,"white, blue, black, green, square, street","white, street"
+00070007_0294.jpg,79,183.000198,102,216.00033,1,sign,sign_79.00,"green, white, street, black, blue, red","white, street"
+00070007_0294.jpg,33,436.999968,116,461.000064,1,debris,debris_33.00,"white, blue, small, empty, open, metal","white, small"
+00070007_0294.jpg,392,398.999727,544,472.999845,1,debris,debris_392.00,"black, metal, purple, pink, silver, gray","black, metal"
+00070007_0294.jpg,233,213.000318,662,417.000066,1,car,car_233.00,"purple, colorful, white, black, parked, green","black, parked"
+00070007_0294.jpg,634,215.000148,800,330.000252,1,car,car_634.00,"green, gray, silver, white, parked, blue","silver, parked"
+00070007_0294.jpg,769,226.999929,784,252.999855,1,man,man_769.00,"green, glass, small, open, blue, clear",
+00070007_0294.jpg,487,234.000135,510,269.000097,1,man,man_487.00,"green, glass, small, open, clear, sitting",
+00070007_0294.jpg,662,233.999868,723,263.999988,1,car,car_662.00,"red, glass, clear, large, small, open","large, open"
+00070007_0294.jpg,587,244.000086,665,304.000326,1,car,car_587.00,"white, pink, blue, purple, plastic, gray",white
+00070007_0294.jpg,514,235.00005,643,262.999806,1,car,car_514.00,"green, black, white, metal, blue, wooden","white, metal"
+00070007_0294.jpg,266,232.999953,536,273.999939,1,cars,cars_266.00,"orange, green, blue, glass, white, large",large
+00070007_0294.jpg,1,403.000188,783,534,1,road,road_1.00,"gray, paved, wet, concrete, black, asphalt","gray, asphalt"

@@ -1,0 +1,9 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0409.jpg,234.99952,226.0,675.9995200000001,362.0,1,car,car_235.00,"['black', 'blue', 'parked', 'green', 'white', 'silver']"
+00070007_0409.jpg,88.99968000000001,160.99968,214.99968,216.0,1,car,car_89.00,"['white', 'parked', 'blue', 'silver', 'black', 'gray']"
+00070007_0409.jpg,0.9995999999999868,155.00032000000004,1119.99944,640.0,1,grass,grass_1.00,"['green', 'grassy', 'short', 'brown', 'grass', 'large']"
+00070007_0409.jpg,1.000159999999994,289.99968,155.00016,319.99968,1,debris,debris_1.00,"['pink', 'red', 'black', 'purple', 'colorful', 'white']"
+00070007_0409.jpg,441.00000000000006,272.0,1089.99968,608.0,1,debris,debris_441.00,"['green', 'blue', 'black', 'brown', 'white', 'grassy']"
+00070007_0409.jpg,0.99959999999993,156.0,748.99944,212.0,1,road,road_1.00,"['yellow', 'metal', 'wooden', 'long', 'gray', 'brown']"
+00070007_0409.jpg,0.9995999999999868,128.0,1119.99944,159.00032,1,trees,trees_1.00,"['pink', 'red', 'purple', 'long', 'green', 'colorful']"
+00070007_0409.jpg,1.000159999999994,108.0,869.00016,136.99967999999998,1,mountain,mountain_1.00,"['pink', 'purple', 'colorful', 'red', 'multi colored', 'large']"

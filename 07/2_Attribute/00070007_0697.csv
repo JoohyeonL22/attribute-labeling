@@ -1,0 +1,11 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0697.jpg,401.0004,260.999865,872.0004,615.0000150000001,1,truck,truck_401.00,"black, red, silver, gray, orange, blue","black, red, silver, gray, orange, blue"
+00070007_0697.jpg,828.0006,404.000415,889.0002000000001,568.000125,1,chain,chain_828.00,"pink, metal, red, silver, purple, black","pink, metal, red, silver, purple, black"
+00070007_0697.jpg,276.0006,450.00018000000006,415.0002,623.9998800000001,1,person,person_276.00,"yellow, standing, walking, sitting, wearing, black","yellow, standing, walking, sitting, wearing, black"
+00070007_0697.jpg,288.0,389.999925,516.0,459.999855,1,debris,debris_288.00,"red, white, colorful, blue, black, large","red, white, colorful, blue, black, large"
+00070007_0697.jpg,1.0001999999999498,1.0001249999999828,1198.9998,237.000015,1,road,road_1.00,"white, yellow, clear, gray, blue, large","white, yellow, clear, gray, blue, large"
+00070007_0697.jpg,391.0002,471.99978,1197.0006,630.0,1,road,road_391.00,"gray, concrete, wet, white, black, cement","gray, concrete, wet, white, black, cement"
+00070007_0697.jpg,775.0002,1.000124999999997,847.9998,117.000135,1,firefighter,firefighter_775.00,"green, blue, colorful, white, glass, small","green, blue, colorful, white, glass, small"
+00070007_0697.jpg,895.0002000000001,37.00021499999999,961.9998000000002,130.000185,1,person,person_895.00,"standing, sitting, walking, black, metal, watching","standing, sitting, walking, black, metal, watching"
+00070007_0697.jpg,940.0002,0.9998100000000036,991.9998000000002,109.99989,1,person,person_940.00,"green, blue, metal, yellow, black, colorful","green, blue, metal, yellow, black, colorful"
+00070007_0697.jpg,973.0002,0.9998100000000036,1044.0006,123.99975,1,person,person_973.00,"green, blue, glass, colorful, large, hanging","green, blue, glass, colorful, large, hanging"

@@ -1,0 +1,8 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0626.jpg,0.9999899999999968,0.9999899999999968,232.00014,77.00005,1,bush,bush_1.00,"['purple', 'pink', 'green', 'blue', 'colorful', 'black']"
+00070007_0626.jpg,49.99980750000003,39.000225,479.9998125,337.000115,1,car,car_50.00,"['blue', 'purple', 'white', 'parked', 'metal', 'silver']"
+00070007_0626.jpg,1.000297500000002,73.00009,193.0002225,409.00001,1,sidewalk,sidewalk_1.00,"['blue', 'green', 'metal', 'black', 'gray', 'brown']"
+00070007_0626.jpg,222.00024,23.999965,615.0,83.999775,1,road,road_222.00,"['red', 'blue', 'yellow', 'white', 'metal', 'gray']"
+00070007_0626.jpg,52.99977750000001,320.999865,238.99976250000003,409.999795,1,debris,debris_53.00,"['metal', 'black', 'gray', 'blue', 'wire', 'red']"
+00070007_0626.jpg,485.00007,66.999945,602.00013,114.999875,1,debris,debris_485.00,"['yellow', 'metal', 'blue', 'white', 'gray', 'silver']"
+00070007_0626.jpg,103.0002,63.99997500000004,615.0,408.999805,1,bush,bush_103.00,"['blue', 'gray', 'green', 'white', 'black', 'parked']"

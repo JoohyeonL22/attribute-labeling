@@ -1,0 +1,12 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0005.jpg,136.0,9.000268499999997,340.99968,115.0000655,1,building,building_136.00,"white, green, tall, blue, large, black","white, green, tall, blue, large, black"
+00070007_0005.jpg,370.999808,119.00029,1023.999488,236.00031,1,bush,bush_371.00,"yellow, green, black, white, long, gray","yellow, green, black, white, long, gray"
+00070007_0005.jpg,0.9994240000000048,78.00011849999999,280.99993600000005,407.9998675,1,suv,suv_1.00,"blue, white, parked, green, silver, black","blue, white, parked, green, silver, black"
+00070007_0005.jpg,776.000512,1.0001349999999718,883.00032,349.000421,1,pole,pole_776.00,"black, brown, tall, large, dark, metal","black, brown, tall, large, dark, metal"
+00070007_0005.jpg,187.00032,108.9998865,427.00032,377.9996035,1,suv,suv_187.00,"white, parked, green, blue, black, silver","white, parked, green, blue, black, silver"
+00070007_0005.jpg,318.999552,20.000176,609.999872,162.99991999999995,1,building,building_319.00,"green, white, blue, large, blurry, black","green, white, blue, large, blurry, black"
+00070007_0005.jpg,632.9999359999999,47.0003505,1024.0,163.0002355,1,building,building_633.00,"white, blue, large, yellow, glass, black","white, blue, large, yellow, glass, black"
+00070007_0005.jpg,537.99936,335.9996125,821.9996160000001,412.9999115,1,motorbike,motorbike_538.00,"purple, black, pink, colorful, red, large","purple, black, pink, colorful, red, large"
+00070007_0005.jpg,1.0004480000000058,492.0001649999999,432.0,578.000417,1,debris,debris_1.00,"red, pink, white, black, gray, metal","red, pink, white, black, gray, metal"
+00070007_0005.jpg,316.000256,342.0004225,540.000256,438.00013150000007,1,debris,debris_316.00,"green, colorful, red, blue, white, multi colored","green, colorful, red, blue, white, multi colored"
+00070007_0005.jpg,870.000128,330.0000645,975.000064,369.9997855,1,debris,debris_870.00,"black, small, framed, blue, square, glass","black, small, framed, blue, square, glass"

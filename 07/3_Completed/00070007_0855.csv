@@ -1,0 +1,11 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0855.jpg,254.00063499999987,198.000209,1778.000889,669.0000789999999,1,bush,bush_254.00,"green, tall, long, yellow, metal, growing",green
+00070007_0855.jpg,190.000636,491.000268,218.00058,551.0002959999999,1,pole,pole_190.00,"green, metal, wooden, small, white, short","wooden, small"
+00070007_0855.jpg,1046.000956,312.00002900000004,1359.000076,632.000567,1,sign,sign_1046.00,"yellow, black, orange, white, red, traffic","yellow, traffic"
+00070007_0855.jpg,153.000456,360.00016800000003,288.00044,508.000548,1,sign,sign_153.00,"blue, white, red, street, small, square","blue, street"
+00070007_0855.jpg,167.999664,310.000339,293.000176,383.000101,1,sign,sign_168.00,"blue, green, white, street, small, square","blue, street"
+00070007_0855.jpg,141.00073400000002,2.000273000000007,509.000506,163.000387,1,tree,tree_141.00,"green, purple, tall, leafy, large, blue","green, leafy"
+00070007_0855.jpg,502.0005200000001,0.999845000000022,1778.0,313.999719,1,trees,trees_502.00,"green, tall, leafy, blue, purple, thick","green, leafy"
+00070007_0855.jpg,0.9992359999998826,429.999812,1778.0,1166.0,1,water,water_1.00,"calm, blue, gray, large, dark, clear","calm, gray"
+00070007_0855.jpg,1168.001093,632.999829,1199.000523,718.0000630000001,1,pole,pole_1168.00,"metal, black, gray, silver, steel, long",
+00070007_0855.jpg,2.0011389999999665,131.00009999999995,1150.000621,349.000124,1,field,field_2.00,"green, purple, white, metal, pink, tall",green

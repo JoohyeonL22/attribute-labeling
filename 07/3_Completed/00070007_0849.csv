@@ -1,0 +1,11 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0849.jpg,1416.0,162.00055,1488.0,350.000082,1,building,building_1416.00,"tall, green, brown, brick, large, blue",brown
+00070007_0849.jpg,0.9997499999999776,1.000298000000015,422.99925,508.0004140000001,1,building,building_1.00,"white, pink, red, purple, gray, small",white
+00070007_0849.jpg,1139.00025,336.99961700000006,1422.99975,525.999447,1,car,car_1139.00,"green, white, silver, gray, moving, parked",silver
+00070007_0849.jpg,1361.00025,349.999595,1455.0007500000002,489.99943300000007,1,car,car_1361.00,"black, yellow, silver, red, gray, parked","black, parked"
+00070007_0849.jpg,1450.0005,392.000423,1498.0005,457.000313,1,car,car_1450.00,"white, parked, blue, red, green, driving","parked, blue"
+00070007_0849.jpg,513.00075,114.00036900000003,869.0002499999999,747.000047,1,man,man_513.00,"standing, smiling, walking, young, looking, wearing","standing, looking"
+00070007_0849.jpg,544.0004999999999,390.999638,1255.0005,632.999678,1,rake,rake_544.00,"green, long, white, black, blue, wooden",green
+00070007_0849.jpg,236.99925,1.0002979999999866,897.99975,450.999986,1,tree,tree_237.00,"pink, white, green, purple, metal, tall",green
+00070007_0849.jpg,0.9997499999999492,463.000153,1499.99925,974.000487,1,water,water_1.00,"wet, calm, brown, murky, dirty, green","wet, calm"
+00070007_0849.jpg,296.00025,81.99959899999999,1251.00075,471.999913,1,building,building_296.00,"green, white, tall, pink, metal, large",white

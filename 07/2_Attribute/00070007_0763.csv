@@ -1,0 +1,11 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0763.jpg,925.0011025,848.0009610000001,1430.0005215,1296.000525,1,bicycle,bicycle_925.00,"black, red, orange, white, pink, blue","black, red, orange, white, pink, blue"
+00070007_0763.jpg,104.001584,171.9995535,151.000376,264.9996165,1,cone,cone_104.00,"green, blue, red, lit, white, colorful","green, blue, red, lit, white, colorful"
+00070007_0763.jpg,51.99954149999999,174.999732,94.9992345,265.000398,1,cone,cone_52.00,"red, white, glass, lit, pink, small","red, white, glass, lit, pink, small"
+00070007_0763.jpg,952.9997975,357.99967950000007,1462.0008165,1270.9995585,1,man,man_953.00,"skiing, sitting, smiling, orange, black, red","skiing, sitting, smiling, orange, black, red"
+00070007_0763.jpg,2039.000274,12.000713999999904,2178.000852,1379.0005139999998,1,pole,pole_2039.00,"purple, black, pink, metal, tall, long","purple, black, pink, metal, tall, long"
+00070007_0763.jpg,340.00094599999994,54.00086849999997,941.00125,517.0005435,1,van,van_340.00,"black, blue, parked, white, moving, driving","black, blue, parked, white, moving, driving"
+00070007_0763.jpg,1.0003999999998996,563.9999535,2339.000226,1562.9992185,1,water,water_1.00,"black, wet, calm, white, clear, dark","black, wet, calm, white, clear, dark"
+00070007_0763.jpg,2.999949499999957,313.0001279999999,1175.0010625,1563.0,1,fence,fence_3.00,"black, metal, white, wet, gray, clear","black, metal, white, wet, gray, clear"
+00070007_0763.jpg,2007.0012295,6.000357000000008,2501.0012505,1550.000529,1,wall,wall_2007.00,"black, metal, tall, gray, purple, silver","black, metal, tall, gray, purple, silver"
+00070007_0763.jpg,0.999149500000044,255.99986249999992,1058.9996805,565.0002734999999,1,road,road_1.00,"yellow, white, black, blue, blurry, moving","yellow, white, black, blue, blurry, moving"

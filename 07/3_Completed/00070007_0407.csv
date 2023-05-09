@@ -1,0 +1,12 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0407.jpg,71.00008500000001,75.99995,238.999995,158.00005,1,truck,truck_71.00,"yellow, double decker, red, black, white, parked",yellow
+00070007_0407.jpg,29.999775,108.99993,54.999945,127.99995,1,truck,truck_30.00,"red, black, small, digital, off, electric","black, small"
+00070007_0407.jpg,4.000035,99.00007,14.999985,107.00001,1,car,car_4.00,"black, yellow, white, green, small, written",white
+00070007_0407.jpg,114.00012,125.00007,136.99998,159.00001,1,man,man_114.00,"red, yellow, sitting, small, orange, white",yellow
+00070007_0407.jpg,282.00003,117.99996,302.99997,181.00004,1,man,man_282.00,"green, blue, standing, walking, small, open","blue, standing"
+00070007_0407.jpg,70.00012500000003,9.000160000000001,390.000195,76.00008,1,mountain,mountain_70.00,"brown, red, large, rocky, pink, orange","brown, red"
+00070007_0407.jpg,0.9999600000000016,107.99997,233.00004,259.99987,1,road,road_1.00,"gray, yellow, paved, white, concrete, empty","gray, paved"
+00070007_0407.jpg,258.99978,121.0001,274.99992,172.00014000000002,1,person,person_259.00,"white, black, small, brown, hanging, framed",black
+00070007_0407.jpg,195.99996,124.00011000000002,215.99994,172.00001000000003,1,person,person_196.00,"green, open, small, wooden, metal, glass",
+00070007_0407.jpg,124.00010999999998,92.99992,224.00001,145.99988,1,car,car_124.00,"yellow, double decker, parked, white, silver, driving","parked, silver"
+00070007_0407.jpg,33.000045,100.99999,46.999875,108.99993,1,car,car_33.00,"red, digital, lit, yellow, orange, black",black

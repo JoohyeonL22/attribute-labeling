@@ -1,0 +1,7 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0247.jpg,61.00032749999997,55.99980199999999,435.9999525,358.99987,1,suv,suv_61.00,"['silver', 'gray', 'black', 'parked', 'white', 'red']"
+00070007_0247.jpg,643.9997445,91.000006,764.9996235,358.99987,1,man,man_644.00,"['standing', 'young', 'walking', 'gray', 'sitting', 'watching']"
+00070007_0247.jpg,1.000387499999988,315.999944,777.0003885,437.0,1,road,road_1.00,"['white', 'gray', 'wet', 'black', 'empty', 'clear']"
+00070007_0247.jpg,423.9999644999999,157.000116,776.9996115,345.000138,1,bridge,bridge_424.00,"['red', 'metal', 'silver', 'glass', 'black', 'clear']"
+00070007_0247.jpg,1.000387499999988,372.99982050000006,777.0003885,435.9999255,1,snow,snow_1.00,"['white', 'gray', 'wet', 'black', 'snow-covered', 'clear']"
+00070007_0247.jpg,1.000387499999988,0.9998559999999656,777.0003885,285.999894,1,trees,trees_1.00,"['gray', 'bare', 'red', 'white', 'silver', 'black']"

@@ -1,0 +1,11 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0362.jpg,1739.000448,899.9998560000001,2619.0009600000003,1544.000112,1,car,car_1739.00,"black, green, dark, blue, white, open","black, green, dark, blue, white, open"
+00070007_0362.jpg,3007.999584,1226.000016,3263.998368,1387.0000799999998,1,car,car_3008.00,"green, red, brown, black, parked, sitting","green, red, brown, black, parked, sitting"
+00070007_0362.jpg,1.0004159999999729,843.999408,1942.000032,1572.99912,1,car,car_1.00,"green, white, silver, black, blue, parked","green, white, silver, black, blue, parked"
+00070007_0362.jpg,0.9987839999998868,921.998808,3264.0,1369.999944,1,field,field_1.00,"green, brown, black, parked, white, large","green, brown, black, parked, white, large"
+00070007_0362.jpg,2791.999488,1095.000192,2893.000704,1377.0,1,man,man_2792.00,"colorful, blue, multi colored, green, purple, yellow","colorful, blue, multi colored, green, purple, yellow"
+00070007_0362.jpg,68.00054400000002,722.00088,446.00112,1044.001008,1,tree,tree_68.00,"green, tall, blue, large, leafy, black","green, tall, blue, large, leafy, black"
+00070007_0362.jpg,0.9987839999998868,1539.9988560000002,3264.0,2447.998776,1,field,field_1.00,"brown, dry, tan, dirt, sandy, green","brown, dry, tan, dirt, sandy, green"
+00070007_0362.jpg,2686.001088,1133.9992800000002,2837.0002560000003,1362.999888,1,tripod,tripod_2686.00,"colorful, standing, pink, purple, yellow, walking","colorful, standing, pink, purple, yellow, walking"
+00070007_0362.jpg,1489.0008959999998,1421.999136,2069.999424,1691.0000639999998,1,debris,debris_1489.00,"black, green, blue, metal, long, gray","black, green, blue, metal, long, gray"
+00070007_0362.jpg,1793.0000639999998,1405.999008,3264.0,1546.000128,1,road,road_1793.00,"green, white, blue, black, long, gray","green, white, blue, black, long, gray"

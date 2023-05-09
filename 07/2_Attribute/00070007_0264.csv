@@ -1,0 +1,8 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0264.jpg,0.9999500000000126,0.9999885000000006,622.99965,290.9997975,1,building,building_1.00,"white, gray, red, black, parked, silver","white, gray, red, black, parked, silver"
+00070007_0264.jpg,87.0002,95.9998785,616.0,339.0000315,1,car,car_87.00,"black, parked, white, gray, silver, red","black, parked, white, gray, silver, red"
+00070007_0264.jpg,557.99975,0.9999885000000006,639.9998499999999,248.9998875,1,ladder,ladder_558.00,"green, red, tall, metal, white, gray","green, red, tall, metal, white, gray"
+00070007_0264.jpg,198.00025,179.00010299999997,238.00035,360.000183,1,post,post_198.00,"white, red, metal, orange, square, long","white, red, metal, orange, square, long"
+00070007_0264.jpg,289.00025,176.00013750000005,326.00015,341.00000850000004,1,post,post_289.00,"orange, white, red, metal, wooden, gray","orange, white, red, metal, wooden, gray"
+00070007_0264.jpg,609.0,0.9999885000000006,700.0,172.0001835,1,tree,tree_609.00,"green, purple, red, black, pink, metal","green, purple, red, black, pink, metal"
+00070007_0264.jpg,87.00019999999995,226.999944,700.0,389.999838,1,parking lot,parking lot_87.00,"gray, concrete, wet, brown, paved, white","gray, concrete, wet, brown, paved, white"

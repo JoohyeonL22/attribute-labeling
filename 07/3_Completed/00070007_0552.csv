@@ -1,0 +1,3 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0552.jpg,11.999360000000024,147.99996,1279.99936,405.99972,1,car,car_12.00,"gray, silver, white, black, red, dark",white
+00070007_0552.jpg,1.0003200000001016,0.999719999999968,1280.00064,719.99964,1,water,water_1.00,"black, dark, brown, gray, white, large","brown, gray"

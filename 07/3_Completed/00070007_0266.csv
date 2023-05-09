@@ -1,0 +1,13 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0266.jpg,759.0000640000001,440.999808,901.000192,521.0000640000001,1,bag,bag_759.00,"white, green, small, laying, baby, sitting","white, small"
+00070007_0266.jpg,480.00000000000006,511.00032,643.0003200000001,588.0,1,debris,debris_480.00,"blue, black, metal, white, glass, clear","black, metal"
+00070007_0266.jpg,393.999872,249.00019200000003,875.00032,463.00032,1,car,car_394.00,"black, green, large, white, big, metal","black, metal"
+00070007_0266.jpg,8.0,255.999744,105.000448,324.0,1,car,car_8.00,"white, red, yellow, parked, double decker, large","white, large"
+00070007_0266.jpg,328.0,245.000064,386.00038400000005,424.000128,1,man,man_328.00,"green, standing, blue, walking, sitting, yellow","standing, blue"
+00070007_0266.jpg,355.00032,244.000512,440.000512,442.000128,1,man,man_355.00,"green, blue, standing, sitting, metal, walking","blue, standing"
+00070007_0266.jpg,410.000384,216.0,471.000064,339.999744,1,man,man_410.00,"blue, green, red, metal, glass, tall",
+00070007_0266.jpg,0.999936000000048,0.999936000000048,1023.999488,264.0,1,trees,trees_1.00,"green, large, tall, leafy, brown, red","green, leafy"
+00070007_0266.jpg,0.999936000000048,313.9998720000001,1023.999488,768.0,1,road,road_1.00,"gray, wet, black, brown, paved, dirty","gray, brown"
+00070007_0266.jpg,0.999936,253.999488,13.000192,332.999808,1,person,person_1.00,"red, yellow, orange, white, double decker, metal",orange
+00070007_0266.jpg,684.99968,459.999744,727.999488,581.9996160000001,1,fire extinguisher,fire extinguisher_685.00,"red, glass, white, clear, open, plastic",red
+00070007_0266.jpg,218.000384,401.000448,449.999872,503.00006400000007,1,debris,debris_218.00,"green, metal, white, black, blue, colorful",black

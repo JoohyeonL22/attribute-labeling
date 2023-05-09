@@ -1,0 +1,8 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0943.jpg,166.00015499999998,75.00009,376.999905,172.00007,1,car,car_166.00,"silver, black, white, old, parked, metal","white, old"
+00070007_0943.jpg,1.0003650000000022,130.00009,161.000115,220.00011,1,road,road_1.00,"gray, black, concrete, yellow, paved, cement","gray, paved"
+00070007_0943.jpg,79.000275,96.00008,119.000085,129.00008000000005,1,sign,sign_79.00,"red, white, green, small, square, black",red
+00070007_0943.jpg,55.000185,56.99990999999999,163.999935,142.99989,1,fire truck,fire truck_55.00,"green, red, colorful, black, white, yellow","red, yellow"
+00070007_0943.jpg,1.0001100000000065,53.99988000000001,82.00035,171.99996,1,truck,truck_1.00,"green, yellow, black, white, metal, gray","white, metal"
+00070007_0943.jpg,261.00015,81.00004,291.99999,133.00011999999998,1,people,people_261.00,"green, blue, small, white, open, metal",
+00070007_0943.jpg,167.00026499999998,42.00009,207.000075,58.00003,1,sign,sign_167.00,"orange, green, blue, white, yellow, digital",green

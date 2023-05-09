@@ -1,0 +1,5 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0066.jpg,166.0,251.0007750000001,2189.0,877.000365,1,truck,truck_166.00,"white, blue, silver, metal, yellow, black","white, metal"
+00070007_0066.jpg,1.0,725.9995574999999,2500.0,1214.9993925,1,railroad,railroad_1.00,"brown, gray, metal, train, empty, black","gray, metal"
+00070007_0066.jpg,1876.0,631.00053,2151.0,748.00017,1,debris,debris_1876.00,"yellow, black, colorful, blue, green, multi colored",yellow
+00070007_0066.jpg,2162.0,553.999905,2388.0,724.000275,1,debris,debris_2162.00,"white, metal, silver, small, open, gray","small, gray"

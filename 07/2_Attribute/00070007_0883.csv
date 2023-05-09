@@ -1,0 +1,6 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0883.jpg,1.0001600000000508,1.0,2125.000096,1296.0,1,tree,tree_1.00,"bare, green, large, gray, brown, white","bare, green, large, gray, brown, white"
+00070007_0883.jpg,0.99865600000021,670.0,3008.0,2000.0,1,branch,branch_1.00,"green, brown, gray, old, large, bare","green, brown, gray, old, large, bare"
+00070007_0883.jpg,990.00048,1594.0,1610.9990719999998,2000.0,1,bin,bin_990.00,"blue, gray, black, green, parked, light blue","blue, gray, black, green, parked, light blue"
+00070007_0883.jpg,2.0018239999999423,637.0,2606.000352,1534.0,1,building,building_2.00,"gray, white, old, red, green, brown","gray, white, old, red, green, brown"
+00070007_0883.jpg,0.9986559999999828,2.0,2466.9991680000003,918.0,1,trees,trees_1.00,"green, brown, large, bare, gray, white","green, brown, large, bare, gray, white"

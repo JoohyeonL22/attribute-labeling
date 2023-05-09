@@ -1,0 +1,10 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0958.jpg,1.0,1.0001354999999847,639.99968,175.00015050000002,1,building,building_1.00,"['pink', 'brown', 'green', 'white', 'purple', 'red']"
+00070007_0958.jpg,153.00032,132.9998145,453.00032,270.9999495,1,car,car_153.00,"['purple', 'blue', 'silver', 'parked', 'gray', 'red']"
+00070007_0958.jpg,261.00032,96.9999345,314.0,138.9999135,1,flag,flag_261.00,"['red', 'white', 'framed', 'black', 'large', 'pink']"
+00070007_0958.jpg,119.0,136.0000425,169.0,283.0001475,1,man,man_119.00,"['standing', 'purple', 'walking', 'pink', 'black', 'young']"
+00070007_0958.jpg,1.0,274.999956,639.99968,333.999918,1,sidewalk,sidewalk_1.00,"['green', 'gray', 'white', 'concrete', 'paved', 'empty']"
+00070007_0958.jpg,0.9996799999999836,1.0001355000000132,184.0,202.0000605,1,trees,trees_1.00,"['green', 'red', 'pink', 'white', 'large', 'tall']"
+00070007_0958.jpg,489.00032,1.000135499999999,621.00032,293.0000745,1,tree,tree_489.00,"['brown', 'large', 'tall', 'green', 'gray', 'old']"
+00070007_0958.jpg,1.0,285.0000615,639.99968,357.0001785,1,grass,grass_1.00,"['green', 'gray', 'white', 'paved', 'concrete', 'long']"
+00070007_0958.jpg,619.0,1.000135499999999,637.0,357.0001785,1,pole,pole_619.00,"['green', 'metal', 'tall', 'gray', 'blue', 'black']"

@@ -1,0 +1,4 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0550.jpg,209.00065500000005,516.999665,1358.999949,863.0001590000002,1,car,car_209.00,"black, silver, purple, metal, white, old","black, silver, purple, metal, white, old"
+00070007_0550.jpg,1.0005239999999276,1.0005379999999775,1657.000704,483.999978,1,trees,trees_1.00,"green, leafy, tall, large, thick, brown","green, leafy, tall, large, thick, brown"
+00070007_0550.jpg,1.0005240000000413,462.0006020000001,1662.0,1121.000034,1,water,water_1.00,"clear, green, calm, purple, wet, white","clear, green, calm, purple, wet, white"

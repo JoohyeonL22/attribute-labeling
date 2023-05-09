@@ -1,0 +1,7 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0175.jpg,1.0002000000000066,0.999810000000025,279.0006,600.00003,1,building,building_1.00,"pink, white, green, purple, beige, gray","white, beige"
+00070007_0175.jpg,175.9998,107.99995500000004,1199.9994,609.9997050000001,1,bus,bus_176.00,"green, white, yellow, large, long, metal","green, long"
+00070007_0175.jpg,771.9996,1.000124999999997,1182.9996,180.000135,1,tree,tree_772.00,"green, brown, large, blue, dry, clear","green, brown"
+00070007_0175.jpg,1.0001999999999782,542.999835,433.9998000000001,628.0000650000001,1,debris,debris_1.00,"pink, purple, colorful, red, brown, green",brown
+00070007_0175.jpg,370.9998,0.9998100000000107,790.0002,238.99995,1,tree,tree_371.00,"green, large, brown, blue, palm, big","green, palm"
+00070007_0175.jpg,209.0004,1.000124999999997,392.0004,273.999915,1,tree,tree_209.00,"green, tall, leafy, large, glass, palm","green, palm"

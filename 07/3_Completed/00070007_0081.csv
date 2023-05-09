@@ -1,0 +1,7 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0081.jpg,0.9993600000000242,1.0000800000000254,1089.0,941.99976,1,bus,bus_1.00,"white, silver, black, yellow, parked, green",white
+00070007_0081.jpg,1451.0006399999995,448.9997400000001,1795.00128,763.0000200000001,1,car,car_1451.00,"yellow, blue, white, silver, bright, lit","white, lit"
+00070007_0081.jpg,475.9996799999999,466.00056,1672.00032,977.0004,1,suv,suv_476.00,"white, silver, parked, gray, green, yellow",white
+00070007_0081.jpg,0.999360000000138,524.0003399999998,1919.99904,1080.00054,1,road,road_1.00,"white, black, gray, silver, parked, yellow",gray
+00070007_0081.jpg,1771.00032,468.00018,1910.00064,772.99974,1,man,man_1771.00,"white, black, large, blue, silver, yellow",
+00070007_0081.jpg,1065.9993600000005,0.999539999999996,1483.99872,472.9995,1,trees,trees_1066.00,"green, tall, dark, large, leafy, big","green, leafy"

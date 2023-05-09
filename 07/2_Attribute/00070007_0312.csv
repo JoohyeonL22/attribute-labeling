@@ -1,0 +1,8 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0312.jpg,177.0,127.9998,1183.0,810.0,1,bus,bus_177.00,"yellow, black, moving, large, wet, white","yellow, black, moving, large, wet, white"
+00070007_0312.jpg,1.0,23.00039999999996,315.0,900.0,1,man,man_1.00,"standing, walking, looking, green, black, wearing","standing, walking, looking, green, black, wearing"
+00070007_0312.jpg,1148.9992,340.99965000000003,1599.9992,384.99975,1,tape,tape_1149.00,"yellow, long, wooden, glass, clear, reflecting","yellow, long, wooden, glass, clear, reflecting"
+00070007_0312.jpg,0.9992000000000872,1.0003500000000258,1351.9992000000002,292.00005,1,trees,trees_1.00,"green, yellow, red, large, white, tall","green, yellow, red, large, white, tall"
+00070007_0312.jpg,858.0,159.0003,1600.0,521.0001,1,people,people_858.00,"glass, clear, large, yellow, white, red","glass, clear, large, yellow, white, red"
+00070007_0312.jpg,243.0008,678.9996,612.0008,899.9999999999999,1,road,road_243.00,"green, wet, yellow, blue, black, gray","green, wet, yellow, blue, black, gray"
+00070007_0312.jpg,1442.9992,37.999799999999965,1599.9992,509.9994,1,building,building_1443.00,"large, glass, tall, clear, big, green","large, glass, tall, clear, big, green"

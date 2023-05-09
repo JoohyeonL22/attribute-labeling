@@ -1,0 +1,4 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0986.jpg,366.999776,1.0001500000000192,634.0,415.0,1,building,building_367.00,"white, brick, blue, large, red, tall","white, brick, blue, large, red, tall"
+00070007_0986.jpg,151.000097,1.0001500000000192,484.000355,415.0,1,van,van_151.00,"white, parked, blue, red, silver, black","white, parked, blue, red, silver, black"
+00070007_0986.jpg,1.0001350000000002,32.999970000000005,387.000257,144.00002,1,trees,trees_1.00,"red, green, bare, tall, large, white","red, green, bare, tall, large, white"

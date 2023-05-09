@@ -1,0 +1,5 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0576.jpg,1.0,155.99992799999998,330.0,245.999796,1,car,car_1.00,"['green', 'parked', 'blue', 'black', 'silver', 'white']"
+00070007_0576.jpg,413.0,155.000034,472.0,221.000094,1,man,man_413.00,"['blue', 'green', 'white', 'sitting', 'open', 'small']"
+00070007_0576.jpg,1.0,54.99990299999999,500.0,293.99985300000003,1,water,water_1.00,"['green', 'large', 'clear', 'dark', 'yellow', 'wet']"
+00070007_0576.jpg,1.0,0.9998939999999976,500.0,175.999866,1,trees,trees_1.00,"['green', 'clear', 'large', 'glass', 'yellow', 'tall']"

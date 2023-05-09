@@ -1,0 +1,7 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0770.jpg,245.00025,234.00026450000004,861.00003,529.0001975,1,bicycle,bicycle_245.00,"black, white, moving, silver, gray, calm","black, white, moving, silver, gray, calm"
+00070007_0770.jpg,1.000395000000026,0.9997430000000236,644.000445,315.000017,1,building,building_1.00,"red, white, pink, black, blurry, double decker","red, white, pink, black, blurry, double decker"
+00070007_0770.jpg,582.00021,0.9997430000000236,761.00013,292.000051,1,building,building_582.00,"white, tall, pink, purple, large, big","white, tall, pink, purple, large, big"
+00070007_0770.jpg,376.00002,84.00028750000001,570.00042,412.0002285,1,man,man_376.00,"sitting, riding, young, yellow, wearing, leaning","sitting, riding, young, yellow, wearing, leaning"
+00070007_0770.jpg,0.9998999999999114,285.0002175,990.0,653.0003265,1,water,water_1.00,"calm, murky, green, clear, brown, dark","calm, murky, green, clear, brown, dark"
+00070007_0770.jpg,733.9998600000001,2.00013899999999,990.0,332.000219,1,building,building_734.00,"purple, white, black, pink, large, dark","purple, white, black, pink, large, dark"

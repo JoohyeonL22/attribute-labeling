@@ -1,0 +1,7 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0063.jpg,112.9999905,0.9999195000000044,232.9998835,201.9999325,1,bus,bus_113.00,"orange, brown, large, yellow, black, brick","orange, brown, large, yellow, black, brick"
+00070007_0063.jpg,27.000156500000003,72.99994849999999,121.0000455,134.0000475,1,car,car_27.00,"black, white, parked, driving, silver, yellow","black, white, parked, driving, silver, yellow"
+00070007_0063.jpg,3.000108000000001,94.999925,27.00004,111.000035,1,car,car_3.00,"yellow, black, red, gold, white, orange","yellow, black, red, gold, white, orange"
+00070007_0063.jpg,1.0000359999999944,107.00000749999998,233.0,233.0001165,1,road,road_1.00,"black, gray, yellow, dark, empty, concrete","black, gray, yellow, dark, empty, concrete"
+00070007_0063.jpg,0.9999195000000008,0.9999194999999972,32.999906499999994,98.9999525,1,trees,trees_1.00,"red, black, white, large, glass, blue","red, black, white, large, glass, blue"
+00070007_0063.jpg,68.0000015,1.0000360000000017,129.0001005,78.000012,1,trees,trees_68.00,"green, white, large, tall, glass, bare","green, white, large, tall, glass, bare"

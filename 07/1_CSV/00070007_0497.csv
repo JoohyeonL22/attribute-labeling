@@ -1,0 +1,10 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0497.jpg,169.00010999999998,200.000052,206.99997,231.000042,1,bush,bush_169.00,"['glass', 'blue', 'large', 'green', 'open', 'closed']"
+00070007_0497.jpg,222.000162,194.0000685,274.000062,229.0000475,1,bush,bush_222.00,"['green', 'glass', 'open', 'closed', 'black', 'small']"
+00070007_0497.jpg,279.000126,192.000074,327.000114,229.000198,1,bush,bush_279.00,"['green', 'glass', 'large', 'open', 'closed', 'dark']"
+00070007_0497.jpg,3.999911999999995,231.000042,200.999928,285.000044,1,car,car_4.00,"['red', 'parked', 'maroon', 'white', 'black', 'brown']"
+00070007_0497.jpg,1.000152000000014,67.99981299999999,348.0,243.999931,1,trees,trees_1.00,"['green', 'red', 'white', 'black', 'gray', 'tall']"
+00070007_0497.jpg,1.000152000000014,231.000042,348.0,301.0,1,water,water_1.00,"['gray', 'yellow', 'black', 'concrete', 'wet', 'paved']"
+00070007_0497.jpg,1.000152,120.0001215,129.00011999999998,241.0000145,1,tree,tree_1.00,"['green', 'tall', 'large', 'leafy', 'blue', 'metal']"
+00070007_0497.jpg,1.000152000000014,71.0000305,348.0,144.00005549999997,1,trees,trees_1.00,"['green', 'white', 'tall', 'red', 'large', 'leafy']"
+00070007_0497.jpg,107.999886,121.00004349999998,347.999826,218.9999245,1,building,building_108.00,"['gray', 'black', 'white', 'large', 'green', 'blue']"

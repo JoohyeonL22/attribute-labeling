@@ -1,0 +1,8 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0706.jpg,302.99976,95.999904,840.0,333.0,1,road,road_303.00,"gray, paved, wet, concrete, white, asphalt","gray, paved, wet, concrete, white, asphalt"
+00070007_0706.jpg,276.00048000000004,0.9999990000000024,407.0001600000001,116.999883,1,trees,trees_276.00,"blue, tall, white, green, large, purple","blue, tall, white, green, large, purple"
+00070007_0706.jpg,474.0002400000001,1.0001654999999945,840.0,136.00003049999998,1,trees,trees_474.00,"blue, black, green, large, tall, dark","blue, black, green, large, tall, dark"
+00070007_0706.jpg,361.00008,98.00023500000002,659.00016,244.000089,1,crack,crack_361.00,"white, gray, black, concrete, wet, painted","white, gray, black, concrete, wet, painted"
+00070007_0706.jpg,0.9995999999999868,114.000219,382.99968,258.000075,1,beach,beach_1.00,"purple, pink, white, black, gray, colorful","purple, pink, white, black, gray, colorful"
+00070007_0706.jpg,1.0004399999999976,73.999926,367.0002,119.99988,1,water,water_1.00,"purple, yellow, pink, colorful, long, white","purple, yellow, pink, colorful, long, white"
+00070007_0706.jpg,429.99978,88.0000785,439.99998,99.0000675,1,car,car_430.00,"green, yellow, red, black, white, neon","green, yellow, red, black, white, neon"

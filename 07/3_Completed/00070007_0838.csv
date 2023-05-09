@@ -1,0 +1,16 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0838.jpg,2503.999316,555.00045,3573.999988,1420.000006,1,car,car_2504.00,"red, parked, blue, black, double decker, large","red, parked"
+00070007_0838.jpg,3289.001586,650.999737,3692.001846,2017.998991,1,car,car_3289.00,"red, parked, black, white, silver, gray","parked, black"
+00070007_0838.jpg,1.000532,642.999376,304.999812,1668.999008,1,man,man_1.00,"standing, walking, watching, sitting, looking, young","standing, watching"
+00070007_0838.jpg,1666.998918,595.000237,2006.99889,1167.000319,1,man,man_1667.00,"sitting, blue, standing, walking, wearing, white","blue, standing"
+00070007_0838.jpg,1951.999166,633.999096,2212.997722,1096.000016,1,man,man_1952.00,"blue, sitting, standing, watching, young, wearing","blue, standing"
+00070007_0838.jpg,2198.000818,635.000024,2554.001918,1055.99922,1,man,man_2198.00,"sitting, standing, blue, watching, wearing, young","standing, blue"
+00070007_0838.jpg,282.002344,611.999869,647.000848,1559.000855,1,man,man_282.00,"blue, black, purple, striped, white, standing","blue, standing"
+00070007_0838.jpg,4.002128,307.999268,224.001024,659.999008,1,sign,sign_4.00,"white, black, black and white, green, blue, square","white, square"
+00070007_0838.jpg,296.000562,184.999141,1673.00211,1096.999935,1,truck,truck_296.00,"white, blue, gray, large, metal, silver","white, large"
+00070007_0838.jpg,0.998686,1715.000327,3450.999162,2017.000081,1,road,road_1.00,"gray, concrete, black, paved, cement, white","gray, paved"
+00070007_0838.jpg,3514.001296,522.000096,3692,925.99966,1,car,car_3514.00,"white, black, large, glass, small, blue",white
+00070007_0838.jpg,383.000696,868.999232,3334.001528,1603.999228,1,airplane,airplane_383.00,"blue, white, colorful, large, red, purple",blue
+00070007_0838.jpg,2063.000992,1244.000136,3441.999912,1731.00004,1,debris,debris_2063.00,"blue, purple, metal, colorful, white, silver","blue, metal"
+00070007_0838.jpg,121.998448,1551.000494,581.999496,1717.001174,1,debris,debris_122.00,"blue, colorful, purple, multi colored, yellow, black",blue
+00070007_0838.jpg,582.998182,1640.000348,1186.998306,1753.000276,1,debris,debris_583.00,"red, yellow, colorful, blue, orange, black",blue

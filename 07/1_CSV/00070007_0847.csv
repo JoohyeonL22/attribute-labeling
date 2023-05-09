@@ -1,0 +1,11 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0847.jpg,1.0001999999999498,1.0,1200.0006,608.0,1,building,building_1.00,"['brick', 'large', 'red', 'brown', 'old', 'white']"
+00070007_0847.jpg,1.0001999999999498,605.0,1200.0006,800.0,1,water,water_1.00,"['brown', 'wet', 'calm', 'dark', 'murky', 'large']"
+00070007_0847.jpg,1.0002000000000066,589.0,162.00060000000002,625.0,1,sacks,sacks_1.00,"['red', 'white', 'yellow', 'black', 'pink', 'long']"
+00070007_0847.jpg,210.9996,586.0,456.9996,620.0,1,sacks,sacks_211.00,"['white', 'red', 'yellow', 'long', 'blue', 'black']"
+00070007_0847.jpg,506.0004,560.0,734.0004,618.0,1,sacks,sacks_506.00,"['white', 'yellow', 'large', 'red', 'small', 'long']"
+00070007_0847.jpg,770.0004,570.0,881.0004,606.0,1,sacks,sacks_770.00,"['white', 'small', 'red', 'large', 'blue', 'black']"
+00070007_0847.jpg,1149.0,545.0,1200.0,601.0,1,sacks,sacks_1149.00,"['white', 'black', 'parked', 'orange', 'red', 'small']"
+00070007_0847.jpg,492.9996,221.0,597.9996,288.0,1,woman,woman_493.00,"['black', 'white', 'metal', 'green', 'red', 'large']"
+00070007_0847.jpg,597.9996,219.0,666.9996,319.0,1,woman,woman_598.00,"['pink', 'purple', 'standing', 'black', 'red', 'sitting']"
+00070007_0847.jpg,863.0003999999999,481.0,1190.0004,608.0,1,tractor,tractor_863.00,"['orange', 'red', 'black', 'white', 'small', 'large']"

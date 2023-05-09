@@ -1,0 +1,6 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0954.jpg,176.00012,109.00001000000002,370.0,245.0,1,bus,bus_176.00,"yellow, green, parked, black, long, gray","yellow, long"
+00070007_0954.jpg,1.0001100000000065,164.00006000000002,305.99999,245.0,1,water,water_1.00,"concrete, gray, wet, yellow, black, cement","gray, wet"
+00070007_0954.jpg,1.999849999999995,106.9999525,155.00002999999998,180.9999975,1,debris,debris_2.00,"purple, pink, yellow, white, green, colorful",green
+00070007_0954.jpg,0.9999249999999904,19.0001175,369.000075,70.0000525,1,people,people_1.00,"red, metal, pink, white, colorful, hanging",colorful
+00070007_0954.jpg,0.9999249999999904,0.9998450000000004,369.999815,23.999955,1,trees,trees_1.00,"red, white, green, black, pink, hanging",green

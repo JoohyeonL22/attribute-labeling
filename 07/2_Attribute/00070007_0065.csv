@@ -1,0 +1,8 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0065.jpg,1163.99918,437.000004,1315.99906,598.999556,1,man,man_1164.00,"yellow, white, small, sitting, blue, green","yellow, white, small, sitting, blue, green"
+00070007_0065.jpg,1.000159999999994,346.000305,184.99952,891.000391,1,truck,truck_1.00,"green, blue, yellow, large, double decker, black","green, blue, yellow, large, double decker, black"
+00070007_0065.jpg,268.99979999999994,374.99968200000006,1120.0005999999998,916.999734,1,van,van_269.00,"black, silver, metal, white, glass, large","black, silver, metal, white, glass, large"
+00070007_0065.jpg,1.0001600000000508,587.999812,1880.0,1142.0,1,road,road_1.00,"wet, brown, black, gray, white, concrete","wet, brown, black, gray, white, concrete"
+00070007_0065.jpg,1635.9995,512.0002830000001,1738.99906,583.999957,1,car,car_1636.00,"green, blue, small, square, white, colorful","green, blue, small, square, white, colorful"
+00070007_0065.jpg,1777.99966,488.000582,1879.99906,598.000306,1,car,car_1778.00,"green, lit, bright, white, glowing, blue","green, lit, bright, white, glowing, blue"
+00070007_0065.jpg,653.0001400000001,513.999354,1623.99946,922.999802,1,truck,truck_653.00,"black, metal, white, glass, silver, clear","black, metal, white, glass, silver, clear"

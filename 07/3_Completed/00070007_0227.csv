@@ -1,0 +1,12 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0227.jpg,157.000032,217.9998,284.999904,306.99972,1,building,building_157.00,"brown, pink, green, blue, purple, glass",brown
+00070007_0227.jpg,230.999832,240.99984,1007.999496,594,1,bus,bus_231.00,"yellow, parked, orange, double decker, white, pink",yellow
+00070007_0227.jpg,562.00032,2.99988,781.000416,246.99996,1,crane,crane_562.00,"purple, white, pink, large, colorful, tall",white
+00070007_0227.jpg,198.999864,82.00044,220.999464,340.0002,1,pole,pole_199.00,"green, blue, metal, tall, white, silver",metal
+00070007_0227.jpg,657.000288,537.00012,1008,720.00036,1,road,road_657.00,"blue, gray, black, purple, white, metal",gray
+00070007_0227.jpg,455.000616,393.00012,506.000376,450.00036,1,sign,sign_455.00,"green, red, white, blue, colorful, hanging",red
+00070007_0227.jpg,283.999968,151.0002,1008,334.00044,1,building,building_284.00,"pink, purple, white, green, brown, large","brown, large"
+00070007_0227.jpg,873.000072,657,1008.000504,717.99984,1,ladder,ladder_873.00,"white, silver, blue, gray, black, metal",silver
+00070007_0227.jpg,327.00024,288,361.00008,357.99984,1,truck,truck_327.00,"white, green, gray, silver, standing, black",white
+00070007_0227.jpg,0.999936,318.99996,246.000384,711.99972,1,water,water_1.00,"bare, brown, dead, gray, leafless, dry","bare, brown"
+00070007_0227.jpg,893.000304,0.99972,927.000144,242.99964,1,pole,pole_893.00,"purple, pink, tall, metal, black, gray","metal, gray"

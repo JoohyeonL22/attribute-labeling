@@ -1,0 +1,11 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0660.jpg,1.000159999999994,185.99988200000004,533.00016,457.000102,1,branch,branch_1.00,"red, pink, green, purple, white, parked",green
+00070007_0660.jpg,316.00001999999995,253.000002,474.00022,413.00019,1,car,car_316.00,"white, red, pink, small, purple, blue","white, small"
+00070007_0660.jpg,536.9996600000001,247.99975800000004,580.99986,383.999994,1,firefighter,firefighter_537.00,"standing, walking, brown, old, sitting, tan","standing, brown"
+00070007_0660.jpg,1.000159999999994,0.999998000000005,760.0,312.999882,1,trees,trees_1.00,"green, red, tall, leafy, large, white","green, leafy"
+00070007_0660.jpg,1.0005400000000009,57.000140000000016,336.00018,390.000236,1,truck,truck_1.00,"red, green, white, parked, double decker, large","red, parked"
+00070007_0660.jpg,579.9997,259.99998800000003,625.00006,410.99994,1,firefighter,firefighter_580.00,"green, standing, brown, walking, old, smiling","standing, brown"
+00070007_0660.jpg,476.99994,246.99976000000004,518.99982,400.99996,1,firefighter,firefighter_477.00,"green, standing, blue, glass, walking, metal","green, standing"
+00070007_0660.jpg,499.00004000000007,237.999778,539.0003600000001,370.999766,1,firefighter,firefighter_499.00,"green, glass, standing, metal, blue, white",standing
+00070007_0660.jpg,443.99998,229.00005,485.99986,350.000062,1,firefighter,firefighter_444.00,"black, purple, red, green, white, pink",
+00070007_0660.jpg,347.00004,215.00007800000003,392.9998,268.99997,1,firefighter,firefighter_347.00,"purple, pink, small, colorful, wooden, little",

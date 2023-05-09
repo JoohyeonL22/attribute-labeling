@@ -1,0 +1,11 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0992.jpg,1.0,24.999975,158.0,131.99998499999998,1,ambulance,ambulance_1.00,"red, double decker, white, pink, large, purple","white, large"
+00070007_0992.jpg,101.0,85.99991399999999,268.0,166.99995,1,car,car_101.00,"blue, black, metal, white, silver, small","black, metal"
+00070007_0992.jpg,343.0,1.0001159999999985,362.0,109.000008,1,pole,pole_343.00,"orange, metal, black, wooden, tall, gray","metal, gray"
+00070007_0992.jpg,1.0,1.0001160000000056,245.0,85.000032,1,trees,trees_1.00,"white, pink, red, blue, cloudy, purple",
+00070007_0992.jpg,265.0,0.9998819999999996,388.0,105.999894,1,trees,trees_265.00,"orange, bare, tall, white, large, leafless","bare, leafless"
+00070007_0992.jpg,1.0,122.000112,307.0,234.0,1,road,road_1.00,"wet, gray, black, blue, paved, concrete","gray, paved"
+00070007_0992.jpg,220.0,85.00003199999999,398.0,234.0,1,snow,snow_220.00,"white, blue, gray, wet, metal, orange",white
+00070007_0992.jpg,261.0,104.999895,353.0,151.999965,1,debris,debris_261.00,"orange, yellow, white, blue, small, black","white, black"
+00070007_0992.jpg,362.0,102.999897,393.0,112.999887,1,debris,debris_362.00,"pink, purple, white, red, yellow, colorful",
+00070007_0992.jpg,233.00000000000003,81.99991800000001,253.00000000000003,95.000022,1,car,car_233.00,"pink, purple, black, small, blue, white",small

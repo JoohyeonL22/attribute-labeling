@@ -1,0 +1,12 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0924.jpg,113.999872,344.000256,416.999424,414.000384,1,car,car_114.00,"green, blue, yellow, white, black, metal","white, metal"
+00070007_0924.jpg,871.999488,301.00032,1024,412.000128,1,suv,suv_872.00,"green, black, white, parked, purple, blue",white
+00070007_0924.jpg,224.000512,300.000384,265.000448,361.00032,1,man,man_224.00,"orange, small, blue, framed, white, brown",white
+00070007_0924.jpg,811.999744,314.999808,834.999808,416.999424,1,man,man_812.00,"green, pink, yellow, red, colorful, purple",green
+00070007_0924.jpg,0.999936,399.000192,1023.999488,768.000384,1,road,road_1.00,"gray, paved, black, white, asphalt, concrete","gray, asphalt"
+00070007_0924.jpg,351.000064,201.000192,370.000384,295.00032,1,sign,sign_351.00,"green, white, blue, street, black, metal","white, street"
+00070007_0924.jpg,106.000384,1.00032,1024,373.00032,1,trees,trees_106.00,"green, blue, clear, tall, bare, cloudy",green
+00070007_0924.jpg,286.00064,249.999744,804.000256,547.999872,1,van,van_286.00,"black, green, parked, blue, white, dark","black, parked"
+00070007_0924.jpg,0.999936,1.00032,109.999616,400.000128,1,tree,tree_1.00,"black, green, gray, brown, stone, concrete","gray, brown"
+00070007_0924.jpg,824.999936,305.999616,864.999424,420.999936,1,man,man_825.00,"pink, purple, green, black, colorful, yellow","green, black"
+00070007_0924.jpg,895.000064,253.999872,1024.000512,322.000128,1,cars,cars_895.00,"pink, white, purple, red, double decker, colorful",white

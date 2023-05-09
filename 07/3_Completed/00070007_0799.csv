@@ -1,0 +1,13 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0799.jpg,0.9999750000000064,207.000192,182.000425,611.0001120000001,1,car,car_1.00,"black, green, red, white, gray, dark",black
+00070007_0799.jpg,19.99950000000001,110.000016,838.99992,403.000128,1,car,car_20.00,"blue, black, parked, green, dark, gray",blue
+00070007_0799.jpg,772.0001024999999,42.00016799999999,995.0004975,140.000136,1,car,car_772.00,"black, green, parked, dark, blue, large",black
+00070007_0799.jpg,99.99949,24.000096,175.99958,61.999824,1,car,car_100.00,"red, white, pink, yellow, wooden, purple",white
+00070007_0799.jpg,392.9996275,25.000206,598.9994525,89.00025,1,truck,truck_393.00,"yellow, white, black, silver, gray, parked",white
+00070007_0799.jpg,1.0004725000000576,50.00009399999993,995.0004975,634.99989,1,water,water_1.00,"wet, black, dark, gray, blue, white","wet, blue"
+00070007_0799.jpg,329.00023250000004,12.000047999999996,457.0000175,73.00008,1,van,van_329.00,"black, white, yellow, large, parked, blue",black
+00070007_0799.jpg,106.9998125,27.000108,121.9994375,64.00004399999999,1,woman,woman_107.00,"pink, red, wooden, purple, white, small",white
+00070007_0799.jpg,37.0005675,27.999900000000004,56.0000925,76.000092,1,person,person_37.00,"yellow, blue, metal, wooden, white, black",
+00070007_0799.jpg,85.99984,24.000095999999992,101.99944,67.000056,1,man,man_86.00,"red, pink, wooden, white, blue, metal",blue
+00070007_0799.jpg,7.000322500000003,21.000084,84.00038749999999,64.000044,1,truck,truck_7.00,"blue, yellow, white, wooden, small, empty",small
+00070007_0799.jpg,62.000440000000026,0.9997919999999992,784.0003,37.999728,1,building,building_62.00,"brown, brick, gray, tan, white, large","brown, brick"

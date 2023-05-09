@@ -1,0 +1,10 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0068.jpg,302.000282,91.99993,771.000202,307.999934,1,bus,bus_302.00,"['purple', 'black', 'pink', 'white', 'double decker', 'moving']"
+00070007_0068.jpg,22.999798,246.999962,660.999442,483.999758,1,car,car_23.00,"['black', 'yellow', 'gray', 'parked', 'old', 'silver']"
+00070007_0068.jpg,147.999615,187.000176,355.999825,254.000296,1,fire truck,fire truck_148.00,"['purple', 'pink', 'colorful', 'white', 'double decker', 'red']"
+00070007_0068.jpg,185.999661,204.99989399999995,241.999687,316.999914,1,man,man_186.00,"['green', 'sitting', 'pink', 'purple', 'standing', 'watching']"
+00070007_0068.jpg,59.00015499999999,200.000174,111.000009,350.000002,1,man,man_59.00,"['green', 'blue', 'standing', 'sitting', 'walking', 'glass']"
+00070007_0068.jpg,1.0000430000000051,190.000008,155.000313,227.999816,1,trees,trees_1.00,"['green', 'red', 'large', 'white', 'blue', 'pink']"
+00070007_0068.jpg,143.000194,68.000064,305.000014,206.00008,1,trees,trees_143.00,"['tall', 'large', 'green', 'purple', 'bare', 'leafy']"
+00070007_0068.jpg,247.99994500000005,211.999744,290.00016300000004,312.999896,1,man,man_248.00,"['pink', 'purple', 'sitting', 'standing', 'blonde', 'little']"
+00070007_0068.jpg,622.000147,238.000224,794.000397,484.0,1,road,road_622.00,"['gray', 'black', 'concrete', 'paved', 'dirt', 'brown']"

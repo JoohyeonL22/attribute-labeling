@@ -1,0 +1,5 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0372.jpg,1.0,126.000146,500.0,373.0,1,branch,branch_1.00,"green, black, red, silver, parked, blue",green
+00070007_0372.jpg,22.0,147.00023249999998,477.0,306.0000615,1,car,car_22.00,"black, blue, parked, green, silver, small","blue, parked"
+00070007_0372.jpg,207.0,58.000008,417.0,163.99989399999998,1,log,log_207.00,"black, gray, long, metal, large, silver",black
+00070007_0372.jpg,1.0,1.0000129999999956,499.0,195.999937,1,trees,trees_1.00,"green, red, white, tall, black, clear",green

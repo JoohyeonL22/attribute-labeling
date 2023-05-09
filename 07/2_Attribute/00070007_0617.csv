@@ -1,0 +1,8 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0617.jpg,1.000124999999997,215.99993250000003,350.000175,485.9997795000001,1,car,car_1.00,"green, yellow, black, parked, blue, gray","green, yellow, black, parked, blue, gray"
+00070007_0617.jpg,120.9999,129.99990600000004,248.9998,520.999902,1,firefighter,firefighter_121.00,"yellow, standing, green, gray, black, wearing","yellow, standing, green, gray, black, wearing"
+00070007_0617.jpg,1.000124999999997,1.0002779999999944,350.000175,222.000228,1,smoke,smoke_1.00,"black, gray, blue, dark, white, concrete","black, gray, blue, dark, white, concrete"
+00070007_0617.jpg,252.0,158.000004,350.0,421.99983,1,fire,fire_252.00,"green, orange, red, yellow, large, glass","green, orange, red, yellow, large, glass"
+00070007_0617.jpg,1.000124999999997,258.0000795,227.999975,523.9999124999999,1,hose,hose_1.00,"green, blue, black, yellow, gray, parked","green, blue, black, yellow, gray, parked"
+00070007_0617.jpg,218.99990000000005,256.0000725,322.0,493.9998075,1,water,water_219.00,"green, orange, white, yellow, metal, blue","green, orange, white, yellow, metal, blue"
+00070007_0617.jpg,1.000124999999997,451.000206,350.000175,549.0,1,road,road_1.00,"gray, white, yellow, concrete, cement, green","gray, white, yellow, concrete, cement, green"

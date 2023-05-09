@@ -1,0 +1,4 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0996.jpg,1.0,252.999842,639.99968,383.0,1,road,road_1.00,"black, brown, yellow, gray, dark, wooden","black, brown, yellow, gray, dark, wooden"
+00070007_0996.jpg,36.00031999999999,52.999923,490.00032,319.999947,1,truck,truck_36.00,"white, silver, black, glass, metal, green","white, silver, black, glass, metal, green"
+00070007_0996.jpg,338.00032,217.00014,532.00032,331.00009,1,debris,debris_338.00,"purple, pink, black, colorful, white, yellow","purple, pink, black, colorful, white, yellow"

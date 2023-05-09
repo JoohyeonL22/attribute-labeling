@@ -1,0 +1,13 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0254.jpg,362.00022,217.000245,985.00092,581.000455,1,ambulance,ambulance_362.00,"['red', 'double decker', 'yellow', 'colorful', 'large', 'black']"
+00070007_0254.jpg,397.000278,629.000113,487.000902,740.000023,1,bucket,bucket_397.00,"['blue', 'plastic', 'large', 'small', 'white', 'light blue']"
+00070007_0254.jpg,64.00029599999999,335.9994750000001,500.999928,632.999773,1,car,car_64.00,"['blue', 'black', 'parked', 'green', 'large', 'silver']"
+00070007_0254.jpg,845.0006880000001,281.99970399999995,1662.0,841.0001599999999,1,car,car_845.00,"['white', 'parked', 'red', 'black', 'silver', 'gray']"
+00070007_0254.jpg,517.999695,275.00029900000004,738.000297,681.000677,1,man,man_518.00,"['standing', 'walking', 'skiing', 'red', 'black', 'wearing']"
+00070007_0254.jpg,1477.99998,95.00002400000002,1662.0,295.99976000000004,1,sign,sign_1478.00,"['white', 'black', 'large', 'blue', 'big', 'red']"
+00070007_0254.jpg,360.000003,214.0005,967.000629,587.000568,1,ambulance,ambulance_360.00,"['red', 'yellow', 'double decker', 'black', 'colorful', 'large']"
+00070007_0254.jpg,1.0005240000000413,574.999719,1662.0,1245.999377,1,road,road_1.00,"['gray', 'paved', 'black', 'concrete', 'asphalt', 'wet']"
+00070007_0254.jpg,292.000935,636.999433,383.000421,747.000051,1,bucket,bucket_292.00,"['gray', 'metal', 'green', 'silver', 'black', 'large']"
+00070007_0254.jpg,0.9988619999999956,407.999585,103.99965,624.9992070000001,1,ramp,ramp_1.00,"['brown', 'blue', 'black', 'yellow', 'green', 'tan']"
+00070007_0254.jpg,644.999763,625.999745,871.0001850000001,729.0003350000001,1,debris,debris_645.00,"['red', 'black', 'purple', 'pink', 'gray', 'sitting']"
+00070007_0254.jpg,1.0005240000000413,0.9999150000000157,1662.0,414.999613,1,trees,trees_1.00,"['bare', 'brown', 'leafless', 'tall', 'green', 'large']"

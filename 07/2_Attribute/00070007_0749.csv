@@ -1,0 +1,8 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0749.jpg,1210.000384,714.0001050000001,1383.001088,940.000425,1,bag,bag_1210.00,"pink, white, purple, blue, gray, colorful","pink, white, purple, blue, gray, colorful"
+00070007_0749.jpg,0.99942400000009,0.999862500000006,2048.0,621.9997874999999,1,building,building_1.00,"green, black, dark, tall, large, white","green, black, dark, tall, large, white"
+00070007_0749.jpg,0.99942400000009,358.0005975,2048.0,636.0005925,1,fence,fence_1.00,"green, black, metal, tall, blue, white","green, black, metal, tall, blue, white"
+00070007_0749.jpg,1308.0012800000002,631.9997774999999,1505.000448,1029.9996525,1,girl,girl_1308.00,"blue, purple, young, sitting, little, green","blue, purple, young, sitting, little, green"
+00070007_0749.jpg,1472.0,0.999862500000006,2048.0,635.9992275,1,tree,tree_1472.00,"green, tall, large, black, dark, big","green, tall, large, black, dark, big"
+00070007_0749.jpg,929.998848,534.9994650000001,1177.99936,987.000105,1,woman,woman_930.00,"young, standing, little, black, smiling, sitting","young, standing, little, black, smiling, sitting"
+00070007_0749.jpg,0.99942400000009,639.00018,2048.0,1365.0,1,water,water_1.00,"gray, white, wet, concrete, metal, silver","gray, white, wet, concrete, metal, silver"

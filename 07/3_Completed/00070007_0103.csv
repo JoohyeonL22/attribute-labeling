@@ -1,0 +1,6 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0103.jpg,1.0003700000000038,1.0001250000000113,463.00019,170.00007499999998,1,bridge,bridge_1.00,"brown, gray, tan, large, blue, white","brown, tan"
+00070007_0103.jpg,168.99990999999997,152.99987499999995,619.99969,349.999825,1,bus,bus_169.00,"white, black, silver, long, parked, gray","white, long"
+00070007_0103.jpg,47.99978,227.00019999999995,96.99962,348.0001,1,man,man_48.00,"standing, walking, green, looking, wearing, black","standing, green"
+00070007_0103.jpg,92.00025,235.00015,140.00003,349.00005,1,man,man_92.00,"standing, blue, walking, green, gray, sitting","standing, blue"
+00070007_0103.jpg,529.99987,59.00002500000001,619.99969,203.000175,1,tree,tree_530.00,"purple, pink, green, large, colorful, black",green

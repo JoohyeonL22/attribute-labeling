@@ -1,0 +1,8 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0289.jpg,220.000365,227.000018,605.0001550000001,567.9999499999999,1,car,car_220.00,"['white', 'blue', 'green', 'gray', 'silver', 'old']"
+00070007_0289.jpg,0.9995850000000246,29.00028600000001,570.999715,156.000306,1,mountain,mountain_1.00,"['purple', 'green', 'pink', 'large', 'tall', 'distant']"
+00070007_0289.jpg,251.000595,51.99978,274.000265,202.999748,1,pole,pole_251.00,"['tall', 'metal', 'white', 'green', 'wooden', 'red']"
+00070007_0289.jpg,804.999605,200.000318,969.999515,614.000226,1,road,road_805.00,"['white', 'gray', 'painted', 'green', 'paved', 'long']"
+00070007_0289.jpg,1.0005550000000198,144.000332,535.0001050000001,197.000244,1,trees,trees_1.00,"['pink', 'green', 'red', 'colorful', 'purple', 'long']"
+00070007_0289.jpg,536.0001749999999,0.9998099999999964,970.000485,225.999886,1,trees,trees_536.00,"['purple', 'green', 'tall', 'pink', 'leafy', 'large']"
+00070007_0289.jpg,1.0000700000000506,187.99970000000005,578.99979,642.999868,1,field,field_1.00,"['green', 'brown', 'dry', 'grassy', 'dirt', 'white']"

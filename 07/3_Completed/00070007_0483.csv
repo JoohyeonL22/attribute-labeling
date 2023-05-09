@@ -1,0 +1,7 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0483.jpg,0.9999999999999432,0.999750000000006,1000.0,357.99975,1,building,building_1.00,"white, green, red, brown, large, gray","white, brown"
+00070007_0483.jpg,1.0,323.99999999999994,336.0,534.0,1,car,car_1.00,"parked, white, green, silver, red, gray",white
+00070007_0483.jpg,178.0,300.0,593.0,624.0,1,car,car_178.00,"green, black, blue, parked, white, yellow",green
+00070007_0483.jpg,553.0,93.0,929.0,684.0,1,car,car_553.00,"white, green, parked, red, black, silver",white
+00070007_0483.jpg,0.9999999999999432,418.9998750000001,1000.0,749.999625,1,debris,debris_1.00,"green, blue, white, brown, large, parked",brown
+00070007_0483.jpg,869.0,164.999625,1000.0,373.999875,1,van,van_869.00,"white, yellow, blue, black, large, parked",white

@@ -1,0 +1,10 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0029.jpg,1.0002000000000066,1.000216000000023,987.0006,463.000256,1,bus,bus_1.00,"white, parked, red, yellow, colorful, green","white, parked, red, yellow, colorful, green"
+00070007_0029.jpg,295.0002,161.999944,514.9998,604.999924,1,man,man_295.00,"red, yellow, standing, walking, gray, skiing","red, yellow, standing, walking, gray, skiing"
+00070007_0029.jpg,299.0004,160.99972800000003,434.0004,534.999632,1,man,man_299.00,"yellow, standing, red, walking, orange, tan","yellow, standing, red, walking, orange, tan"
+00070007_0029.jpg,60.0,362.000345,150.0,420.00006700000006,1,barrel,barrel_60.00,"white, yellow, blue, plastic, small, metal","white, yellow, blue, plastic, small, metal"
+00070007_0029.jpg,119.99939999999998,325.000441,172.9998,414.000119,1,barrel,barrel_120.00,"white, blue, gray, silver, small, metal","white, blue, gray, silver, small, metal"
+00070007_0029.jpg,1.0001999999999498,392.999964,1200.0006,674.0,1,road,road_1.00,"gray, yellow, paved, concrete, wet, cement","gray, yellow, paved, concrete, wet, cement"
+00070007_0029.jpg,666.0,397.999696,1200.0,547.999744,1,debris,debris_666.00,"blue, metal, gray, green, white, empty","blue, metal, gray, green, white, empty"
+00070007_0029.jpg,913.0002,156.99987500000003,1200.0005999999998,414.999661,1,grass,grass_913.00,"green, tall, grassy, long, short, brown","green, tall, grassy, long, short, brown"
+00070007_0029.jpg,817.9998,82.00018800000001,1199.9994000000002,169.000108,1,people,people_818.00,"green, blue, watching, sitting, standing, colorful","green, blue, watching, sitting, standing, colorful"

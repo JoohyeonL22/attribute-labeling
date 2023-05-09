@@ -1,0 +1,9 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0415.jpg,86.0,123.0001255,518.0,309.0000445,1,car,car_86.00,"black, parked, blue, yellow, purple, red","black, parked, blue, yellow, purple, red"
+00070007_0415.jpg,1.0,193.9999775,639.99968,426.9997865,1,road,road_1.00,"gray, paved, black, asphalt, yellow, empty","gray, paved, black, asphalt, yellow, empty"
+00070007_0415.jpg,31.00032,4.000135999999998,175.00032,208.00024,1,tree,tree_31.00,"bare, tall, brown, green, leafless, large","bare, tall, brown, green, leafless, large"
+00070007_0415.jpg,534.00032,0.9998204999999984,640.00032,192.9999435,1,tree,tree_534.00,"green, bare, gray, large, white, tall","green, bare, gray, large, white, tall"
+00070007_0415.jpg,478.99968,241.9999015,538.99968,306.9999765,1,debris,debris_479.00,"black, pink, white, red, purple, gray","black, pink, white, red, purple, gray"
+00070007_0415.jpg,279.0,1.0000339999999994,417.0,146.999874,1,tree,tree_279.00,"large, brown, bare, white, tall, leafless","large, brown, bare, white, tall, leafless"
+00070007_0415.jpg,118.00032000000002,44.999822,268.00032,99.999984,1,car,car_118.00,"silver, gray, blue, parked, white, metal","silver, gray, blue, parked, white, metal"
+00070007_0415.jpg,1.0,1.0002475000000004,638.00032,112.0001785,1,building,building_1.00,"brown, green, tan, white, large, beige","brown, green, tan, white, large, beige"

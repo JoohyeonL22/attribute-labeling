@@ -1,0 +1,7 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0804.jpg,2089.000047,1812.0008465,2318.999541,2092.0005795,1,baby,baby_2089.00,"['pink', 'purple', 'little', 'small', 'young', 'smiling']"
+00070007_0804.jpg,315.9978739999999,287.00135750000004,2045.999178,2714.0002305,1,man,man_316.00,"['standing', 'smiling', 'white', 'young', 'wet', 'green']"
+00070007_0804.jpg,1739.9997489999998,2163.00019,3018.998147,2779.000224,1,boat,boat_1740.00,"['blue', 'white', 'black', 'gray', 'green', 'small']"
+00070007_0804.jpg,1.000683999999865,1.0004540000000477,3358.0,935.001938,1,trees,trees_1.00,"['green', 'tall', 'blurry', 'leafy', 'large', 'dark']"
+00070007_0804.jpg,1.000683999999865,911.9992635,3358.0,3106.9984465,1,water,water_1.00,"['green', 'blue', 'wet', 'calm', 'clear', 'gray']"
+00070007_0804.jpg,1684.000062,1306.9999409999998,3008.999702,2318.999553,1,woman,woman_1684.00,"['sitting', 'young', 'little', 'smiling', 'black', 'small']"

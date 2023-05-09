@@ -1,0 +1,9 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0524.jpg,164.99976800000002,144.00028500000002,380.999764,316.000113,1,car,car_165.00,"['black', 'red', 'parked', 'gray', 'white', 'blue']"
+00070007_0524.jpg,398.000157,141.00007349999996,517.000055,411.0002324999999,1,police,police_398.00,"['standing', 'walking', 'young', 'smiling', 'black', 'wearing']"
+00070007_0524.jpg,1.0001350000000002,45.999954,76.000433,159.99984,1,trees,trees_1.00,"['red', 'green', 'white', 'tall', 'blue', 'large']"
+00070007_0524.jpg,47.000005000000016,0.999999000000031,506.00015500000006,304.000125,1,building,building_47.00,"['brick', 'red', 'white', 'orange', 'large', 'brown']"
+00070007_0524.jpg,357.000011,208.0000065,634.000317,428.0002155,1,debris,debris_357.00,"['red', 'brick', 'gray', 'black', 'metal', 'white']"
+00070007_0524.jpg,1.0004519999999957,266.9999475,222.000172,425.9997885,1,debris,debris_1.00,"['wooden', 'metal', 'red', 'black', 'gray', 'white']"
+00070007_0524.jpg,1.000135000000007,129.00029999999998,81.000157,335.000094,1,trees,trees_1.00,"['red', 'green', 'black', 'tall', 'large', 'pink']"
+00070007_0524.jpg,271.00013,309.9999045,336.000346,354.9998595,1,debris,debris_271.00,"['green', 'gray', 'wooden', 'small', 'black', 'metal']"

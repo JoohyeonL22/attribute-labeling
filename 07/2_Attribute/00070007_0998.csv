@@ -1,0 +1,8 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0998.jpg,32.99979149999996,292.000284,642.0000924999999,584.000196,1,van,van_33.00,"white, black, parked, blue, silver, large","white, black, parked, blue, silver, large"
+00070007_0998.jpg,0.9997845000000004,298.000272,44.0001055,436.000368,1,man,man_1.00,"standing, walking, yellow, blue, black, wearing","standing, walking, yellow, blue, black, wearing"
+00070007_0998.jpg,1.0001680000000306,0.9995640000000208,767.0,356.999844,1,tree,tree_1.00,"green, tall, large, blue, leafy, yellow","green, tall, large, blue, leafy, yellow"
+00070007_0998.jpg,422.999733,556.9996920000001,724.9998469999999,656.999988,1,debris,debris_423.00,"white, black, metal, small, silver, large","white, black, metal, small, silver, large"
+00070007_0998.jpg,1.0001680000000306,347.00011200000006,767.0,744.0000000000001,1,road,road_1.00,"gray, black, white, yellow, paved, wet","gray, black, white, yellow, paved, wet"
+00070007_0998.jpg,63.9996305,304.00026,77.99968150000001,319.000044,1,man,man_64.00,"green, white, blue, black, small, street","green, white, blue, black, small, street"
+00070007_0998.jpg,58.0001565,284.000052,105.9997835,317.000172,1,sign,sign_58.00,"green, blue, white, small, street, digital","green, blue, white, small, street, digital"

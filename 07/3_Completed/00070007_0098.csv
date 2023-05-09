@@ -1,0 +1,15 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0098.jpg,295.00032,71.0001285,657.000192,380.0002955,1,bus,bus_295.00,"yellow, double decker, purple, parked, red, pink",yellow
+00070007_0098.jpg,211.999872,214.000157,296.999808,389.000283,1,man,man_212.00,"green, standing, sitting, purple, brown, colorful","green, standing"
+00070007_0098.jpg,592.000512,209.0002775,644.000256,257.0000405,1,sign,sign_592.00,"pink, purple, green, colorful, white, multi colored",
+00070007_0098.jpg,22.000128,1.0002825,768,243.0001735,1,trees,trees_22.00,"purple, pink, green, colorful, tall, large",green
+00070007_0098.jpg,1.00032,138.9999205,256.000128,509.9997175,1,truck,truck_1.00,"white, green, red, parked, double decker, large",white
+00070007_0098.jpg,609.999744,223.0001445,766.99968,306.0003415,1,truck,truck_610.00,"red, pink, purple, parked, maroon, double decker",red
+00070007_0098.jpg,168,295.0000445,768,511.0002555,1,road,road_168.00,"gray, paved, black, asphalt, wet, concrete","gray, asphalt"
+00070007_0098.jpg,339.000192,179.000234,372.000384,234.000186,1,man,man_339.00,"standing, blue, white, sitting, green, open",standing
+00070007_0098.jpg,260.999808,210.000049,298.99968,254.000215,1,man,man_261.00,"purple, pink, sitting, colorful, open, white",
+00070007_0098.jpg,96.000384,211.0003315,132.000384,261.0001485,1,man,man_96.00,"sitting, pink, little, blonde, young, purple",
+00070007_0098.jpg,156.999936,232.000132,202.000128,278.000352,1,woman,woman_157.00,"pink, purple, colorful, sitting, white, open",
+00070007_0098.jpg,204,240.000348,231.999744,289.000138,1,woman,woman_204.00,"purple, pink, white, green, open, standing","green, standing"
+00070007_0098.jpg,0.999936,117.000093,144,235.000213,1,building,building_1.00,"pink, purple, green, colorful, large, red",
+00070007_0098.jpg,137.000448,187.0001945,166.000128,239.0000655,1,sign,sign_137.00,"black, pink, purple, red, white, framed",white

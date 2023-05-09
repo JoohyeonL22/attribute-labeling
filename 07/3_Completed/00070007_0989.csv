@@ -1,0 +1,11 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0989.jpg,43.00032,335.999952,500.000256,527.000022,1,car,car_43.00,"blue, silver, black, gray, red, metal","gray, metal"
+00070007_0989.jpg,666.000384,310.000053,819.00032,627.000105,1,man,man_666.00,"purple, standing, walking, pink, young, wearing","walking, wearing"
+00070007_0989.jpg,550.000128,256.000158,1024.000512,681,1,road,road_550.00,"gray, white, purple, paved, concrete, silver","gray, paved"
+00070007_0989.jpg,0.999936,0.999708,845.999616,457.000032,1,trees,trees_1.00,"green, tall, red, large, leafy, white","green, leafy"
+00070007_0989.jpg,582.00064,245.999673,814.000128,459.999837,1,truck,truck_582.00,"purple, pink, white, parked, large, silver",white
+00070007_0989.jpg,319.999488,1.0000485,402.999808,577.9997715,1,pole,pole_320.00,"tall, gray, wooden, metal, brown, white","wooden, brown"
+00070007_0989.jpg,473.999872,304.0001025,500.99968,357.9999975,1,man,man_474.00,"pink, purple, small, black, metal, plastic",
+00070007_0989.jpg,784,328.999953,865.999872,609.999621,1,police,police_784.00,"blue, standing, purple, walking, pink, green","blue, walking"
+00070007_0989.jpg,775.999488,264.0002055,853.999616,373.0003845,1,truck,truck_776.00,"pink, purple, white, blue, red, colorful",white
+00070007_0989.jpg,909.000192,327.0001965,1024.000512,427.9999875,1,suv,suv_909.00,"black, silver, parked, gray, white, small","parked, white"

@@ -1,0 +1,5 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0624.jpg,204.00016,141.00008400000002,397.00024,247.99998,1,fire,fire_204.00,"large, blue, orange, black, white, red","large, blue, orange, black, white, red"
+00070007_0624.jpg,168.00004,0.9999540000000025,468.99996,282.000022,1,smoke,smoke_168.00,"green, black, large, dark, clear, blue","green, black, large, dark, clear, blue"
+00070007_0624.jpg,37.99977999999996,0.9999539999999882,519.99974,212.00003,1,mountain,mountain_38.00,"green, blue, black, gray, cloudy, white","green, blue, black, gray, cloudy, white"
+00070007_0624.jpg,447.00006,176.999888,520.00026,225.999824,1,truck,truck_447.00,"green, white, blue, small, parked, large","green, white, blue, small, parked, large"

@@ -1,0 +1,3 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0047.jpg,388.99968,194.00013000000004,718.99968,457.00011000000006,1,van,van_389.00,"['white', 'large', 'black', 'big', 'gray', 'silver']"
+00070007_0047.jpg,1.000319999999988,1.0000800000000254,960.0,540.0,1,building,building_1.00,"['white', 'brown', 'tall', 'large', 'dark', 'gray']"

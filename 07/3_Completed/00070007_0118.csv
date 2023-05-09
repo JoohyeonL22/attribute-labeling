@@ -1,0 +1,17 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0118.jpg,0.999936,0.999872,1023.000064,494.999744,1,building,building_1.00,"purple, pink, gray, white, blue, large","gray, large"
+00070007_0118.jpg,130.000384,259.000304,352.000512,486.00008,1,bush,bush_130.00,"green, purple, large, tall, leafy, pink","green, leafy"
+00070007_0118.jpg,154.000384,380.000048,193.000448,478.000016,1,man,man_154.00,"purple, pink, black, colorful, standing, small","black, standing"
+00070007_0118.jpg,578.000384,386.000096,648,514.000032,1,man,man_578.00,"walking, standing, pink, red, orange, skiing","walking, orange"
+00070007_0118.jpg,3.00032,473.000112,330.000384,544.000272,1,car,car_3.00,"white, pink, purple, red, parked, blue",white
+00070007_0118.jpg,25.000448,399.000064,88,517.000192,1,man,man_25.00,"purple, pink, sitting, standing, black, walking","standing, black"
+00070007_0118.jpg,436.000256,374.999872,473.000448,476,1,man,man_436.00,"standing, walking, blue, black, watching, looking","standing, blue"
+00070007_0118.jpg,374.000128,377.99976,408,473.999984,1,man,man_374.00,"green, red, blue, metal, small, orange",red
+00070007_0118.jpg,363.00032,417.999808,376,467.000064,1,man,man_363.00,"green, blue, metal, wooden, red, small",
+00070007_0118.jpg,339.00032,369.999968,368,471.000096,1,man,man_339.00,"green, red, blue, white, colorful, tall",green
+00070007_0118.jpg,317.000192,409.000144,336.000512,463.000304,1,man,man_317.00,"yellow, green, black, red, blue, traffic",yellow
+00070007_0118.jpg,400,313.000192,506.000384,441.000128,1,water,water_400.00,"yellow, blue, white, purple, glass, standing",white
+00070007_0118.jpg,393.000448,310.999904,420.000256,352.999968,1,fire,fire_393.00,"orange, yellow, red, green, hanging, white",orange
+00070007_0118.jpg,515.00032,274.000016,640,388.999984,1,fire,fire_515.00,"pink, purple, colorful, orange, large, multi colored","orange, large"
+00070007_0118.jpg,470.999552,1.000144,1023.999488,344.000304,1,smoke,smoke_471.00,"white, gray, pink, black, purple, dark","white, gray"
+00070007_0118.jpg,0.999424,1.000144,597.999616,464.000176,1,smoke,smoke_1.00,"purple, gray, pink, blue, white, large","gray, white"

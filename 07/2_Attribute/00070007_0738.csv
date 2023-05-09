@@ -1,0 +1,12 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0738.jpg,1.0018800000002557,791.000602,4253.000840000001,2285.000674,1,building,building_1.00,"large, brown, white, gray, black, red","large, brown, white, gray, black, red"
+00070007_0738.jpg,2897.0018,1598.9986875,4447.00124,3342.9983285000003,1,firefighter,firefighter_2897.00,"yellow, black, gray, standing, walking, young","yellow, black, gray, standing, walking, young"
+00070007_0738.jpg,853.9964400000001,45.998008499999855,3734.99852,1363.9991595,1,smoke,smoke_854.00,"blue, cloudy, white, clear, overcast, gray","blue, cloudy, white, clear, overcast, gray"
+00070007_0738.jpg,4111.00206,799.000401,4709.00298,1410.000511,1,tree,tree_4111.00,"green, tall, large, leafy, glass, big","green, tall, large, leafy, glass, big"
+00070007_0738.jpg,1140.9971099999998,1607.0018295000002,2823.99865,2175.0009305000003,1,water,water_1141.00,"white, silver, gray, parked, black, metal","white, silver, gray, parked, black, metal"
+00070007_0738.jpg,1.001879999999801,2020.001064,5060.0,3343.0,1,road,road_1.00,"gray, paved, yellow, concrete, wet, cement","gray, paved, yellow, concrete, wet, cement"
+00070007_0738.jpg,2808.99828,2128.000022,5060.0,3249.001526,1,hose,hose_2809.00,"yellow, gray, black, paved, white, concrete","yellow, gray, black, paved, white, concrete"
+00070007_0738.jpg,2424.00059,1598.9986875000002,5060.00253,2109.9996385000004,1,water,water_2424.00,"wet, black, yellow, gray, clear, white","wet, black, yellow, gray, clear, white"
+00070007_0738.jpg,1547.9982099999995,533.0012339999998,2347.99939,1333.001192,1,tree,tree_1548.00,"tall, white, large, clear, gray, silver","tall, white, large, clear, gray, silver"
+00070007_0738.jpg,4800.99884,1366.999502,5060.0,1587.9985460000005,1,fire truck,fire truck_4801.00,"white, red, large, parked, silver, double decker","white, red, large, parked, silver, double decker"
+00070007_0738.jpg,3476.99924,249.0016835,4347.9972800000005,1488.0010585,1,crane,crane_3477.00,"tall, gray, large, metal, silver, white","tall, gray, large, metal, silver, white"

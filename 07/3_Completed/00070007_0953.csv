@@ -1,0 +1,17 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0953.jpg,351.00000000000006,178.99993650000002,732.9996000000001,409.0001895,1,van,van_351.00,"white, parked, purple, large, green, pink",white
+00070007_0953.jpg,263.00025,336.0003045,318.00015,432.0000195,1,cone,cone_263.00,"pink, purple, blue, sitting, colorful, small",small
+00070007_0953.jpg,79.99965,313.000149,175.99994999999998,455.000175,1,cone,cone_80.00,"red, black, blue, metal, small, white","red, small"
+00070007_0953.jpg,1.0003500000000258,176.0001285,900.00045,651.0003255,1,dirt,dirt_1.00,"brown, sandy, tan, dirty, dirt, gray","brown, sandy"
+00070007_0953.jpg,319.99995,217.99971900000003,374.99985,377.999895,1,firefighter,firefighter_320.00,"green, pink, colorful, purple, glass, tall",
+00070007_0953.jpg,692.9999999999999,183.000006,750.9996,370.999692,1,man,man_693.00,"purple, pink, white, colorful, black, multi colored",
+00070007_0953.jpg,563.9998499999999,157.00004249999998,899.99955,245.0002695,1,trees,trees_564.00,"green, white, large, colorful, tall, purple","green, large"
+00070007_0953.jpg,238.99949999999995,156.00010650000002,459.9999,289.9999935,1,fire truck,fire truck_239.00,"pink, purple, white, colorful, double decker, green",
+00070007_0953.jpg,111.00015,205.0002255,212.99985,279.0000465,1,van,van_111.00,"red, pink, colorful, double decker, purple, large","red, large"
+00070007_0953.jpg,616.0005,205.999836,654.0003,267.999774,1,firefighter,firefighter_616.00,"yellow, black, white, green, blue, open","yellow, green"
+00070007_0953.jpg,256.00005,392.000301,442.00035,494.000283,1,debris,debris_256.00,"purple, pink, colorful, multi colored, blue, small",small
+00070007_0953.jpg,665.0001,310.0000155,683.0001,357.0002625,1,fire extinguisher,fire extinguisher_665.00,"red, pink, white, black, small, hanging",red
+00070007_0953.jpg,624.00015,315.99995700000005,662.99985,417.0000030000001,1,debris,debris_624.00,"white, blue, green, metal, gray, wooden",white
+00070007_0953.jpg,307.99980000000005,221.9997885,333.0,309.0000795,1,firefighter,firefighter_308.00,"pink, purple, green, colorful, red, black",
+00070007_0953.jpg,210.9996,223.00005,234.0,285.999924,1,person,person_211.00,"green, pink, blue, glass, white, red",red
+00070007_0953.jpg,213.99975,215.0002365,248.99985,265.0002915,1,van,van_214.00,"green, blue, red, pink, white, glass",white

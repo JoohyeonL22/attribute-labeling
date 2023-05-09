@@ -1,0 +1,13 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0468.jpg,217.000425,263.999836,624.0004550000001,468.99978,1,car,car_217.00,"green, blue, black, silver, gray, orange",gray
+00070007_0468.jpg,744.0000500000001,322.000035,985.0,554.000277,1,car,car_744.00,"black, parked, blue, silver, gray, white","parked, blue"
+00070007_0468.jpg,690.0003800000001,291.00013399999995,742.0005,416.000262,1,cone,cone_690.00,"purple, pink, wooden, brown, colorful, wood",
+00070007_0468.jpg,946.999685,303.999744,959.999715,337.999832,1,cone,cone_947.00,"pink, purple, red, colorful, metal, orange",red
+00070007_0468.jpg,724.9998924999999,251.99991900000003,798.9999875,417.999925,1,man,man_725.00,"standing, yellow, sitting, white, purple, pink","standing, yellow"
+00070007_0468.jpg,790.0000425000001,250.000256,860.9998275,385.000084,1,man,man_790.00,"standing, sitting, yellow, older, white, watching","standing, yellow"
+00070007_0468.jpg,1.00026749999995,0.9999700000000188,985.0004925,327.000162,1,train,train_1.00,"wooden, brown, white, orange, yellow, large",brown
+00070007_0468.jpg,1.0002675000000067,0.9999700000000048,628.9998224999999,240.000002,1,trees,trees_1.00,"wooden, tall, brown, green, wood, red",green
+00070007_0468.jpg,0.9997749999999996,388.999964,829.999415,554.0,1,grass,grass_1.00,"green, grassy, short, tall, grass, long","green, grassy"
+00070007_0468.jpg,858.0005025,269.0002400000001,921.0001175,368.00004,1,man,man_858.00,"pink, purple, black, red, colorful, small",black
+00070007_0468.jpg,109.0001,429.999842,177.00056,450.999766,1,tire,tire_109.00,"orange, wooden, small, black, red, brown",black
+00070007_0468.jpg,854.9997,296.000261,864.99942,369.000287,1,cone,cone_855.00,"purple, pink, black, metal, small, colorful",

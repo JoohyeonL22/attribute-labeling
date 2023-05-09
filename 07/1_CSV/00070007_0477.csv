@@ -1,0 +1,13 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0477.jpg,1.000502499999925,1.0005124999999566,1763.0008815,628.0004875,1,building,building_1.00,"['brick', 'red', 'pink', 'brown', 'white', 'large']"
+00070007_0477.jpg,931.999372,505.00031250000006,1285.999194,671.0007875000001,1,car,car_932.00,"['white', 'silver', 'parked', 'purple', 'red', 'moving']"
+00070007_0477.jpg,1280.999326,199.9996875,1657.999246,665.0000625,1,fire,fire_1281.00,"['bright', 'lit', 'shining', 'yellow', 'blue', 'large']"
+00070007_0477.jpg,7.000872999999984,1005.0004125,320.000367,1175.0005875000002,1,fire hydrant,fire hydrant_7.00,"['red', 'walking', 'black', 'wet', 'gray', 'dark']"
+00070007_0477.jpg,1521.000042,590.0003999999999,1762.9999999999998,1175.0,1,firefighter,firefighter_1521.00,"['walking', 'standing', 'blurry', 'black', 'watching', 'sitting']"
+00070007_0477.jpg,209.999745,539.0007,362.999937,919.0004,1,firefighter,firefighter_210.00,"['red', 'green', 'black', 'standing', 'white', 'sitting']"
+00070007_0477.jpg,300.0000135,569.0008,551.0000865,1171.0003000000002,1,firefighter,firefighter_300.00,"['standing', 'walking', 'black', 'red', 'pink', 'white']"
+00070007_0477.jpg,473.000559,558.9997874999999,779.0009429999999,1170.9997125,1,firefighter,firefighter_473.00,"['standing', 'walking', 'black', 'sitting', 'looking', 'watching']"
+00070007_0477.jpg,1.000502499999925,868.0001124999999,1763.0008815,1175.0005875,1,road,road_1.00,"['red', 'black', 'metal', 'glass', 'long', 'gray']"
+00070007_0477.jpg,416.9997455,549.9998749999999,495.0001545,664.999475,1,firefighter,firefighter_417.00,"['purple', 'pink', 'colorful', 'small', 'black', 'green']"
+00070007_0477.jpg,1.000502499999996,614.9997,76.0002855,1026.99935,1,police,police_1.00,"['pink', 'red', 'black', 'standing', 'purple', 'white']"
+00070007_0477.jpg,523.9997414999998,641.0001,1420.0004165,768.9999,1,water,water_524.00,"['red', 'white', 'black', 'shiny', 'long', 'pink']"

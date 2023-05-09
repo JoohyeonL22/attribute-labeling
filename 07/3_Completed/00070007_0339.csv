@@ -1,0 +1,20 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0339.jpg,236,78,492,171,1,building,building_236.00,"yellow, white, large, red, orange, tall","large, red"
+00070007_0339.jpg,508,121.00008,640,162.00024,1,building,building_508.00,"pink, purple, large, white, green, red","large, white"
+00070007_0339.jpg,1,152.99976,154.00032,298.99992,1,car,car_1.00,"white, gray, silver, green, parked, large","white, parked"
+00070007_0339.jpg,157.99968,153.99984,227,177.99984,1,car,car_158.00,"pink, purple, colorful, red, yellow, orange",
+00070007_0339.jpg,193,168.00024,514.00032,274.00008,1,car,car_193.00,"blue, white, parked, black, green, red","white, parked"
+00070007_0339.jpg,312,148.00008,520,202.99992,1,suv,suv_312.00,"yellow, blue, white, black, red, double decker",white
+00070007_0339.jpg,420,169.00008,640,357.00024,1,car,car_420.00,"black, blue, parked, dark, gray, silver",black
+00070007_0339.jpg,502,153,550,183,1,car,car_502.00,"pink, purple, red, white, yellow, metal","white, metal"
+00070007_0339.jpg,15,1.99992,57,181.00008,1,pole,pole_15.00,"tall, red, metal, black, white, pink",metal
+00070007_0339.jpg,1,178.00008,639.99968,480.00024,1,road,road_1.00,"gray, paved, concrete, black, white, asphalt","gray, asphalt"
+00070007_0339.jpg,383.00032,114.99984,412,126.99984,1,sign,sign_383.00,"red, black, orange, white, blue, written",red
+00070007_0339.jpg,32.99968,244.00008,128,319.99992,1,woman,woman_33.00,"green, sitting, brown, small, blue, white","sitting, white"
+00070007_0339.jpg,150.00032,240,189,297,1,debris,debris_150.00,"green, brown, sitting, yellow, open, wooden",yellow
+00070007_0339.jpg,105.00032,162,270,210,1,car,car_105.00,"red, orange, white, glass, black, blue",black
+00070007_0339.jpg,53,154.99992,99,178.00008,1,car,car_53.00,"red, double decker, green, large, white, colorful",white
+00070007_0339.jpg,52.00032,176.99976,206.00032,223.99992,1,truck,truck_52.00,"red, blue, glass, metal, white, orange",metal
+00070007_0339.jpg,331,151.00008,340.00032,172.99992,1,person,person_331.00,"orange, white, red, wooden, glass, metal",white
+00070007_0339.jpg,304.99968,409.00008,536,480.00024,1,sidewalk,sidewalk_305.00,"pink, purple, gray, concrete, metal, cement",gray
+00070007_0339.jpg,0.99968,400.99992,176,458.99976,1,debris,debris_1.00,"yellow, gray, purple, pink, black, metal","yellow, metal"

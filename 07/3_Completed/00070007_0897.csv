@@ -1,0 +1,8 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0897.jpg,1315.0032,1982.99808,2244.00288,2551.9984,1,barrel,barrel_1315.00,"purple, black, blue, metal, large, small","black, metal"
+00070007_0897.jpg,3216.9984000000004,1.001280000000179,6720.0,3024.00224,1,wall,wall_3217.00,"brick, red, white, old, large, brown","brick, red"
+00070007_0897.jpg,229.00416000000016,288.00128000000007,2364.00192,2139.00288,1,building,building_229.00,"red, large, white, brown, old, small","red, brown"
+00070007_0897.jpg,465.00384,802.99968,1177.00128,1689.00032,1,sign,sign_465.00,"white, blue, black, large, square, green","white, square"
+00070007_0897.jpg,0.9979199999997944,2144.99936,6719.99664,4479.99776,1,street,street_1.00,"gray, dirty, brown, wet, rocky, old","dirty, brown"
+00070007_0897.jpg,1038.0014399999998,2777.00192,3878.00112,3384.0016,1,mattress,mattress_1038.00,"old, wooden, wood, white, metal, large","old, white"
+00070007_0897.jpg,3053.00016,2338.0022400000003,5942.00208,3174.0016,1,debris,debris_3053.00,"brown, dead, bare, dry, green, white","brown, dead"

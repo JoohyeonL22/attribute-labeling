@@ -1,0 +1,11 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0131.jpg,590.0004000000001,162.00051199999996,1413.0,1004.000128,1,fire,fire_590.00,"blue, white, cloudy, red, large, big","red, large"
+00070007_0131.jpg,714.9996,1064.0005119999998,936.0,1188.000256,1,crane,crane_715.00,"wooden, orange, red, yellow, brown, small",orange
+00070007_0131.jpg,1.000799999999998,1079.999696,149.0004,1136.999536,1,crane,crane_1.00,"yellow, wooden, brown, red, small, purple",yellow
+00070007_0131.jpg,161.99910000000003,1040.0000960000002,560.9997000000001,1144.999456,1,truck,truck_162.00,"purple, blue, white, colorful, pink, large",blue
+00070007_0131.jpg,560.0006999999999,1058.9998239999998,697.0005,1114.99992,1,truck,truck_560.00,"pink, purple, red, colorful, wooden, yellow",red
+00070007_0131.jpg,919.9989,1076.999808,1021.9995,1148.0,1,truck,truck_920.00,"white, silver, gray, small, black, open",white
+00070007_0131.jpg,1100.9997000000003,951.0005759999998,1799.9991,1207.0006399999995,1,trees,trees_1101.00,"green, purple, pink, colorful, leafy, large","green, leafy"
+00070007_0131.jpg,0.9999000000000252,591.0002400000001,1138.0005,1086.000784,1,smoke,smoke_1.00,"gray, white, blue, purple, cloudy, pink","gray, cloudy"
+00070007_0131.jpg,0.9999000000000252,870.0003199999999,859.0005,1086.000128,1,building,building_1.00,"brown, brick, pink, large, old, gray","brown, brick"
+00070007_0131.jpg,1.0008000000000266,0.9997439999999642,1800.0,1066.0,1,sky,sky_1.00,"blue, cloudy, white, pink, purple, clear","cloudy, white"

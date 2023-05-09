@@ -1,0 +1,7 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0191.jpg,247.99985000000004,16.00017249999999,415.0,201.0000775,1,debris,debris_248.00,"white, blue, large, red, purple, big","white, blue, large, red, purple, big"
+00070007_0191.jpg,1.0001500000000192,1.0000204999999909,344.00014,252.99989950000003,1,building,building_1.00,"brick, white, red, pink, brown, large","brick, white, red, pink, brown, large"
+00070007_0191.jpg,251.99982750000004,0.9998649999999998,414.9997925,36.999981,1,trees,trees_252.00,"pink, purple, colorful, multi colored, red, large","pink, purple, colorful, multi colored, red, large"
+00070007_0191.jpg,397.99994,115.000025,415.0,225.000103,1,man,man_398.00,"blue, black, green, dark, standing, glass","blue, black, green, dark, standing, glass"
+00070007_0191.jpg,48.99987999999996,110.999943,415.0,281.000007,1,debris,debris_49.00,"white, glass, red, black, metal, green","white, glass, red, black, metal, green"
+00070007_0191.jpg,1.0001500000000192,200.999922,415.0,311.0,1,grass,grass_1.00,"green, gray, black, white, concrete, metal","green, gray, black, white, concrete, metal"

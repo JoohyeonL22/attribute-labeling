@@ -1,0 +1,6 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0657.jpg,150.99968,73.00008,598.0,316.99992,1,truck,truck_151.00,"silver, parked, blue, white, black, metal","silver, parked, blue, white, black, metal"
+00070007_0657.jpg,143.0,0.999840000000006,180.00032,150.99984,1,pole,pole_143.00,"white, metal, blue, silver, black, glass","white, metal, blue, silver, black, glass"
+00070007_0657.jpg,217.99968,1.000079999999997,639.99968,157.99992,1,trees,trees_218.00,"green, blue, brown, tall, gray, large","green, blue, brown, tall, gray, large"
+00070007_0657.jpg,1.0,348.0,431.0,429.0,1,pole,pole_1.00,"black, metal, gray, silver, clear, white","black, metal, gray, silver, clear, white"
+00070007_0657.jpg,1.0,226.00008,639.99968,480.00024,1,grass,grass_1.00,"green, black, metal, silver, tall, clear","green, black, metal, silver, tall, clear"

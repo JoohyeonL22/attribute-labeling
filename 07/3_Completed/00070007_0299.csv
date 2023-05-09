@@ -1,0 +1,13 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0299.jpg,374.0,251.0001,406.0,261.0003,1,bottle,bottle_374.00,"green, small, blue, white, red, colorful",blue
+00070007_0299.jpg,0.9999999999999716,32.99969999999999,488.0,291.9999,1,van,van_1.00,"white, black, old, large, yellow, parked","white, old"
+00070007_0299.jpg,1.0,182.0001,800.0,600.0003,1,road,road_1.00,"gray, black, paved, asphalt, wet, white","gray, asphalt"
+00070007_0299.jpg,1.0,1.0002000000000066,528.0,328.0002,1,trees,trees_1.00,"white, black, red, parked, old, gray","white, old"
+00070007_0299.jpg,661.0,110.0001,729.0,174.0003,1,tree,tree_661.00,"green, black, tall, red, large, white",green
+00070007_0299.jpg,564.0,132.0003,692.0,197.0001,1,vehicle,vehicle_564.00,"green, black, double decker, red, yellow, large",red
+00070007_0299.jpg,454.0,417.9999,574.0,599.9997,1,sign,sign_454.00,"white, black, black and white, metal, square, large","white, square"
+00070007_0299.jpg,540.0,163.0002,567.0,193.0002,1,truck,truck_540.00,"red, glass, small, white, open, orange",red
+00070007_0299.jpg,707.0,143.9997,721.0,186.9999,1,person,person_707.00,"standing, walking, pink, purple, red, black",standing
+00070007_0299.jpg,723.0,145.0002,739.0,187.0002,1,people,people_723.00,"white, purple, black, pink, yellow, standing",standing
+00070007_0299.jpg,752.0,152.0001,762.0,183.0003,1,person,person_752.00,"purple, pink, white, black, small, green","black, small"
+00070007_0299.jpg,776.0,164.0001,789.0,180.9999,1,person,person_776.00,"yellow, black, small, glass, white, walking",

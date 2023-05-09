@@ -1,0 +1,6 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0126.jpg,466.999944,9.0,768.999864,480.0,1,man,man_467.00,"['gray', 'blue', 'standing', 'smiling', 'green', 'brown']"
+00070007_0126.jpg,1.0002479999999991,1.000079999999997,495.000072,370.99992,1,smoke,smoke_1.00,"['blue', 'black', 'dark', 'white', 'cloudy', 'blurry']"
+00070007_0126.jpg,127.99979399999998,243.0,449.000166,480.0,1,fire,fire_128.00,"['black', 'yellow', 'large', 'metal', 'orange', 'dark']"
+00070007_0126.jpg,731.999634,175.00008,851.9995739999999,480.00024,1,grass,grass_732.00,"['green', 'yellow', 'grassy', 'black', 'gray', 'brown']"
+00070007_0126.jpg,1.0002479999999991,211.99992,187.000368,446.99976,1,grass,grass_1.00,"['black', 'green', 'large', 'glass', 'tall', 'white']"

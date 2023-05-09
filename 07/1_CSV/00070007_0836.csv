@@ -1,0 +1,5 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0836.jpg,223.0,259.9998750000001,764.0,580.000125,1,debris,debris_223.00,"['green', 'white', 'blue', 'metal', 'large', 'big']"
+00070007_0836.jpg,0.9999999999999432,80.00025,1000.0,413.00025,1,fence,fence_1.00,"['green', 'metal', 'tall', 'wire', 'black', 'chain link']"
+00070007_0836.jpg,7.0,0.9997499999999776,645.0,417.99975000000006,1,tree,tree_7.00,"['green', 'tall', 'metal', 'black', 'leafy', 'large']"
+00070007_0836.jpg,0.9999999999999432,247.000125,1000.0,750.000375,1,grass,grass_1.00,"['green', 'tall', 'grassy', 'long', 'white', 'short']"

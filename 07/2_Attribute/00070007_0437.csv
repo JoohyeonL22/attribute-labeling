@@ -1,0 +1,4 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0437.jpg,203.0,141.00019200000003,400.0,229.000104,1,suv,suv_203.00,"white, blue, black, green, silver, small","white, blue, black, green, silver, small"
+00070007_0437.jpg,1.0,0.9999990000000024,321.0,308.000025,1,tree,tree_1.00,"green, blue, clear, dark, calm, large","green, blue, clear, dark, calm, large"
+00070007_0437.jpg,30.0,19.0001475,500.0,333.0001665,1,water,water_30.00,"black, dark, green, clear, calm, wet","black, dark, green, clear, calm, wet"

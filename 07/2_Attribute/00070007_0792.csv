@@ -1,0 +1,9 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0792.jpg,136.99999999999994,0.9998999999999968,800.0,209.9997,1,building,building_137.00,"white, tan, yellow, brown, beige, gray","white, tan, yellow, brown, beige, gray"
+00070007_0792.jpg,718.0,79.0002,800.0,189.0,1,car,car_718.00,"green, black, blue, parked, dark, small","green, black, blue, parked, dark, small"
+00070007_0792.jpg,143.0,61.00020000000001,265.0,332.00010000000003,1,man,man_143.00,"yellow, standing, walking, black, wearing, skiing","yellow, standing, walking, black, wearing, skiing"
+00070007_0792.jpg,331.0,67.00005,455.0,301.99995,1,man,man_331.00,"yellow, standing, red, green, skiing, walking","yellow, standing, red, green, skiing, walking"
+00070007_0792.jpg,314.0,135.000225,527.0,294.000075,1,stick,stick_314.00,"yellow, green, blue, red, metal, black","yellow, green, blue, red, metal, black"
+00070007_0792.jpg,467.0,13.999949999999998,563.0,138.00015000000002,1,tree,tree_467.00,"bare, tall, leafless, brown, white, large","bare, tall, leafless, brown, white, large"
+00070007_0792.jpg,1.0,197.0001,800.0,450.0,1,water,water_1.00,"wet, calm, gray, green, brown, clear","wet, calm, gray, green, brown, clear"
+00070007_0792.jpg,1.0,0.9998999999999968,146.0,189.9999,1,building,building_1.00,"pink, brown, purple, tan, beige, gray","pink, brown, purple, tan, beige, gray"

@@ -1,0 +1,9 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0643.jpg,0.999680000000012,0.9995329999999852,1176.00032,822.999687,1,building,building_1.00,"['red', 'pink', 'gray', 'black', 'parked', 'white']"
+00070007_0643.jpg,230.00032,259.999325,1427.0009599999998,871.999775,1,suv,suv_230.00,"['purple', 'black', 'parked', 'green', 'red', 'gray']"
+00070007_0643.jpg,92.00047999999995,199.000129,376.00112,974.000439,1,man,man_92.00,"['standing', 'walking', 'green', 'black', 'gray', 'blue']"
+00070007_0643.jpg,554.99928,1.0001219999999762,1759.99912,355.999846,1,tree,tree_555.00,"['green', 'red', 'large', 'pink', 'tall', 'brown']"
+00070007_0643.jpg,0.999680000000012,905.9998,1760.0,1178.0,1,parking lot,parking lot_1.00,"['white', 'gray', 'paved', 'concrete', 'red', 'painted']"
+00070007_0643.jpg,752.00048,733.999431,1567.99984,897.999413,1,debris,debris_752.00,"['metal', 'pink', 'purple', 'white', 'silver', 'gray']"
+00070007_0643.jpg,1416.00008,519.999828,1760.0008799999998,1017.000384,1,stretcher,stretcher_1416.00,"['red', 'black', 'orange', 'metal', 'white', 'pink']"
+00070007_0643.jpg,1466.9996,365.00035500000007,1738.9987999999998,471.000329,1,crane,crane_1467.00,"['white', 'orange', 'large', 'parked', 'gray', 'black']"

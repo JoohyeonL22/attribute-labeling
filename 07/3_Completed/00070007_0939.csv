@@ -1,0 +1,18 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0939.jpg,627.999165,460.0008419999999,1424.999631,879.0003239999999,1,suv,suv_628.00,"black, colorful, yellow, green, blue, red",black
+00070007_0939.jpg,1228.000278,296.00039,1660.000614,690.000016,1,fire truck,fire truck_1228.00,"red, double decker, white, parked, large, big","red, parked"
+00070007_0939.jpg,1288.000971,470.9993820000001,1373.000637,821.999954,1,man,man_1288.00,"purple, pink, black, tall, colorful, standing","black, standing"
+00070007_0939.jpg,629.00052,523.9999995,730.00026,617.0000125,1,man,man_629.00,"green, gray, blue, white, light blue, black",blue
+00070007_0939.jpg,726.000657,495.9992380000001,913.000587,897.9996160000001,1,firefighter,firefighter_726.00,"standing, green, blue, walking, skiing, wearing","standing, green"
+00070007_0939.jpg,853.0007250000001,90.999825,1662.000831,519.000153,1,trees,trees_853.00,"green, tall, large, leafy, red, big","green, leafy"
+00070007_0939.jpg,0.9996929999999792,0.9994705000000296,608.000319,624.9995175,1,trees,trees_1.00,"green, tall, large, leafy, blue, cloudy","green, leafy"
+00070007_0939.jpg,1.0005239999999844,503.0005195,265.999776,1048.0006225000002,1,van,van_1.00,"white, parked, black, yellow, gray, silver",white
+00070007_0939.jpg,1.0005240000000413,703.0006145,1662.0,1247.0006235,1,road,road_1.00,"gray, wet, black, paved, concrete, asphalt","gray, wet"
+00070007_0939.jpg,433.00086,492.0007325,585.000732,846.0003395,1,firefighter,firefighter_433.00,"standing, walking, sitting, brown, wearing, smiling","standing, brown"
+00070007_0939.jpg,333.999675,574.0003350000001,379.998849,760.000361,1,man,man_334.00,"standing, walking, red, blue, white, tall","standing, red"
+00070007_0939.jpg,614.0001390000001,519.9996235,662.000361,614.9998245,1,man,man_614.00,"green, blue, gray, white, black, light blue",gray
+00070007_0939.jpg,1335.000669,708.000461,1662.0008309999998,868.000537,1,water,water_1335.00,"calm, wet, small, clear, gray, reflective","wet, gray"
+00070007_0939.jpg,438.999849,859.999785,507.000579,890.0001110000001,1,debris,debris_439.00,"gray, black, metal, silver, white, small","gray, metal"
+00070007_0939.jpg,576.999033,813.9998255,618.999435,848.9993744999999,1,debris,debris_577.00,"yellow, small, orange, gold, white, metal",yellow
+00070007_0939.jpg,755.000064,521.999188,775.000572,553.9997020000001,1,man,man_755.00,"black, green, white, dark, red, brown",
+00070007_0939.jpg,577.0006950000001,552.000761,758.000805,680.000323,1,car,car_577.00,"green, blue, gray, white, black, light blue",white

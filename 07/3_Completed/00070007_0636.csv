@@ -1,0 +1,20 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0636.jpg,2621.000118,459.000402,2882.999624,674.99943,1,suv,suv_2621.00,"black, purple, parked, red, blue, pink",black
+00070007_0636.jpg,313.0000335,119.000616,538.9993485,221.001144,1,suv,suv_313.00,"black, parked, blue, dark, small, orange",black
+00070007_0636.jpg,408.9984874999999,1020.000345,1740.9993885,1541.0001390000002,1,car,car_409.00,"blue, parked, green, small, white, silver","blue, parked"
+00070007_0636.jpg,0.998892000000069,68.9991960000001,3083.0,1816.999884,1,field,field_1.00,"gray, concrete, brown, paved, white, black",brown
+00070007_0636.jpg,1185.9992700000005,837.9995190000001,1514.998532,1276.9993530000002,1,people,people_1186.00,"blue, large, white, standing, open, black","white, standing"
+00070007_0636.jpg,1505.000363,958.000953,1716.000883,1315.000827,1,police,police_1505.00,"standing, black, young, walking, sitting, yellow","standing, black"
+00070007_0636.jpg,1939.000439,935.999736,2095.999131,1328.000604,1,police,police_1939.00,"skiing, black, standing, red, green, pink","black, standing"
+00070007_0636.jpg,2493.000124,406.99932,2670.0013200000003,570.99924,1,people,people_2493.00,"red, colorful, pink, standing, walking, yellow","standing, yellow"
+00070007_0636.jpg,314.000467,957.001122,542.0006490000001,1487.0003820000002,1,man,man_314.00,"standing, walking, wearing, green, looking, yellow","standing, wearing"
+00070007_0636.jpg,514.999735,305.000766,620.999441,698.0004779999999,1,man,man_515.00,"standing, walking, gray, black, old, watching","standing, gray"
+00070007_0636.jpg,737.9992910000001,376.0006110000001,915.000487,757.000377,1,man,man_738.00,"standing, walking, gray, watching, old, green","standing, gray"
+00070007_0636.jpg,1961.000727,467.000037,2100.000865,584.000991,1,motorbike,motorbike_1961.00,"green, blue, small, metal, white, silver","small, metal"
+00070007_0636.jpg,500.0009399999999,1386.000672,3083.0,1974.0,1,road,road_500.00,"gray, paved, white, concrete, green, cement","gray, paved"
+00070007_0636.jpg,1521.9984834999998,514.0009769999999,3082.9984585,656.000667,1,road,road_1522.00,"gray, blue, green, paved, white, concrete","gray, paved"
+00070007_0636.jpg,1.0004334999999855,521.9996249999999,1473.0003645000002,663.999315,1,road,road_1.00,"yellow, white, painted, long, gray, black",gray
+00070007_0636.jpg,941.0009675,443.998989,1172.0009085,502.999875,1,car,car_941.00,"green, blue, colorful, small, white, multi colored",small
+00070007_0636.jpg,630.0002595,316.000881,733.9990985000001,707.000931,1,man,man_630.00,"standing, walking, gray, watching, green, young","standing, gray"
+00070007_0636.jpg,2002.0000025,432.999861,2049.9992295,550.000815,1,man,man_2002.00,"green, blue, small, white, metal, black","blue, black"
+00070007_0636.jpg,2141.0001405,399.000672,2271.9998935,580.00068,1,people,people_2141.00,"black, silver, blue, metal, small, white",

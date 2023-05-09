@@ -1,0 +1,20 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0916.jpg,778,1.0001695,1000,87.9999965,1,building,building_778.00,"brown, green, gray, brick, tan, tall","brown, brick"
+00070007_0916.jpg,763,180.999996,1000,410.000246,1,stretcher,stretcher_763.00,"green, white, blue, large, brown, colorful",brown
+00070007_0916.jpg,776,302.0002375,815,379.0000585,1,cone,cone_776.00,"red, orange, pink, plastic, yellow, white","red, plastic"
+00070007_0916.jpg,314,208.9999565,453,373.0001675,1,firefighter,firefighter_314.00,"green, sitting, colorful, purple, standing, black","standing, black"
+00070007_0916.jpg,643,98.9998905,758,404.0000735,1,police,police_643.00,"standing, purple, black, skiing, pink, walking",standing
+00070007_0916.jpg,1,0.999888,28,40.000024,1,sign,sign_1.00,"green, white, blue, street, black, small","white, street"
+00070007_0916.jpg,1,0.999888,433,201.000008,1,tree,tree_1.00,"green, large, tall, leafy, big, blue","green, leafy"
+00070007_0916.jpg,466,0.999888,767,90.000054,1,tree,tree_466.00,"green, tall, large, leafy, blue, big","green, leafy"
+00070007_0916.jpg,1,155.999981,330,517.999973,1,truck,truck_1.00,"red, black, parked, yellow, green, double decker","red, parked"
+00070007_0916.jpg,1,347.0002645,1000,563.0002815,1,road,road_1.00,"gray, paved, concrete, black, asphalt, green","gray, asphalt"
+00070007_0916.jpg,368,212.99979,498,403.999792,1,firefighter,firefighter_368.00,"sitting, green, colorful, purple, yellow, black",yellow
+00070007_0916.jpg,471,243.9999775,603,440.9998705,1,firefighter,firefighter_471.00,"yellow, red, sitting, purple, black, gray","yellow, sitting"
+00070007_0916.jpg,535,247.999811,680,418.999801,1,firefighter,firefighter_535.00,"purple, sitting, yellow, pink, black, gray","sitting, yellow"
+00070007_0916.jpg,495,193.0000595,555,249.9998685,1,firefighter,firefighter_495.00,"yellow, blue, white, small, stuffed, green",yellow
+00070007_0916.jpg,192,133.9999115,329,229.9998565,1,man,man_192.00,"yellow, colorful, green, stuffed, white, large",green
+00070007_0916.jpg,578,135.0003625,688,403.0001855,1,police,police_578.00,"standing, purple, pink, black, sitting, walking","standing, black"
+00070007_0916.jpg,728,102.000399,780,406.000131,1,police,police_728.00,"purple, pink, black, standing, metal, white","black, standing"
+00070007_0916.jpg,1,118.0000145,999,252.0002075,1,fence,fence_1.00,"white, metal, silver, black, green, blue","white, metal"
+00070007_0916.jpg,758,275.000165,998,315.000189,1,sidewalk,sidewalk_758.00,"white, green, wooden, black, brown, metal",brown

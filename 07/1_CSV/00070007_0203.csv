@@ -1,0 +1,6 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0203.jpg,276.0,223.00008,640.0,321.00024,1,fence,fence_276.00,"['green', 'blue', 'metal', 'silver', 'glass', 'tall']"
+00070007_0203.jpg,82.00031999999999,252.00024,640.00032,454.00008,1,tree,tree_82.00,"['green', 'metal', 'gray', 'long', 'brown', 'silver']"
+00070007_0203.jpg,1.0,1.000079999999997,639.99968,430.99992,1,trees,trees_1.00,"['green', 'red', 'tall', 'large', 'brown', 'white']"
+00070007_0203.jpg,205.99968,34.000080000000004,639.99968,148.99992,1,vehicle,vehicle_206.00,"['red', 'green', 'white', 'clear', 'blue', 'large']"
+00070007_0203.jpg,1.0,316.99992,639.99968,479.9997599999999,1,grass,grass_1.00,"['green', 'gray', 'brown', 'long', 'red', 'white']"

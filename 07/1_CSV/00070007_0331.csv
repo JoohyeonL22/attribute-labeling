@@ -1,0 +1,11 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0331.jpg,590.00032,85.00014000000002,600.00032,134.0001,1,pole,pole_590.00,"['green', 'white', 'black', 'blue', 'street', 'red']"
+00070007_0331.jpg,1.0,284.99994000000004,639.99968,359.99982,1,road,road_1.00,"['gray', 'yellow', 'paved', 'concrete', 'white', 'empty']"
+00070007_0331.jpg,568.0,67.00014,620.0,89.00009999999999,1,sign,sign_568.00,"['green', 'white', 'street', 'black', 'traffic', 'metal']"
+00070007_0331.jpg,578.0,46.99998,610.0,67.99986,1,sign,sign_578.00,"['green', 'white', 'digital', 'black', 'red', 'lit']"
+00070007_0331.jpg,130.99968,1.0000800000000112,466.0,145.00008000000005,1,tree,tree_131.00,"['green', 'black', 'white', 'dark', 'large', 'tall']"
+00070007_0331.jpg,1.000320000000002,1.000079999999997,198.0,289.00008,1,truck,truck_1.00,"['white', 'black', 'green', 'red', 'gray', 'blue']"
+00070007_0331.jpg,139.00032,89.99999999999999,612.0,281.00016,1,car,car_139.00,"['white', 'black', 'parked', 'green', 'blue', 'silver']"
+00070007_0331.jpg,295.99968,234.9999,409.99968,293.99994,1,debris,debris_296.00,"['black', 'metal', 'white', 'large', 'silver', 'gray']"
+00070007_0331.jpg,595.0,111.00006000000002,621.0,151.00002,1,man,man_595.00,"['green', 'white', 'blue', 'glass', 'small', 'black']"
+00070007_0331.jpg,609.99968,120.99996000000002,639.99968,282.99996,1,man,man_610.00,"['green', 'standing', 'black', 'walking', 'white', 'tall']"

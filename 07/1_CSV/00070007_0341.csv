@@ -1,0 +1,11 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0341.jpg,535.999872,0.9999989999999884,767.999616,226.000203,1,building,building_536.00,"['yellow', 'white', 'red', 'colorful', 'painted', 'blue']"
+00070007_0341.jpg,471.999744,100.999899,516.0,154.99984500000002,1,firefighter,firefighter_472.00,"['green', 'white', 'sitting', 'standing', 'wearing', 'open']"
+00070007_0341.jpg,512.000256,89.9996955,609.000192,329.9998845,1,firefighter,firefighter_512.00,"['standing', 'sitting', 'red', 'wearing', 'black', 'leaning']"
+00070007_0341.jpg,1.000320000000002,175.999824,160.00012800000002,227.999772,1,sidewalk,sidewalk_1.00,"['gray', 'yellow', 'concrete', 'black', 'paved', 'cement']"
+00070007_0341.jpg,144.0,74.99971049999999,531.999744,314.9998995,1,suv,suv_144.00,"['red', 'white', 'yellow', 'parked', 'black', 'silver']"
+00070007_0341.jpg,0.999935999999991,229.9999845,768.0,428.9997855,1,road,road_1.00,"['gray', 'yellow', 'black', 'paved', 'asphalt', 'concrete']"
+00070007_0341.jpg,18.999936,138.99986099999998,55.999872,190.999809,1,woman,woman_19.00,"['yellow', 'green', 'colorful', 'sitting', 'white', 'blue']"
+00070007_0341.jpg,585.999744,256.9999575,767.9996160000001,331.9998825,1,debris,debris_586.00,"['metal', 'red', 'black', 'gray', 'train', 'blue']"
+00070007_0341.jpg,1.000319999999988,0.9999990000000024,616.000128,180.999819,1,building,building_1.00,"['white', 'pink', 'bare', 'red', 'yellow', 'gray']"
+00070007_0341.jpg,594.0003839999999,202.000227,768.0,280.000149,1,sidewalk,sidewalk_594.00,"['red', 'metal', 'pink', 'yellow', 'gray', 'blue']"

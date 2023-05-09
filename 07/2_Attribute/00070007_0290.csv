@@ -1,0 +1,5 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0290.jpg,1.0,252.9999095,45.0,339.9999005,1,car,car_1.00,"green, red, lit, black, traffic, digital","green, red, lit, black, traffic, digital"
+00070007_0290.jpg,274.0,0.9999079999999764,800.0,429.999882,1,trees,trees_274.00,"green, blue, parked, silver, old, white","green, blue, parked, silver, old, white"
+00070007_0290.jpg,116.0,149.00014999999996,743.0,473.00019,1,truck,truck_116.00,"blue, silver, parked, white, old, gray","blue, silver, parked, white, old, gray"
+00070007_0290.jpg,1.0,339.9999005,305.0,532.9997335,1,road,road_1.00,"gray, black, dirty, wet, concrete, blue","gray, black, dirty, wet, concrete, blue"

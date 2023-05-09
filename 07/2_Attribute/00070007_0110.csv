@@ -1,0 +1,11 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0110.jpg,478.000128,478.000128,576.0,764.000256,1,stick,stick_478.00,"metal, blue, black, long, brown, silver","metal, blue, black, long, brown, silver"
+00070007_0110.jpg,1.000319999999988,0.999935999999991,757.00032,365.999616,1,trees,trees_1.00,"bare, tall, green, brown, white, leafless","bare, tall, green, brown, white, leafless"
+00070007_0110.jpg,0.999935999999991,267.999744,337.99987200000004,408.0,1,truck,truck_1.00,"red, orange, green, colorful, white, double decker","red, orange, green, colorful, white, double decker"
+00070007_0110.jpg,214.0001279999999,405.000192,768.0,768.0,1,wood,wood_214.00,"brown, dead, dry, dried, bare, blue","brown, dead, dry, dried, bare, blue"
+00070007_0110.jpg,576.0,391.999872,768.0,522.0,1,fire,fire_576.00,"brown, purple, colorful, yellow, orange, dead","brown, purple, colorful, yellow, orange, dead"
+00070007_0110.jpg,94.0001279999999,225.999744,768.0,427.999872,1,water,water_94.00,"red, green, blue, metal, white, silver","red, green, blue, metal, white, silver"
+00070007_0110.jpg,15.000192000000013,294.999552,100.000128,507.999744,1,man,man_15.00,"purple, pink, standing, little, colorful, young","purple, pink, standing, little, colorful, young"
+00070007_0110.jpg,219.999744,319.99987200000004,263.000064,450.00000000000006,1,woman,woman_220.00,"yellow, blue, colorful, standing, green, glass","yellow, blue, colorful, standing, green, glass"
+00070007_0110.jpg,346.99968,311.000064,382.99968,429.000192,1,man,man_347.00,"blue, white, metal, red, tall, green","blue, white, metal, red, tall, green"
+00070007_0110.jpg,373.999872,306.00038400000005,401.999616,403.00032,1,man,man_374.00,"yellow, red, white, tall, blue, metal","yellow, red, white, tall, blue, metal"

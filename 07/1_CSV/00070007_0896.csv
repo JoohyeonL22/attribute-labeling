@@ -1,0 +1,5 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0896.jpg,0.999872499999924,15.999858999999958,935.9997975,610.000421,1,building,building_1.00,"['gray', 'large', 'brick', 'tall', 'brown', 'old']"
+00070007_0896.jpg,1080.9998425,523.9996379999999,1764.9991175,1138.999538,1,junk vehicle,junk vehicle_1081.00,"['red', 'white', 'silver', 'double decker', 'parked', 'black']"
+00070007_0896.jpg,925.0003175000002,0.9996610000000032,1765.0008825,610.999495,1,trees,trees_925.00,"['white', 'cloudy', 'clear', 'pink', 'large', 'red']"
+00070007_0896.jpg,0.9998725000000376,270.999703,1764.9991175,1173.999413,1,debris,debris_1.00,"['black', 'old', 'brown', 'white', 'large', 'gray']"

@@ -1,0 +1,5 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0644.jpg,9.0,61.00012799999999,818.0,531.0,1,car,car_9.00,"red, green, black, blue, old, metal","red, old"
+00070007_0644.jpg,0.9999999999999432,0.999935999999991,1000.0,358.000128,1,trees,trees_1.00,"red, green, black, yellow, small, gray",green
+00070007_0644.jpg,707.0,289.999872,952.0,576.0,1,debris,debris_707.00,"red, black, metal, green, orange, blue",metal
+00070007_0644.jpg,0.9999999999999432,309.9997440000001,1000.0,576.0,1,grass,grass_1.00,"green, red, brown, yellow, grassy, metal","green, brown"

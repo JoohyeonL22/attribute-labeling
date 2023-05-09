@@ -1,0 +1,19 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0007.jpg,632.000264,141.999516,1916,690.999824,1,bus,bus_632.00,"yellow, black, long, white, parked, moving","yellow, long"
+00070007_0007.jpg,356.9987,389.999867,638.999412,599.000069,1,car,car_357.00,"parked, green, black, silver, white, gray",white
+00070007_0007.jpg,1509.9996,380.000023,1692.00044,795.999809,1,man,man_1510.00,"standing, walking, young, watching, wearing, looking","standing, watching"
+00070007_0007.jpg,106.000784,504.999696,1916,1082,1,road,road_106.00,"gray, green, paved, concrete, wet, white","gray, paved"
+00070007_0007.jpg,837.999004,401.999788,890.999396,485.000008,1,sign,sign_838.00,"red, white, stop, round, brown, large","red, stop"
+00070007_0007.jpg,1.000152,0.999768,424.999456,664.999364,1,tree,tree_1.00,"bare, green, brown, tall, leafless, black","bare, brown"
+00070007_0007.jpg,311.00033,0.999768,1916.000958,288.000268,1,trees,trees_311.00,"bare, tall, green, white, gray, leafless","bare, green"
+00070007_0007.jpg,1.000152,517.000158,556.000208,1030.000162,1,car,car_1.00,"blue, green, purple, large, black, colorful",blue
+00070007_0007.jpg,285.00021,376.999637,502.000622,529.000079,1,car,car_285.00,"white, parked, silver, orange, black, gray",black
+00070007_0007.jpg,1.00111,250.000428,211.000458,540.000232,1,truck,truck_1.00,"green, black, parked, white, blue, large",white
+00070007_0007.jpg,1351.00034,388.000331,1504.000604,794.000273,1,person,person_1351.00,"standing, black, sitting, blue, young, wearing","standing, black"
+00070007_0007.jpg,1764.999082,356.000181,1882.999774,800.999731,1,man,man_1765.00,"standing, green, black, walking, gray, old","standing, green"
+00070007_0007.jpg,1747.000178,379.999482,1916.000958,789.999578,1,man,man_1747.00,"standing, green, black, gray, walking, old","standing, green"
+00070007_0007.jpg,1462.000926,834.999958,1651.000914,928.99979,1,debris,debris_1462.00,"green, black, blue, laying, piled, empty","black, piled"
+00070007_0007.jpg,1699.000546,767.000586,1916.000958,937.000098,1,debris,debris_1699.00,"black, green, blue, gray, dark, empty","black, dark"
+00070007_0007.jpg,1170.999804,754.999583,1268.999372,804.999885,1,debris,debris_1171.00,"black, yellow, small, metal, large, brown","black, small"
+00070007_0007.jpg,746.999542,704.999822,859.999474,734.999354,1,debris,debris_747.00,"blue, white, black, small, parked, silver","black, small"
+00070007_0007.jpg,617.999094,183.99951,859.999474,314.999414,1,building,building_618.00,"tall, large, bare, white, green, glass",white

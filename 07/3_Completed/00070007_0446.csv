@@ -1,0 +1,8 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0446.jpg,1,0.9999,237,222.9999,1,building,building_1.00,"brick, white, red, gray, pink, green","brick, red"
+00070007_0446.jpg,88,57.00015,303,232.00005,1,car,car_88.00,"white, black, green, silver, gray, large",white
+00070007_0446.jpg,175,0.9999,400,186.9999,1,tree,tree_175.00,"green, black, white, large, tall, dark",tall
+00070007_0446.jpg,315,139.00005,345,235.99995,1,man,man_315.00,"green, black, yellow, open, standing, blue",standing
+00070007_0446.jpg,349,152.0001,362,173.0001,1,person,person_349.00,"pink, small, purple, white, square, black",
+00070007_0446.jpg,195,226.00005,400,298.99995,1,debris,debris_195.00,"green, metal, black, white, wooden, concrete","metal, black"
+00070007_0446.jpg,1,217.99995,400,299.99985,1,grass,grass_1.00,"green, metal, grassy, black, short, tall","green, grassy"

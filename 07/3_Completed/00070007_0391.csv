@@ -1,0 +1,10 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0391.jpg,166.00010000000003,92.99991749999998,579.0001,352.9998885,1,car,car_166.00,"red, parked, purple, black, maroon, pink","red, parked"
+00070007_0391.jpg,109.00015000000002,71.00005500000002,205.00025,252.999915,1,firefighter,firefighter_109.00,"pink, purple, black, colorful, white, small",
+00070007_0391.jpg,294.0003499999999,0.9998939999999976,692.00005,120.000048,1,tree,tree_294.00,"green, tall, leafy, large, black, blue","green, leafy"
+00070007_0391.jpg,28.999949999999984,0.9998939999999976,307.00005,114.99978,1,tree,tree_29.00,"green, tall, black, leafy, large, dark","green, leafy"
+00070007_0391.jpg,601.00005,141.0000165,700.0003499999999,258.9998775,1,woman,woman_601.00,"sitting, blue, old, young, watching, wearing","sitting, blue"
+00070007_0391.jpg,0.9999500000000126,70.99985550000002,699.99965,398.9998005,1,grass,grass_1.00,"green, black, red, tall, purple, parked",green
+00070007_0391.jpg,501.00015,110.0001105,614.00045,278.0002575,1,man,man_501.00,"black, sitting, standing, green, blue, large","black, standing"
+00070007_0391.jpg,503.00005,64.00019850000001,567.99995,122.0000355,1,man,man_503.00,"black, white, blue, green, red, large",green
+00070007_0391.jpg,14.000349999999996,58.00003650000002,83.00005,273.9998835,1,firefighter,firefighter_14.00,"standing, yellow, walking, black, metal, young","standing, yellow"

@@ -1,0 +1,9 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0537.jpg,366.00038,114.0001695,528.00042,190.0002825,1,car,car_366.00,"blue, white, open, small, black, parked",blue
+00070007_0537.jpg,476.99976,34.999776,543.99968,89.99991,1,car,car_477.00,"green, white, small, blue, metal, silver","white, metal"
+00070007_0537.jpg,403.00002000000006,55.99975499999999,734.0003800000001,188.999811,1,road,road_403.00,"yellow, white, gray, painted, black, green",gray
+00070007_0537.jpg,2.9996599999999987,82.99972799999999,89.99946,161.999838,1,sign,sign_3.00,"black, yellow, orange, red, white, traffic",yellow
+00070007_0537.jpg,836.99944,95.99990400000002,915.99984,169.00002,1,sign,sign_837.00,"black, yellow, blue, orange, red, striped",yellow
+00070007_0537.jpg,0.9995799999999236,190.0002825,919.99954,567.0002835,1,water,water_1.00,"calm, wet, brown, clear, blue, murky","wet, brown"
+00070007_0537.jpg,264.99956,178.000011,663.99988,239.000139,1,wave,wave_265.00,"white, blue, yellow, metal, small, long",small
+00070007_0537.jpg,23.00045999999997,369.000198,919.00042,567.0,1,road,road_23.00,"wet, gray, paved, blue, calm, brown","wet, gray"

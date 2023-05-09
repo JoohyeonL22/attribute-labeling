@@ -1,0 +1,11 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0427.jpg,1580.999937,578.00071,1658.999259,744.000306,1,car,car_1581.00,"black, parked, red, yellow, purple, green","parked, red"
+00070007_0427.jpg,85.000497,531.000344,1009.001031,890.000356,1,car,car_85.00,"red, purple, parked, pink, black, maroon",red
+00070007_0427.jpg,1301.999997,335.000806,1462.999599,906.000242,1,man,man_1302.00,"standing, walking, young, wearing, playing, looking","standing, wearing"
+00070007_0427.jpg,983.999565,339.000466,1194.998775,909.999902,1,man,man_984.00,"standing, purple, black, walking, pink, young","standing, black"
+00070007_0427.jpg,1.000524,675.000564,1662,1246,1,grass,grass_1.00,"gray, yellow, green, brown, concrete, paved",green
+00070007_0427.jpg,1.000524,668.999205,1662,1014.999699,1,road,road_1.00,"gray, yellow, concrete, paved, green, black","gray, paved"
+00070007_0427.jpg,115.000428,1.000538,1662,621.00017,1,trees,trees_115.00,"green, tall, dark, large, black, leafy","green, leafy"
+00070007_0427.jpg,216.999861,610.999774,240.000279,667.99929,1,person,person_217.00,"red, pink, white, orange, black, purple",black
+00070007_0427.jpg,874.999788,500.000487,939.000084,555.000173,1,man,man_875.00,"green, red, white, metal, blue, yellow",
+00070007_0427.jpg,40.999047,632.999773,76.999629,666.999375,1,person,person_41.00,"red, orange, white, blue, small, pink",white

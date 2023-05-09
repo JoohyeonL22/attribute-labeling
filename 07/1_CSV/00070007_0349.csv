@@ -1,0 +1,12 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0349.jpg,1.0003200000001016,59.00004000000004,1280.00064,431.00028,1,building,building_1.00,"['white', 'red', 'black', 'parked', 'blue', 'double decker']"
+00070007_0349.jpg,346.99968,259.99956000000003,430.99968,442.9998,1,man,man_347.00,"['standing', 'green', 'gray', 'walking', 'white', 'sitting']"
+00070007_0349.jpg,1019.99936,1.0004399999999831,1186.99968,205.0002,1,sign,sign_1020.00,"['blue', 'white', 'digital', 'lit', 'small', 'square']"
+00070007_0349.jpg,208.99968,1.0000800000000112,692.0,228.00024,1,tree,tree_209.00,"['bare', 'large', 'tall', 'white', 'leafless', 'gray']"
+00070007_0349.jpg,3.000319999999988,1.9997999999999931,212.99968,308.99988,1,tree,tree_3.00,"['green', 'tall', 'bare', 'large', 'brown', 'leafy']"
+00070007_0349.jpg,1.000319999999988,272.00016,1154.0,614.00016,1,debris,debris_1.00,"['white', 'silver', 'black', 'red', 'moving', 'yellow']"
+00070007_0349.jpg,1.0003200000001016,504.99972,1280.00064,719.99964,1,road,road_1.00,"['white', 'gray', 'black', 'red', 'empty', 'yellow']"
+00070007_0349.jpg,544.00064,1.00007999999999,809.0003199999999,122.99976,1,building,building_544.00,"['glass', 'black', 'white', 'gray', 'small', 'clear']"
+00070007_0349.jpg,239.00032,275.99976000000004,327.00032,385.99992,1,man,man_239.00,"['yellow', 'sitting', 'standing', 'walking', 'green', 'watching']"
+00070007_0349.jpg,126.00063999999998,257.99976,219.00032,358.99992000000003,1,man,man_126.00,"['orange', 'red', 'driving', 'white', 'sitting', 'large']"
+00070007_0349.jpg,1.0003200000001016,228.00024,648.00064,529.99992,1,van,van_1.00,"['white', 'red', 'silver', 'moving', 'yellow', 'black']"

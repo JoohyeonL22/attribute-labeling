@@ -1,0 +1,13 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0197.jpg,252,108,842.00064,438.99984,1,bus,bus_252.00,"double decker, yellow, green, moving, parked, large","yellow, parked"
+00070007_0197.jpg,725.00032,330.00012,1124.00064,506.99988,1,car,car_725.00,"blue, green, parked, black, silver, red",black
+00070007_0197.jpg,1076.00064,276.99984,1154,470.99952,1,man,man_1076.00,"standing, blue, sitting, red, walking, white","standing, blue"
+00070007_0197.jpg,1.00032,256.00032,1280.00064,720,1,road,road_1.00,"gray, empty, paved, white, black, yellow","gray, paved"
+00070007_0197.jpg,300.99968,232.99992,320,273.9996,1,sign,sign_301.00,"pink, purple, red, small, green, colorful",red
+00070007_0197.jpg,22,3.00024,328.00064,255.00024,1,tree,tree_22.00,"green, tall, large, leafy, big, brown","green, leafy"
+00070007_0197.jpg,907.00032,1.00008,958.00064,284.0004,1,tree,tree_907.00,"red, black, tall, metal, blue, gray",gray
+00070007_0197.jpg,23.00032,211.99968,173.00096,328.99968,1,truck,truck_23.00,"yellow, green, parked, red, white, double decker",yellow
+00070007_0197.jpg,876.99968,272.99952,1280,465.99984,1,grass,grass_877.00,"green, blue, large, white, tall, black",green
+00070007_0197.jpg,1121.99936,450.99972,1280,498.99996,1,sidewalk,sidewalk_1122.00,"white, green, metal, blue, gray, silver",gray
+00070007_0197.jpg,1.00032,1.00008,1280.00064,266.0004,1,trees,trees_1.00,"green, tall, red, large, leafy, white","green, leafy"
+00070007_0197.jpg,1.00032,555.00012,661.00032,720.00036,1,grass,grass_1.00,"green, tall, grassy, short, long, small","green, grassy"

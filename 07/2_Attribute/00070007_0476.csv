@@ -1,0 +1,8 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0476.jpg,80.0,89.00016300000001,776.0,464.000157,1,car,car_80.00,"green, red, black, metal, old, silver","green, red, black, metal, old, silver"
+00070007_0476.jpg,95.0,0.999935999999991,160.0,453.000024,1,pole,pole_95.00,"pink, wooden, purple, brown, metal, wood","pink, wooden, purple, brown, metal, wood"
+00070007_0476.jpg,145.0,0.9999360000000052,192.0,71.999856,1,tree,tree_145.00,"green, colorful, blue, pink, purple, multi colored","green, colorful, blue, pink, purple, multi colored"
+00070007_0476.jpg,185.0,1.0002150000000043,283.0,99.000081,1,tree,tree_185.00,"green, glass, tall, clear, white, small","green, glass, tall, clear, white, small"
+00070007_0476.jpg,353.0,1.0002149999999972,437.0,131.00026499999998,1,tree,tree_353.00,"green, blue, glass, white, tall, clear","green, blue, glass, white, tall, clear"
+00070007_0476.jpg,521.0,1.0002150000000007,621.0,62.000217000000006,1,tree,tree_521.00,"green, white, small, large, glass, tall","green, white, small, large, glass, tall"
+00070007_0476.jpg,605.0,0.9999359999999946,645.0,50.000148,1,tree,tree_605.00,"white, glass, square, small, large, black","white, glass, square, small, large, black"

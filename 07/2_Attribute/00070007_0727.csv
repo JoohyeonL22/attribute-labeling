@@ -1,0 +1,4 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0727.jpg,1997.9989155000003,1298.0002860000002,2657.9993445,1637.000244,1,table,table_1998.00,"green, wooden, metal, wood, small, white","green, wooden, metal, wood, small, white"
+00070007_0727.jpg,8.000104499999907,228.00021750000008,2979.0014895,1475.0005545,1,log,log_8.00,"green, brown, large, bare, thick, old","green, brown, large, bare, thick, old"
+00070007_0727.jpg,17.99911800000018,1.0005435000000489,2979.0,1318.9999185,1,trees,trees_18.00,"green, brown, large, thick, bare, tall","green, brown, large, thick, bare, tall"

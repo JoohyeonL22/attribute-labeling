@@ -1,0 +1,12 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0859.jpg,370.9994625,464.000182,555.9992775,849.999698,1,man,man_371.00,"standing, young, sitting, skateboarding, playing, wearing","standing, young"
+00070007_0859.jpg,1076.000423,271.000424,1184.000648,358.000808,1,sign,sign_1076.00,"white, black, small, square, black and white, blue","white, square"
+00070007_0859.jpg,872.00046,624.999284,1018.00098,740.999796,1,sign,sign_872.00,"red, white, orange, black, painted, pink",white
+00070007_0859.jpg,1038.99996,1.000176,1661.99967,372.000784,1,tree,tree_1039.00,"green, tall, leafy, large, small, big",leafy
+00070007_0859.jpg,618.0005475,1.000798,1062.001103,175.000322,1,tree,tree_618.00,"green, leafy, tall, large, white, small","green, leafy"
+00070007_0859.jpg,73.00026,43.000726,462.00087,345.000386,1,tree,tree_73.00,"green, blue, small, glass, clear, white",green
+00070007_0859.jpg,0.9998325,1.000176,1664.999168,1244,1,water,water_1.00,"green, brown, clear, large, wet, reflective","brown, wet"
+00070007_0859.jpg,1.000665,560.000284,584.000415,1029.000724,1,fence,fence_1.00,"metal, silver, brown, green, gray, black","metal, gray"
+00070007_0859.jpg,666,609.0002,1245.00042,738.000512,1,gate,gate_666.00,"metal, brown, black, silver, white, wooden",metal
+00070007_0859.jpg,618.0005475,362.9992,1289.000543,746.999608,1,bridge,bridge_618.00,"brown, metal, wooden, large, silver, green",brown
+00070007_0859.jpg,1425.99924,293.000564,1665,603.000388,1,tree,tree_1426.00,"green, blue, glass, tall, clear, small",green

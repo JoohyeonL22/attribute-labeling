@@ -1,0 +1,10 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0729.jpg,1.0,2.0000624999999985,126.0,222.00018750000004,1,tree,tree_1.00,"green, tall, large, brown, blue, white","green, brown"
+00070007_0729.jpg,93.0,2.0000625000000127,499.0,258.9999375,1,tree,tree_93.00,"green, tall, blue, large, clear, leafy","green, large"
+00070007_0729.jpg,308.0,0.9999375000000016,500.0,224.9998125,1,tree,tree_308.00,"green, tall, large, blue, leafy, big","green, leafy"
+00070007_0729.jpg,1.0,266.0000625,500.0,375.0001875,1,road,road_1.00,"gray, black, paved, concrete, asphalt, wet","gray, paved"
+00070007_0729.jpg,234.0,254.0000625,301.0,267.9999375,1,sidewalk,sidewalk_234.00,"yellow, white, blue, green, painted, red",white
+00070007_0729.jpg,1.0,208.999875,235.0,283.999875,1,branch,branch_1.00,"white, metal, colorful, yellow, red, gray",
+00070007_0729.jpg,311.0,209.0000625,500.0,282.0001875,1,branch,branch_311.00,"colorful, white, yellow, multi colored, metal, pink",
+00070007_0729.jpg,1.0,94.999875,500.0,136.999875,1,wire,wire_1.00,"metal, green, blue, long, black, white",white
+00070007_0729.jpg,1.0,121.999875,140.0,217.999875,1,building,building_1.00,"pink, white, purple, red, blue, green",white

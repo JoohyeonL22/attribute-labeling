@@ -1,0 +1,12 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0928.jpg,136.00007999999997,390.99996,291.9996,493.00002,1,bush,bush_136.00,"green, metal, silver, blue, small, white","green, metal, silver, blue, small, white"
+00070007_0928.jpg,295.99992,336.99969,754.99992,575.99991,1,car,car_296.00,"black, green, parked, purple, blue, dark","black, green, parked, purple, blue, dark"
+00070007_0928.jpg,693.00036,348.00030000000004,859.0006800000001,690.00012,1,firefighter,firefighter_693.00,"standing, purple, walking, pink, young, skiing","standing, purple, walking, pink, young, skiing"
+00070007_0928.jpg,872.99964,375.99957,1008.99972,674.99973,1,firefighter,firefighter_873.00,"standing, walking, green, sitting, young, watching","standing, walking, green, sitting, young, watching"
+00070007_0928.jpg,587.9995199999998,0.999539999999996,1080.0,394.99974,1,trees,trees_588.00,"green, tall, large, white, blue, brown","green, tall, large, white, blue, brown"
+00070007_0928.jpg,1.0000800000000254,597.0003750000001,1080.0,810.000405,1,road,road_1.00,"gray, brown, black, dirty, paved, dirt","gray, brown, black, dirty, paved, dirt"
+00070007_0928.jpg,205.00073999999995,0.9999450000000252,914.00022,456.999975,1,building,building_205.00,"yellow, white, green, tan, large, beige","yellow, white, green, tan, large, beige"
+00070007_0928.jpg,0.9995400000000104,113.99980500000004,208.99998,386.999775,1,trees,trees_1.00,"red, green, large, tall, leafy, big","red, green, large, tall, leafy, big"
+00070007_0928.jpg,234.99990000000005,277.000155,327.99978,373.0005450000001,1,firefighter,firefighter_235.00,"purple, pink, sitting, colorful, white, little","purple, pink, sitting, colorful, white, little"
+00070007_0928.jpg,775.9994399999999,352.00008,832.99968,454.00014,1,man,man_776.00,"blue, black, brown, green, long, dark","blue, black, brown, green, long, dark"
+00070007_0928.jpg,31.00032,413.99950500000006,246.00024,696.9997350000001,1,sidewalk,sidewalk_31.00,"brown, rusty, metal, gray, train, yellow","brown, rusty, metal, gray, train, yellow"

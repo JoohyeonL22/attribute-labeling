@@ -1,0 +1,20 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0216.jpg,56.000464,155.9995065,1506.000252,792.9995715,1,bus,bus_56.00,"yellow, white, gray, colorful, black, double decker",white
+00070007_0216.jpg,168.0005005,272.000241,321.9999935,554.000175,1,ladder,ladder_168.00,"purple, pink, white, gray, silver, large","white, large"
+00070007_0216.jpg,1057.999215,420.999498,1316.999578,1014.999606,1,man,man_1058.00,"standing, skiing, colorful, pink, purple, yellow","standing, yellow"
+00070007_0216.jpg,394.000208,474.99993,537.000374,1035.999774,1,man,man_394.00,"standing, walking, yellow, green, wearing, looking","standing, wearing"
+00070007_0216.jpg,418.0002795,327.000294,672.0011105,842.999778,1,man,man_418.00,"green, yellow, black, standing, orange, sitting","green, yellow"
+00070007_0216.jpg,707.998989,438.000021,953.999499,1060.999587,1,man,man_708.00,"standing, walking, blue, wearing, yellow, orange","standing, blue"
+00070007_0216.jpg,946.0000695,430.0001505,1151.000495,1006.999736,1,man,man_946.00,"standing, walking, smiling, young, wearing, gray",standing
+00070007_0216.jpg,0.9993715,784.999701,1782.999108,1001.999889,1,road,road_1.00,"gray, yellow, paved, black, concrete, green","gray, paved"
+00070007_0216.jpg,1.0011545,513.9996615,636.0005575,899.0000325,1,truck,truck_1.00,"green, black, yellow, parked, large, metal","black, metal"
+00070007_0216.jpg,1146.999443,411.0003855,1215.99976,546.0003045,1,man,man_1147.00,"white, blue, gray, red, silver, black",white
+00070007_0216.jpg,975.9990445,353.0003085,1107.999884,551.0007315,1,firefighter,firefighter_976.00,"pink, purple, colorful, blue, white, red",
+00070007_0216.jpg,699.000188,371.999493,907.999882,864.999567,1,man,man_699.00,"standing, walking, yellow, orange, blue, green","standing, yellow"
+00070007_0216.jpg,580.000985,355.0007115,801.000269,555.0003765,1,man,man_580.00,"sitting, green, blue, standing, black, wearing","standing, black"
+00070007_0216.jpg,235.0002915,398.999709,334.9998465,555.999417,1,man,man_235.00,"yellow, green, sitting, white, blue, red",yellow
+00070007_0216.jpg,398.0003685,391.000419,451.0000435,548.000127,1,man,man_398.00,"green, blue, metal, white, black, glass",black
+00070007_0216.jpg,0.9993715,452.00052,69.9996885,547.000506,1,person,person_1.00,"colorful, red, yellow, green, multi colored, blue",yellow
+00070007_0216.jpg,403.000792,1.0002015,1783,663.9997005,1,trees,trees_403.00,"gray, blue, black, green, white, cloudy",gray
+00070007_0216.jpg,1496.999668,676.9994175,1783,746.9995905,1,road,road_1497.00,"red, white, gray, metal, pink, silver","gray, metal"
+00070007_0216.jpg,317.0004615,0.999621,417.0000165,1136.000187,1,pole,pole_317.00,"wooden, gray, metal, wood, brown, tall","wooden, gray"

@@ -1,0 +1,7 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0743.jpg,0.9997499999999988,1.000152000000007,68.00004999999999,106.000104,1,building,building_1.00,"['white', 'red', 'blue', 'square', 'pink', 'gray']"
+00070007_0743.jpg,179.0002,177.00010799999998,234.0004,301.000164,1,firefighter,firefighter_179.00,"['standing', 'yellow', 'walking', 'blonde', 'smiling', 'wearing']"
+00070007_0743.jpg,425.00008,190.00017,467.00012,297.00007800000003,1,firefighter,firefighter_425.00,"['standing', 'green', 'walking', 'young', 'yellow', 'blonde']"
+00070007_0743.jpg,0.9997499999999492,1.0001519999999855,619.99969,276.000192,1,smoke,smoke_1.00,"['white', 'blue', 'black', 'large', 'glass', 'clear']"
+00070007_0743.jpg,103.99972999999996,39.000011999999984,419.0000299999999,287.000124,1,fire,fire_104.00,"['red', 'large', 'black', 'glass', 'blue', 'white']"
+00070007_0743.jpg,274.00001000000003,130.00009799999998,620.0003100000001,286.99995,1,building,building_274.00,"['large', 'white', 'black', 'glass', 'tall', 'brick']"

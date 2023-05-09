@@ -1,0 +1,18 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0023.jpg,260.0000955,189.000088,526.0003605,343.00004,1,bus,bus_260.00,"white, double decker, yellow, large, parked, purple","white, large"
+00070007_0023.jpg,162.000012,229.000128,333.000144,338.000136,1,ladder,ladder_162.00,"purple, pink, colorful, metal, blue, wooden",metal
+00070007_0023.jpg,113.0001045,258.000056,138.0001395,327.000024,1,man,man_113.00,"purple, pink, wooden, colorful, green, yellow","green, yellow"
+00070007_0023.jpg,283.999968,197.999996,314.00001,262.00006,1,man,man_284.00,"standing, orange, wooden, sitting, open, white",standing
+00070007_0023.jpg,91.00002,260.999958,119.000274,329.000026,1,man,man_91.00,"purple, pink, colorful, yellow, small, white",yellow
+00070007_0023.jpg,368.9998185,167.000066,536.9997315,203.000102,1,mountain,mountain_369.00,"blue, large, white, black, glass, small",large
+00070007_0023.jpg,0.999894,250.000048,537,404,1,road,road_1.00,"gray, yellow, black, empty, concrete, paved","gray, black"
+00070007_0023.jpg,78.0000555,236.000034,134.9999205,296.000094,1,truck,truck_78.00,"purple, pink, wooden, colorful, yellow, brown",brown
+00070007_0023.jpg,409.000143,230.999928,521.000085,274.000072,1,vent,vent_409.00,"yellow, metal, large, silver, gray, closed","metal, gray"
+00070007_0023.jpg,138.0001395,258.999956,153.0001605,323.00002,1,man,man_138.00,"green, wooden, blue, colorful, metal, small",
+00070007_0023.jpg,152.999892,261.00016,174.999708,330.000128,1,man,man_153.00,"colorful, purple, pink, multi colored, blue, rainbow colored",
+00070007_0023.jpg,159.9999555,174.000174,408.9998745,311.00021,1,truck,truck_160.00,"purple, pink, white, large, colorful, yellow",white
+00070007_0023.jpg,207.999969,316.999812,359.000073,356.999852,1,debris,debris_208.00,"green, pink, purple, colorful, metal, white",metal
+00070007_0023.jpg,241.00023,262.99996,261.000258,331.999928,1,man,man_241.00,"blue, green, metal, yellow, tall, white",yellow
+00070007_0023.jpg,213.99987,257.000156,233.000004,298.999996,1,man,man_214.00,"yellow, glass, large, open, blue, clear",yellow
+00070007_0023.jpg,202.000068,264.000062,213.99987,303.000202,1,man,man_202.00,"pink, purple, colorful, red, yellow, small",yellow
+00070007_0023.jpg,55.000077,297.999894,96.999921,329.000026,1,stretcher,stretcher_55.00,"purple, pink, small, yellow, open, colorful",

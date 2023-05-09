@@ -1,0 +1,12 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0583.jpg,655.9997400000001,241.000353,759.000132,479.000115,1,man,man_656.00,"standing, walking, purple, pink, young, black","standing, walking, purple, pink, young, black"
+00070007_0583.jpg,0.999900000000082,331.000263,791.9996040000001,594.000297,1,road,road_1.00,"gray, paved, black, asphalt, concrete, white","gray, paved, black, asphalt, concrete, white"
+00070007_0583.jpg,0.9998999999999968,372.9999240000001,95.000004,440.999856,1,sidewalk,sidewalk_1.00,"green, metal, gray, silver, concrete, empty","green, metal, gray, silver, concrete, empty"
+00070007_0583.jpg,0.9999000000000252,1.0002959999999916,545.000148,289.000008,1,smoke,smoke_1.00,"black, blue, dark, white, gray, green","black, blue, dark, white, gray, green"
+00070007_0583.jpg,221.000076,264.00033,350.999748,340.000254,1,suv,suv_221.00,"parked, blue, black, white, orange, silver","parked, blue, black, white, orange, silver"
+00070007_0583.jpg,569.9996279999999,234.00036,791.999604,382.000212,1,suv,suv_570.00,"purple, pink, white, parked, gray, silver","purple, pink, white, parked, gray, silver"
+00070007_0583.jpg,483.999912,181.999818,659.999736,295.000002,1,trees,trees_484.00,"green, purple, tall, large, white, pink","green, purple, tall, large, white, pink"
+00070007_0583.jpg,750.0002400000001,173.000124,792.0,238.000356,1,tree,tree_750.00,"green, black, white, purple, blue, colorful","green, black, white, purple, blue, colorful"
+00070007_0583.jpg,0.9999000000000108,241.000353,241.999956,379.000215,1,suv,suv_1.00,"white, yellow, parked, blue, black, large","white, yellow, parked, blue, black, large"
+00070007_0583.jpg,416.99988,268.00002900000004,563.999832,339.00025500000004,1,car,car_417.00,"colorful, large, yellow, multi colored, big, red","colorful, large, yellow, multi colored, big, red"
+00070007_0583.jpg,347.000148,238.000059,569.000124,345.000249,1,fire,fire_347.00,"colorful, yellow, multi colored, large, red, double decker","colorful, yellow, multi colored, large, red, double decker"

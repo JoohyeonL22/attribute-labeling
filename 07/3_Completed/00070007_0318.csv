@@ -1,0 +1,13 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0318.jpg,252.000256,663.999765,472.000512,760.999767,1,ambulance,ambulance_252.00,"white, double decker, red, blue, large, parked","white, red"
+00070007_0318.jpg,1555.00032,657.000311,1893.000192,780.0001770000001,1,car,car_1555.00,"green, yellow, parked, tan, gold, gray","parked, gray"
+00070007_0318.jpg,1939.001344,662.000394,2047.000576,721.0005219999999,1,car,car_1939.00,"yellow, black, purple, parked, large, white",black
+00070007_0318.jpg,764.000256,666.000082,1020.000256,771.0004060000001,1,suv,suv_764.00,"black, blue, parked, green, white, large",
+00070007_0318.jpg,1217.000448,642.000062,1413.0001920000002,760.000318,1,fire,fire_1217.00,"red, yellow, orange, bright, lit, large","red, bright"
+00070007_0318.jpg,0.9994239999999764,0.9999220000000264,1415.0000639999998,725.0002099999999,1,smoke,smoke_1.00,"blue, white, cloudy, gray, dark, black","white, cloudy"
+00070007_0318.jpg,1898.000384,653.00015,1927.000064,725.00021,1,firefighter,firefighter_1898.00,"green, yellow, red, metal, blue, orange",green
+00070007_0318.jpg,1877.000192,648.0000670000001,1905.000448,722.999893,1,person,person_1877.00,"green, white, red, blue, yellow, pink",
+00070007_0318.jpg,0.99942400000009,716.000439,2048.0,946.000473,1,road,road_1.00,"wet, gray, concrete, paved, empty, asphalt","wet, gray"
+00070007_0318.jpg,214.00064,714.9995710000001,240.0,759.999845,1,person,person_214.00,"pink, purple, small, red, colorful, plastic",
+00070007_0318.jpg,188.000256,705.9998,202.999808,755.9996840000001,1,person,person_188.00,"pink, purple, white, colorful, small, red","white, small"
+00070007_0318.jpg,4.9991679999999405,641.999589,1575.0000639999998,784.999787,1,field,field_5.00,"green, long, blue, moving, yellow, double decker",green

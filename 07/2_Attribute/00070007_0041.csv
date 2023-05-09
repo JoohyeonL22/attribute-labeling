@@ -1,0 +1,10 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0041.jpg,1.0000799999999683,9.000129999999999,480.00024,170.00014199999998,1,bridge,bridge_1.00,"blue, white, green, clear, large, gray","blue, white, green, clear, large, gray"
+00070007_0041.jpg,288.99984,30.999829500000004,336.99984,132.9999865,1,man,man_289.00,"standing, white, walking, black, tall, wearing","standing, white, walking, black, tall, wearing"
+00070007_0041.jpg,384.99984,185.0000595,426.99984,295.0001725,1,man,man_385.00,"green, standing, walking, black, sitting, old","green, standing, walking, black, sitting, old"
+00070007_0041.jpg,409.00008,154.00023,472.99992,211.000096,1,tree,tree_409.00,"green, white, open, blue, black, small","green, white, open, blue, black, small"
+00070007_0041.jpg,1.0000799999999683,231.9999805,480.00024,348.99987550000003,1,road,road_1.00,"gray, yellow, concrete, white, black, empty","gray, yellow, concrete, white, black, empty"
+00070007_0041.jpg,31.999920000000003,111.0001075,385.00008,323.0000185,1,bus,bus_32.00,"white, black, blue, parked, silver, large","white, black, blue, parked, silver, large"
+00070007_0041.jpg,285.99984,304.000123,384.99984,331.999969,1,debris,debris_286.00,"green, metal, silver, white, empty, glass","green, metal, silver, white, empty, glass"
+00070007_0041.jpg,19.99992,212.0000905,28.00008,239.0001215,1,person,person_20.00,"orange, red, yellow, white, green, traffic","orange, red, yellow, white, green, traffic"
+00070007_0041.jpg,1.0000799999999996,216.0000685,10.99992,233.9999695,1,car,car_1.00,"green, small, blue, wooden, white, plastic","green, small, blue, wooden, white, plastic"

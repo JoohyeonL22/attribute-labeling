@@ -1,0 +1,9 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0843.jpg,0.9998999999999684,21.999964499999976,599.9997000000001,350.0000055,1,airplane,airplane_1.00,"yellow, green, black, white, purple, blue","yellow, green, black, white, purple, blue"
+00070007_0843.jpg,0.9998999999999824,55.99999349999999,218.9997,255.9998385,1,building,building_1.00,"gray, yellow, black, purple, green, blue","gray, yellow, black, purple, green, blue"
+00070007_0843.jpg,516.9999,169.9999605,599.9997000000001,223.9997895,1,building,building_517.00,"yellow, black, white, gray, blue, painted","yellow, black, white, gray, blue, painted"
+00070007_0843.jpg,83.0001,122.999877,174.0003,264.999933,1,man,man_83.00,"standing, green, black, walking, white, wearing","standing, green, black, walking, white, wearing"
+00070007_0843.jpg,213.0003,157.00009050000003,359.0001,256.00020750000004,1,building,building_213.00,"yellow, wooden, white, brown, metal, black","yellow, wooden, white, brown, metal, black"
+00070007_0843.jpg,0.9998999999999684,6.000124499999998,599.9997000000001,255.0002175,1,mountain,mountain_1.00,"purple, yellow, green, colorful, white, black","purple, yellow, green, colorful, white, black"
+00070007_0843.jpg,133.9998,131.999787,172.9998,267.999903,1,man,man_134.00,"standing, green, walking, black, blue, wearing","standing, green, walking, black, blue, wearing"
+00070007_0843.jpg,0.9998999999999684,252.9998685,599.9997000000001,368.9998155,1,field,field_1.00,"green, yellow, brown, grassy, long, grass","green, yellow, brown, grassy, long, grass"

@@ -1,0 +1,17 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0242.jpg,0.99968,0.9999,176,165.99978,1,building,building_1.00,"tall, brown, brick, large, tan, green","brown, brick"
+00070007_0242.jpg,1.00032,164.99988,118,262.9998,1,car,car_1.00,"green, parked, black, yellow, gray, white",black
+00070007_0242.jpg,1,160.0002,90.00032,195.00012,1,car,car_1.00,"green, white, parked, driving, large, small",parked
+00070007_0242.jpg,517,153.00018,630.00032,247.00014,1,car,car_517.00,"purple, pink, white, silver, colorful, black",white
+00070007_0242.jpg,230,117.00018,290,319.00014,1,man,man_230.00,"standing, walking, black, looking, wearing, smiling","standing, black"
+00070007_0242.jpg,291.99968,104.99994,357.99968,325.99998,1,man,man_292.00,"standing, walking, gray, black, older, looking","standing, gray"
+00070007_0242.jpg,434,115.99992,490,321.99984,1,woman,woman_434.00,"standing, black, walking, yellow, blue, sitting","standing, black"
+00070007_0242.jpg,470,120.00006,534,314.0001,1,man,man_470.00,"yellow, black, metal, glass, blue, gray",black
+00070007_0242.jpg,558,1.00008,570,154.00008,1,pole,pole_558.00,"yellow, tall, metal, gold, long, black","metal, long"
+00070007_0242.jpg,420,0.9999,640,149.99994,1,trees,trees_420.00,"green, tall, large, brown, yellow, leafy","green, leafy"
+00070007_0242.jpg,164.00032,1.00008,423,309.00024,1,fire truck,fire truck_164.00,"red, double decker, glass, white, silver, open",red
+00070007_0242.jpg,1,163.00008,639.99968,360,1,road,road_1.00,"yellow, gray, black, empty, white, wet",gray
+00070007_0242.jpg,587.00032,153,640,267.99984,1,car,car_587.00,"purple, pink, black, colorful, metal, large",metal
+00070007_0242.jpg,274.00032,163.99998,308.00032,238.99986,1,stretcher,stretcher_274.00,"red, blue, metal, black, orange, silver",blue
+00070007_0242.jpg,501.99968,112.00014,551,189.00018,1,truck,truck_502.00,"pink, red, yellow, purple, colorful, white",white
+00070007_0242.jpg,425.99968,81.9999,503,257.99994,1,fire truck,fire truck_426.00,"glass, standing, white, yellow, open, blue",open

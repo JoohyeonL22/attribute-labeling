@@ -1,0 +1,7 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0307.jpg,1.0001999999999498,10.0,628.9998,600.0,1,car,car_1.00,"black, green, parked, purple, gray, silver","black, green, parked, purple, gray, silver"
+00070007_0307.jpg,490.0002,0.9999999999999716,663.0006,484.0,1,man,man_490.00,"yellow, green, sitting, standing, black, wearing","yellow, green, sitting, standing, black, wearing"
+00070007_0307.jpg,167.9999999999999,1.0,1200.0,400.0,1,truck,truck_168.00,"white, gray, parked, black, red, yellow","white, gray, parked, black, red, yellow"
+00070007_0307.jpg,415.0002,43.0,465.0006,106.0,1,man,man_415.00,"sitting, blue, white, gray, standing, black","sitting, blue, white, gray, standing, black"
+00070007_0307.jpg,1.0001999999999498,370.0,1200.0006,800.0,1,road,road_1.00,"gray, black, paved, asphalt, wet, concrete","gray, black, paved, asphalt, wet, concrete"
+00070007_0307.jpg,1.0001999999999498,1.0,1200.0006,162.0,1,building,building_1.00,"brown, pink, red, brick, white, tan","brown, pink, red, brick, white, tan"

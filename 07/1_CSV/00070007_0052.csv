@@ -1,0 +1,9 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0052.jpg,1.000304,1.0000595000000203,347.00025800000003,349.0001745,1,building,building_1.00,"['black', 'gray', 'glass', 'tall', 'blue', 'large']"
+00070007_0052.jpg,243.000211,0.9998849999999776,618.000315,346.999881,1,bus,bus_243.00,"['yellow', 'black', 'blue', 'white', 'parked', 'dark']"
+00070007_0052.jpg,71.00022849999999,1.0000595000000203,120.9999535,349.0001745,1,pole,pole_71.00,"['gray', 'tall', 'black', 'white', 'metal', 'long']"
+00070007_0052.jpg,1.000304,237.0001415,62.000278,349.0001745,1,woman,woman_1.00,"['sitting', 'blue', 'young', 'standing', 'blonde', 'little']"
+00070007_0052.jpg,54.0000125,327.999972,107.9997155,349.00000000000006,1,person,person_54.00,"['white', 'green', 'blue', 'black', 'glass', 'small']"
+00070007_0052.jpg,230.0002825,129.9998825,305.0001795,348.9998255,1,man,man_230.00,"['yellow', 'sitting', 'standing', 'blue', 'looking', 'white']"
+00070007_0052.jpg,230.9999675,79.999874,315.0001245,179.000006,1,man,man_231.00,"['yellow', 'blue', 'white', 'colorful', 'sitting', 'metal']"
+00070007_0052.jpg,273.000046,1.0000595000000203,619.0,349.0001745,1,bus,bus_273.00,"['yellow', 'black', 'blue', 'dark', 'parked', 'white']"

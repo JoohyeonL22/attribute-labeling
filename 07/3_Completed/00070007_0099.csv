@@ -1,0 +1,6 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0099.jpg,155.99997,174.00012,590.99985,378,1,bus,bus_156.00,"white, silver, long, moving, green, empty","white, long"
+00070007_0099.jpg,417.00015,3.00027,517.00005,38.00013,1,bush,bush_417.00,"green, small, white, framed, glass, square","green, small"
+00070007_0099.jpg,1.000125,1.00002,630.000315,53.00022,1,mountain,mountain_1.00,"purple, pink, green, black, white, dark",green
+00070007_0099.jpg,1.000125,84.99981,630.000315,419.99979,1,water,water_1.00,"gray, yellow, green, white, concrete, empty",gray
+00070007_0099.jpg,194.999805,0.99981,241.999695,45.99987,1,tree,tree_195.00,"black, small, framed, square, glass, white",small

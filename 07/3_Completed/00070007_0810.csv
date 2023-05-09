@@ -1,0 +1,9 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0810.jpg,1064.9999035,0.9996799999999552,1918.9990405,916.0,1,building,building_1065.00,"brick, red, brown, large, tall, old","brick, red"
+00070007_0810.jpg,590.0013475,668.00064,680.0005284999999,725.0003199999999,1,truck,truck_590.00,"red, double decker, large, black, driving, blue",blue
+00070007_0810.jpg,1640.9992675,706.00064,1802.9993285,938.00064,1,man,man_1641.00,"red, sitting, blue, black, white, silver","sitting, blue"
+00070007_0810.jpg,0.9988394999999172,0.999680000000012,1409.9996425,1215.00032,1,tree,tree_1.00,"green, large, tall, brown, white, dark","green, brown"
+00070007_0810.jpg,0.999798999999996,712.0,848.0003429999999,1280.0,1,water,water_1.00,"calm, green, dark, murky, large, clear",green
+00070007_0810.jpg,1055.9997934999997,828.0,1393.9990205,1264.99968,1,woman,woman_1056.00,"sitting, young, smiling, white, wearing, standing","sitting, white"
+00070007_0810.jpg,0.999798999999996,452.99968,303.00050500000003,704.0,1,building,building_1.00,"red, brown, brick, large, tall, white","red, brown"
+00070007_0810.jpg,288.99948099999995,671.9993600000001,400.999997,714.0000000000001,1,car,car_289.00,"blue, green, white, double decker, large, parked",large

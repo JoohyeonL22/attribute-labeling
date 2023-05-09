@@ -1,0 +1,4 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0573.jpg,87.00010949999995,139.99989599999998,815.0000004999999,391.0,1,car,car_87.00,"white, black, blurry, silver, moving, clear","white, blurry"
+00070007_0573.jpg,3.0003300000000195,1.0001780000000051,639.000012,391.0,1,fire,fire_3.00,"blurry, black, green, clear, glass, white",blurry
+00070007_0573.jpg,1.0001100000000065,0.9997870000000262,883.999932,277.999827,1,smoke,smoke_1.00,"blurry, blue, green, white, clear, black","blurry, white"

@@ -1,0 +1,8 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0347.jpg,0.9987839999998868,617.0000399999999,2319.000192,1863.000216,1,car,car_1.00,"white, parked, green, silver, gray, blue","white, parked, green, silver, gray, blue"
+00070007_0347.jpg,1519.0003199999996,0.9987840000000006,3145.999872,648.999072,1,tree,tree_1519.00,"bare, leafless, tall, large, brown, red","bare, leafless, tall, large, brown, red"
+00070007_0347.jpg,381.000192,1.0000080000000366,820.0016640000001,623.000088,1,tree,tree_381.00,"tall, green, bare, large, leafless, brown","tall, green, bare, large, leafless, brown"
+00070007_0347.jpg,919.000416,7.998839999999973,1335.00048,625.998888,1,tree,tree_919.00,"tall, bare, green, large, leafless, purple","tall, bare, green, large, leafless, purple"
+00070007_0347.jpg,1579.9995839999997,540.9994320000002,3263.998368,1670.99868,1,ambulance,ambulance_1580.00,"white, yellow, parked, gray, silver, orange","white, yellow, parked, gray, silver, orange"
+00070007_0347.jpg,0.9987839999998868,1401.9989760000003,3264.0,2448.0,1,road,road_1.00,"gray, black, paved, concrete, asphalt, wet","gray, black, paved, concrete, asphalt, wet"
+00070007_0347.jpg,1.002048000000002,671.0004720000001,566.000448,970.00164,1,truck,truck_1.00,"white, green, parked, glass, clear, large","white, green, parked, glass, clear, large"

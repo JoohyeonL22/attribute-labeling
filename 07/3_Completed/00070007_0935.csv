@@ -1,0 +1,11 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0935.jpg,1.0,1.0004164999999716,2000.0,902.0004435,1,building,building_1.00,"gray, white, black, large, red, blue","gray, white"
+00070007_0935.jpg,1.0,778.9998680000001,992.0,1206.999508,1,bush,bush_1.00,"wooden, green, purple, brown, wood, pink","green, brown"
+00070007_0935.jpg,1656.0,835.000531,2000.0,1037.000685,1,bush,bush_1656.00,"green, red, pink, purple, potted, white","green, potted"
+00070007_0935.jpg,1584.0,944.0006075,2000.0,1333.0006665,1,car,car_1584.00,"silver, gray, parked, white, green, blue","gray, parked"
+00070007_0935.jpg,1265.0,677.0000409999999,1523.0,1178.000093,1,man,man_1265.00,"standing, old, walking, blue, bald, older",standing
+00070007_0935.jpg,1609.0,578.9998804999999,1736.0,935.0001915,1,man,man_1609.00,"standing, blue, walking, sitting, watching, wearing","standing, blue"
+00070007_0935.jpg,656.0,427.9996400000001,1635.0,1280.9996700000002,1,suv,suv_656.00,"white, black, blue, parked, gray, silver",gray
+00070007_0935.jpg,5.0,0.999750000000006,1007.0,554.9998820000001,1,tree,tree_5.00,"green, black, large, tall, dark, metal",green
+00070007_0935.jpg,2.0,1200.0005915,1775.0,1333.0006665,1,grass,grass_2.00,"green, long, metal, tall, short, grassy","green, grassy"
+00070007_0935.jpg,1.0,908.0002765,1041.0,1223.9999235,1,pole,pole_1.00,"wooden, wood, brown, green, white, long","wooden, brown"

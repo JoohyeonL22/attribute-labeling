@@ -1,0 +1,13 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0965.jpg,1.0,3.0001549999999924,307.0,121.000017,1,building,building_1.00,"pink, purple, brown, gray, white, large","pink, purple, brown, gray, white, large"
+00070007_0965.jpg,414.0,0.999995999999996,500.0,203.999852,1,building,building_414.00,"pink, white, purple, gray, brown, wooden","pink, white, purple, gray, brown, wooden"
+00070007_0965.jpg,195.0,87.999982,329.0,120.99985,1,fence,fence_195.00,"purple, pink, yellow, colorful, metal, white","purple, pink, yellow, colorful, metal, white"
+00070007_0965.jpg,360.0,108.99989800000002,500.0,261.999954,1,sacks,sacks_360.00,"white, green, wooden, metal, gray, pink","white, green, wooden, metal, gray, pink"
+00070007_0965.jpg,110.0,63.999911,140.0,119.000025,1,man,man_110.00,"standing, blue, walking, gray, sitting, old","standing, blue, walking, gray, sitting, old"
+00070007_0965.jpg,233.0,82.00000600000001,323.0,236.000058,1,person,person_233.00,"standing, young, little, green, purple, walking","standing, young, little, green, purple, walking"
+00070007_0965.jpg,54.0,58.999931,86.0,115.000041,1,man,man_54.00,"standing, blue, white, walking, smiling, sitting","standing, blue, white, walking, smiling, sitting"
+00070007_0965.jpg,138.0,1.0001629999999937,470.0,118.000029,1,tree,tree_138.00,"bare, brown, pink, tall, large, green","bare, brown, pink, tall, large, green"
+00070007_0965.jpg,1.0,112.00005299999998,500.0,334.000167,1,water,water_1.00,"gray, wet, concrete, brown, dirty, cement","gray, wet, concrete, brown, dirty, cement"
+00070007_0965.jpg,1.0,101.999926,123.0,135.99979000000002,1,branch,branch_1.00,"yellow, pink, red, purple, metal, colorful","yellow, pink, red, purple, metal, colorful"
+00070007_0965.jpg,147.0,81.00000999999999,175.0,116.99986599999998,1,man,man_147.00,"white, standing, sitting, gray, walking, green","white, standing, sitting, gray, walking, green"
+00070007_0965.jpg,175.0,64.99990700000001,204.0,119.000025,1,man,man_175.00,"purple, pink, green, white, tall, large","purple, pink, green, white, tall, large"

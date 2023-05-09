@@ -1,0 +1,12 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0908.jpg,1.000494000000003,0.999936000000048,493.000068,552.0,1,building,building_1.00,"green, tall, yellow, large, gray, white","green, tall, yellow, large, gray, white"
+00070007_0908.jpg,456.000204,204.0,713.0003099999999,321.000192,1,building,building_456.00,"large, black, tall, gray, white, big","large, black, tall, gray, white, big"
+00070007_0908.jpg,967.0004685,264.0,1022.0000175,503.000064,1,building,building_967.00,"red, white, glass, tall, black, large","red, white, glass, tall, black, large"
+00070007_0908.jpg,63.00043199999999,0.9999359999999342,709.00038,573.000192,1,trees,trees_63.00,"yellow, tall, green, large, white, gray","yellow, tall, green, large, white, gray"
+00070007_0908.jpg,689.0002185000001,7.000319999999988,1018.0000875,468.0,1,tree,tree_689.00,"tall, bare, leafless, large, green, white","tall, bare, leafless, large, green, white"
+00070007_0908.jpg,1.0004939999999465,530.999808,1023.0,768.0,1,sidewalk,sidewalk_1.00,"green, gray, brown, concrete, growing, red","green, gray, brown, concrete, growing, red"
+00070007_0908.jpg,1.000494000000003,606.000384,394.000266,706.000128,1,debris,debris_1.00,"purple, red, wooden, pink, wood, brown","purple, red, wooden, pink, wood, brown"
+00070007_0908.jpg,492.0000855,300.00000000000006,846.0000285,421.999872,1,building,building_492.00,"blue, large, tall, white, glass, green","blue, large, tall, white, glass, green"
+00070007_0908.jpg,691.0001834999999,421.00032,730.0000125,558.0,1,woman,woman_691.00,"yellow, metal, gray, silver, white, orange","yellow, metal, gray, silver, white, orange"
+00070007_0908.jpg,930.999564,418.000128,1005.999786,513.000192,1,people,people_931.00,"red, standing, walking, sitting, white, watching","red, standing, walking, sitting, white, watching"
+00070007_0908.jpg,1.999964999999975,408.0,1021.000035,768.0,1,branch,branch_2.00,"green, gray, yellow, brown, white, concrete","green, gray, yellow, brown, white, concrete"

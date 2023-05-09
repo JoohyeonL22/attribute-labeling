@@ -1,0 +1,10 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0059.jpg,974.99978,309.000036,1084.99938,435.000012,1,car,car_975.00,"red, white, green, parked, orange, pink","red, white, green, parked, orange, pink"
+00070007_0059.jpg,832.0003,324.99978,909.00002,534.99974,1,man,man_832.00,"purple, standing, pink, black, walking, green","purple, standing, pink, black, walking, green"
+00070007_0059.jpg,924.99964,316.999908,1009.99976,533.999756,1,man,man_925.00,"standing, walking, green, wearing, black, blue","standing, walking, green, wearing, black, blue"
+00070007_0059.jpg,1.00005,0.999652,1180.00059,524.9999,1,trees,trees_1.00,"red, green, white, black, parked, large","red, green, white, black, parked, large"
+00070007_0059.jpg,821.00034,350.000376,941.9999,533.000104,1,tripod,tripod_821.00,"purple, standing, pink, green, colorful, blue","purple, standing, pink, green, colorful, blue"
+00070007_0059.jpg,163.00048,19.000028,804.00008,645.999956,1,bus,bus_163.00,"red, white, black, parked, double decker, silver","red, white, black, parked, double decker, silver"
+00070007_0059.jpg,785.99918,527.999852,867.99974,581.999652,1,debris,debris_786.00,"black, small, metal, red, gray, silver","black, small, metal, red, gray, silver"
+00070007_0059.jpg,1045.00033,287.999708,1180.00059,400.999892,1,truck,truck'_1045.00,"white, green, large, parked, black, blue","white, green, large, parked, black, blue"
+00070007_0059.jpg,160.99979,405.00016,1179.99941,664,1,road,road_161.00,"gray, white, concrete, red, green, black","gray, white, concrete, red, green, black"

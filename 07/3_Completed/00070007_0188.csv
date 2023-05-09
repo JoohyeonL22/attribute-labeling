@@ -1,0 +1,13 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0188.jpg,1.0,196.000051,185.0,240.000209,1,branch,branch_1.00,"red, green, black, pink, metal, large",green
+00070007_0188.jpg,270.0,84.999994,400.0,123.999838,1,building,building_270.00,"yellow, blue, black, large, red, brown","blue, brown"
+00070007_0188.jpg,176.99999999999997,130.000148,325.0,150.00006799999997,1,log,log_177.00,"yellow, black, train, empty, gray, long","black, long"
+00070007_0188.jpg,16.0,166.99983300000002,33.0,241.999867,1,post,post_16.00,"green, white, red, metal, small, blue","white, metal"
+00070007_0188.jpg,1.0,1.0001629999999937,400.0,118.000029,1,trees,trees_1.00,"red, white, tall, green, large, bare",green
+00070007_0188.jpg,211.0,214.999975,367.0,280.000049,1,wood,wood_211.00,"red, brown, metal, black, wooden, white","brown, wooden"
+00070007_0188.jpg,1.0,26.000063,209.0,116.000037,1,building,building_1.00,"red, white, pink, large, gray, purple",gray
+00070007_0188.jpg,1.0,86.99981899999999,179.0,159.999861,1,branch,branch_1.00,"red, white, pink, large, green, gray",green
+00070007_0188.jpg,237.0,298.000144,291.0,314.00008,1,wood,wood_237.00,"white, green, blue, small, open, square",small
+00070007_0188.jpg,239.0,173.000143,400.0,252.000161,1,branch,branch_239.00,"green, red, wooden, metal, brown, large","wooden, brown"
+00070007_0188.jpg,32.0,249.999835,400.0,333.999833,1,road,road_32.00,"gray, concrete, paved, cement, black, green","gray, paved"
+00070007_0188.jpg,1.0,118.000196,400.0,317.000068,1,grass,grass_1.00,"green, gray, metal, black, empty, concrete",green

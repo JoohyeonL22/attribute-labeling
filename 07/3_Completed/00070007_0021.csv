@@ -1,0 +1,10 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0021.jpg,312.99984,0.9999779999999988,360.00000000000006,92.000006,1,building,building_313.00,"blue, tall, glass, white, large, purple",
+00070007_0021.jpg,0.9999000000000252,42.000091000000005,268.00002,154.000063,1,bus,bus_1.00,"white, brown, green, pink, tan, black",brown
+00070007_0021.jpg,106.00002,129.00000400000002,220.00014,147.000014,1,car,car_106.00,"purple, pink, black, metal, silver, small","metal, small"
+00070007_0021.jpg,268.00002,133.9999955,279.9999,163.99994450000003,1,fire hydrant,fire hydrant_268.00,"red, black, white, traffic, metal, orange","red, metal"
+00070007_0021.jpg,34.0002,1.0000794999999982,42.00012,48.0000605,1,pole,pole_34.00,"green, metal, black, white, tall, blue",metal
+00070007_0021.jpg,107.0001,0.9998765000000064,354.00006,116.9999635,1,tree,tree_107.00,"brown, green, pink, brick, large, tall","green, tall"
+00070007_0021.jpg,41.00004,1.0000795000000018,122.00004,49.0000385,1,building,building_41.00,"green, white, red, glass, metal, large",white
+00070007_0021.jpg,0.9999000000000038,10.999961,57.99978,47.999959,1,building,building_1.00,"green, white, black, glass, large, red",white
+00070007_0021.jpg,1.0000799999999683,131.999938,360.0,203.00000000000003,1,grass,grass_1.00,"brown, tan, yellow, dirt, dry, beige","brown, yellow"

@@ -1,0 +1,8 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0226.jpg,368.9998525,169.9999845,568.9996755,301.99982550000004,1,bus,bus_369.00,"purple, white, green, silver, pink, metal","purple, white, green, silver, pink, metal"
+00070007_0226.jpg,249.00020150000003,249.0000865,327.0003085,332.0000575,1,smoke,smoke_249.00,"green, white, blue, gray, large, big","green, white, blue, gray, large, big"
+00070007_0226.jpg,473.0001975,48.00016300000001,561.0000225,176.000135,1,tree,tree_473.00,"purple, pink, blue, white, tall, colorful","purple, pink, blue, white, tall, colorful"
+00070007_0226.jpg,123.00005199999998,160.0001385,297.000244,347.0001735,1,truck,truck_123.00,"white, purple, large, blue, pink, big","white, purple, large, blue, pink, big"
+00070007_0226.jpg,1.0000325000000316,227.99982000000003,605.9999674999999,344.99989200000005,1,bush,bush_1.00,"purple, green, metal, blue, white, pink","purple, green, metal, blue, white, pink"
+00070007_0226.jpg,83.9999985,16.000169999999997,487.0000455,322.000038,1,fire,fire_84.00,"black, red, metal, blue, white, dark","black, red, metal, blue, white, dark"
+00070007_0226.jpg,1.0003360000000043,1.0002275000000225,499.000132,313.0000725,1,smoke,smoke_1.00,"black, blue, white, dark, purple, metal","black, blue, white, dark, purple, metal"

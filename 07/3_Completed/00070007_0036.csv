@@ -1,0 +1,13 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0036.jpg,1.000297,43.000095,298.000259,298.000201,1,building,building_1.00,"tall, large, brick, blue, gray, red","large, gray"
+00070007_0036.jpg,364.999945,0.99997,964.999679,458.00011,1,bus,bus_365.00,"yellow, white, parked, green, blue, double decker",yellow
+00070007_0036.jpg,118.000536,272.00015,472.000172,509.000242,1,car,car_118.00,"white, blue, parked, purple, black, old","white, old"
+00070007_0036.jpg,0.999804,1.000247,241.000092,554.000277,1,fence,fence_1.00,"blue, red, tall, gray, brick, large",gray
+00070007_0036.jpg,368.000343,343.999652,545.000161,538.999896,1,debris,debris_368.00,"blue, black, metal, white, empty, gray","metal, white"
+00070007_0036.jpg,546.000458,0.99997,618.00015,553.00003,1,pole,pole_546.00,"wooden, brown, tall, black, wood, green","wooden, brown"
+00070007_0036.jpg,613.000144,316.000215,986,554.000277,1,road,road_613.00,"gray, concrete, black, paved, yellow, white","gray, paved"
+00070007_0036.jpg,190.000228,280.000187,543.00006,554.000277,1,sidewalk,sidewalk_190.00,"white, blue, parked, purple, red, old",white
+00070007_0036.jpg,332.000004,270.00021,352.000028,346.000146,1,man,man_332.00,"blue, green, white, open, glass, closed",
+00070007_0036.jpg,261.99992,269.999656,291.000152,301.999804,1,man,man_262.00,"red, blue, orange, pink, colorful, small",blue
+00070007_0036.jpg,253.000205,275.000337,268.000223,301.000111,1,man,man_253.00,"blue, red, pink, small, orange, colorful",blue
+00070007_0036.jpg,10.000012,271.00018,292.99976,358.00034,1,suv,suv_10.00,"pink, red, metal, purple, silver, white","metal, white"

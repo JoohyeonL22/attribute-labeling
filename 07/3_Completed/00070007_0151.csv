@@ -1,0 +1,10 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0151.jpg,3.0,843.000165,134.0,964.000275,1,building,building_3.00,"brown, wooden, tan, tall, small, wood","brown, tan"
+00070007_0151.jpg,740.0,1080.00018,1418.0,1470.0,1,car,car_740.00,"white, parked, silver, green, black, gray",white
+00070007_0151.jpg,80.0,1098.00033,286.0,1466.00013,1,man,man_80.00,"walking, standing, blue, yellow, black, looking","standing, black"
+00070007_0151.jpg,1.0,0.999599999999873,2000.0,1059.99936,1,smoke,smoke_1.00,"white, blue, cloudy, black, dark, gray","cloudy, black"
+00070007_0151.jpg,720.0,836.0000249999999,905.0,1266.000015,1,tree,tree_720.00,"green, tall, bare, leafless, brown, large","bare, leafless"
+00070007_0151.jpg,3.0,467.99949,2000.0,1290.99957,1,building,building_3.00,"white, blue, black, orange, large, gray",gray
+00070007_0151.jpg,1306.0,1028.0004,2000.0,1308.99972,1,debris,debris_1306.00,"wooden, blue, brown, metal, empty, large","wooden, brown"
+00070007_0151.jpg,1667.0,1211.0007,1813.0,1470.0,1,woman,woman_1667.00,"standing, walking, sitting, young, watching, black","standing, black"
+00070007_0151.jpg,1342.0,1402.0007400000002,1999.0,1469.0004,1,road,road_1342.00,"green, blue, white, gray, concrete, paved","gray, paved"

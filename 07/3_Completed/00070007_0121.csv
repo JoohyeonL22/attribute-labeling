@@ -1,0 +1,10 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0121.jpg,351.0,281.9999445,477.0,564.0001755000001,1,man,man_351.00,"standing, green, smiling, young, wearing, black","standing, green"
+00070007_0121.jpg,498.9996,259.0002975,867.9996,370.00013849999993,1,mountain,mountain_499.00,"green, distant, tall, large, blue, gray","distant, gray"
+00070007_0121.jpg,119.00025000000002,11.999765999999966,548.00055,509.999796,1,bus,bus_119.00,"purple, pink, white, red, gray, black",white
+00070007_0121.jpg,517.9999499999999,367.000197,581.9998499999999,398.999955,1,car,car_518.00,"pink, green, purple, white, metal, silver","white, metal"
+00070007_0121.jpg,579.00015,366.9999105,607.00005,401.0000115,1,man,man_579.00,"yellow, blue, standing, colorful, sitting, red","yellow, standing"
+00070007_0121.jpg,585.00045,357.9997995,847.00035,396.9998985,1,cars,cars_585.00,"orange, blue, red, white, long, colorful",long
+00070007_0121.jpg,35.00009999999999,476.000268,285.00030000000004,558.000006,1,road,road_35.00,"purple, pink, metal, black, white, green",metal
+00070007_0121.jpg,569.9997000000001,451.9998765,605.9997000000001,475.99998149999993,1,bucket,bucket_570.00,"orange, white, small, black, red, square","white, small"
+00070007_0121.jpg,1.0003499999999974,280.0001745,99.00045,339.00026549999995,1,mountain,mountain_1.00,"purple, pink, small, black, large, white",large

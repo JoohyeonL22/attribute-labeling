@@ -1,0 +1,9 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0677.jpg,179.0003205,171.9998845,444.0000555,286.99964550000004,1,building,building_179.00,"purple, pink, colorful, blue, multi colored, white",blue
+00070007_0677.jpg,666.0003330000001,265.000144,732.000267,419.000236,1,man,man_666.00,"purple, pink, standing, walking, young, little",standing
+00070007_0677.jpg,523.9999754999999,1.0000650000000064,960.9995385,320.999927,1,trees,trees_524.00,"green, tall, palm, large, white, brown","green, palm"
+00070007_0677.jpg,828.0001710000001,218.0001195,964.000035,262.0002245,1,truck,truck_828.00,"pink, purple, colorful, yellow, white, multi colored",white
+00070007_0677.jpg,44.000455500000015,220.0002495,409.00009050000006,414.0001865,1,van,van_44.00,"white, blue, parked, purple, large, light blue","white, parked"
+00070007_0677.jpg,1.000498499999992,231.9999275,999.0004995,550.9997245,1,water,water_1.00,"wet, gray, calm, brown, paved, concrete","wet, gray"
+00070007_0677.jpg,911.000088,200.999841,999.0,248.999655,1,building,building_911.00,"pink, purple, wooden, yellow, brown, red",brown
+00070007_0677.jpg,381.99961800000005,367.9999515,999.0,389.0002145,1,chain,chain_382.00,"black, blue, long, metal, small, white",long

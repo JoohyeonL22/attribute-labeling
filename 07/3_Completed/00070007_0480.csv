@@ -1,0 +1,6 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0480.jpg,79.00040000000001,101.000172,749.000176,291.000192,1,car,car_79.00,"green, silver, blue, gray, white, metal","gray, metal"
+00070007_0480.jpg,0.999935999999991,157.99966700000004,992.0,450.999913,1,water,water_1.00,"yellow, wet, gray, brown, white, paved","wet, brown"
+00070007_0480.jpg,0.999935999999991,1.000027000000017,992.0,140.000203,1,people,people_1.00,"metal, watching, blue, red, standing, large","watching, standing"
+00070007_0480.jpg,0.999935999999991,344.9998615,991.000064,508.9996905,1,road,road_1.00,"wet, yellow, gray, brown, sandy, paved","wet, brown"
+00070007_0480.jpg,508.999664,150.9997335,989.999632,208.9997665,1,road,road_509.00,"green, white, yellow, painted, gray, wet","gray, wet"

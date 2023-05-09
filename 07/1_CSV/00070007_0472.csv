@@ -1,0 +1,6 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0472.jpg,1.0,14.0,199.0,222.0,1,car,car_1.00,"['white', 'green', 'silver', 'parked', 'black', 'metal']"
+00070007_0472.jpg,80.0,61.0,150.0,222.0,1,woman,woman_80.00,"['young', 'sitting', 'standing', 'blonde', 'orange', 'little']"
+00070007_0472.jpg,185.0,28.0,243.0,195.0,1,man,man_185.00,"['green', 'standing', 'sitting', 'white', 'blue', 'young']"
+00070007_0472.jpg,201.0,43.0,250.0,209.0,1,man,man_201.00,"['green', 'blue', 'standing', 'sitting', 'young', 'gray']"
+00070007_0472.jpg,52.0,1.0,250.0,62.0,1,car,car_52.00,"['blue', 'red', 'white', 'black', 'green', 'colorful']"

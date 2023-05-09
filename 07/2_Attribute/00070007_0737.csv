@@ -1,0 +1,12 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0737.jpg,1.0005120000000716,1110.998592,5182.999488,2957.9990400000006,1,building,building_1.00,"black, gray, white, large, blue, big","black, gray, white, large, blue, big"
+00070007_0737.jpg,3976.000992,2574.001152,4851.003168,3071.0016,1,bush,bush_3976.00,"purple, black, green, small, white, blue","purple, black, green, small, white, blue"
+00070007_0737.jpg,4863.9994560000005,2545.000128,5182.996896,3119.99904,1,bush,bush_4864.00,"green, tall, large, brown, pine, small","green, tall, large, brown, pine, small"
+00070007_0737.jpg,1144.002528,2251.001664,1527.001632,3008.000448,1,firefighter,firefighter_1144.00,"standing, skiing, brown, yellow, tan, snowboarding","standing, skiing, brown, yellow, tan, snowboarding"
+00070007_0737.jpg,2634.00336,2184.00192,3086.0015040000003,3038.000256,1,firefighter,firefighter_2634.00,"standing, walking, skiing, yellow, young, wearing","standing, walking, skiing, yellow, young, wearing"
+00070007_0737.jpg,1.0005120000000716,2686.0014719999995,5182.999488,3456.001728,1,snow,snow_1.00,"white, ski, red, snowy, yellow, snow-covered","white, ski, red, snowy, yellow, snow-covered"
+00070007_0737.jpg,542.00016,2562.000192,2152.000224,3456.001728,1,hose,hose_542.00,"ski, white, red, pink, metal, black","ski, white, red, pink, metal, black"
+00070007_0737.jpg,1826.99712,2566.999296,4420.998144,3439.99872,1,hose,hose_1827.00,"yellow, black, long, white, ski, colorful","yellow, black, long, white, ski, colorful"
+00070007_0737.jpg,1.0005120000000716,1.0005120000000716,5182.999488,2829.000384,1,smoke,smoke_1.00,"blue, cloudy, white, gray, clear, black","blue, cloudy, white, gray, clear, black"
+00070007_0737.jpg,1570.00032,2180.0016000000005,1949.00256,2879.001792,1,firefighter,firefighter_1570.00,"yellow, colorful, standing, large, multi colored, black","yellow, colorful, standing, large, multi colored, black"
+00070007_0737.jpg,3821.997312,1147.998528,4116.998016,1436.999616,1,fire,fire_3822.00,"orange, red, hanging, framed, large, square","orange, red, hanging, framed, large, square"

@@ -1,0 +1,9 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0705.jpg,448.0002,0.9994500000000244,1200.0006,285.99975,1,building,building_448.00,"brown, gray, pink, concrete, brick, large",brown
+00070007_0705.jpg,1.0002000000000637,127.00034999999995,1167.0005999999998,569.00025,1,car,car_1.00,"yellow, colorful, purple, green, multi colored, parked",yellow
+00070007_0705.jpg,1.0002000000000066,295.00020000000006,222.0006,896.0004,1,man,man_1.00,"standing, walking, young, looking, white, wearing","standing, white"
+00070007_0705.jpg,1023.0005999999998,172.99980000000005,1195.0002,442.9998000000001,1,man,man_1023.00,"pink, sitting, white, purple, standing, watching","white, standing"
+00070007_0705.jpg,441.0006,255.9996,652.0002,900.0,1,man,man_441.00,"pink, purple, standing, gray, walking, young","standing, gray"
+00070007_0705.jpg,272.0004,275.0004,572.0004,900.0,1,man,man_272.00,"standing, young, walking, pink, purple, smiling",standing
+00070007_0705.jpg,790.9998,266.9994,1199.9994,541.9998,1,people,people_791.00,"yellow, purple, colorful, sitting, pink, blue",
+00070007_0705.jpg,1.0002000000000066,1.0003500000000116,382.9998,229.00005,1,building,building_1.00,"brown, green, brick, large, tall, gray",large

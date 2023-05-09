@@ -1,0 +1,12 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0990.jpg,18.9999,145.00010000000003,49.9999,224.0,1,people,people_19.00,"standing, walking, blue, black, white, young","standing, walking, blue, black, white, young"
+00070007_0990.jpg,561.99993,122.000025,591.9998699999999,220.999975,1,man,man_562.00,"standing, walking, watching, black, talking, wearing","standing, walking, watching, black, talking, wearing"
+00070007_0990.jpg,1.0003699999999895,49.999950000000005,91.00019,147.99995,1,tree,tree_1.00,"green, tall, large, blue, leafy, big","green, tall, large, blue, leafy, big"
+00070007_0990.jpg,134.99973,26.999875000000003,226.99967,123.999925,1,tree,tree_135.00,"large, green, white, tall, red, big","large, green, white, tall, red, big"
+00070007_0990.jpg,244.00007,0.9999499999999985,528.00037,135.99984999999998,1,tree,tree_244.00,"green, blue, tall, large, clear, white","green, blue, tall, large, clear, white"
+00070007_0990.jpg,295.99978,70.00017499999998,610.00002,211.000125,1,ambulance,ambulance_296.00,"red, double decker, black, white, parked, large","red, double decker, black, white, parked, large"
+00070007_0990.jpg,49.999900000000025,126.999775,368.99982,249.999925,1,car,car_50.00,"white, parked, blue, silver, large, black","white, parked, blue, silver, large, black"
+00070007_0990.jpg,0.9997499999999492,196.0,619.99969,350.0,1,grass,grass_1.00,"green, tall, grassy, long, short, yellow","green, tall, grassy, long, short, yellow"
+00070007_0990.jpg,597.0001699999999,131.99987499999995,620.00031,209.999825,1,man,man_597.00,"standing, walking, blue, sitting, watching, black","standing, walking, blue, sitting, watching, black"
+00070007_0990.jpg,144.00027,119.0,309.00025,169.9999,1,cars,cars_144.00,"pink, red, white, purple, parked, black","pink, red, white, purple, parked, black"
+00070007_0990.jpg,307.99988,131.999875,318.99992000000003,144.999925,1,man,man_308.00,"glass, yellow, small, square, clear, white","glass, yellow, small, square, clear, white"

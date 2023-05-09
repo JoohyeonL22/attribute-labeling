@@ -1,0 +1,10 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0642.jpg,115.000138,154.999845,729.000086,389.000055,1,car,car_115.00,"['blue', 'green', 'yellow', 'colorful', 'large', 'red']"
+00070007_0642.jpg,251.000104,111.0002775,311.99998,206.0001825,1,man,man_251.00,"['wooden', 'orange', 'brown', 'sitting', 'standing', 'small']"
+00070007_0642.jpg,90.00010799999998,116.0002725,159.000388,252.0002475,1,man,man_90.00,"['green', 'yellow', 'blue', 'standing', 'colorful', 'young']"
+00070007_0642.jpg,0.9998039999999832,219.99978,986.0,555.0,1,road,road_1.00,"['gray', 'paved', 'yellow', 'concrete', 'black', 'asphalt']"
+00070007_0642.jpg,0.9998039999999832,1.000387499999988,986.0,165.0001125,1,trees,trees_1.00,"['green', 'tall', 'brown', 'large', 'bare', 'leafy']"
+00070007_0642.jpg,509.000315,206.9997375,777.000045,373.9997925,1,debris,debris_509.00,"['yellow', 'green', 'black', 'large', 'blue', 'white']"
+00070007_0642.jpg,1.0002969999999891,219.000225,377.000551,391.000275,1,debris,debris_1.00,"['green', 'brown', 'wooden', 'old', 'large', 'black']"
+00070007_0642.jpg,825.000004,286.0001025,845.999832,303.0003075,1,debris,debris_825.00,"['green', 'small', 'white', 'yellow', 'blue', 'red']"
+00070007_0642.jpg,0.99980400000004,134.0000325,985.000196,333.00027750000004,1,field,field_1.00,"['green', 'metal', 'yellow', 'gray', 'white', 'red']"

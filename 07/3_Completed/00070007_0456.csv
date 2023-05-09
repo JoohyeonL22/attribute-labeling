@@ -1,0 +1,3 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0456.jpg,23.0,32.000062499999984,475.0,342.00018750000004,1,car,car_23.00,"black, yellow, gray, silver, parked, old","black, old"
+00070007_0456.jpg,300.0,213.99993750000004,467.0,368.9998125,1,debris,debris_300.00,"yellow, silver, white, black, metal, gray","white, metal"

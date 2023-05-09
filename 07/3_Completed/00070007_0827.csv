@@ -1,0 +1,12 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0827.jpg,209.000304,154.999359,1368,686.999853,1,airplane,airplane_209.00,"white, blue, green, colorful, purple, large","white, blue"
+00070007_0827.jpg,120.000276,336.000123,181.000764,528.000633,1,man,man_120.00,"standing, green, walking, watching, young, sitting","standing, green"
+00070007_0827.jpg,196.000884,333.000099,286.000236,489.000321,1,man,man_196.00,"sitting, purple, pink, white, standing, green",standing
+00070007_0827.jpg,28.000908,330.000075,118.00026,589.000437,1,man,man_28.00,"standing, walking, green, old, watching, tall","walking, green"
+00070007_0827.jpg,1.000008,412.999371,403.000488,686.999853,1,debris,debris_1.00,"purple, pink, white, wooden, metal, brown","white, metal"
+00070007_0827.jpg,0.999324,388.999692,1367.999316,1026,1,field,field_1.00,"brown, white, sandy, dirt, green, gray","brown, dirt"
+00070007_0827.jpg,1056.00024,466.000479,1321.999632,577.000341,1,debris,debris_1056.00,"green, brown, black, metal, wooden, white","black, metal"
+00070007_0827.jpg,1.000008,350.99973,51.000408,584.000226,1,man,man_1.00,"standing, black, green, metal, tall, walking","standing, black"
+00070007_0827.jpg,315.999108,350.000406,376.999596,429.000354,1,man,man_316.00,"green, sitting, white, blue, colorful, black",white
+00070007_0827.jpg,371.000232,327.000051,415.000584,407.999673,1,man,man_371.00,"green, blue, colorful, standing, white, red","blue, standing"
+00070007_0827.jpg,353.999412,336.99996,386.999676,358.999452,1,camera,camera_354.00,"green, white, street, black, neon, small",black

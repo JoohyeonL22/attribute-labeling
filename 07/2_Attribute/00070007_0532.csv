@@ -1,0 +1,4 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0532.jpg,1.0,271.9998,719.0,406.9998,1,car,car_1.00,"green, white, silver, parked, black, small","green, white, silver, parked, black, small"
+00070007_0532.jpg,1.0,108.99990000000004,800.0,599.9997000000001,1,water,water_1.00,"wet, gray, white, concrete, paved, asphalt","wet, gray, white, concrete, paved, asphalt"
+00070007_0532.jpg,439.0,33.0003,800.0,143.00009999999995,1,bridge,bridge_439.00,"concrete, stone, gray, wet, brick, brown","concrete, stone, gray, wet, brick, brown"

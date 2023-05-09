@@ -1,0 +1,16 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0236.jpg,1.0001159999999985,136.000053,75.00027600000001,186.000219,1,car,car_1.00,"green, parked, silver, gray, black, white",gray
+00070007_0236.jpg,191.00016,140.00007599999998,215.000136,151.0002,1,car,car_191.00,"red, yellow, orange, black, blue, small",
+00070007_0236.jpg,234.00023400000003,136.000053,254.00021400000003,147.999879,1,car,car_234.00,"red, yellow, green, pink, white, orange",white
+00070007_0236.jpg,255.000096,138.000186,273.000312,148.00012199999998,1,car,car_255.00,"red, white, green, blue, yellow, small",white
+00070007_0236.jpg,288.00018,133.99991999999995,315.000036,145.000044,1,car,car_288.00,"white, black, small, red, green, pink","white, small"
+00070007_0236.jpg,2.000232000000011,153.999792,234.0,344.999736,1,car,car_2.00,"green, black, parked, purple, white, blue",black
+00070007_0236.jpg,316.000152,136.000053,332.00013600000005,144.000099,1,car,car_316.00,"pink, purple, red, white, small, maroon","white, small"
+00070007_0236.jpg,337.000014,134.000163,351.00023400000003,142.000209,1,car,car_337.00,"pink, purple, white, small, colorful, large","white, small"
+00070007_0236.jpg,367.000218,132.00003,379.000206,141.999966,1,car,car_367.00,"pink, yellow, red, purple, orange, small",small
+00070007_0236.jpg,118.000116,287.000253,216.000252,325.000107,1,debris,debris_118.00,"black, open, small, glass, dark, blue","black, open"
+00070007_0236.jpg,51.000066,142.000209,435.00015,258.000147,1,road,road_51.00,"green, purple, pink, black, metal, red",green
+00070007_0236.jpg,396.0000720000001,0.999945000000011,468.0,162.99978299999998,1,tree,tree_396.00,"red, tall, green, pink, large, purple","green, large"
+00070007_0236.jpg,1.0001159999999911,147.00017699999998,466.999884,485.000055,1,grass,grass_1.00,"green, grassy, black, short, tall, brown","green, grassy"
+00070007_0236.jpg,1.0001160000000198,7.000101000000015,418.000284,139.000131,1,trees,trees_1.00,"green, tall, red, large, cloudy, pink","green, large"
+00070007_0236.jpg,1.0001159999999911,144.000099,307.000044,338.00012100000004,1,car,car_1.00,"green, black, parked, purple, white, silver",black

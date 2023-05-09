@@ -1,0 +1,6 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0925.jpg,1.0002099999999814,1.00009,286.99995,346.999926,1,building,building_1.00,"brick, brown, red, tan, wooden, yellow","brick, brown"
+00070007_0925.jpg,123.99993999999997,51.00004000000001,560.99978,311.000144,1,car,car_124.00,"red, black, parked, yellow, old, gray",red
+00070007_0925.jpg,287.0002400000001,0.9999080000000048,580.0,321.99986,1,building,building_287.00,"red, brick, black, brown, old, green","brick, brown"
+00070007_0925.jpg,134.99993,310.000236,216.99975,347.00010799999995,1,debris,debris_135.00,"green, black, sitting, laying, small, white","black, small"
+00070007_0925.jpg,358.99999,313.999868,496.99997,353.999828,1,debris,debris_359.00,"metal, black, steel, wooden, iron, green","metal, black"

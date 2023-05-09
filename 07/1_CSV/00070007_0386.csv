@@ -1,0 +1,12 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0386.jpg,291.9998790000001,310.9998925,768.999825,595.9998495,1,car,car_292.00,"['purple', 'black', 'green', 'pink', 'large', 'colorful']"
+00070007_0386.jpg,293.00025600000004,316.9999085,798.000804,567.0003075,1,car,car_293.00,"['purple', 'black', 'green', 'pink', 'large', 'gray']"
+00070007_0386.jpg,745.999686,281.000214,1345.000122,639.000098,1,car,car_746.00,"['green', 'black', 'purple', 'parked', 'pink', 'red']"
+00070007_0386.jpg,1.0003769999999577,449.0002605,1422.000711,803.0004015,1,dirt,dirt_1.00,"['brown', 'dirt', 'green', 'dirty', 'sandy', 'dry']"
+00070007_0386.jpg,0.999666000000019,304.00014150000004,306.99984600000005,431.0002125,1,fire truck,fire truck_1.00,"['red', 'white', 'parked', 'double decker', 'large', 'purple']"
+00070007_0386.jpg,1124.000703,288.00036650000004,1368.000261,588.0003635,1,man,man_1124.00,"['black', 'green', 'purple', 'metal', 'silver', 'blue']"
+00070007_0386.jpg,155.99979900000005,1.0001364999999964,1421.999289,398.9998595,1,mountain,mountain_156.00,"['green', 'brown', 'pink', 'purple', 'large', 'cloudy']"
+00070007_0386.jpg,962.000064,200.0003995,1422.0,443.0002445,1,fire truck,fire truck_962.00,"['double decker', 'red', 'pink', 'purple', 'colorful', 'green']"
+00070007_0386.jpg,5.000462999999968,559.0000185000001,890.000649,725.0001935,1,debris,debris_5.00,"['brown', 'pink', 'dirt', 'purple', 'sandy', 'red']"
+00070007_0386.jpg,247.999644,410.9998915,380.99930400000005,438.9996985,1,road,road_248.00,"['green', 'white', 'metal', 'black', 'brown', 'wooden']"
+00070007_0386.jpg,1329.000489,471.0000515,1422.000711,598.0001225,1,road,road_1329.00,"['green', 'white', 'black', 'blue', 'silver', 'gray']"

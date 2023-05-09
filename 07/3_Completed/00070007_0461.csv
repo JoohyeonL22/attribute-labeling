@@ -1,0 +1,13 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0461.jpg,37.00029149999999,53.00022,218.0001105,250.000164,1,tree,tree_37.00,"green, large, tall, white, leafy, big","green, leafy"
+00070007_0461.jpg,196.999857,185.000256,393.000051,273.000144,1,car,car_197.00,"black, green, yellow, blue, parked, white",black
+00070007_0461.jpg,371.0001345,173.99996399999998,542.0000655,266.999892,1,car,car_371.00,"white, green, parked, silver, blue, yellow","white, parked"
+00070007_0461.jpg,275.000178,146.99974799999998,318.00034800000003,210.999852,1,man,man_275.00,"sitting, yellow, standing, green, watching, white","yellow, standing"
+00070007_0461.jpg,1.0002059999999986,216.000096,117.00021,408.0,1,barrier,barrier_1.00,"red, metal, white, green, gray, pink","metal, white"
+00070007_0461.jpg,35.00015099999996,1.000007999999994,494.000223,209.00004,1,building,building_35.00,"green, white, gray, large, brick, blue","green, white"
+00070007_0461.jpg,0.999934500000002,1.000007999999994,41.0000295,217.000104,1,tree,tree_1.00,"gray, brown, black, tall, long, large",brown
+00070007_0461.jpg,429.0001365,12.000096000000012,542.0000655,181.000224,1,building,building_429.00,"green, white, blue, tall, gray, large","white, gray"
+00070007_0461.jpg,70.00003049999998,251.999772,542.0000655,317.999892,1,grass,grass_70.00,"green, yellow, white, gray, long, concrete",green
+00070007_0461.jpg,1.0002059999999915,275.00016000000005,543.0,408.0,1,sidewalk,sidewalk_1.00,"brown, green, concrete, gray, empty, cement",brown
+00070007_0461.jpg,124.99995750000002,342.000084,542.9997285,406.000188,1,road,road_125.00,"wooden, green, brown, concrete, cement, gray",brown
+00070007_0461.jpg,149.999949,231.000012,225.000195,266.999892,1,debris,debris_150.00,"green, metal, white, blue, yellow, empty",green

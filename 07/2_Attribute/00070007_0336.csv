@@ -1,0 +1,9 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0336.jpg,0.9995160000000284,173.00008,598.999572,516.000364,1,car,car_1.00,"green, white, black, gray, parked, silver","green, white, black, gray, parked, silver"
+00070007_0336.jpg,686.999523,1.0003839999999968,970.999965,150.00018,1,tree,tree_687.00,"green, brown, large, white, tall, hanging","green, brown, large, white, tall, hanging"
+00070007_0336.jpg,594.999552,123.99976599999997,978.0,472.999802,1,truck,truck_595.00,"black, green, white, parked, large, blue","black, green, white, parked, large, blue"
+00070007_0336.jpg,0.9995160000000284,410.000173,978.0,638.000319,1,road,road_1.00,"black, white, blue, gray, green, dark","black, white, blue, gray, green, dark"
+00070007_0336.jpg,1.000494000000003,47.99992999999999,288.000462,241.000034,1,building,building_1.00,"green, red, white, gray, large, pink","green, red, white, gray, large, pink"
+00070007_0336.jpg,234.99970800000008,21.99983499999999,828.999744,278.999633,1,building,building_235.00,"green, white, large, black, big, red","green, white, large, black, big, red"
+00070007_0336.jpg,640.999782,215.000258,668.9999220000001,291.000094,1,man,man_641.00,"green, white, black, metal, blue, silver","green, white, black, metal, blue, silver"
+00070007_0336.jpg,1.0000049999999874,0.9997460000000088,645.999807,106.999618,1,trees,trees_1.00,"green, red, white, black, pink, colorful","green, red, white, black, pink, colorful"

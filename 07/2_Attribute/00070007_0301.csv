@@ -1,0 +1,11 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0301.jpg,177.000048,62.99991750000001,456.0,224.0000325,1,suv,suv_177.00,"red, parked, yellow, purple, blue, black","red, parked, yellow, purple, blue, black"
+00070007_0301.jpg,5.0002680000000055,49.00016250000001,216.000132,143.0000475,1,fire truck,fire truck_5.00,"red, double decker, white, yellow, large, long","red, double decker, white, yellow, large, long"
+00070007_0301.jpg,172.999788,92.0000475,195.999972,127.0000725,1,man,man_173.00,"pink, purple, open, small, white, closed","pink, purple, open, small, white, closed"
+00070007_0301.jpg,0.999779999999987,132.9999675,190.999932,254.9998725,1,road,road_1.00,"black, gray, yellow, empty, paved, wet","black, gray, yellow, empty, paved, wet"
+00070007_0301.jpg,254.99998800000003,0.9999825000000016,455.999772,92.0000475,1,trees,trees_255.00,"purple, black, green, pink, dark, yellow","purple, black, green, pink, dark, yellow"
+00070007_0301.jpg,218.000148,91.000065,260.000028,117.999975,1,truck,truck_218.00,"yellow, green, white, blue, small, black","yellow, green, white, blue, small, black"
+00070007_0301.jpg,117.00025200000002,174.9999975,381.000084,254.9998725,1,debris,debris_117.00,"metal, blue, yellow, silver, train, black","metal, blue, yellow, silver, train, black"
+00070007_0301.jpg,255.999768,97.9999425,265.999848,108.9998775,1,man,man_256.00,"yellow, green, white, small, blue, black","yellow, green, white, small, blue, black"
+00070007_0301.jpg,149.000052,102.9999825,172.000236,166.0000275,1,woman,woman_149.00,"green, glass, yellow, blue, open, white","green, glass, yellow, blue, open, white"
+00070007_0301.jpg,222.99996,81.9999675,271.99989600000004,108.0000225,1,ambulance,ambulance_223.00,"yellow, white, black, blue, small, green","yellow, white, black, blue, small, green"

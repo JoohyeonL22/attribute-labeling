@@ -1,0 +1,7 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0283.jpg,1.0001250000000006,39.9999,42.000075,159.9999,1,fire truck,fire truck_1.00,"['red', 'double decker', 'white', 'parked', 'black', 'large']"
+00070007_0283.jpg,118.9999125,162.0,224.9998875,300.0,1,car,car_119.00,"['black', 'red', 'green', 'dark', 'blue', 'parked']"
+00070007_0283.jpg,117.0,106.00005,148.00005,181.99995,1,man,man_117.00,"['yellow', 'black', 'glass', 'metal', 'red', 'white']"
+00070007_0283.jpg,0.9998999999999968,121.00005000000002,171.0,300.00015,1,road,road_1.00,"['gray', 'concrete', 'paved', 'yellow', 'white', 'black']"
+00070007_0283.jpg,83.00013750000002,123.0,167.0000625,150.0,1,vehicle,vehicle_83.00,"['yellow', 'glass', 'open', 'white', 'large', 'small']"
+00070007_0283.jpg,53.0001,1.0000500000000017,121.00005,135.00015000000002,1,tree,tree_53.00,"['tall', 'bare', 'large', 'blue', 'leafless', 'brown']"

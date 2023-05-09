@@ -1,0 +1,17 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0839.jpg,31.00032,111.000269,981.00072,447.000263,1,airplane,airplane_31.00,"white, green, blue, large, yellow, parked","white, parked"
+00070007_0839.jpg,172.9998,172.000127,763.99956,248.000169,1,building,building_173.00,"large, white, black, red, brown, blue","large, brown"
+00070007_0839.jpg,266.99976,263.9997785,378,283.9998215,1,car,car_267.00,"green, blue, small, white, teal, yellow",white
+00070007_0839.jpg,911.99952,196.0003,964.99944,318.000016,1,man,man_912.00,"standing, black, sitting, walking, pink, looking","standing, black"
+00070007_0839.jpg,208.00044,137.9999325,311.00004,265.9998435,1,tree,tree_208.00,"green, large, small, black, tall, yellow",green
+00070007_0839.jpg,406.99962,212.000213,454.00014,250.999963,1,truck,truck_407.00,"blue, white, green, small, large, square",white
+00070007_0839.jpg,99.9999,446.9999595,873.00018,606.9996965,1,sidewalk,sidewalk_100.00,"gray, concrete, white, green, cement, brown","gray, brown"
+00070007_0839.jpg,567,465.99997,724.99968,521.00024,1,debris,debris_567.00,"blue, green, black, silver, white, gray","black, white"
+00070007_0839.jpg,669.9996,398.999917,1080,602.000141,1,road,road_670.00,"gray, concrete, brown, wet, paved, cement","gray, brown"
+00070007_0839.jpg,982.00026,221.000202,1080.00054,525.00037,1,woman,woman_982.00,"standing, walking, young, wearing, yellow, green","standing, yellow"
+00070007_0839.jpg,835.00038,201.999888,904.0005,293.000114,1,person,person_835.00,"blue, sitting, standing, black, walking, looking","blue, standing"
+00070007_0839.jpg,774.00036,177.999715,827.00028,289.999713,1,man,man_774.00,"red, standing, open, orange, walking, white","red, standing"
+00070007_0839.jpg,816.99948,181.999845,872.99964,289.999713,1,man,man_817.00,"blue, open, white, red, standing, sitting",standing
+00070007_0839.jpg,970.99992,218.0001045,1080,242.0002775,1,cars,cars_971.00,"green, white, blue, large, black, long",black
+00070007_0839.jpg,1.00062,197.000029,65.00034,259.000223,1,crane,crane_1.00,"brown, green, sitting, small, white, large",large
+00070007_0839.jpg,0.99954,274.9998325,501.99966,552.0000335,1,field,field_1.00,"green, white, blue, brown, long, wooden",green

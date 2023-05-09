@@ -1,0 +1,11 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0848.jpg,2337.99975,1737.001266,2864.00025,1941.001062,1,basket,basket_2338.00,"black, small, dark, blue, white, large","black, small, dark, blue, white, large"
+00070007_0848.jpg,542.00025,2224.9992765,1284.9997500000002,2535.9989655000004,1,basket,basket_542.00,"blue, black, dark, small, dark blue, large","blue, black, dark, small, dark blue, large"
+00070007_0848.jpg,2438.001,954.999045,2735.001,1800.998199,1,man,man_2438.00,"standing, young, black, blue, sitting, walking","standing, young, black, blue, sitting, walking"
+00070007_0848.jpg,4034.0025,920.0005815,4413.001499999999,1411.0000905000002,1,man,man_4034.00,"standing, walking, blurry, young, watching, white","standing, walking, blurry, young, watching, white"
+00070007_0848.jpg,827.001,1164.001839,1383.003,2384.000619,1,man,man_827.00,"blue, sitting, standing, young, white, smiling","blue, sitting, standing, young, white, smiling"
+00070007_0848.jpg,0.999000000000251,1.00150050000002,4492.998,902.0005995,1,trees,trees_1.00,"green, tall, leafy, large, thick, dark","green, tall, leafy, large, thick, dark"
+00070007_0848.jpg,0.9989999999997964,871.0006305000002,4500.0,3003.0015015,1,water,water_1.00,"blue, calm, large, clear, dark, dark blue","blue, calm, large, clear, dark, dark blue"
+00070007_0848.jpg,1898.001,1148.001855,2367.0,1926.001077,1,woman,woman_1898.00,"standing, black, walking, young, blue, smiling","standing, black, walking, young, blue, smiling"
+00070007_0848.jpg,2669.00175,1058.9989409999998,2999.00025,1816.998183,1,woman,woman_2669.00,"standing, young, blonde, walking, sitting, blue","standing, young, blonde, walking, sitting, blue"
+00070007_0848.jpg,3304.0012500000003,1040.0004615,3579.99975,1794.9997065,1,woman,woman_3304.00,"standing, sitting, walking, brown, tan, old","standing, sitting, walking, brown, tan, old"

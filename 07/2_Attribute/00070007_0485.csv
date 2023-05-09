@@ -1,0 +1,13 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0485.jpg,354.99942,1.0001800000000003,1115.9995800000002,149.00016,1,building,building_355.00,"green, white, tall, large, gray, brown","green, white, tall, large, gray, brown"
+00070007_0485.jpg,1.0003500000000258,173.00018,1140.00057,430.0,1,water,water_1.00,"wet, gray, black, dark, calm, large","wet, gray, black, dark, calm, large"
+00070007_0485.jpg,304.00038,107.000125,403.00026,181.000115,1,car,car_304.00,"purple, pink, black, silver, gray, yellow","purple, pink, black, silver, gray, yellow"
+00070007_0485.jpg,370.99989,114.000095,671.99979,293.000065,1,car,car_371.00,"black, white, parked, yellow, blue, moving","black, white, parked, yellow, blue, moving"
+00070007_0485.jpg,75.00003000000001,125.00014,396.00009,326.0002,1,car,car_75.00,"purple, pink, black, colorful, gray, green","purple, pink, black, colorful, gray, green"
+00070007_0485.jpg,783.9996600000001,132.99986,981.99942,215.0,1,car,car_784.00,"red, blue, yellow, parked, white, black","red, blue, yellow, parked, white, black"
+00070007_0485.jpg,946.99971,126.000105,1138.99965,233.000015,1,car,car_947.00,"black, yellow, parked, blue, white, driving","black, yellow, parked, blue, white, driving"
+00070007_0485.jpg,44.00058,4.000075000000038,71.00034,428.000285,1,pole,pole_44.00,"metal, gray, black, tall, silver, wooden","metal, gray, black, tall, silver, wooden"
+00070007_0485.jpg,234.00039,69.000165,362.00073,110.000235,1,umbrella,umbrella_234.00,"green, blue, red, black, white, large","green, blue, red, black, white, large"
+00070007_0485.jpg,546.99993,68.0002,785.9997900000001,216.00018,1,van,van_547.00,"white, green, parked, silver, yellow, blue","white, green, parked, silver, yellow, blue"
+00070007_0485.jpg,1.0003499999999974,104.000015,255.00033,250.000065,1,cars,cars_1.00,"green, purple, colorful, pink, yellow, multi colored","green, purple, colorful, pink, yellow, multi colored"
+00070007_0485.jpg,272.00001,103.9998,304.99959,129.0,1,person,person_272.00,"glass, small, red, open, white, square","glass, small, red, open, white, square"

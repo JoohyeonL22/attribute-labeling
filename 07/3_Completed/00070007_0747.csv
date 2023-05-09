@@ -1,0 +1,17 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0747.jpg,2567.000475,0.999231,5850.002925,3155.997465,1,building,building_2567.00,"white, gray, large, old, brown, tan","white, gray"
+00070007_0747.jpg,1229.000175,533.000166,3970.000125,3748.000032,1,car,car_1229.00,"green, yellow, black, large, gray, big",green
+00070007_0747.jpg,1.003275,2256.998092,813.000825,3943.998596,1,man,man_1.00,"standing, sitting, black, watching, blue, wearing","standing, black"
+00070007_0747.jpg,1916.000775,2174.000214,2736.001125,3955.99932,1,man,man_1916.00,"standing, walking, white, young, looking, smiling","standing, white"
+00070007_0747.jpg,3128.003775,2127.000528,3638.000925,3804.99999,1,man,man_3128.00,"standing, blue, black, young, smiling, green","standing, blue"
+00070007_0747.jpg,3524.001975,2157.998585,4344.002325,3980.99801,1,man,man_3524.00,"standing, red, walking, wearing, white, green","standing, red"
+00070007_0747.jpg,3822.9984,1855.999925,5850,3980.99801,1,man,man_3823.00,"standing, walking, watching, blurry, black, sitting","standing, watching"
+00070007_0747.jpg,548.001675,2321.00063,1308.998925,3981.001991,1,man,man_548.00,"blue, standing, purple, white, looking, young","blue, standing"
+00070007_0747.jpg,1.003275,1.0012215,2551.000725,3336.000371,1,building,building_1.00,"gray, green, white, yellow, concrete, painted","gray, concrete"
+00070007_0747.jpg,547.001325,2487.999599,856.998675,3926.999726,1,man,man_547.00,"blue, standing, black, purple, white, long","standing, black"
+00070007_0747.jpg,1.003275,2246.00058,483.002325,3354.000462,1,person,person_1.00,"black, sitting, blue, standing, dark, gray","blue, standing"
+00070007_0747.jpg,2254.002075,2229.998951,3295.003725,3980.99801,1,man,man_2254.00,"sitting, standing, pink, walking, young, old","standing, pink"
+00070007_0747.jpg,4114.998225,2188.001391,4492.995975,3168.999411,1,man,man_4115.00,"green, white, standing, blue, walking, gray","green, standing"
+00070007_0747.jpg,4372.99785,2153.00243,4659.99885,2875.000571,1,man,man_4373.00,"blue, standing, red, black, young, sitting","standing, black"
+00070007_0747.jpg,4514.997825,2565.999332,4798.997775,3185.001041,1,person,person_4515.00,"blue, white, colorful, black, open, purple",blue
+00070007_0747.jpg,5450.997825,1930.000743,5849.997075,3046.002435,1,woman,woman_5451.00,"blonde, sitting, brown, blurry, standing, walking","blonde, standing"

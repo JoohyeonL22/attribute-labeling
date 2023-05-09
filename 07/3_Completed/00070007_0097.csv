@@ -1,0 +1,17 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0097.jpg,22.000078,43.999998,63.00013,75.000072,1,bush,bush_22.00,"green, white, black, blue, tall, clear",green
+00070007_0097.jpg,33.00003800000002,100.000017,275.99993,234.999957,1,bus,bus_33.00,"black, silver, white, gray, green, parked",white
+00070007_0097.jpg,193.00016,155.000133,204.00012,192.00009900000003,1,person,person_193.00,"green, white, black, blue, street, metal",white
+00070007_0097.jpg,201.99999800000003,156.000036,214.000098,194.000142,1,person,person_202.00,"green, blue, white, black, small, square",green
+00070007_0097.jpg,235.99986,143.9998965,253.999852,186.9999915,1,person,person_236.00,"yellow, black, metal, small, blue, red",black
+00070007_0097.jpg,254.999992,98.9999955,316.0,176.0001105,1,people,people_255.00,"standing, watching, red, walking, sitting, white","standing, red"
+00070007_0097.jpg,184.000006,29.999934000000003,282.000138,96.999834,1,people,people_184.00,"black, large, glass, framed, hanging, metal",
+00070007_0097.jpg,125.999944,42.000073500000006,172.999888,108.0000705,1,people,people_126.00,"metal, wooden, blue, glass, black, brown",
+00070007_0097.jpg,87.99999599999998,9.000075000000002,174.999852,56.000019,1,people,people_88.00,"orange, framed, wooden, white, brown, black",
+00070007_0097.jpg,32.99988,69.0000615,43.000016,98.0000925,1,person,person_33.00,"glass, black, white, tall, small, large",black
+00070007_0097.jpg,31.999897999999995,108.99997349999998,43.999998,140.99995049999998,1,person,person_32.00,"white, green, black, glass, blue, open",black
+00070007_0097.jpg,104.000024,81.999867,122.000016,112.999941,1,person,person_104.00,"green, small, pink, wooden, metal, open",
+00070007_0097.jpg,95.000186,75.99997499999999,108.00011,102.999963,1,person,person_95.00,"pink, purple, small, white, red, colorful",white
+00070007_0097.jpg,53.999976,107.999952,61.999832,137.999886,1,person,person_54.00,"green, blue, white, metal, small, square","green, blue"
+00070007_0097.jpg,1.0001400000000018,76.00009349999999,26.999988,115.0001025,1,people,people_1.00,"pink, red, small, purple, hanging, framed",
+00070007_0097.jpg,0.9999819999999886,1.0000214999999884,315.999842,237.0001185,1,hill,hill_1.00,"black, white, brown, green, gray, metal",green

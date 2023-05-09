@@ -1,0 +1,15 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0781.jpg,149.00060399999995,617.000267,1015.000146,814.000533,1,boat,boat_149.00,"purple, pink, metal, black, colorful, white","metal, black"
+00070007_0781.jpg,1547.0000685000002,0.9998110000000224,2127.0010635000003,621.999809,1,building,building_1547.00,"white, large, closed, tall, gray, big",white
+00070007_0781.jpg,548.99997,451.000473,834.000954,816.000155,1,man,man_549.00,"sitting, gray, black, purple, white, pink",gray
+00070007_0781.jpg,1107.998967,100.999417,1146.999639,657.999823,1,pole,pole_1108.00,"black, metal, tall, gray, silver, blue","metal, gray"
+00070007_0781.jpg,844.0010445,283.000083,866.0006055000001,639.000005,1,pole,pole_844.00,"blue, metal, black, tall, silver, long",tall
+00070007_0781.jpg,1078.0008225,55.000319000000005,1181.0007975,100.000093,1,sign,sign_1078.00,"green, white, red, blue, street, black","green, street"
+00070007_0781.jpg,1325.0008245,49.00047900000001,1374.0005235,244.000149,1,sign,sign_1325.00,"white, black, silver, metal, red, green","white, metal"
+00070007_0781.jpg,0.9996899999998732,1.000298000000015,1549.000512,381.000554,1,tree,tree_1.00,"green, yellow, large, blue, tall, black",green
+00070007_0781.jpg,0.9996900000001006,616.9997799999999,2127.0,974.0,1,water,water_1.00,"gray, white, wet, concrete, calm, purple","wet, calm"
+00070007_0781.jpg,772.001031,121.999831,939.000309,290.000221,1,sign,sign_772.00,"red, white, stop, black, octagonal, square","red, stop"
+00070007_0781.jpg,212.99990700000004,448.99939,417.0004770000001,727.999742,1,man,man_213.00,"sitting, green, black, blue, gray, white","sitting, green"
+00070007_0781.jpg,376.9990515,528.0005299999999,588.9992685,716.000062,1,man,man_377.00,"gray, sitting, red, black, blue, green",gray
+00070007_0781.jpg,1594.0003875,679.000237,1709.0008965,752.000563,1,cone,cone_1594.00,"pink, black, red, orange, colorful, purple",red
+00070007_0781.jpg,1999.0003305,708.999924,2116.0002195,778.0000319999999,1,cone,cone_1999.00,"pink, red, sitting, small, laying, little",red

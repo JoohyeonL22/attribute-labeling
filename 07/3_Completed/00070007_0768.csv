@@ -1,0 +1,17 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0768.jpg,1406.0004335,549.9998750000001,1550.0005105,675.999825,1,basket,basket_1406.00,"white, blue, plastic, large, full, clear","white, plastic"
+00070007_0768.jpg,682.9994225,547.9994375,826.9994995,681.9999624999999,1,basket,basket_683.00,"white, black, gray, large, yellow, black and white",white
+00070007_0768.jpg,1433.0007785000005,82.00031250000006,1763.0008815,526.9998375,1,building,building_1433.00,"red, tall, large, gray, pink, brown",gray
+00070007_0768.jpg,720.000385,467.00081250000005,789.000679,521.0002875,1,car,car_720.00,"white, blue, silver, small, large, black",silver
+00070007_0768.jpg,231.000601,227.99935,267.001061,725.9996,1,pole,pole_231.00,"green, metal, blue, silver, long, tall","green, metal"
+00070007_0768.jpg,0.9996209999999336,0.999924999999962,1730.999787,521.999625,1,trees,trees_1.00,"bare, leafless, white, brown, tall, gray","bare, leafless"
+00070007_0768.jpg,1.000502499999925,505.9996500000001,1763.0008815,1175.0,1,water,water_1.00,"wet, gray, brown, calm, large, clear","wet, brown"
+00070007_0768.jpg,1454.0007530000005,368.99993749999993,1678.000481,879.0004624999999,1,woman,woman_1454.00,"standing, walking, blonde, young, smiling, white","walking, blonde"
+00070007_0768.jpg,677.0008150000001,370.00045000000006,947.000739,908.00005,1,woman,woman_677.00,"standing, skiing, young, walking, black, smiling","walking, black"
+00070007_0768.jpg,618.000257,493.0000375,794.000547,520.0003625,1,road,road_618.00,"white, silver, blue, metal, black, red",
+00070007_0768.jpg,183.9999025,219.0006125,332.99984750000004,367.00008750000006,1,sign,sign_184.00,"green, red, white, traffic, black, street","white, traffic"
+00070007_0768.jpg,41.000328,0.9999250000000188,105.000754,767.999975,1,pole,pole_41.00,"wooden, wood, metal, brown, gray, tall","wooden, brown"
+00070007_0768.jpg,1.000502499999925,256.0001874999999,1383.0003355,529.9996125,1,building,building_1.00,"bare, green, white, tall, large, leafless",tall
+00070007_0768.jpg,1383.999075,444.0001875,1633.9995270000002,535.0004125,1,suv,suv_1384.00,"black, pink, red, purple, white, long",black
+00070007_0768.jpg,420.9999925,509.9999375,514.0000055,554.0001625,1,mailbox,mailbox_421.00,"blue, purple, colorful, pink, green, multi colored",
+00070007_0768.jpg,1.0005025000000387,530.0002000000001,596.0006615,817.9997500000001,1,field,field_1.00,"green, brown, dirt, blue, sandy, grassy","green, grassy"

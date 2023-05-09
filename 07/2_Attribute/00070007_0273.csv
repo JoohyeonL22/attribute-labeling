@@ -1,0 +1,7 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0273.jpg,1.0003500000000258,0.9998364999999864,1140.00057,501.00017750000006,1,building,building_1.00,"white, blue, gray, parked, red, painted","white, blue, gray, parked, red, painted"
+00070007_0273.jpg,51.99996000000005,431.000066,538.0002,692.0000319999999,1,man,man_52.00,"sitting, laying, young, kneeling, blue, wearing","sitting, laying, young, kneeling, blue, wearing"
+00070007_0273.jpg,331.99992,47.999723500000016,865.00008,627.9997364999999,1,car,car_332.00,"blue, white, black, gray, silver, metal","blue, white, black, gray, silver, metal"
+00070007_0273.jpg,1.0003500000000258,487.999912,1140.00057,797.0,1,snow,snow_1.00,"white, gray, metal, brown, concrete, wooden","white, gray, metal, brown, concrete, wooden"
+00070007_0273.jpg,424.0002,587.9999005,764.00064,714.0000215,1,debris,debris_424.00,"purple, pink, metal, white, red, colorful","purple, pink, metal, white, red, colorful"
+00070007_0273.jpg,0.9997800000000012,199.00014050000004,198.99954,538.0001055,1,suv,suv_1.00,"white, parked, blue, red, large, silver","white, parked, blue, red, large, silver"

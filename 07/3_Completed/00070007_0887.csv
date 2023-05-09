@@ -1,0 +1,16 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0887.jpg,909.0,740.0005485,1014.0,840.0005335,1,man,man_909.00,"green, sitting, riding, standing, white, watching",standing
+00070007_0887.jpg,1688.0,655.0002314999999,1813.0,782.0001465,1,basketball board,basketball board_1688.00,"white, green, blue, gray, large, small","gray, small"
+00070007_0887.jpg,412.0,6.000790499999994,1612.0,788.0002774999999,1,tree,tree_412.00,"green, tall, brown, large, leafy, bare","green, leafy"
+00070007_0887.jpg,1.0,0.9998020000000452,1561.0,1319.0,1,trees,trees_1.00,"green, tall, brown, black, large, white",green
+00070007_0887.jpg,1014.0,636.9998385,1442.0,883.9997354999999,1,truck,truck_1014.00,"green, white, blue, parked, silver, yellow",white
+00070007_0887.jpg,1227.0,674.999569,1712.0,887.9996029999999,1,truck,truck_1227.00,"green, blue, colorful, parked, yellow, black","parked, black"
+00070007_0887.jpg,1763.0,702.9993010000001,2000.0,939.999859,1,truck,truck_1763.00,"black, red, large, white, double decker, big",black
+00070007_0887.jpg,178.0,689.9998965,1041.0,1082.0001015,1,truck,truck_178.00,"green, silver, gray, black, parked, white",silver
+00070007_0887.jpg,1044.0,932.000124,2000.0,1319.0,1,road,road_1044.00,"brown, dirt, red, wet, gray, dirty","brown, dirty"
+00070007_0887.jpg,1186.0,702.0001585,1251.0,922.0001255,1,man,man_1186.00,"orange, standing, red, walking, yellow, colorful","orange, walking"
+00070007_0887.jpg,1518.0,699.0007524999999,1569.0,814.0004054999999,1,man,man_1518.00,"black, standing, yellow, red, blue, sitting","black, standing"
+00070007_0887.jpg,1579.0,696.9998295,1622.0,784.9995524999999,1,man,man_1579.00,"green, blue, standing, red, colorful, walking","green, standing"
+00070007_0887.jpg,1020.0,646.0000349999999,1423.0,900.999667,1,truck,truck_1020.00,"white, green, silver, parked, gray, blue",white
+00070007_0887.jpg,1308.0,0.9998019999999884,2000.0,629.9992460000001,1,tree,tree_1308.00,"green, tall, white, brown, bare, large","green, brown"
+00070007_0887.jpg,1.0,6.00013100000001,617.0,354.999617,1,trees,trees_1.00,"green, red, brown, wooden, large, tall",green

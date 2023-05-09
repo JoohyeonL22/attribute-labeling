@@ -1,0 +1,10 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0824.jpg,365,419.000015,586,559.000155,1,cloth,cloth_365.00,"yellow, black, small, metal, plastic, old","yellow, small"
+00070007_0824.jpg,749,264.0005165,777,333.0001815,1,man,man_749.00,"white, black, standing, blue, green, large","white, standing"
+00070007_0824.jpg,90,145.000044,205,439.000338,1,woman,woman_90.00,"blue, green, standing, sitting, walking, wearing","green, standing"
+00070007_0824.jpg,377,1.0000515,1000,345.0000925,1,trees,trees_377.00,"green, tall, white, large, red, blue","green, large"
+00070007_0824.jpg,1,0.999698,484,342.999636,1,trees,trees_1.00,"green, red, tall, white, large, black",green
+00070007_0824.jpg,302,321.0002705,441,337.0003875,1,road,road_302.00,"red, white, black, blue, small, orange",black
+00070007_0824.jpg,3,337.0003875,1000,705.0002505,1,dirt,dirt_3.00,"wet, brown, gray, dirty, sandy, dirt","brown, gray"
+00070007_0824.jpg,169,161.000161,241,409.999905,1,woman,woman_169.00,"green, blue, standing, sitting, metal, gray","standing, gray"
+00070007_0824.jpg,699,265.9999125,718,320.9995635,1,man,man_699.00,"blue, orange, standing, red, white, walking","blue, orange"

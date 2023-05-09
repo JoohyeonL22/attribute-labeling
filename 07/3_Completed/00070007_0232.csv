@@ -1,0 +1,8 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0232.jpg,225.9990745,532.000907,285.9995615,592.0003849999999,1,camera,camera_226.00,"blue, black, white, small, gray, dark",blue
+00070007_0232.jpg,434.00184699999977,348.9995184999999,2485.000703,1710.9995915,1,car,car_434.00,"white, parked, black, blue, large, gray","parked, gray"
+00070007_0232.jpg,159.9988345,491.999126,384.9999215,1068.000076,1,man,man_160.00,"standing, purple, walking, pink, gray, black","standing, black"
+00070007_0232.jpg,0.9994659999997566,74.00084650000002,2912.99984,1078.0010535,1,mountain,mountain_1.00,"pink, white, purple, gray, red, parked",
+00070007_0232.jpg,1840.99863,1.000630000000001,2957.0,995.000924,1,fire truck,fire truck_1841.00,"pink, purple, yellow, red, colorful, multi colored",red
+00070007_0232.jpg,0.9994659999997566,995.0009240000002,2957.0,2129.0,1,road,road_1.00,"gray, black, wet, paved, concrete, asphalt","gray, paved"
+00070007_0232.jpg,2352.9987445,1428.0001375,2956.9985215,2045.9998705,1,debris,debris_2353.00,"gray, black, dark, dirty, wet, brown",black

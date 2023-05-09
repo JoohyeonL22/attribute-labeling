@@ -1,0 +1,11 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0826.jpg,420.999111,797.9994875000001,497.999899,984.9995625,1,hose,hose_421.00,"['yellow', 'black', 'large', 'metal', 'open', 'green']"
+00070007_0826.jpg,154.999434,136.99971250000004,233.999464,1034.9993375,1,pole,pole_155.00,"['wooden', 'gray', 'tall', 'wood', 'brown', 'metal']"
+00070007_0826.jpg,503.99938800000007,1.0005125000000137,1763.0,660.0004375,1,smoke,smoke_504.00,"['blue', 'white', 'cloudy', 'gray', 'green', 'black']"
+00070007_0826.jpg,1.000502499999982,0.999924999999962,909.0001555,784.999875,1,trees,trees_1.00,"['green', 'tall', 'large', 'blue', 'white', 'clear']"
+00070007_0826.jpg,309.00100999999995,399.0000375,1534.000404,1052.0004125,1,truck,truck_309.00,"['yellow', 'white', 'blue', 'large', 'parked', 'green']"
+00070007_0826.jpg,318.9998645,658.0005875,398.9995155,768.0005625,1,smoke,smoke_319.00,"['yellow', 'white', 'gold', 'black', 'large', 'standing']"
+00070007_0826.jpg,348.99995400000006,668.0004250000001,488.999784,767.9999750000001,1,fire,fire_349.00,"['brown', 'large', 'white', 'yellow', 'big', 'red']"
+00070007_0826.jpg,428.0008655,965.9998125,844.0001085,1026.9999375,1,fire,fire_428.00,"['brown', 'metal', 'white', 'dirty', 'large', 'rusty']"
+00070007_0826.jpg,530.9997330000001,22.99945,1469.000357,458.99965,1,fire,fire_531.00,"['white', 'orange', 'green', 'blue', 'cloudy', 'red']"
+00070007_0826.jpg,1.000502499999925,943.9997,1763.0008815,1175.0,1,road,road_1.00,"['gray', 'concrete', 'paved', 'cement', 'asphalt', 'black']"

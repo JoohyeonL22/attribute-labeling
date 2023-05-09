@@ -1,0 +1,7 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0647.jpg,536.999925,85.99989500000001,632.9996749999999,382.999945,1,man,man_537.00,"blue, green, colorful, purple, white, metal",green
+00070007_0647.jpg,618.000075,72.99969500000003,710.000445,352.999845,1,man,man_618.00,"green, pink, colorful, purple, yellow, white","green, yellow"
+00070007_0647.jpg,1.0002299999999875,1.0001599999999655,483.00021,470.0,1,tree,tree_1.00,"purple, black, gray, pink, white, brick",gray
+00070007_0647.jpg,622.999685,103.999955,638.000055,129.99988499999998,1,man,man_623.00,"green, white, black, small, blue, digital",white
+00070007_0647.jpg,548.000145,75.000015,609.999775,111.999825,1,man,man_548.00,"blue, white, small, black, square, clear",black
+00070007_0647.jpg,25.999820000000028,228.000055,419.00012,452.999865,1,car,car_26.00,"purple, pink, metal, black, white, large",metal

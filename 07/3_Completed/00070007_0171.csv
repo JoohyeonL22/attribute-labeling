@@ -1,0 +1,5 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0171.jpg,353.00032,144.99972,1090.0,570.99996,1,car,car_353.00,"black, silver, gray, parked, white, green",gray
+00070007_0171.jpg,981.00032,117.0,1086.0,301.99968,1,man,man_981.00,"sitting, bald, blue, black, old, smiling",bald
+00070007_0171.jpg,1.0003200000001016,548.00028,1280.00064,720.00036,1,road,road_1.00,"gray, concrete, brown, paved, tan, red","gray, brown"
+00070007_0171.jpg,1.0003200000001016,1.0000799999999683,1280.00064,559.00008,1,trees,trees_1.00,"green, black, tall, dark, large, gray",green

@@ -1,0 +1,9 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0840.jpg,0.9995999999999868,1.000427999999971,1393.0,510.000132,1,airplane,airplane_1.00,"white, green, small, yellow, parked, black",white
+00070007_0840.jpg,384.9999999999999,0.9997920000000136,1400.0,379.000032,1,trees,trees_385.00,"green, white, blue, large, big, small",green
+00070007_0840.jpg,1.00030000000001,1.0001100000000065,404.0001,151.999866,1,trees,trees_1.00,"bare, brown, leafless, red, dead, tall","bare, brown"
+00070007_0840.jpg,0.9996000000001004,356.000046,1400.0,634.99989,1,road,road_1.00,"gray, yellow, paved, concrete, black, asphalt","gray, asphalt"
+00070007_0840.jpg,988.0003,291.00021000000004,1187.0005,446.000406,1,barrier,barrier_988.00,"yellow, black, purple, metal, green, pink","black, metal"
+00070007_0840.jpg,847.0,282.000174,952.0,406.0004579999999,1,man,man_847.00,"sitting, purple, black, pink, watching, small",black
+00070007_0840.jpg,946.0003,215.00011800000004,1027.0001,420.00009,1,man,man_946.00,"purple, pink, colorful, green, black, blue",black
+00070007_0840.jpg,1.0002999999999955,93.00005400000002,138.00009999999995,335.999754,1,building,building_1.00,"red, white, black, pink, open, large",

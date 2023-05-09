@@ -1,0 +1,8 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0276.jpg,2.9998800000000188,241.000025,390.99996,390.000137,1,car,car_3.00,"white, green, blue, parked, silver, light blue","white, green, blue, parked, silver, light blue"
+00070007_0276.jpg,0.9995700000000056,203.000185,133.99971,283.00003300000003,1,car,car_1.00,"blue, white, green, parked, silver, gray","blue, white, green, parked, silver, gray"
+00070007_0276.jpg,0.9995700000000056,305.000079,482.99979,425.999893,1,fence,fence_1.00,"blue, white, green, metal, silver, gray","blue, white, green, metal, silver, gray"
+00070007_0276.jpg,618.0002400000001,354.99998400000004,780.0,439.0,1,fence,fence_618.00,"white, green, glass, clear, metal, silver","white, green, glass, clear, metal, silver"
+00070007_0276.jpg,0.9995700000000056,0.9998224999999934,367.99971,204.0000075,1,trees,trees_1.00,"red, white, gray, green, bare, large","red, white, gray, green, bare, large"
+00070007_0276.jpg,635.99991,0.9998225000000004,779.9996100000001,74.99985749999999,1,trees,trees_636.00,"white, red, pink, green, blue, gray","white, red, pink, green, blue, gray"
+00070007_0276.jpg,115.00007999999995,0.9998224999999934,780.0,390.9999595,1,building,building_115.00,"white, gray, blue, green, large, old","white, gray, blue, green, large, old"

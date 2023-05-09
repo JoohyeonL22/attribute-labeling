@@ -1,0 +1,11 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0801.jpg,802.0005930000001,614.999434,1047.000999,835.999962,1,car,car_802.00,"green, white, silver, yellow, red, metal","green, white, silver, yellow, red, metal"
+00070007_0801.jpg,382.99959,190.000671,413.99921400000005,590.000313,1,pole,pole_383.00,"tall, metal, gray, wooden, large, black","tall, metal, gray, wooden, large, black"
+00070007_0801.jpg,826.000704,375.000521,858.0008520000001,592.000143,1,pole,pole_826.00,"green, blue, tall, metal, white, black","green, blue, tall, metal, white, black"
+00070007_0801.jpg,1.0005239999999276,549.999975,1588.001112,1245.999377,1,road,road_1.00,"wet, gray, black, paved, empty, yellow","wet, gray, black, paved, empty, yellow"
+00070007_0801.jpg,1223.999844,39.99971499999998,1662.0,654.999149,1,tree,tree_1224.00,"green, tall, blue, large, white, big","green, tall, blue, large, white, big"
+00070007_0801.jpg,862.999317,331.999815,1443.999615,590.000313,1,trees,trees_863.00,"green, blue, tall, large, leafy, big","green, blue, tall, large, leafy, big"
+00070007_0801.jpg,1.0005240000000413,678.999601,1656.00018,969.999163,1,water,water_1.00,"wet, yellow, gray, paved, brown, concrete","wet, yellow, gray, paved, brown, concrete"
+00070007_0801.jpg,471.998859,514.0005430000001,704.999625,569.000229,1,building,building_472.00,"yellow, black, white, long, gray, blue","yellow, black, white, long, gray, blue"
+00070007_0801.jpg,753.99954,535.000004,823.999656,563.0001159999999,1,building,building_754.00,"red, double decker, white, parked, orange, yellow","red, double decker, white, parked, orange, yellow"
+00070007_0801.jpg,286.99997700000006,197.000076,304.000575,520.9999479999999,1,pole,pole_287.00,"tall, metal, gray, wooden, silver, long","tall, metal, gray, wooden, silver, long"

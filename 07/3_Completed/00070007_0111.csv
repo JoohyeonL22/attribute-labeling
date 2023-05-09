@@ -1,0 +1,9 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0111.jpg,174,313.00008,258,436.99992,1,cone,cone_174.00,"orange, red, colorful, white, yellow, pink",orange
+00070007_0111.jpg,349,273,415,372,1,cone,cone_349.00,"orange, red, white, gray, small, plastic","red, plastic"
+00070007_0111.jpg,461,253.00008,519,330.00024,1,cone,cone_461.00,"yellow, orange, red, metal, black, white",red
+00070007_0111.jpg,540,234.99984,588,300.99984,1,cone,cone_540.00,"orange, green, red, blue, white, plastic","orange, plastic"
+00070007_0111.jpg,590,219.99984,634,279.99984,1,cone,cone_590.00,"orange, red, white, black, green, small","orange, small"
+00070007_0111.jpg,1,273,639.99968,480,1,road,road_1.00,"gray, concrete, red, paved, cement, yellow","gray, paved"
+00070007_0111.jpg,170.99968,154.00008,438.99968,406.99992,1,bus,bus_171.00,"purple, pink, yellow, colorful, multi colored, orange",yellow
+00070007_0111.jpg,1,0.99984,639.99968,465.99984,1,trees,trees_1.00,"green, gray, red, black, tall, pink","green, tall"

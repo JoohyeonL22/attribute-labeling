@@ -1,0 +1,11 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0929.jpg,138.00022400000006,139.99996800000002,450.000144,289.000104,1,van,van_138.00,"['white', 'parked', 'large', 'old', 'black', 'silver']"
+00070007_0929.jpg,1.0000789999999995,271.99989,318.00011300000006,371.999814,1,branch,branch_1.00,"['brown', 'bare', 'red', 'dry', 'dead', 'gray']"
+00070007_0929.jpg,429.000171,37.00005,443.000153,148.99995,1,pole,pole_429.00,"['green', 'blue', 'metal', 'tall', 'white', 'light blue']"
+00070007_0929.jpg,357.999901,188.999994,561.999719,371.999814,1,road,road_358.00,"['white', 'gray', 'paved', 'concrete', 'wet', 'cement']"
+00070007_0929.jpg,0.9997979999999984,0.999935999999991,428.99989,316.9998,1,trees,trees_1.00,"['white', 'bare', 'red', 'brown', 'black', 'silver']"
+00070007_0929.jpg,520.000054,166.000164,528.9999220000001,191.000052,1,man,man_520.00,"['blue', 'purple', 'white', 'pink', 'small', 'red']"
+00070007_0929.jpg,391.00026,30.99987600000001,562.0,180.00001200000003,1,trees,trees_391.00,"['green', 'purple', 'large', 'tall', 'pink', 'bare']"
+00070007_0929.jpg,16.999937999999993,123.999876,108.000102,168.999972,1,building,building_17.00,"['red', 'white', 'black', 'metal', 'small', 'clear']"
+00070007_0929.jpg,130.999952,1.0001220000000046,358.99998,298.000086,1,tree,tree_131.00,"['bare', 'leafless', 'white', 'brown', 'tall', 'large']"
+00070007_0929.jpg,1.999876999999998,267.99996,358.999699,372.0,1,sidewalk,sidewalk_2.00,"['brown', 'red', 'pink', 'bare', 'gray', 'white']"

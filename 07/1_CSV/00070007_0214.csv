@@ -1,0 +1,13 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0214.jpg,563.0,203.00007,637.0,255.00013,1,building,building_563.00,"['white', 'small', 'open', 'large', 'brown', 'glass']"
+00070007_0214.jpg,75.0,91.000105,477.0,272.000281,1,bus,bus_75.00,"['double decker', 'pink', 'purple', 'yellow', 'parked', 'red']"
+00070007_0214.jpg,58.0,223.99993,470.0,395.9998,1,car,car_58.00,"['black', 'parked', 'blue', 'gray', 'old', 'orange']"
+00070007_0214.jpg,1.0,66.99992950000001,639.0,199.9997545,1,mountain,mountain_1.00,"['purple', 'pink', 'green', 'black', 'large', 'tall']"
+00070007_0214.jpg,350.00000000000006,1.0002475000000075,365.00032,86.0001485,1,pole,pole_350.00,"['purple', 'gray', 'tall', 'metal', 'black', 'pink']"
+00070007_0214.jpg,297.0,13.000228500000002,319.0,49.00017149999999,1,sign,sign_297.00,"['blue', 'green', 'yellow', 'white', 'hanging', 'colorful']"
+00070007_0214.jpg,1.0,223.0001095,91.0,361.0001045,1,ramp,ramp_1.00,"['black', 'blue', 'orange', 'metal', 'green', 'gray']"
+00070007_0214.jpg,340.00032,152.9998645,566.9999999999999,291.9998935,1,debris,debris_340.00,"['purple', 'pink', 'yellow', 'colorful', 'large', 'orange']"
+00070007_0214.jpg,259.0,37.0001905,277.0,75.0002015,1,traffic light,traffic light_259.00,"['green', 'blue', 'red', 'white', 'large', 'tall']"
+00070007_0214.jpg,246.00032,54.9999485,260.00032,86.9997555,1,traffic light,traffic light_246.00,"['green', 'red', 'white', 'blue', 'tall', 'traffic']"
+00070007_0214.jpg,230.0,69.999818,242.0,98.99995,1,traffic light,traffic light_230.00,"['red', 'orange', 'black', 'white', 'pink', 'metal']"
+00070007_0214.jpg,1.0003200000000163,211.0001285,509.00032,427.0002135,1,road,road_1.00,"['black', 'gray', 'parked', 'wet', 'blue', 'orange']"

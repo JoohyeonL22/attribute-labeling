@@ -1,0 +1,6 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0470.jpg,67.0,133.99992,425.99968,283.00008,1,car,car_67.00,"black, green, metal, white, silver, gray","black, green, metal, white, silver, gray"
+00070007_0470.jpg,1.0,0.999840000000006,639.99968,255.99984,1,trees,trees_1.00,"green, red, black, tall, dark, leafy","green, red, black, tall, dark, leafy"
+00070007_0470.jpg,1.000319999999995,304.99992000000003,122.0,389.99976,1,rocks,rocks_1.00,"green, gray, black, small, metal, blue","green, gray, black, small, metal, blue"
+00070007_0470.jpg,144.0,258.99984,276.0,309.99984,1,rocks,rocks_144.00,"green, metal, wooden, brown, silver, white","green, metal, wooden, brown, silver, white"
+00070007_0470.jpg,436.00032,178.99992,506.00032,242.99976,1,rocks,rocks_436.00,"green, black, small, metal, old, square","green, black, small, metal, old, square"

@@ -1,0 +1,4 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0526.jpg,204.00000000000009,215.99998,676.0,334.999868,1,car,car_204.00,"['green', 'silver', 'blue', 'gray', 'parked', 'white']"
+00070007_0526.jpg,1.0,0.9998939999999976,800.0,102.999722,1,trees,trees_1.00,"['green', 'red', 'large', 'leafy', 'tall', 'dark']"
+00070007_0526.jpg,1.0,109.00015,800.0,532.000266,1,water,water_1.00,"['brown', 'calm', 'clear', 'murky', 'wet', 'dirty']"

@@ -1,0 +1,13 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0877.jpg,112.00008499999998,0.999750000000006,161.00040499999997,686.00025,1,pole,pole_112.00,"['green', 'metal', 'tall', 'black', 'long', 'white']"
+00070007_0877.jpg,242.99974,411.00075,267.99946,626.0002499999999,1,pole,pole_243.00,"['black', 'yellow', 'metal', 'gray', 'tall', 'green']"
+00070007_0877.jpg,687.0004325,427.0005,707.0000275,670.0005,1,pole,pole_687.00,"['black', 'metal', 'tall', 'green', 'silver', 'long']"
+00070007_0877.jpg,739.999495,507.00075,757.999945,671.00025,1,pole,pole_740.00,"['black', 'tall', 'metal', 'blue', 'silver', 'gray']"
+00070007_0877.jpg,221.0005475,402.00075,284.00031249999995,479.0002500000001,1,sign,sign_221.00,"['yellow', 'black', 'green', 'orange', 'white', 'street']"
+00070007_0877.jpg,232.99949,479.00025,275.99966,519.00075,1,sign,sign_233.00,"['yellow', 'black', 'white', 'orange', 'red', 'traffic']"
+00070007_0877.jpg,1.0000249999999935,618.99975,727.0000749999999,956.00025,1,truck,truck_1.00,"['green', 'white', 'yellow', 'gray', 'parked', 'silver']"
+00070007_0877.jpg,0.9995724999999992,642.0,904.9995475,1500.0,1,water,water_1.00,"['blue', 'gray', 'white', 'calm', 'wet', 'green']"
+00070007_0877.jpg,1.0000249999999935,1130.00025,354.999825,1398.0007500000002,1,cart,cart_1.00,"['metal', 'black', 'silver', 'gray', 'large', 'iron']"
+00070007_0877.jpg,385.999695,436.0005,404.000145,625.0005,1,pole,pole_386.00,"['yellow', 'gold', 'metal', 'long', 'tall', 'orange']"
+00070007_0877.jpg,1.000477499999988,638.00025,903.0004025,783.99975,1,road,road_1.00,"['yellow', 'gray', 'white', 'green', 'painted', 'black']"
+00070007_0877.jpg,0.9995724999999992,0.999750000000006,904.9995475,656.00025,1,building,building_1.00,"['green', 'gray', 'white', 'blue', 'cloudy', 'concrete']"

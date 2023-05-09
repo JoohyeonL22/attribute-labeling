@@ -1,0 +1,12 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0852.jpg,286.0003755,497.0003665,533.0009924999999,579.0004095,1,car,car_286.00,"green, double decker, blue, yellow, white, colorful","green, double decker, blue, yellow, white, colorful"
+00070007_0852.jpg,333.9996929999999,757.0002205000001,772.0001729999999,1006.9998575,1,boat,boat_334.00,"black, green, large, small, orange, wooden","black, green, large, small, orange, wooden"
+00070007_0852.jpg,684.9996659999999,517.0000769999999,975.99924,996.000487,1,man,man_685.00,"orange, standing, red, green, walking, smiling","orange, standing, red, green, walking, smiling"
+00070007_0852.jpg,349.999704,13.000571499999978,396.999468,580.0002865,1,pole,pole_350.00,"tall, wooden, black, metal, gray, brown","tall, wooden, black, metal, gray, brown"
+00070007_0852.jpg,807.0002865,10.999370500000056,1426.0008015,619.9997075,1,tree,tree_807.00,"green, tall, large, leafy, brown, yellow","green, tall, large, leafy, brown, yellow"
+00070007_0852.jpg,0.999553500000161,549.0004819999999,1430.9992845000002,1447.0,1,water,water_1.00,"calm, green, blue, clear, murky, large","calm, green, blue, clear, murky, large"
+00070007_0852.jpg,499.00043249999993,682.9991934999999,744.0005114999999,762.9994825,1,person,person_499.00,"red, orange, green, white, blue, pink","red, orange, green, white, blue, pink"
+00070007_0852.jpg,498.0001635,459.999853,849.0001364999999,572.000547,1,truck,truck_498.00,"colorful, pink, red, green, purple, multi colored","colorful, pink, red, green, purple, multi colored"
+00070007_0852.jpg,724.9996935,479.00040999999993,974.9996865,547.000728,1,car,car_725.00,"green, red, colorful, blue, pink, yellow","green, red, colorful, blue, pink, yellow"
+00070007_0852.jpg,246.00034800000003,224.99981800000003,1431.0,543.9996500000001,1,building,building_246.00,"green, large, tall, white, brown, gray","green, large, tall, white, brown, gray"
+00070007_0852.jpg,3.0000914999999964,1212.9998420000002,999.0004185,1447.0,1,grass,grass_3.00,"green, tall, grassy, short, long, growing","green, tall, grassy, short, long, growing"

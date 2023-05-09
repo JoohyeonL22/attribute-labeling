@@ -1,0 +1,17 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0185.jpg,785.999872,362.999808,1020.000256,510.999552,1,building,building_786.00,"white, clear, large, blue, glass, gray","white, gray"
+00070007_0185.jpg,142.999552,253.999872,572.99968,499.999488,1,fire,fire_143.00,"red, blue, large, black, clear, big",red
+00070007_0185.jpg,337.000448,456.999936,458.000384,671.000064,1,firefighter,firefighter_337.00,"sitting, standing, young, watching, blonde, walking",watching
+00070007_0185.jpg,854.000128,451.999872,916.000256,610.99968,1,firefighter,firefighter_854.00,"yellow, standing, walking, gray, white, sitting","yellow, walking"
+00070007_0185.jpg,314.000384,463.999488,353.000448,505.999872,1,sign,sign_314.00,"red, blue, white, orange, large, hanging",red
+00070007_0185.jpg,124.000256,0.999936,1024,622.000128,1,smoke,smoke_124.00,"white, blue, gray, black, green, dark","gray, black"
+00070007_0185.jpg,0.999936,155.000448,155.999744,412.000128,1,tree,tree_1.00,"bare, leafless, tall, white, large, blue","bare, leafless"
+00070007_0185.jpg,100.99968,372.999936,582.999552,614.999808,1,bus,bus_101.00,"large, blue, yellow, big, green, glass","large, yellow"
+00070007_0185.jpg,910.00064,485.000064,948.000256,590.000256,1,firefighter,firefighter_910.00,"green, metal, glass, purple, black, white",green
+00070007_0185.jpg,962.000384,479.999616,1024.000512,682.99968,1,firefighter,firefighter_962.00,"purple, glass, green, white, metal, pink",green
+00070007_0185.jpg,0.999936,655.999872,1023.999488,767.999616,1,snow,snow_1.00,"yellow, white, green, painted, gray, long",gray
+00070007_0185.jpg,0.999936,465.000192,137.999872,610.000128,1,snow,snow_1.00,"white, blue, parked, large, yellow, gray",white
+00070007_0185.jpg,0.999936,313.999872,77.999616,476.000256,1,building,building_1.00,"white, red, pink, glass, large, tall","white, red"
+00070007_0185.jpg,209.999872,545.999616,1024,709.999872,1,hose,hose_210.00,"green, yellow, white, metal, gray, blue",yellow
+00070007_0185.jpg,0.999936,538.99968,1023.999488,740.999808,1,road,road_1.00,"gray, white, yellow, green, concrete, metal","gray, white"
+00070007_0185.jpg,792.999936,363.999744,1024,506.999808,1,building,building_793.00,"white, clear, large, glass, blue, gray","large, gray"

@@ -1,0 +1,10 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0219.jpg,1.0004799999999818,130.99996000000002,758.0002039999999,367.00020000000006,1,bus,bus_1.00,"green, white, yellow, parked, silver, gray",white
+00070007_0219.jpg,119.99988,255.000096,499.9995,406.000304,1,car,car_120.00,"white, parked, green, silver, black, gray",white
+00070007_0219.jpg,926.000036,245.000264,962.0,301.000024,1,car,car_926.00,"sitting, walking, standing, watching, green, blue",
+00070007_0219.jpg,768.9997119999999,0.9998079999999944,960.99952,109.999904,1,sign,sign_769.00,"green, black, white, large, blue, big",green
+00070007_0219.jpg,746.000216,121.00012800000002,826.000136,182.999904,1,tree,tree_746.00,"pink, purple, red, colorful, small, black",
+00070007_0219.jpg,80.999438,48.00042000000001,333.999666,168.000156,1,trees,trees_81.00,"green, red, white, tall, large, clear",green
+00070007_0219.jpg,722.00024,147.999908,927.000516,314.000156,1,truck,truck_722.00,"red, double decker, white, large, pink, tall",large
+00070007_0219.jpg,490.000472,273.99995199999995,886.000076,413.000128,1,debris,debris_490.00,"red, green, metal, black, white, gray","metal, black"
+00070007_0219.jpg,1.0004799999999818,283.000268,962.0,584.0002920000001,1,road,road_1.00,"gray, concrete, paved, cement, empty, white","gray, paved"

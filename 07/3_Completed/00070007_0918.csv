@@ -1,0 +1,5 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0918.jpg,104.00013,1.0001100000000065,160.00023,255.0,1,tree,tree_104.00,"wooden, brown, wood, tall, large, red","brown, wood"
+00070007_0918.jpg,220.999935,0.9999825000000016,389.999805,206.9999475,1,tree,tree_221.00,"green, red, white, orange, old, metal",green
+00070007_0918.jpg,21.00013499999997,48.999907500000006,379.000245,203.9998725,1,junk vehicle,junk vehicle_21.00,"white, old, silver, green, gray, red","white, old"
+00070007_0918.jpg,0.9999599999999872,1.0001099999999994,328.00014,98.00007,1,trees,trees_1.00,"green, red, orange, white, leafy, tall","green, leafy"

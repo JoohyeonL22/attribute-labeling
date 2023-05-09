@@ -1,0 +1,15 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0452.jpg,1.000799999999998,366.99966,290.00016000000005,516.99978,1,building,building_1.00,"brown, tall, large, tan, brick, beige","brown, brick"
+00070007_0452.jpg,268.00056000000006,1.0000800000000254,1440.00072,1080.0,1,building,building_268.00,"large, gray, white, concrete, dark, brick","large, gray"
+00070007_0452.jpg,466.00056,495.99972,1170.00072,764.99964,1,car,car_466.00,"white, green, black, gray, silver, parked",white
+00070007_0452.jpg,1.000799999999991,441.00018,101.00016,582.99966,1,fire truck,fire truck_1.00,"red, white, double decker, parked, yellow, black",red
+00070007_0452.jpg,185.0004,459.99954,313.00055999999995,746.99982,1,man,man_185.00,"walking, standing, blue, wearing, black, young","walking, blue"
+00070007_0452.jpg,1.000079999999997,525.0004200000001,340.00055999999995,1080.00054,1,road,road_1.00,"yellow, gray, white, painted, paved, wet","gray, paved"
+00070007_0452.jpg,1323.0,882.00036,1440.0,939.0006,1,debris,debris_1323.00,"red, white, black, blue, orange, small","white, small"
+00070007_0452.jpg,358.00056000000006,745.99974,1440.00072,1078.99938,1,sidewalk,sidewalk_358.00,"wet, concrete, brown, gray, cement, dirty","wet, brown"
+00070007_0452.jpg,590.0004,529.99974,677.0008799999999,759.9997800000001,1,firefighter,firefighter_590.00,"black, open, green, gray, dark, large",black
+00070007_0452.jpg,714.00024,531.99936,770.0004,618.99984,1,man,man_714.00,"yellow, black, sitting, open, large, orange","black, sitting"
+00070007_0452.jpg,834.00048,490.00032,920.00016,570.00024,1,man,man_834.00,"sitting, standing, walking, black, driving, white","standing, black"
+00070007_0452.jpg,744.00048,467.0001,798.00048,507.00006,1,man,man_744.00,"green, red, traffic, white, lit, black",
+00070007_0452.jpg,590.0004,469.00026,646.0005600000001,504.9999,1,man,man_590.00,"green, white, black, street, blue, neon",black
+00070007_0452.jpg,140.99904,512.99946,157.99967999999998,557.99982,1,person,person_141.00,"red, orange, white, traffic, black, yellow","white, black"

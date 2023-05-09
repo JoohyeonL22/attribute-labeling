@@ -1,0 +1,10 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0771.jpg,1606,1655.001516,4000,2100.001134,1,boat,boat_1606.00,"black, long, white, yellow, gray, wooden",gray
+00070007_0771.jpg,2093,102.0007485,3348,1467.000686,1,building,building_2093.00,"brick, brown, large, tall, red, old","brick, brown"
+00070007_0771.jpg,154,1101.999066,805,2316.998922,1,man,man_154.00,"skiing, standing, yellow, young, wearing, purple","standing, yellow"
+00070007_0771.jpg,1582,1063.000859,2144,2319.000506,1,man,man_1582.00,"standing, yellow, skiing, walking, black, wearing","standing, yellow"
+00070007_0771.jpg,3185,1195.998815,3748,1756.999598,1,man,man_3185.00,"sitting, green, yellow, blue, white, riding",green
+00070007_0771.jpg,587,1591.998975,1712,1853.999721,1,rope,rope_587.00,"white, long, black, red, tennis, yellow","white, long"
+00070007_0771.jpg,1,0.9987915,2294,1304.999105,1,trees,trees_1.00,"bare, leafless, tall, brown, large, white","bare, leafless"
+00070007_0771.jpg,1,1338.000563,4000,2667.001334,1,water,water_1.00,"wet, gray, black, calm, green, clear","wet, gray"
+00070007_0771.jpg,2952,1312.998771,3325,1765.999389,1,man,man_2952.00,"yellow, blue, green, sitting, colorful, red","yellow, sitting"

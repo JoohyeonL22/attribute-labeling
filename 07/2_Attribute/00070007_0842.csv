@@ -1,0 +1,8 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0842.jpg,102.0,9.0,932.0,920.0,1,airplane,airplane_102.00,"white, red, large, silver, green, big","white, red, large, silver, green, big"
+00070007_0842.jpg,34.0,534.0,136.0,814.0,1,man,man_34.00,"green, standing, yellow, walking, sitting, red","green, standing, yellow, walking, sitting, red"
+00070007_0842.jpg,587.0,640.0,726.0,945.0,1,firefighter,firefighter_587.00,"standing, brown, red, young, skiing, sitting","standing, brown, red, young, skiing, sitting"
+00070007_0842.jpg,0.9999999999999432,1.0,1000.0,665.0,1,trees,trees_1.00,"white, green, red, large, big, tall","white, green, red, large, big, tall"
+00070007_0842.jpg,311.0,691.0,450.0,934.0,1,firefighter,firefighter_311.00,"purple, standing, pink, gray, brown, walking","purple, standing, pink, gray, brown, walking"
+00070007_0842.jpg,98.0,512.0,211.0,819.0,1,firefighter,firefighter_98.00,"green, standing, sitting, white, metal, yellow","green, standing, sitting, white, metal, yellow"
+00070007_0842.jpg,1.0,707.0,997.0,818.0,1,road,road_1.00,"yellow, metal, white, green, gray, black","yellow, metal, white, green, gray, black"

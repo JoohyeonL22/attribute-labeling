@@ -1,0 +1,10 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0297.jpg,1.0001999999999924,1.0001654999999978,142.0002,56.000110500000005,1,building,building_1.00,"['pink', 'purple', 'large', 'white', 'black', 'brown']"
+00070007_0297.jpg,84.99989999999997,1.0001655000000014,599.9997000000001,86.0000805,1,building,building_85.00,"['pink', 'purple', 'brown', 'large', 'black', 'tall']"
+00070007_0297.jpg,225.0003,55.0001115,317.0001,86.0000805,1,bush,bush_225.00,"['purple', 'green', 'pink', 'small', 'black', 'large']"
+00070007_0297.jpg,324.0,29.00013749999999,432.0,84.00008249999999,1,bush,bush_324.00,"['purple', 'green', 'blue', 'glass', 'large', 'pink']"
+00070007_0297.jpg,462.0,48.999951,600.0,98.999901,1,bush,bush_462.00,"['green', 'purple', 'large', 'tall', 'pink', 'black']"
+00070007_0297.jpg,10.999799999999992,48.00011849999999,592.9998,304.0001955,1,car,car_11.00,"['green', 'parked', 'purple', 'black', 'silver', 'white']"
+00070007_0297.jpg,178.0002,1.0001655000000085,196.0002,100.0000665,1,pole,pole_178.00,"['brown', 'wooden', 'metal', 'black', 'wood', 'tall']"
+00070007_0297.jpg,230.0001,15.0001515,309.00030000000004,60.0001065,1,sign,sign_230.00,"['purple', 'blue', 'white', 'black', 'pink', 'gray']"
+00070007_0297.jpg,0.9998999999999684,55.999944,599.9997000000001,333.0,1,grass,grass_1.00,"['green', 'purple', 'parked', 'black', 'pink', 'white']"

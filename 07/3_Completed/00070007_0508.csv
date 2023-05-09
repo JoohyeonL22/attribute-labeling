@@ -1,0 +1,4 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0508.jpg,137.00012700000002,137.000137,319.000121,194.000083,1,car,car_137.00,"pink, purple, yellow, white, black, red",black
+00070007_0508.jpg,1.000076000000007,0.999962999999994,374.0,194.999909,1,trees,trees_1.00,"green, tall, red, leafy, blurry, white","green, leafy"
+00070007_0508.jpg,1.000076000000007,161.99989699999998,374.0,273.999863,1,water,water_1.00,"yellow, green, black, gray, wet, concrete","yellow, wet"

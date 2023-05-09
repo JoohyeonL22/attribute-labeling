@@ -1,0 +1,13 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0139.jpg,449.0001,168.000027,492.0002999999999,228.000097,1,car,car_449.00,"purple, pink, white, colorful, small, metal","purple, pink, white, colorful, small, metal"
+00070007_0139.jpg,480.0,165.999912,543.0,234.999908,1,car,car_480.00,"yellow, orange, glass, black, metal, blue","yellow, orange, glass, black, metal, blue"
+00070007_0139.jpg,501.0,171.000115,585.0,245.000145,1,car,car_501.00,"glass, orange, yellow, open, metal, brown","glass, orange, yellow, open, metal, brown"
+00070007_0139.jpg,120.0003,0.9999730000000112,350.0001,240.000111,1,fire,fire_120.00,"red, yellow, green, large, white, tall","red, yellow, green, large, white, tall"
+00070007_0139.jpg,206.0001,207.000157,321.00030000000004,299.000039,1,motorbike,motorbike_206.00,"green, blue, metal, silver, white, small","green, blue, metal, silver, white, small"
+00070007_0139.jpg,0.9998999999999684,182.99996,599.9997000000001,338.0,1,road,road_1.00,"gray, black, concrete, wet, empty, yellow","gray, black, concrete, wet, empty, yellow"
+00070007_0139.jpg,0.9999000000000108,1.0001419999999968,155.00009999999995,153.000094,1,trees,trees_1.00,"green, large, brown, red, dark, brick","green, large, brown, red, dark, brick"
+00070007_0139.jpg,492.9999,0.9999729999999828,599.9997000000001,264.99994300000003,1,tree,tree_493.00,"green, tall, large, leafy, brown, big","green, tall, large, leafy, brown, big"
+00070007_0139.jpg,161.0001,99.000031,321.00030000000004,225.000009,1,bus,bus_161.00,"glass, large, metal, white, red, yellow","glass, large, metal, white, red, yellow"
+00070007_0139.jpg,240.9999,157.00015499999998,302.9997,273.00006499999995,1,man,man_241.00,"blue, metal, green, glass, sitting, open","blue, metal, green, glass, sitting, open"
+00070007_0139.jpg,209.9997,0.9999729999999972,441.9999,178.000095,1,smoke,smoke_210.00,"large, black, dark, blue, red, blurry","large, black, dark, blue, red, blurry"
+00070007_0139.jpg,1.0002000000000066,143.000026,151.0002,194.999974,1,people,people_1.00,"yellow, red, black, white, metal, glass","yellow, red, black, white, metal, glass"

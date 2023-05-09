@@ -1,0 +1,11 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0474.jpg,236.00008599999995,153.999812,918.0005099999998,388.999964,1,car,car_236.00,"red, parked, maroon, purple, black, brown","red, parked, maroon, purple, black, brown"
+00070007_0474.jpg,953.999863,213.000258,968.000077,236.000122,1,cone,cone_954.00,"pink, purple, small, white, red, black","pink, purple, small, white, red, black"
+00070007_0474.jpg,460.000059,18.00001400000005,485.000089,408.999918,1,pole,pole_460.00,"blue, metal, tall, gray, black, silver","blue, metal, tall, gray, black, silver"
+00070007_0474.jpg,551.000464,214.000228,986.0,554.0,1,road,road_551.00,"gray, red, paved, wet, concrete, brick","gray, red, paved, wet, concrete, brick"
+00070007_0474.jpg,149.00037600000002,379.000264,814.000188,554.0,1,sidewalk,sidewalk_149.00,"gray, concrete, brown, wet, white, paved","gray, concrete, brown, wet, white, paved"
+00070007_0474.jpg,610.000239,0.9999700000000048,986.000493,160.000186,1,trees,trees_610.00,"bare, brown, blue, black, leafless, purple","bare, brown, blue, black, leafless, purple"
+00070007_0474.jpg,887.000177,157.99996899999996,983.000095,227.000115,1,truck,truck_887.00,"purple, pink, white, silver, gray, parked","purple, pink, white, silver, gray, parked"
+00070007_0474.jpg,231.00008,277.99997,342.000016,389.999934,1,debris,debris_231.00,"blue, metal, open, black, silver, clear","blue, metal, open, black, silver, clear"
+00070007_0474.jpg,512.999531,71.999779,899.9996010000001,211.000041,1,tank,tank_513.00,"pink, purple, red, metal, black, blue","pink, purple, red, metal, black, blue"
+00070007_0474.jpg,383.000361,132.000195,510.999923,176.99995299999998,1,tank,tank_383.00,"white, blue, parked, silver, large, small","white, blue, parked, silver, large, small"

@@ -1,0 +1,7 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0017.jpg,217.00008,42.99992,403.99992,185.0,1,bus,bus_217.00,"['large', 'black', 'old', 'parked', 'brown', 'big']"
+00070007_0017.jpg,108.00024000000002,109.9999825,244.00008000000005,159.00000749999998,1,car,car_108.00,"['silver', 'parked', 'black', 'gray', 'blue', 'small']"
+00070007_0017.jpg,379.99992,85.9999325,479.99976,93.9998875,1,trees,trees_380.00,"['orange', 'pink', 'yellow', 'purple', 'black', 'red']"
+00070007_0017.jpg,1.000079999999997,83.99999000000001,145.99992,113.99996,1,people,people_1.00,"['white', 'black', 'pink', 'purple', 'silver', 'red']"
+00070007_0017.jpg,1.000080000000004,53.000095,99.00024,93.000055,1,building,building_1.00,"['red', 'pink', 'green', 'purple', 'white', 'black']"
+00070007_0017.jpg,382.99992,93.99998,479.99976,118.00002999999998,1,grass,grass_383.00,"['orange', 'green', 'white', 'wooden', 'brown', 'small']"

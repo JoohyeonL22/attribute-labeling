@@ -1,0 +1,6 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0272.jpg,1.0003200000001016,78.00011999999995,1280.00064,531.00036,1,car,car_1.00,"black, green, dark, white, silver, moving","black, dark"
+00070007_0272.jpg,1013.00032,64.00008,1154.99968,185.0004,1,man,man_1013.00,"sitting, bald, black, driving, white, clear",bald
+00070007_0272.jpg,1.000319999999988,0.9997199999999964,386.0,246.99996,1,trees,trees_1.00,"green, red, white, clear, large, blue",green
+00070007_0272.jpg,617.0003200000001,1.000079999999997,1280.00064,257.99976000000004,1,trees,trees_617.00,"green, black, blue, silver, clear, sitting",green
+00070007_0272.jpg,1.0003200000001016,505.00008,1280.00064,718.99992,1,truck,truck_1.00,"black, green, white, metal, silver, glass","black, metal"

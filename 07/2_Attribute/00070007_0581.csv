@@ -1,0 +1,10 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0581.jpg,504.0001700000001,154.99995,620.0003100000001,233.99985000000004,1,fire,fire_504.00,"green, black, orange, large, red, blurry","green, black, orange, large, red, blurry"
+00070007_0581.jpg,1.0000600000000013,152.00009999999995,60.99994,350.0,1,man,man_1.00,"standing, gray, walking, sitting, large, tall","standing, gray, walking, sitting, large, tall"
+00070007_0581.jpg,34.99993,1.000124999999997,64.99987,220.999975,1,pole,pole_35.00,"tall, red, white, metal, black, pink","tall, red, white, metal, black, pink"
+00070007_0581.jpg,135.99978999999996,117.00010000000002,422.99965,273.0,1,van,van_136.00,"black, purple, silver, pink, moving, red","black, purple, silver, pink, moving, red"
+00070007_0581.jpg,0.9997499999999492,194.0001,619.99969,350.0,1,road,road_1.00,"metal, brown, gray, empty, black, green","metal, brown, gray, empty, black, green"
+00070007_0581.jpg,31.0,180.00009999999995,97.00024,252.0,1,gun,gun_31.00,"green, white, yellow, blue, colorful, metal","green, white, yellow, blue, colorful, metal"
+00070007_0581.jpg,145.00001999999998,231.0,173.9999,267.9999,1,person,person_145.00,"small, glass, open, closed, square, dark","small, glass, open, closed, square, dark"
+00070007_0581.jpg,49.00015000000002,231.0,539.9998499999999,287.0,1,debris,debris_49.00,"green, metal, white, black, silver, pink","green, metal, white, black, silver, pink"
+00070007_0581.jpg,269.99977,1.0001250000000113,616.00007,206.999975,1,smoke,smoke_270.00,"green, black, gray, white, dark, cloudy","green, black, gray, white, dark, cloudy"

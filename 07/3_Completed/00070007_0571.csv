@@ -1,0 +1,14 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0571.jpg,0.9995519999999942,1.0001600000000224,608.999808,260.000104,1,building,building_1.00,"brick, yellow, brown, large, red, tan","brick, brown"
+00070007_0571.jpg,552.9999359999999,165.000066,768.0,339.99987,1,car,car_553.00,"blue, yellow, parked, black, white, green",blue
+00070007_0571.jpg,0.9995519999999942,160.000064,295.999872,524.9999439999999,1,man,man_1.00,"sitting, young, wearing, standing, leaning, looking","wearing, looking"
+00070007_0571.jpg,0.999935999999991,270.999736,768.0,532.0,1,road,road_1.00,"gray, wet, brown, yellow, wooden, metal",brown
+00070007_0571.jpg,424.000128,86.99982200000001,510.0,315.999754,1,man,man_424.00,"standing, walking, gray, green, old, older","standing, gray"
+00070007_0571.jpg,194.999808,253.000048,488.999424,486.000088,1,woman,woman_195.00,"green, metal, black, blue, sitting, silver",blue
+00070007_0571.jpg,277.999488,214.99982,476.999808,356.000036,1,man,man_278.00,"sitting, watching, standing, black, metal, green","watching, black"
+00070007_0571.jpg,453.999744,250.000366,538.9996799999999,272.000162,1,sidewalk,sidewalk_454.00,"red, green, pink, orange, wooden, yellow",
+00070007_0571.jpg,505.999872,186.000234,548.0002559999999,262.000158,1,person,person_506.00,"standing, sitting, red, pink, black, brown","standing, black"
+00070007_0571.jpg,384.0,134.00016,432.999936,218.999928,1,woman,woman_384.00,"green, blue, wooden, orange, metal, small",green
+00070007_0571.jpg,370.000128,151.00022,397.999872,218.0003,1,woman,woman_370.00,"standing, red, green, blue, black, sitting","standing, red"
+00070007_0571.jpg,369.999744,137.000108,408.999552,175.99996400000003,1,man,man_370.00,"green, white, blue, standing, red, black",standing
+00070007_0571.jpg,0.999935999999991,97.999986,383.000064,342.00019000000003,1,dumpster,dumpster_1.00,"yellow, white, parked, large, black, red","yellow, large"

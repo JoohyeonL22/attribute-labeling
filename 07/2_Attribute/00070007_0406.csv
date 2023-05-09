@@ -1,0 +1,12 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0406.jpg,319.99995,208.0002375,554.99985,430.0003125,1,car,car_320.00,"black, red, large, metal, orange, gray","black, red, large, metal, orange, gray"
+00070007_0406.jpg,544.0005,212.9999625,645.0003,298.9996875,1,motorbike,motorbike_544.00,"sitting, white, yellow, black, driving, riding","sitting, white, yellow, black, driving, riding"
+00070007_0406.jpg,652.9999499999999,209.999925,680.9998499999999,247.999725,1,motorbike,motorbike_653.00,"green, white, red, glass, open, blue","green, white, red, glass, open, blue"
+00070007_0406.jpg,432.0,209.00025,900.0,675.0,1,road,road_432.00,"gray, paved, concrete, wet, cement, black","gray, paved, concrete, wet, cement, black"
+00070007_0406.jpg,1.0003499999999974,1.0003500000000116,423.00045,170.00009999999995,1,trees,trees_1.00,"green, tall, large, leafy, pine, red","green, tall, large, leafy, pine, red"
+00070007_0406.jpg,502.99965,116.0004375,899.99955,229.0001625,1,trees,trees_503.00,"green, tall, large, white, leafy, bare","green, tall, large, white, leafy, bare"
+00070007_0406.jpg,658.00035,194.0000625,684.00045,239.0002875,1,person,person_658.00,"green, white, red, open, glass, double decker","green, white, red, open, glass, double decker"
+00070007_0406.jpg,742.99995,192.0000375,763.9996500000001,241.0003125,1,person,person_743.00,"green, blue, red, metal, orange, small","green, blue, red, metal, orange, small"
+00070007_0406.jpg,242.0001,254.0001375,315.9999,316.9999125,1,debris,debris_242.00,"green, black, metal, blue, small, empty","green, black, metal, blue, small, empty"
+00070007_0406.jpg,508.99995,275.9997375,644.99985,420.9998625,1,debris,debris_509.00,"yellow, gray, black, orange, white, blue","yellow, gray, black, orange, white, blue"
+00070007_0406.jpg,0.9998999999999684,171.99978750000002,600.0002999999999,674.9996625,1,grass,grass_1.00,"green, grassy, brown, short, tall, dry","green, grassy, brown, short, tall, dry"

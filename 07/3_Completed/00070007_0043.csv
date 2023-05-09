@@ -1,0 +1,12 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0043.jpg,162.99964799999998,86.99985699999999,616.000032,290.999967,1,building,building_163.00,"yellow, white, red, large, tall, gray",gray
+00070007_0043.jpg,432.0,236.0001215,567.0,305.0002105,1,bus,bus_432.00,"yellow, red, pink, orange, colorful, double decker",yellow
+00070007_0043.jpg,213.9998400000001,291.9999215,672.9998400000001,489.0000565,1,car,car_214.00,"pink, purple, white, parked, silver, gray",white
+00070007_0043.jpg,633.999744,25.999991000000023,660.999744,320.000115,1,pole,pole_634.00,"green, tall, metal, long, wooden, white","tall, wooden"
+00070007_0043.jpg,653.9996160000001,298.9998965,864.0,509.9999815,1,road,road_654.00,"pink, purple, metal, silver, gray, black","metal, black"
+00070007_0043.jpg,585.9997920000001,367.9999855,863.999568,473.9998585,1,ramp,ramp_586.00,"purple, pink, black, silver, metal, gray","black, metal"
+00070007_0043.jpg,1.0000800000000254,1.000247999999985,555.999984,237.000076,1,trees,trees_1.00,"bare, leafless, white, tall, gray, large","bare, leafless"
+00070007_0043.jpg,690.999984,71.99965900000001,863.999568,318.999867,1,trees,trees_691.00,"bare, leafless, tall, large, green, brown","bare, leafless"
+00070007_0043.jpg,64.999584,198.000383,442.999584,325.000181,1,fire truck,fire truck_65.00,"red, double decker, green, blue, moving, long","red, long"
+00070007_0043.jpg,310.999824,258.000001,352.999728,342.999949,1,man,man_311.00,"sitting, green, standing, wooden, small, pink",standing
+00070007_0043.jpg,724.000464,282.000083,769.000176,313.999801,1,car,car_724.00,"orange, wooden, red, small, green, brown",

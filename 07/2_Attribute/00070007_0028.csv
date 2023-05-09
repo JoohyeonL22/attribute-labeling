@@ -1,0 +1,8 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0028.jpg,209.99972599999995,116.00025249999992,794.0000259999999,507.0001475,1,bus,bus_210.00,"white, yellow, double decker, orange, parked, moving","white, yellow, double decker, orange, parked, moving"
+00070007_0028.jpg,725.9997970000001,383.0001125,801.999811,435.0001975,1,car,car_726.00,"blue, red, small, white, black, silver","blue, red, small, white, black, silver"
+00070007_0028.jpg,164.00039099999998,425.000265,201.000025,511.000175,1,man,man_164.00,"green, black, traffic, metal, red, white","green, black, traffic, metal, red, white"
+00070007_0028.jpg,590.999712,424.00019,914.0,545.0,1,road,road_591.00,"white, gray, black, yellow, painted, blue","white, gray, black, yellow, painted, blue"
+00070007_0028.jpg,1.0003729999999962,126.00018500000002,337.00048300000003,413.999985,1,trees,trees_1.00,"green, tall, red, white, large, blue","green, tall, red, white, large, blue"
+00070007_0028.jpg,746.999861,1.0000749999999812,913.999543,362.999975,1,tree,tree_747.00,"green, tall, large, leafy, evergreen, pine","green, tall, large, leafy, evergreen, pine"
+00070007_0028.jpg,0.9994590000000017,419.0000875,617.999729,545.0002725,1,grass,grass_1.00,"green, black, gray, concrete, white, long","green, black, gray, concrete, white, long"

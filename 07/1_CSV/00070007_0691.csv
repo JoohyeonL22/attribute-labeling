@@ -1,0 +1,7 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0691.jpg,0.9999375000000016,71.0,95.0000625,110.0,1,building,building_1.00,"['black', 'pink', 'purple', 'yellow', 'red', 'large']"
+00070007_0691.jpg,244.00012500000005,61.0,373.000125,119.0,1,building,building_244.00,"['red', 'gray', 'yellow', 'white', 'black', 'metal']"
+00070007_0691.jpg,201.00018750000004,126.0,233.0000625,186.0,1,fire hydrant,fire hydrant_201.00,"['red', 'green', 'traffic', 'white', 'electric', 'blue']"
+00070007_0691.jpg,0.9999375000000156,102.0,374.0000625,250.0,1,water,water_1.00,"['calm', 'clear', 'wet', 'reflective', 'brown', 'murky']"
+00070007_0691.jpg,315.00018750000004,6.0,374.0000625,134.0,1,tree,tree_315.00,"['orange', 'red', 'wooden', 'white', 'glass', 'black']"
+00070007_0691.jpg,1.000124999999997,1.0,244.000125,104.0,1,trees,trees_1.00,"['green', 'tall', 'red', 'large', 'white', 'leafy']"

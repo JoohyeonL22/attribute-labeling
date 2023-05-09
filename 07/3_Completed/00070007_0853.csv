@@ -1,0 +1,14 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0853.jpg,1250.001003,484.000601,1455.000393,553.000343,1,car,car_1250.00,"silver, gray, red, black, parked, small",gray
+00070007_0853.jpg,866.000058,627.000283,923.00001,723.000845,1,fire hydrant,fire hydrant_866.00,"red, small, standing, white, pink, black","red, small"
+00070007_0853.jpg,412.000659,773.999625,523.000653,1233.999151,1,pole,pole_412.00,"black, blue, metal, green, long, gray","black, metal"
+00070007_0853.jpg,667.000488,0.999915,705.000456,692.999657,1,pole,pole_667.00,"purple, metal, tall, black, gray, pink","metal, gray"
+00070007_0853.jpg,196.000491,405.999755,592.000245,798.999369,1,sign,sign_196.00,"red, white, stop, black, green, octagonal","red, stop"
+00070007_0853.jpg,1.000524,160.000729,179.000724,507.000515,1,tree,tree_1.00,"green, tall, large, blue, leafy, big","green, leafy"
+00070007_0853.jpg,227.000115,392.000322,314.000829,483.999978,1,tree,tree_227.00,"green, yellow, blue, black, colorful, large",green
+00070007_0853.jpg,740.999376,0.999915,1662,681.999969,1,tree,tree_741.00,"green, tall, large, big, leafy, dark","green, leafy"
+00070007_0853.jpg,1.000524,465.999639,1662,1245.000085,1,water,water_1.00,"wet, gray, black, dark, concrete, brown","wet, brown"
+00070007_0853.jpg,935.000481,300.999958,1662.000831,494.000374,1,trees,trees_935.00,"green, tall, yellow, large, leafy, white","green, leafy"
+00070007_0853.jpg,519.00105,432.000037,664.000578,490.000091,1,building,building_519.00,"green, yellow, black, small, white, blue",white
+00070007_0853.jpg,103.99965,444.999555,249.999702,488.999553,1,building,building_104.00,"yellow, green, blue, colorful, white, red",white
+00070007_0853.jpg,868.001106,450.999668,949.000338,486.9991,1,building,building_868.00,"yellow, white, metal, small, gold, silver",

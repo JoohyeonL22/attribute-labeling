@@ -1,0 +1,8 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0713.jpg,607.999392,698.999868,907.000416,812.0006999999999,1,building,building_608.00,"blue, white, green, silver, gray, small","blue, white, green, silver, gray, small"
+00070007_0713.jpg,791.9997119999999,923.0000219999996,2766.998304,1539.0001619999998,1,car,car_792.00,"white, black, green, gray, parked, blue","white, black, green, gray, parked, blue"
+00070007_0713.jpg,0.9999360000001616,789.000912,4032.0,2268.0,1,field,field_1.00,"green, brown, dry, grassy, tall, gray","green, brown, dry, grassy, tall, gray"
+00070007_0713.jpg,2615.999904,827.0001179999999,2835.99792,1303.001154,1,man,man_2616.00,"green, blue, gray, pink, white, purple","green, blue, gray, pink, white, purple"
+00070007_0713.jpg,2669.000544,843.9987779999999,3082.002336,1474.99947,1,man,man_2669.00,"green, pink, purple, sitting, standing, wearing","green, pink, purple, sitting, standing, wearing"
+00070007_0713.jpg,1964.001312,405.001296,4032.002016,798.000336,1,trees,trees_1964.00,"green, tall, large, leafy, thick, red","green, tall, large, leafy, thick, red"
+00070007_0713.jpg,1.001952000000017,588.9996000000001,592.0004160000001,811.0005120000001,1,building,building_1.00,"gray, white, green, small, large, red","gray, white, green, small, large, red"

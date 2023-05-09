@@ -1,0 +1,14 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0536.jpg,336.0,1.000079999999997,480.0,135.0,1,building,building_336.00,"green, tall, large, leafy, small, red",red
+00070007_0536.jpg,132.00024000000002,105.999975,175.00008000000005,131.00008499999998,1,car,car_132.00,"red, wooden, yellow, small, metal, orange","red, metal"
+00070007_0536.jpg,155.00016,111.999915,248.00016,154.999845,1,car,car_155.00,"red, black, parked, driving, white, moving",black
+00070007_0536.jpg,367.99992,158.999895,479.99976,269.999865,1,car,car_368.00,"black, parked, dark, white, gray, driving",black
+00070007_0536.jpg,47.00016000000001,113.99994,113.00016,152.99982,1,car,car_47.00,"green, white, red, small, metal, blue","white, small"
+00070007_0536.jpg,378.99984,94.000095,390.99984,103.000005,1,sign,sign_379.00,"white, pink, small, black, red, square",small
+00070007_0536.jpg,336.0,0.999945000000011,480.0,141.00007499999998,1,tree,tree_336.00,"green, tall, large, red, white, leafy","green, large"
+00070007_0536.jpg,32.000159999999994,0.999945000000004,326.00016,100.000035,1,trees,trees_32.00,"green, red, large, tall, glass, big","green, tall"
+00070007_0536.jpg,24.99984,84.000105,72.99984,120.000015,1,truck,truck_25.00,"green, white, wooden, yellow, metal, small","white, metal"
+00070007_0536.jpg,1.0000799999999683,111.00010499999998,480.00024,270.000135,1,water,water_1.00,"wet, gray, black, paved, white, concrete","wet, gray"
+00070007_0536.jpg,301.00008,94.999905,336.00024,120.000015,1,truck,truck_301.00,"wooden, white, yellow, metal, brown, blue",metal
+00070007_0536.jpg,83.00016,12.000014999999998,347.00016,125.000145,1,building,building_83.00,"red, green, large, big, tall, glass",red
+00070007_0536.jpg,1.000080000000004,84.999915,124.99992,121.999905,1,cars,cars_1.00,"green, yellow, white, wooden, metal, small","white, metal"

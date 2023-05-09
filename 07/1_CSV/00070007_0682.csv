@@ -1,0 +1,11 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0682.jpg,383.99961600000006,241.99993500000005,836.999644,472.999669,1,car,car_384.00,"['white', 'parked', 'silver', 'gray', 'blue', 'large']"
+00070007_0682.jpg,101.99989800000002,221.000134,245.999754,315.00022,1,car,car_102.00,"['green', 'double decker', 'yellow', 'red', 'white', 'black']"
+00070007_0682.jpg,643.0003190000001,194.0002525,697.000265,248.9999755,1,man,man_643.00,"['purple', 'pink', 'sitting', 'white', 'small', 'little']"
+00070007_0682.jpg,1.0004799999999818,1.0002805000000023,962.0,278.00009750000004,1,trees,trees_1.00,"['black', 'bare', 'red', 'tall', 'large', 'white']"
+00070007_0682.jpg,51.999948,171.00021099999998,215.999784,295.000379,1,truck,truck_52.00,"['red', 'double decker', 'white', 'blue', 'green', 'yellow']"
+00070007_0682.jpg,1.0004799999999818,264.9999765,962.0,640.9996795,1,water,water_1.00,"['calm', 'white', 'blue', 'gray', 'large', 'wet']"
+00070007_0682.jpg,422.00054000000006,249.9999355,550.0004120000001,462.9997485,1,man,man_422.00,"['gray', 'black', 'silver', 'blue', 'open', 'white']"
+00070007_0682.jpg,537.999943,206.9997325,567.9999130000001,249.9999355,1,man,man_538.00,"['pink', 'purple', 'black', 'small', 'white', 'colorful']"
+00070007_0682.jpg,559.999921,285.000138,631.0003310000001,322.9999,1,person,person_560.00,"['glass', 'large', 'small', 'clear', 'square', 'closed']"
+00070007_0682.jpg,295.00018600000004,197.0001325,352.00061,314.9998995,1,person,person_295.00,"['standing', 'blue', 'black', 'red', 'walking', 'white']"

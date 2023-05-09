@@ -1,0 +1,10 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0637.jpg,1.0003840000000537,0.999693499999978,1593.001088,606.9995425,1,building,building_1.00,"['gray', 'black', 'silver', 'white', 'red', 'glass']"
+00070007_0637.jpg,540.9998720000001,271.00002149999995,1624.0000000000002,1027.0002925,1,car,car_541.00,"['gray', 'white', 'silver', 'parked', 'red', 'purple']"
+00070007_0637.jpg,1016.000384,20.000344000000013,1195.000912,479.00047,1,police,police_1016.00,"['black', 'standing', 'gray', 'red', 'walking', 'white']"
+00070007_0637.jpg,1156.0005520000002,8.000245499999977,1299.000248,468.0006045,1,police,police_1156.00,"['standing', 'black', 'walking', 'red', 'looking', 'white']"
+00070007_0637.jpg,364.00092400000005,54.00017349999996,596.0006920000001,690.0005385000001,1,police,police_364.00,"['gray', 'standing', 'walking', 'blue', 'black', 'young']"
+00070007_0637.jpg,563.0002000000001,841.9998079999999,783.000232,1040.999778,1,debris,debris_563.00,"['black', 'gray', 'yellow', 'white', 'blue', 'colorful']"
+00070007_0637.jpg,254.999668,800.0002724999999,579.99942,1026.0000595,1,debris,debris_255.00,"['gray', 'black', 'orange', 'yellow', 'white', 'concrete']"
+00070007_0637.jpg,0.9995719999999436,910.9997,1620.99966,1079.0,1,road,road_1.00,"['gray', 'wet', 'yellow', 'white', 'paved', 'concrete']"
+00070007_0637.jpg,1531.999588,18.000417499999998,1593.999036,287.0005125,1,man,man_1532.00,"['standing', 'white', 'walking', 'black', 'blue', 'pink']"

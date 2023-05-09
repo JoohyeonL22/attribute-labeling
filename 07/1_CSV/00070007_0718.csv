@@ -1,0 +1,7 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0718.jpg,366.9999,74.00000000000001,599.9997,302.0,1,building,building_367.00,"['red', 'black', 'white', 'gray', 'brown', 'large']"
+00070007_0718.jpg,140.0001,10.0,477.0003,319.0,1,building,building_140.00,"['white', 'blue', 'gray', 'large', 'red', 'silver']"
+00070007_0718.jpg,369.9999,294.0,599.9997,325.0,1,debris,debris_370.00,"['orange', 'red', 'white', 'metal', 'black', 'gray']"
+00070007_0718.jpg,119.9997,195.0,183.9999,300.0,1,machine,machine_120.00,"['blue', 'green', 'glass', 'white', 'open', 'metal']"
+00070007_0718.jpg,51.0,131.0,93.0,217.0,1,sign,sign_51.00,"['green', 'white', 'blue', 'black', 'large', 'tall']"
+00070007_0718.jpg,0.9998999999999684,271.0,599.9997000000001,400.0,1,parking lot,parking lot_1.00,"['gray', 'wet', 'concrete', 'paved', 'yellow', 'cement']"

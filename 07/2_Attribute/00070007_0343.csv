@@ -1,0 +1,8 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0343.jpg,128.000025,100.000004,168.999975,127.00012,1,car,car_128.00,"green, blue, red, wooden, metal, empty","green, blue, red, wooden, metal, empty"
+00070007_0343.jpg,167.000175,80.99984099999999,423.000225,237.999827,1,car,car_167.00,"silver, black, white, metal, purple, green","silver, black, white, metal, purple, green"
+00070007_0343.jpg,85.00005,92.000051,156.00015000000002,125.000005,1,car,car_85.00,"green, white, blue, black, metal, red","green, white, blue, black, metal, red"
+00070007_0343.jpg,49.000275,111.999849,163.000125,337.999831,1,firefighter,firefighter_49.00,"walking, black, standing, striped, white, gray","walking, black, standing, striped, white, gray"
+00070007_0343.jpg,0.9998999999999684,97.999889,450.0,337.99983100000003,1,road,road_1.00,"black, gray, white, dark, yellow, silver","black, gray, white, dark, yellow, silver"
+00070007_0343.jpg,172.9998,162.000189,288.9999,223.000063,1,debris,debris_173.00,"purple, pink, black, small, silver, colorful","purple, pink, black, small, silver, colorful"
+00070007_0343.jpg,278.0001,72.999888,450.0,113.999964,1,cars,cars_278.00,"white, red, lit, large, colorful, glass","white, red, lit, large, colorful, glass"

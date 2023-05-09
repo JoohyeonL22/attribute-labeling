@@ -1,0 +1,13 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0651.jpg,152.0,115.00007999999998,587.00032,306.00024,1,car,car_152.00,"red, green, colorful, white, double decker, blue","red, green, colorful, white, double decker, blue"
+00070007_0651.jpg,197.0,180.99984,211.0,201.99984,1,cone,cone_197.00,"white, green, small, blue, metal, red","white, green, small, blue, metal, red"
+00070007_0651.jpg,9.0,154.99992,287.0,232.00008,1,road,road_9.00,"green, white, metal, blue, black, red","green, white, metal, blue, black, red"
+00070007_0651.jpg,587.0,112.00008,625.0,145.99992,1,suv,suv_587.00,"green, glass, red, white, black, open","green, glass, red, white, black, open"
+00070007_0651.jpg,1.0,150.0,639.99968,480.0,1,road,road_1.00,"gray, wet, concrete, yellow, empty, black","gray, wet, concrete, yellow, empty, black"
+00070007_0651.jpg,1.0,237.99984,314.00032,441.99984,1,debris,debris_1.00,"brown, black, gray, red, wet, dirty","brown, black, gray, red, wet, dirty"
+00070007_0651.jpg,457.00000000000006,259.99992,475.99968000000007,307.00008,1,fire extinguisher,fire extinguisher_457.00,"red, open, glass, white, yellow, clear","red, open, glass, white, yellow, clear"
+00070007_0651.jpg,440.0,304.99992,484.99968,319.00008,1,fire extinguisher,fire extinguisher_440.00,"red, white, yellow, orange, small, colorful","red, white, yellow, orange, small, colorful"
+00070007_0651.jpg,490.0,261.99984,518.0,318.99984,1,fire extinguisher,fire extinguisher_490.00,"red, white, glass, black, green, small","red, white, glass, black, green, small"
+00070007_0651.jpg,618.0003200000001,109.99991999999996,637.0,167.99975999999998,1,man,man_618.00,"pink, purple, wooden, red, metal, small","pink, purple, wooden, red, metal, small"
+00070007_0651.jpg,1.0,106.00008,595.0,187.99992,1,field,field_1.00,"green, long, yellow, red, brown, colorful","green, long, yellow, red, brown, colorful"
+00070007_0651.jpg,0.9996799999999988,111.99984,16.0,231.99984,1,person,person_1.00,"red, metal, white, tall, black, silver","red, metal, white, tall, black, silver"

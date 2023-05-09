@@ -1,0 +1,10 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0563.jpg,668.999932,198.999658,1015.999492,296.999846,1,building,building_669.00,"white, purple, brown, pink, yellow, tan","white, purple, brown, pink, yellow, tan"
+00070007_0563.jpg,80.00034799999999,232.99991,275.999956,299.00013,1,suv,suv_80.00,"white, purple, parked, pink, red, yellow","white, purple, parked, pink, red, yellow"
+00070007_0563.jpg,449.999608,89.99991,591.0000879999999,419.00001,1,man,man_450.00,"standing, walking, white, smiling, blue, young","standing, walking, white, smiling, blue, young"
+00070007_0563.jpg,734.000056,87.00005599999999,750.000024,301.999984,1,pole,pole_734.00,"tall, metal, black, white, gray, silver","tall, metal, black, white, gray, silver"
+00070007_0563.jpg,268.999716,192.000094,454.000108,282.00029,1,trees,trees_269.00,"green, large, leafy, tall, small, brown","green, large, leafy, tall, small, brown"
+00070007_0563.jpg,580.0003640000001,145.99985400000003,744.000036,284.999858,1,tree,tree_580.00,"green, tall, large, leafy, white, small","green, tall, large, leafy, white, small"
+00070007_0563.jpg,703.999608,249.99975,830.999608,293.999706,1,truck,truck_704.00,"purple, pink, white, large, small, parked","purple, pink, white, large, small, parked"
+00070007_0563.jpg,0.9997440000000212,280.999862,1016.0,571.9997139999999,1,water,water_1.00,"blue, calm, dark blue, dark, large, clear","blue, calm, dark blue, dark, large, clear"
+00070007_0563.jpg,0.9997440000000068,182.000104,191.999616,268.000304,1,building,building_1.00,"red, purple, brown, pink, white, maroon","red, purple, brown, pink, white, maroon"

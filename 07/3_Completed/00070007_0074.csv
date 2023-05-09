@@ -1,0 +1,6 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0074.jpg,311,1.000182,434,138.000018,1,tree,tree_311.00,"green, red, tall, pink, purple, leafy","green, leafy"
+00070007_0074.jpg,151,23.999829,333,240.999807,1,tree,tree_151.00,"green, tall, small, blue, metal, leafy","green, leafy"
+00070007_0074.jpg,1,0.999915,800,533.999733,1,plants,plants_1.00,"green, tall, growing, long, grassy, brown","green, growing"
+00070007_0074.jpg,458,415.000236,701,534,1,debris,debris_458.00,"green, blue, metal, gray, black, dead","metal, black"
+00070007_0074.jpg,255,135.999921,557,373.999983,1,debris,debris_255.00,"black, blue, green, metal, old, wooden","black, metal"

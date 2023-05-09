@@ -1,0 +1,14 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0648.jpg,235.00028200000003,132.99988800000003,728.000282,417.999648,1,car,car_235.00,"white, green, silver, black, yellow, metal","white, metal"
+00070007_0648.jpg,236.000086,147.000022,417.000106,524.9997619999999,1,man,man_236.00,"standing, walking, wearing, young, old, yellow","standing, wearing"
+00070007_0648.jpg,558.000078,409.000195,749.00011,448.000133,1,debris,debris_558.00,"green, metal, blue, white, silver, gray","metal, gray"
+00070007_0648.jpg,0.9998039999999832,1.00024700000003,986.0,281.00015699999994,1,trees,trees_1.00,"bare, leafless, brown, tall, white, large","bare, leafless"
+00070007_0648.jpg,0.9998039999999832,316.000215,986.0,554.000277,1,road,road_1.00,"brown, gray, dirt, yellow, sandy, dirty","brown, gray"
+00070007_0648.jpg,0.9998039999999264,212.000288,643.00018,307.000208,1,field,field_1.00,"red, green, brown, long, white, wooden","green, brown"
+00070007_0648.jpg,138.99987099999998,440.000096,264.000021,506.000332,1,debris,debris_139.00,"purple, pink, black, small, colorful, metal","black, small"
+00070007_0648.jpg,201.999848,384.00011400000005,271.000128,412.00038200000006,1,debris,debris_202.00,"white, black, blue, small, metal, wooden",white
+00070007_0648.jpg,724.000573,325.00022199999995,781.000247,344.000206,1,debris,debris_724.00,"pink, purple, red, black, small, white",white
+00070007_0648.jpg,852.000135,267.999993,986.000493,487.0000710000001,1,woman,woman_852.00,"green, standing, black, walking, blue, wearing","standing, black"
+00070007_0648.jpg,914.000308,313.00002800000004,986.0,508.000272,1,person,person_914.00,"green, black, blue, standing, walking, dark","black, standing"
+00070007_0648.jpg,974.00038,219.000078,986.0,272.00015,1,person,person_974.00,"green, blue, white, small, glass, metal",
+00070007_0648.jpg,956.999768,239.000309,975.999988,280.000187,1,car,car_957.00,"green, blue, metal, white, small, open","metal, white"

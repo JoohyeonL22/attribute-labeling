@@ -1,0 +1,10 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0793.jpg,0.9995700000000056,37.000224,132.99975,193.000032,1,building,building_1.00,"['glass', 'red', 'large', 'clear', 'blue', 'pink']"
+00070007_0793.jpg,157.99991999999995,1.000223999999989,780.0,170.00035200000002,1,building,building_158.00,"['tall', 'large', 'glass', 'brown', 'black', 'dark']"
+00070007_0793.jpg,24.00021,276.99984,198.00027,357.99984,1,car,car_24.00,"['white', 'black', 'small', 'silver', 'glass', 'square']"
+00070007_0793.jpg,255.99990000000005,313.000128,566.99994,455.000256,1,car,car_256.00,"['purple', 'pink', 'red', 'black', 'gray', 'silver']"
+00070007_0793.jpg,426.99969,282.000096,719.99967,382.000032,1,car,car_427.00,"['purple', 'red', 'pink', 'parked', 'double decker', 'maroon']"
+00070007_0793.jpg,57.99963000000001,229.000032,191.99973,272.00016,1,car,car_58.00,"['red', 'orange', 'double decker', 'yellow', 'moving', 'lit']"
+00070007_0793.jpg,46.99968000000001,90.0,780.0,252.0,1,fence,fence_47.00,"['blue', 'glass', 'large', 'tall', 'clear', 'big']"
+00070007_0793.jpg,0.9999599999999872,245.00016,780.0,576.000288,1,water,water_1.00,"['wet', 'black', 'gray', 'dark', 'red', 'concrete']"
+00070007_0793.jpg,554.99964,244.999872,780.0,318.999744,1,debris,debris_555.00,"['blue', 'purple', 'red', 'white', 'black', 'pink']"

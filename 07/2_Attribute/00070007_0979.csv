@@ -1,0 +1,10 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0979.jpg,1.0,1.000159999999994,590.0,148.00016,1,building,building_1.00,"white, green, red, large, colorful, brown","white, green, red, large, colorful, brown"
+00070007_0979.jpg,1.0,34.000063999999995,139.0,203.999936,1,truck,truck_1.00,"green, yellow, brown, wooden, metal, large","green, yellow, brown, wooden, metal, large"
+00070007_0979.jpg,355.0,100.000096,442.0,291.999904,1,man,man_355.00,"green, standing, young, white, sitting, old","green, standing, young, white, sitting, old"
+00070007_0979.jpg,336.0,85.99987200000001,483.0,185.999744,1,umbrella,umbrella_336.00,"green, blue, gray, white, brown, silver","green, blue, gray, white, brown, silver"
+00070007_0979.jpg,1.0,68.99984,201.0,171.99996800000002,1,car,car_1.00,"green, white, silver, parked, blue, yellow","green, white, silver, parked, blue, yellow"
+00070007_0979.jpg,1.0,144.99990400000002,800.0,447.999776,1,water,water_1.00,"brown, gray, concrete, tan, dirt, dirty","brown, gray, concrete, tan, dirt, dirty"
+00070007_0979.jpg,582.0,0.9999360000000196,798.0,225.999872,1,building,building_582.00,"purple, pink, metal, white, black, yellow","purple, pink, metal, white, black, yellow"
+00070007_0979.jpg,162.0,54.000128,333.0,150.000256,1,people,people_162.00,"glass, white, large, open, black, standing","glass, white, large, open, black, standing"
+00070007_0979.jpg,538.0,96.99984,595.0,146.999776,1,people,people_538.00,"blue, colorful, green, glass, small, orange","blue, colorful, green, glass, small, orange"

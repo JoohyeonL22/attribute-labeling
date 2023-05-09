@@ -1,0 +1,9 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0797.jpg,1278.000625,1051.999943,2612.000875,1295.999738,1,bush,bush_1278.00,"purple, green, pink, colorful, large, long",green
+00070007_0797.jpg,0.999625,1093.999471,810.998375,1357.000144,1,bush,bush_1.00,"purple, pink, green, white, colorful, small","green, small"
+00070007_0797.jpg,2603.99975,1088.000063,2745.99875,1207.000256,1,car,car_2604.00,"red, parked, purple, pink, white, blue",white
+00070007_0797.jpg,1011.00175,914.0007045,1109.00075,1230.00074,1,man,man_1011.00,"standing, walking, old, looking, black, older","standing, looking"
+00070007_0797.jpg,1872.998875,0.998985,2749.998625,888.999501,1,tree,tree_1873.00,"green, tall, large, big, white, pine","green, large"
+00070007_0797.jpg,0.99825,1.000818,2256.99925,1507.00095,1,tree,tree_1.00,"bare, white, leafless, gray, pink, large","bare, leafless"
+00070007_0797.jpg,25.00025,718.000764,2647.99975,1202.000748,1,building,building_25.00,"white, pink, purple, gray, red, green",white
+00070007_0797.jpg,919.0005,1234.000346,1855.0015,1833.000917,1,sidewalk,sidewalk_919.00,"gray, paved, concrete, wet, cement, dirt","gray, paved"

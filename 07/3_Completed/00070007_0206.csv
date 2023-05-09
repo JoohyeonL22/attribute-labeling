@@ -1,0 +1,9 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0206.jpg,250.00001,85.00003199999999,257.99995,101.000016,1,car,car_250.00,"pink, purple, blue, red, white, small",
+00070007_0206.jpg,22.99986,37.000002,254.99994,104.999934,1,bus,bus_23.00,"purple, white, pink, black, double decker, red",white
+00070007_0206.jpg,147.99993,77.00004,169.99983000000003,116.00004,1,people,people_148.00,"open, red, glass, black, closed, dark",black
+00070007_0206.jpg,74.00016,72.00008399999999,102.00008,127.000068,1,people,people_74.00,"blue, sitting, black, open, standing, dark","black, standing"
+00070007_0206.jpg,19.99998,70.000008,45.99998,123.000072,1,people,people_20.00,"green, white, glass, open, small, pink",
+00070007_0206.jpg,1.0000899999999984,75.000042,21.00007,111.000006,1,people,people_1.00,"green, white, red, small, pink, open",
+00070007_0206.jpg,188.99998,81.99999600000001,203.9999,128.999988,1,man,man_189.00,"red, open, pink, small, wooden, metal",
+00070007_0206.jpg,0.9999599999999872,101.999976,260.0,156.0,1,field,field_1.00,"brown, green, black, dark, gray, dirt","brown, gray"

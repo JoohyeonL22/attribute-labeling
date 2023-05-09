@@ -1,0 +1,6 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0899.jpg,201.9996,344.9997,690.9996,677.9997,1,car,car_202.00,"white, pink, purple, parked, silver, gray",white
+00070007_0899.jpg,288.0,211.99995,552.0,322.99965,1,trees,trees_288.00,"green, large, tall, leafy, big, white","green, leafy"
+00070007_0899.jpg,595.0002,268.00019999999995,1200.0006,748.9997999999999,1,grass,grass_595.00,"tall, green, long, grassy, growing, short","tall, green"
+00070007_0899.jpg,1.0002000000000066,260.0001,520.9998,686.9997,1,grass,grass_1.00,"green, white, purple, tall, pink, silver",green
+00070007_0899.jpg,1.0001999999999498,333.99945000000014,1200.0006,897.9997500000001,1,road,road_1.00,"green, tall, gray, growing, purple, long",gray

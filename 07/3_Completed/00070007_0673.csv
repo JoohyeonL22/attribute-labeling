@@ -1,0 +1,12 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0673.jpg,109.99990400000002,215.999759,171.99990400000002,250.999517,1,truck,truck_110.00,"blue, small, white, empty, wooden, metal",metal
+00070007_0673.jpg,542.000528,459.9998445000001,590.000432,695.9996775000001,1,pole,pole_542.00,"green, blue, orange, metal, gray, silver",orange
+00070007_0673.jpg,492.999696,11.999821499999982,783.99992,254.0001225,1,tree,tree_493.00,"tall, bare, white, large, green, leafless","bare, leafless"
+00070007_0673.jpg,758.0000959999999,86.00039249999999,939.000416,227.0002455,1,tree,tree_758.00,"orange, yellow, large, green, tall, blue","large, green"
+00070007_0673.jpg,878.9997920000001,172.00004199999998,990.999568,251.00026,1,tree,tree_879.00,"yellow, orange, large, black, green, glass",green
+00070007_0673.jpg,333.999952,210.9997405,570.999664,301.0000735,1,truck,truck_334.00,"black, blue, green, parked, white, large",black
+00070007_0673.jpg,0.999935999999991,226.999874,992.0,743.0,1,water,water_1.00,"gray, wet, calm, white, brown, large","gray, wet"
+00070007_0673.jpg,481.999904,334.000047,728.0000319999999,462.99970700000006,1,mailbox,mailbox_482.00,"black, metal, white, gray, square, silver",black
+00070007_0673.jpg,701.000272,164.9998675,992.000496,246.9995765,1,building,building_701.00,"yellow, orange, black, large, white, red","large, white"
+00070007_0673.jpg,476.000288,197.00013450000003,626.000608,228.0003235,1,building,building_476.00,"blue, green, white, wooden, metal, colorful",wooden
+00070007_0673.jpg,18.999776,188.999882,330.99964800000004,223.99964,1,building,building_19.00,"green, white, yellow, long, blue, large",long

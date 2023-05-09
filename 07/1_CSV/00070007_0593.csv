@@ -1,0 +1,12 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0593.jpg,122.0001295,249.000067,248.0000925,347.000059,1,car,car_122.00,"['black', 'orange', 'glass', 'white', 'silver', 'small']"
+00070007_0593.jpg,215.9997355,269.000113,449.9999885,358.000201,1,car,car_216.00,"['blue', 'black', 'silver', 'glass', 'parked', 'metal']"
+00070007_0593.jpg,421.00014,262.000058,563.0,345.00021,1,car,car_421.00,"['green', 'white', 'silver', 'metal', 'blue', 'glass']"
+00070007_0593.jpg,135.000081,130.00010450000002,326.000083,304.0001935,1,fire,fire_135.00,"['large', 'blue', 'black', 'white', 'blurry', 'green']"
+00070007_0593.jpg,470.000282,249.000067,531.000206,387.999881,1,post,post_470.00,"['green', 'silver', 'metal', 'glass', 'white', 'gray']"
+00070007_0593.jpg,191.000002,0.9999244999999916,563.0,215.9998355,1,smoke,smoke_191.00,"['black', 'dark', 'green', 'white', 'blurry', 'gray']"
+00070007_0593.jpg,0.9996064999999988,77.0000215,214.9998475,242.9999365,1,trees,trees_1.00,"['black', 'green', 'white', 'red', 'large', 'big']"
+00070007_0593.jpg,385.9998375,12.999990999999994,562.9997185000001,234.999957,1,trees,trees_386.00,"['green', 'white', 'large', 'black', 'blurry', 'tall']"
+00070007_0593.jpg,65.99992699999999,240.000163,168.999651,344.00009099999994,1,car,car_66.00,"['black', 'red', 'silver', 'orange', 'small', 'open']"
+00070007_0593.jpg,373.999774,267.999994,422.999916,354.999844,1,person,person_374.00,"['blue', 'open', 'glass', 'closed', 'clear', 'white']"
+00070007_0593.jpg,1.0001694999999984,234.999957,67.0000965,387.999881,1,post,post_1.00,"['green', 'black', 'gray', 'metal', 'silver', 'dark']"

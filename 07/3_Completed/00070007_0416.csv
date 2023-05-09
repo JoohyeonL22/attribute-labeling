@@ -1,0 +1,10 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0416.jpg,0.999680000000012,1.0000789999999995,1052.0,249.000001,1,building,building_1.00,"green, brown, gray, black, metal, brick",brown
+00070007_0416.jpg,970.0,16.000140000000002,1266.99968,197.000108,1,building,building_970.00,"green, blue, large, glass, tall, white",white
+00070007_0416.jpg,112.99968,147.99989000000002,1224.99968,521.99965,1,car,car_113.00,"green, white, gray, black, yellow, silver",white
+00070007_0416.jpg,1148.0,161.99987199999998,1276.0,211.999888,1,car,car_1148.00,"blue, red, parked, small, large, white","parked, small"
+00070007_0416.jpg,1016.00064,86.00005000000002,1097.00032,255.000194,1,man,man_1016.00,"pink, purple, green, sitting, colorful, blue",green
+00070007_0416.jpg,933.99936,89.000287,1008.99968,243.000089,1,man,man_934.00,"green, blue, sitting, black, standing, metal","black, standing"
+00070007_0416.jpg,1096.00064,92.00024299999998,1108.00064,231.000265,1,pole,pole_1096.00,"green, blue, metal, white, silver, black","metal, white"
+00070007_0416.jpg,1.0003200000001016,410.999873,1280.00064,561.999719,1,road,road_1.00,"green, gray, concrete, cement, white, paved",gray
+00070007_0416.jpg,1100.00064,1.0000789999999853,1280.00064,156.00024100000002,1,tree,tree_1100.00,"green, blue, large, tall, white, small",green

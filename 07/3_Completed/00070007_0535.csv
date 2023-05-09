@@ -1,0 +1,6 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0535.jpg,0.9999899999999684,244.0001975,615.0,409.0002045,1,water,water_1.00,"gray, wet, paved, black, calm, white","gray, wet"
+00070007_0535.jpg,6.0002475,153.00015150000002,342.9999525,241.0001825,1,rocks,rocks_6.00,"yellow, gray, concrete, wet, black, cement",black
+00070007_0535.jpg,213.0000225,146.99991699999998,615.0003075,241.999983,1,rocks,rocks_213.00,"red, gray, green, brick, concrete, stone","gray, stone"
+00070007_0535.jpg,0.9999899999999968,153.99974749999998,263.99982,188.9999225,1,road,road_1.00,"yellow, black, gray, white, painted, metal","black, gray"
+00070007_0535.jpg,329.999775,176.000062,562.999905,352.000124,1,jeep,jeep_330.00,"red, black, parked, gray, silver, moving",gray

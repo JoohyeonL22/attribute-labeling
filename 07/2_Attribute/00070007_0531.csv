@@ -1,0 +1,11 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0531.jpg,435.0,118.00007999999998,544.00032,153.0,1,car,car_435.00,"purple, pink, colorful, white, yellow, black","purple, pink, colorful, white, yellow, black"
+00070007_0531.jpg,133.00032,65.00016,198.0,245.00016,1,man,man_133.00,"standing, walking, blue, black, wearing, looking","standing, walking, blue, black, wearing, looking"
+00070007_0531.jpg,191.0,69.00012,280.00032,267.00012000000004,1,man,man_191.00,"standing, walking, blue, green, black, wearing","standing, walking, blue, green, black, wearing"
+00070007_0531.jpg,296.0,136.00008,452.0,286.99992,1,man,man_296.00,"black, dark, large, green, big, blue","black, dark, large, green, big, blue"
+00070007_0531.jpg,383.00032,21.99996,640.0,131.00004,1,trees,trees_383.00,"bare, purple, white, leafless, gray, tall","bare, purple, white, leafless, gray, tall"
+00070007_0531.jpg,259.00032,108.99990000000004,383.00032,196.00002,1,truck,truck_259.00,"red, double decker, black, green, white, large","red, double decker, black, green, white, large"
+00070007_0531.jpg,1.000320000000002,76.99986,117.00032,216.9999,1,truck,truck_1.00,"green, black, white, dark, parked, driving","green, black, white, dark, parked, driving"
+00070007_0531.jpg,1.0,143.99999999999997,639.99968,360.0,1,water,water_1.00,"wet, black, white, dark, gray, clear","wet, black, white, dark, gray, clear"
+00070007_0531.jpg,326.0,135.00018,638.0,292.00014000000004,1,car,car_326.00,"black, parked, dark, blue, white, silver","black, parked, dark, blue, white, silver"
+00070007_0531.jpg,548.00032,84.00005999999999,594.00032,187.00002,1,man,man_548.00,"blue, sitting, standing, purple, white, walking","blue, sitting, standing, purple, white, walking"

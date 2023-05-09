@@ -1,0 +1,5 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0027.jpg,9.999940000000038,82.99976749999999,782.99958,465.0000225,1,bus,bus_10.00,"yellow, parked, white, orange, large, blue","yellow, parked, white, orange, large, blue"
+00070007_0027.jpg,771.00002,1.0002070000000174,920.00046,455.000091,1,crane,crane_771.00,"green, blue, white, red, gray, metal","green, blue, white, red, gray, metal"
+00070007_0027.jpg,792.0004,198.000049,884.0004,385.999861,1,man,man_792.00,"standing, walking, black, green, gray, white","standing, walking, black, green, gray, white"
+00070007_0027.jpg,0.9995799999999236,344.9996225,919.99954,478.99986550000006,1,road,road_1.00,"yellow, gray, black, concrete, paved, wet","yellow, gray, black, concrete, paved, wet"

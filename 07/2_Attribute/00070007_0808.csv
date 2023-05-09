@@ -1,0 +1,5 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0808.jpg,2207.001888,1.000944000000004,4032.002016,1554.000336,1,trees,trees_2207.00,"green, tall, large, leafy, growing, brown","green, tall, large, leafy, growing, brown"
+00070007_0808.jpg,0.997920000000022,0.999431999999956,2174.999904,1610.0002800000002,1,trees,trees_1.00,"green, tall, large, brown, palm, big","green, tall, large, brown, palm, big"
+00070007_0808.jpg,1904.99904,1086.000048,2260.000512,1496.0000160000002,1,truck,truck_1905.00,"green, sitting, small, black, wooden, empty","green, sitting, small, black, wooden, empty"
+00070007_0808.jpg,0.9999360000001616,1323.9994319999998,4032.0,3023.998488,1,water,water_1.00,"calm, wet, dark, murky, clear, gray","calm, wet, dark, murky, clear, gray"

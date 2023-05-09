@@ -1,0 +1,7 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0078.jpg,21.000319999999988,161.00016000000005,1142.0,693.00048,1,bus,bus_21.00,"yellow, black, green, long, large, parked","yellow, black, green, long, large, parked"
+00070007_0078.jpg,1106.99968,344.00016,1194.0,551.00016,1,man,man_1107.00,"standing, pink, purple, walking, sitting, green","standing, pink, purple, walking, sitting, green"
+00070007_0078.jpg,606.0,1.000319999999988,1280.00064,512.00064,1,trees,trees_606.00,"yellow, green, black, purple, red, colorful","yellow, green, black, purple, red, colorful"
+00070007_0078.jpg,406.0,558.99936,746.0,697.9996800000001,1,trash,trash_406.00,"purple, green, metal, pink, colorful, sitting","purple, green, metal, pink, colorful, sitting"
+00070007_0078.jpg,1.0003200000001016,110.00063999999998,768.00064,277.00032,1,trees,trees_1.00,"green, red, yellow, large, metal, white","green, red, yellow, large, metal, white"
+00070007_0078.jpg,154.99967999999998,19.99968000000001,211.99936,231.0,1,pole,pole_155.00,"green, tall, blue, metal, white, red","green, tall, blue, metal, white, red"

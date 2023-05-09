@@ -1,0 +1,5 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0174.jpg,123.99992,53.000034500000005,160.99996000000002,132.0000395,1,man,man_124.00,"standing, walking, green, young, looking, watching","standing, walking, green, young, looking, watching"
+00070007_0174.jpg,82.00005,40.9999765,124.00003,132.9999335,1,man,man_82.00,"standing, sitting, old, looking, older, bald","standing, sitting, old, looking, older, bald"
+00070007_0174.jpg,1.000009999999989,0.9999605000000004,220.00011,84.9999675,1,train,train_1.00,"white, orange, red, gray, silver, black","white, orange, red, gray, silver, black"
+00070007_0174.jpg,1.0000100000000032,62.999972,82.99995,100.999934,1,debris,debris_1.00,"black, white, metal, silver, gray, pink","black, white, metal, silver, gray, pink"

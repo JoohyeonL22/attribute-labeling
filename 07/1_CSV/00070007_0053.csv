@@ -1,0 +1,10 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0053.jpg,135.00032,154.99968,1108.0,658.99968,1,bus,bus_135.00,"['yellow', 'long', 'black', 'white', 'silver', 'double decker']"
+00070007_0053.jpg,1098.0,363.0,1190.0,405.0,1,truck,truck_1098.00,"['blue', 'green', 'white', 'silver', 'metal', 'parked']"
+00070007_0053.jpg,1032.00064,0.999840000000006,1097.00032,593.00016,1,pole,pole_1032.00,"['metal', 'gray', 'wooden', 'tall', 'brown', 'silver']"
+00070007_0053.jpg,1.0003200000001016,393.9998399999999,1280.00064,959.9995199999998,1,road,road_1.00,"['gray', 'paved', 'concrete', 'black', 'empty', 'wet']"
+00070007_0053.jpg,0.999680000000012,0.9993600000000242,824.99968,433.99968,1,trees,trees_1.00,"['red', 'green', 'bare', 'tall', 'white', 'black']"
+00070007_0053.jpg,852.99968,123.00048,1001.99936,276.00048000000004,1,trees,trees_853.00,"['tall', 'green', 'large', 'bare', 'pine', 'evergreen']"
+00070007_0053.jpg,998.99968,176.00016,1279.9993599999998,315.99983999999995,1,trees,trees_999.00,"['green', 'tall', 'large', 'orange', 'glass', 'brown']"
+00070007_0053.jpg,1100.99968,82.00032000000002,1211.00032,358.00032,1,tree,tree_1101.00,"['bare', 'tall', 'leafless', 'large', 'green', 'brown']"
+00070007_0053.jpg,1093.9999999999998,311.00016,1280.00064,390.99984,1,building,building_1094.00,"['glass', 'blue', 'green', 'white', 'large', 'silver']"

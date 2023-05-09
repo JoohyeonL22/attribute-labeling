@@ -1,0 +1,9 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0558.jpg,327.0,223.9999125,533.0,309.9999955,1,boat,boat_327.00,"['blue', 'white', 'small', 'large', 'docked', 'light blue']"
+00070007_0558.jpg,175.0,177.99988049999996,345.0,287.9998875,1,jeep,jeep_175.00,"['yellow', 'white', 'parked', 'large', 'black', 'big']"
+00070007_0558.jpg,331.0,250.999827,339.0,321.999691,1,post,post_331.00,"['green', 'blue', 'metal', 'wooden', 'tall', 'white']"
+00070007_0558.jpg,594.0,292.00005250000004,604.0,332.0001035,1,post,post_594.00,"['green', 'blue', 'white', 'teal', 'bright', 'small']"
+00070007_0558.jpg,156.0,1.0001745,800.0,250.0001855,1,trees,trees_156.00,"['green', 'tall', 'large', 'yellow', 'brown', 'big']"
+00070007_0558.jpg,1.0,185.999944,326.0,311.00017,1,road,road_1.00,"['yellow', 'white', 'gray', 'concrete', 'parked', 'painted']"
+00070007_0558.jpg,1.0,226.0002615,800.0,533.0002665,1,water,water_1.00,"['calm', 'large', 'brown', 'blue', 'murky', 'dark']"
+00070007_0558.jpg,737.0,232.0002425,746.0,307.0002715,1,post,post_737.00,"['white', 'wooden', 'metal', 'orange', 'wood', 'silver']"

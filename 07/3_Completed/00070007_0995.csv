@@ -1,0 +1,6 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0995.jpg,30.0,164.99974200000003,498.0,372.999832,1,van,van_30.00,"white, purple, blue, yellow, silver, pink",white
+00070007_0995.jpg,469.0,0.9997635000000288,800.0,479.9997685,1,bus,bus_469.00,"white, blue, black, yellow, large, long",white
+00070007_0995.jpg,398.0,217.9998285,462.0,430.9996375,1,man,man_398.00,"standing, walking, blue, purple, black, wearing","standing, black"
+00070007_0995.jpg,1.0,317.999918,800.0,601.0,1,road,road_1.00,"black, wet, dark, gray, concrete, paved","black, paved"
+00070007_0995.jpg,483.0,316.0000905,574.0,382.0001075,1,debris,debris_483.00,"green, black, white, open, small, purple",white

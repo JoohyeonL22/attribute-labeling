@@ -1,0 +1,5 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0572.jpg,317.9996249999999,40.000024,700.999875,400.00024,1,boat,boat_318.00,"blue, green, large, yellow, docked, colorful","blue, green, large, yellow, docked, colorful"
+00070007_0572.jpg,0.999750000000006,173.00032900000002,324.99975,305.000183,1,building,building_1.00,"pink, brown, white, red, yellow, purple","pink, brown, white, red, yellow, purple"
+00070007_0572.jpg,517.999875,1.0001694999999984,749.9996249999999,338.0001465,1,trees,trees_518.00,"green, tall, large, leafy, blue, white","green, tall, large, leafy, blue, white"
+00070007_0572.jpg,1.0001250000000257,264.9998775,750.000375,562.9997185000001,1,water,water_1.00,"brown, calm, murky, blue, large, clear","brown, calm, murky, blue, large, clear"

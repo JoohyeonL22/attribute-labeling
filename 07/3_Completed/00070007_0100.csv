@@ -1,0 +1,7 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0100.jpg,1.0001249999999686,1.000230000000002,630.000315,208.00017000000005,1,mountain,mountain_1.00,"brown, pink, tan, beige, brick, old","brown, tan"
+00070007_0100.jpg,1.0001249999999686,56.00007000000002,630.000315,347.00001,1,bus,bus_1.00,"green, white, brown, old, black, gray","green, old"
+00070007_0100.jpg,317.999745,322.99974,599.999715,414.9999,1,debris,debris_318.00,"yellow, metal, black, silver, gray, train","metal, black"
+00070007_0100.jpg,211.00023,347.00001,261.99999,366.99999,1,debris,debris_211.00,"orange, small, black, digital, white, square","small, black"
+00070007_0100.jpg,87.00016500000001,370.99986,183.000195,379.00002,1,debris,debris_87.00,"yellow, black, white, long, painted, gold",long
+00070007_0100.jpg,11.999610000000004,335.99979,103.99977,357.99981,1,debris,debris_12.00,"green, metal, blue, white, empty, silver",

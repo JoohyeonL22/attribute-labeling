@@ -1,0 +1,11 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0385.jpg,19.0,238.9999545,481.0,428.0000535,1,car,car_19.00,"black, gray, yellow, metal, silver, parked","black, metal"
+00070007_0385.jpg,374.0,64.0003095,500.0,217.0001025,1,ladder,ladder_374.00,"white, bare, blue, dead, dry, brown",white
+00070007_0385.jpg,210.0,97.99986149999998,295.0,260.9998065,1,firefighter,firefighter_210.00,"standing, young, little, sitting, smiling, small",standing
+00070007_0385.jpg,271.0,177.00009749999998,373.0,350.0001945,1,firefighter,firefighter_271.00,"standing, sitting, yellow, young, brown, watching","standing, brown"
+00070007_0385.jpg,292.0,34.00015500000001,367.0,200.000025,1,firefighter,firefighter_292.00,"purple, pink, standing, colorful, smiling, sitting",standing
+00070007_0385.jpg,1.0,367.000272,500.0,603.0,1,water,water_1.00,"clear, calm, black, reflective, murky, blue","reflective, murky"
+00070007_0385.jpg,318.0,168.000021,396.0,301.999887,1,firefighter,firefighter_318.00,"yellow, sitting, brown, tan, white, standing","brown, standing"
+00070007_0385.jpg,145.0,171.0002475,220.0,259.00025850000003,1,firefighter,firefighter_145.00,"red, sitting, white, blue, gray, large",sitting
+00070007_0385.jpg,83.0,214.9999515,182.0,281.9998845,1,firefighter,firefighter_83.00,"green, white, red, metal, sitting, small",
+00070007_0385.jpg,219.0,46.0001565,280.0,124.0000155,1,man,man_219.00,"white, black, blue, large, silver, sitting",black

@@ -1,0 +1,10 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0777.jpg,1512.998912,252.00029949999995,1703.999488,700.0006804999999,1,building,building_1513.00,"green, tall, gray, white, blue, large","gray, white"
+00070007_0777.jpg,1676.000256,0.9997604999999794,2048.001024,736.9993155000001,1,building,building_1676.00,"white, blue, gray, tall, brown, large","gray, brown"
+00070007_0777.jpg,0.99942400000009,146.000471,1096.998912,670.0003690000001,1,building,building_1.00,"white, blue, large, clear, green, tall","white, large"
+00070007_0777.jpg,1671.000064,633.000371,1727.000576,738.000439,1,fire hydrant,fire hydrant_1671.00,"red, green, orange, yellow, neon, lit",red
+00070007_0777.jpg,1093.999616,224.999951,1516.99968,864.999327,1,man,man_1094.00,"young, sitting, standing, white, orange, wearing","young, sitting"
+00070007_0777.jpg,338.999296,167.99929100000003,402.999296,668.9999270000001,1,pole,pole_339.00,"tall, white, blue, orange, long, red",tall
+00070007_0777.jpg,0.99942400000009,664.9995220000001,2048.0,1363.0,1,water,water_1.00,"blue, calm, dark blue, large, clear, dark","blue, calm"
+00070007_0777.jpg,1120.999424,600.999857,1541.998592,929.000355,1,bench,bench_1121.00,"black, gray, yellow, brown, white, blue","brown, white"
+00070007_0777.jpg,1155.999744,25.00082749999996,1176.999936,798.0003805000001,1,pole,pole_1156.00,"pink, red, purple, metal, tall, long","metal, long"

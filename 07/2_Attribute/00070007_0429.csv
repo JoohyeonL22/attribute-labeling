@@ -1,0 +1,10 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0429.jpg,322.00003499999985,93.000194,1344.999261,321.00075000000004,1,building,building_322.00,"large, tan, white, brown, tall, yellow","large, tan, white, brown, tall, yellow"
+00070007_0429.jpg,17.000597999999968,267.000356,1621.000122,1246.0,1,car,car_17.00,"red, black, parked, green, white, gray","red, black, parked, green, white, gray"
+00070007_0429.jpg,1467.000033,175.00070000000002,1573.000731,584.0002,1,police,police_1467.00,"standing, yellow, black, walking, young, wearing","standing, yellow, black, walking, young, wearing"
+00070007_0429.jpg,641.0009909999999,605.000284,1563.000477,1246.0,1,debris,debris_641.00,"red, black, large, big, parked, open","red, black, large, big, parked, open"
+00070007_0429.jpg,1.0005239999999844,676.0004789999999,642.0006840000001,1019.999897,1,debris,debris_1.00,"red, green, black, pink, white, metal","red, green, black, pink, white, metal"
+00070007_0429.jpg,960.0002849999998,0.9999150000000157,1599.001059,361.000465,1,trees,trees_960.00,"green, tall, large, white, leafy, black","green, tall, large, white, leafy, black"
+00070007_0429.jpg,2.0010480000000044,398.000435,121.000248,808.0004729999999,1,road,road_2.00,"gray, red, black, concrete, green, brown","gray, red, black, concrete, green, brown"
+00070007_0429.jpg,998.000253,256.000668,1621.999815,665.0001679999999,1,road,road_998.00,"black, green, red, yellow, blue, metal","black, green, red, yellow, blue, metal"
+00070007_0429.jpg,1.0005240000000413,957.000268,690.999768,1210.99986,1,sidewalk,sidewalk_1.00,"green, white, brown, red, blue, dirty","green, white, brown, red, blue, dirty"

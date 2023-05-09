@@ -1,0 +1,10 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0999.jpg,15.000191999999998,161.9997855,485.00006400000007,569.9999445,1,car,car_15.00,"['black', 'red', 'parked', 'green', 'purple', 'blue']"
+00070007_0999.jpg,0.999935999999991,1.0002824999999689,768.0,534.0001275,1,trees,trees_1.00,"['green', 'black', 'red', 'white', 'parked', 'dark']"
+00070007_0999.jpg,0.9999359999999982,195.9996465,53.999616,378.9998835,1,firefighter,firefighter_1.00,"['pink', 'purple', 'green', 'standing', 'sitting', 'black']"
+00070007_0999.jpg,29.99961600000001,244.9997865,121.999872,322.9998975,1,firefighter,firefighter_30.00,"['white', 'black', 'large', 'big', 'small', 'blue']"
+00070007_0999.jpg,495.000192,147.0001155,718.0005120000001,571.9999005,1,firefighter,firefighter_495.00,"['standing', 'green', 'skiing', 'smiling', 'wearing', 'yellow']"
+00070007_0999.jpg,667.00032,113.999928,767.000064,568.999662,1,firefighter,firefighter_667.00,"['yellow', 'green', 'blue', 'white', 'red', 'colorful']"
+00070007_0999.jpg,460.000128,162.00009000000003,710.000256,560.9998380000001,1,firefighter,firefighter_460.00,"['standing', 'green', 'skiing', 'smiling', 'wearing', 'yellow']"
+00070007_0999.jpg,450.0,127.9999245,603.000192,272.9997795,1,firefighter,firefighter_450.00,"['white', 'red', 'blue', 'black', 'colorful', 'yellow']"
+00070007_0999.jpg,0.999935999999991,561.999816,768.0,609.0,1,road,road_1.00,"['gray', 'concrete', 'gravel', 'paved', 'cement', 'small']"

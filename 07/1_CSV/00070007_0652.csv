@@ -1,0 +1,11 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0652.jpg,1390.001256,1093.0006079999998,2860.00092,1785.000672,1,truck,truck_1390.00,"['blue', 'parked', 'purple', 'red', 'white', 'large']"
+00070007_0652.jpg,2826.998496,1236.998952,3024.0,1409.998968,1,car,car_2827.00,"['white', 'parked', 'red', 'silver', 'small', 'tan']"
+00070007_0652.jpg,516.00024,1186.000704,1019.000304,1494.0011520000005,1,car,car_516.00,"['white', 'parked', 'silver', 'green', 'gray', 'large']"
+00070007_0652.jpg,0.999432000000013,1214.001432,473.000472,1437.0002640000002,1,fence,fence_1.00,"['metal', 'white', 'silver', 'red', 'gray', 'black']"
+00070007_0652.jpg,0.9994320000000698,1378.002024,3023.000568,3023.000568,1,road,road_1.00,"['gray', 'paved', 'black', 'asphalt', 'wet', 'white']"
+00070007_0652.jpg,1.0009440000001175,0.999431999999956,2196.001584,1354.000536,1,trees,trees_1.00,"['green', 'tall', 'large', 'leafy', 'big', 'thick']"
+00070007_0652.jpg,2224.0008,242.00164799999996,3024.0,1208.000304,1,trees,trees_2224.00,"['green', 'tall', 'large', 'leafy', 'big', 'thick']"
+00070007_0652.jpg,1034.000856,1294.001352,1134.001512,1389.000312,1,debris,debris_1034.00,"['red', 'blue', 'white', 'green', 'small', 'metal']"
+00070007_0652.jpg,749.000952,1418.001984,1425.001032,1817.00064,1,debris,debris_749.00,"['white', 'painted', 'green', 'blue', 'gray', 'long']"
+00070007_0652.jpg,2760.000264,1182.999384,2854.999224,1236.998952,1,car,car_2760.00,"['white', 'red', 'pink', 'black', 'sitting', 'blue']"

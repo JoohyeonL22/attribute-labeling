@@ -1,0 +1,13 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0379.jpg,153.99964,101.0000175,591.999904,353.0001325,1,car,car_154.00,"gray, black, silver, blue, red, parked",gray
+00070007_0379.jpg,769.9997495,98.0001175,820.0000485,138.0003125,1,van,van_770.00,"green, blue, double decker, colorful, white, glass",white
+00070007_0379.jpg,797.999731,97.00026,903.000049,142.00007,1,car,car_798.00,"green, blue, white, double decker, large, colorful",large
+00070007_0379.jpg,890.0002605,93.000175,990.9997695,112.999945,1,cars,cars_890.00,"yellow, red, white, black, orange, metal",metal
+00070007_0379.jpg,907.999769,82.0004325,936.000267,162.0001675,1,man,man_908.00,"red, black, orange, white, blue, colorful",black
+00070007_0379.jpg,0.999944,103.00006,1033,655,1,road,road_1.00,"gray, wet, paved, black, asphalt, white","gray, asphalt"
+00070007_0379.jpg,406.999934,79.000205,963.999732,483.000275,1,debris,debris_407.00,"black, white, gray, wet, parked, paved",black
+00070007_0379.jpg,1.0004605,390.9999575,285.9999955,620.9999325,1,debris,debris_1.00,"red, gray, yellow, black, white, painted","gray, black"
+00070007_0379.jpg,141.9997955,167.9999675,167.9993725,241.9999025,1,woman,woman_142.00,"red, white, glass, open, blue, black",blue
+00070007_0379.jpg,1.0004605,186.99988,22.0003175,314.99998,1,person,person_1.00,"red, orange, metal, black, small, tall",
+00070007_0379.jpg,0.9994275,0.9998575,714.9997305,219.9997625,1,trees,trees_1.00,"green, red, tall, large, black, leafy","green, large"
+00070007_0379.jpg,545.9998975,96.000075,713.9997865,179.999895,1,van,van_546.00,"green, black, blue, large, white, gray","large, white"

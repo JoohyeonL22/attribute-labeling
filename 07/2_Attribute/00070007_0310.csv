@@ -1,0 +1,9 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0310.jpg,102.0,128.00016,606.99968,531.0,1,car,car_102.00,"blue, green, black, small, parked, light blue","blue, green, black, small, parked, light blue"
+00070007_0310.jpg,1040.0,184.99968,1280.0,720.0,1,man,man_1040.00,"yellow, green, orange, striped, black, red","yellow, green, orange, striped, black, red"
+00070007_0310.jpg,124.0,26.999640000000028,228.0,299.99988,1,man,man_124.00,"standing, green, walking, yellow, young, smiling","standing, green, walking, yellow, young, smiling"
+00070007_0310.jpg,511.00096,178.00020000000004,1229.00032,586.00044,1,car,car_511.00,"green, parked, black, blue, gray, white","green, parked, black, blue, gray, white"
+00070007_0310.jpg,368.00000000000006,368.00028,843.0003200000001,608.00004,1,debris,debris_368.00,"black, blue, metal, gray, green, old","black, blue, metal, gray, green, old"
+00070007_0310.jpg,274.0,249.99984,1279.99936,720.0,1,road,road_274.00,"gray, green, parked, black, blue, white","gray, green, parked, black, blue, white"
+00070007_0310.jpg,1061.00032,241.99992,1102.0,273.00024,1,car,car_1061.00,"blue, white, red, small, colorful, open","blue, white, red, small, colorful, open"
+00070007_0310.jpg,328.0,1.0004400000000118,1035.00032,187.0002,1,trees,trees_328.00,"purple, green, pink, brown, large, tall","purple, green, pink, brown, large, tall"

@@ -1,0 +1,11 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0115.jpg,19.9998875,364.000084,71.9998025,395.000158,1,bag,bag_20.00,"['blue', 'small', 'white', 'plastic', 'green', 'light blue']"
+00070007_0115.jpg,158.0002525,421.000006,414.0000575,553.0,1,debris,debris_158.00,"['white', 'black', 'gray', 'blue', 'metal', 'silver']"
+00070007_0115.jpg,322.00016000000005,208.0001665,410.00008,237.0000395,1,sign,sign_322.00,"['blue', 'white', 'red', 'large', 'street', 'green']"
+00070007_0115.jpg,198.000235,199.0000915,230.000055,221.0000905,1,tree,tree_198.00,"['pink', 'purple', 'black', 'red', 'white', 'large']"
+00070007_0115.jpg,277.00005,199.0000915,316.00009,234.0000145,1,tree,tree_277.00,"['purple', 'green', 'red', 'small', 'pink', 'potted']"
+00070007_0115.jpg,52.99985749999999,213.000116,414.9997925,345.00011,1,truck,truck_53.00,"['white', 'parked', 'large', 'silver', 'black', 'blue']"
+00070007_0115.jpg,15.000175,323.000111,81.00011500000001,361.000059,1,debris,debris_15.00,"['yellow', 'metal', 'white', 'silver', 'red', 'small']"
+00070007_0115.jpg,12.000139999999998,268.0001135,62.00017,322.00001050000003,1,people,people_12.00,"['green', 'white', 'blue', 'small', 'colorful', 'large']"
+00070007_0115.jpg,197.000085,325.0000355,357.000015,421.0002825,1,debris,debris_197.00,"['red', 'black', 'open', 'pink', 'small', 'silver']"
+00070007_0115.jpg,0.9999425000000032,339.99988399999995,407.9999875,553.0,1,road,road_1.00,"['gray', 'black', 'white', 'wet', 'paved', 'concrete']"

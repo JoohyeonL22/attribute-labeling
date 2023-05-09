@@ -1,0 +1,9 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0915.jpg,1.0004480000000058,407.0000415,513.000448,602.9998685,1,pole,pole_1.00,"wooden, long, wood, yellow, brown, metal","wooden, long"
+00070007_0915.jpg,0.999935999999991,1.0002534999999853,699.999744,273.0002225,1,trees,trees_1.00,"bare, leafless, brown, dead, white, tall","bare, leafless"
+00070007_0915.jpg,0.999936000000048,464.0001480000001,1023.999488,683.0,1,road,road_1.00,"gray, white, paved, concrete, cement, yellow","gray, paved"
+00070007_0915.jpg,487.000064,90.99984650000002,799.000576,500.0000535,1,cars,cars_487.00,"black, green, gray, blue, silver, metal","black, metal"
+00070007_0915.jpg,794.000384,325.999998,958.000128,465.999972,1,debris,debris_794.00,"red, metal, purple, pink, black, blue",
+00070007_0915.jpg,0.9994239999999764,154.000108,1020.99968,294.999994,1,field,field_1.00,"green, brown, bare, white, long, tall",brown
+00070007_0915.jpg,487.000064,505.999867,565.999616,536.999871,1,debris,debris_487.00,"green, black, empty, blue, gray, metal","blue, metal"
+00070007_0915.jpg,200.999936,552.999829,286.000128,581.000097,1,debris,debris_201.00,"pink, purple, small, black, colorful, multi colored","small, black"

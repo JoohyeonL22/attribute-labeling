@@ -1,0 +1,12 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0859.jpg,370.9994625,464.00018200000005,555.9992775000001,849.9996980000001,1,man,man_371.00,"standing, young, sitting, skateboarding, playing, wearing","standing, young, sitting, skateboarding, playing, wearing"
+00070007_0859.jpg,1076.0004225,271.00042399999995,1184.0006475000002,358.000808,1,sign,sign_1076.00,"white, black, small, square, black and white, blue","white, black, small, square, black and white, blue"
+00070007_0859.jpg,872.0004599999999,624.999284,1018.00098,740.9997960000001,1,sign,sign_872.00,"red, white, orange, black, painted, pink","red, white, orange, black, painted, pink"
+00070007_0859.jpg,1038.99996,1.0001760000000104,1661.9996700000002,372.000784,1,tree,tree_1039.00,"green, tall, leafy, large, small, big","green, tall, leafy, large, small, big"
+00070007_0859.jpg,618.0005475,1.000797999999989,1062.0011025,175.00032199999998,1,tree,tree_618.00,"green, leafy, tall, large, white, small","green, leafy, tall, large, white, small"
+00070007_0859.jpg,73.00026,43.000726000000014,462.00087,345.00038600000005,1,tree,tree_73.00,"green, blue, small, glass, clear, white","green, blue, small, glass, clear, white"
+00070007_0859.jpg,0.9998324999999112,1.0001760000000104,1664.9991675,1244.0,1,water,water_1.00,"green, brown, clear, large, wet, reflective","green, brown, clear, large, wet, reflective"
+00070007_0859.jpg,1.0006649999999695,560.000284,584.000415,1029.000724,1,fence,fence_1.00,"metal, silver, brown, green, gray, black","metal, silver, brown, green, gray, black"
+00070007_0859.jpg,666.0,609.0002,1245.00042,738.0005120000001,1,gate,gate_666.00,"metal, brown, black, silver, white, wooden","metal, brown, black, silver, white, wooden"
+00070007_0859.jpg,618.0005475,362.9992,1289.0005425,746.9996080000001,1,bridge,bridge_618.00,"brown, metal, wooden, large, silver, green","brown, metal, wooden, large, silver, green"
+00070007_0859.jpg,1425.99924,293.000564,1665.0,603.0003879999999,1,tree,tree_1426.00,"green, blue, glass, tall, clear, small","green, blue, glass, tall, clear, small"

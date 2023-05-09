@@ -1,0 +1,12 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0133.jpg,694.00032,136.0002245,780,184.0000455,1,building,building_694.00,"double decker, green, white, large, blue, colorful","white, large"
+00070007_0133.jpg,58.99998,140.9999955,688.99974,337.9999285,1,bus,bus_59.00,"yellow, white, silver, large, black, orange",yellow
+00070007_0133.jpg,0.99957,246.999838,290.99967,434.999832,1,suv,suv_1.00,"white, blue, parked, yellow, silver, large",white
+00070007_0133.jpg,759.99963,171.999761,779.99961,194.999849,1,car,car_760.00,"colorful, green, yellow, red, blue, small",
+00070007_0133.jpg,47.00007,0.9998225,608.00025,240.9998055,1,smoke,smoke_47.00,"black, yellow, red, large, white, dark","black, large"
+00070007_0133.jpg,0.99996,190.000078,780,439,1,road,road_1.00,"yellow, white, blue, gray, parked, black",white
+00070007_0133.jpg,0.99996,272.00001,40.99992,318.000186,1,car,car_1.00,"white, green, empty, stacked, blue, plastic",white
+00070007_0133.jpg,0.99996,86.9999225,79.99992,223.9999695,1,building,building_1.00,"black, yellow, red, double decker, large, glass",
+00070007_0133.jpg,525.99963,1.0002615,778.99965,197.0001525,1,tree,tree_526.00,"bare, leafless, tall, brown, green, large","bare, leafless"
+00070007_0133.jpg,731.99997,174.000284,759.99963,191.00012,1,car,car_732.00,"green, blue, colorful, yellow, small, white",white
+00070007_0133.jpg,675.99987,169.000074,730.00005,190.000078,1,van,van_676.00,"yellow, large, small, glass, blue, orange",

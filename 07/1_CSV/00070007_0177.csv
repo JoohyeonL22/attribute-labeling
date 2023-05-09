@@ -1,0 +1,13 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0177.jpg,189.99999999999997,73.99980000000001,614.9996799999999,273.99996000000004,1,bus,bus_190.00,"['yellow', 'parked', 'double decker', 'white', 'moving', 'large']"
+00070007_0177.jpg,20.0,167.00004,104.0,236.99988,1,car,car_20.00,"['silver', 'black', 'white', 'small', 'gray', 'red']"
+00070007_0177.jpg,368.0,1.00007999999999,380.0,74.00016,1,pole,pole_368.00,"['orange', 'wooden', 'brown', 'wood', 'white', 'metal']"
+00070007_0177.jpg,409.0,139.00014,431.0,171.00018,1,sign,sign_409.00,"['purple', 'pink', 'small', 'white', 'black', 'colorful']"
+00070007_0177.jpg,597.9999999999999,140.00004,609.00032,160.0002,1,sign,sign_598.00,"['green', 'white', 'blue', 'lit', 'red', 'traffic']"
+00070007_0177.jpg,175.0,68.00004000000001,288.00032,123.00012,1,tree,tree_175.00,"['green', 'large', 'glass', 'clear', 'big', 'black']"
+00070007_0177.jpg,27.000319999999988,261.0,356.0,358.99992,1,debris,debris_27.00,"['black', 'green', 'parked', 'silver', 'blue', 'small']"
+00070007_0177.jpg,367.0,184.00014,640.0003199999999,360.00018,1,road,road_367.00,"['gray', 'concrete', 'cement', 'paved', 'black', 'wet']"
+00070007_0177.jpg,392.0,24.999839999999992,640.0,105.99984,1,trees,trees_392.00,"['white', 'pink', 'cloudy', 'red', 'gray', 'purple']"
+00070007_0177.jpg,1.0,35.00009999999999,211.0,211.00014,1,building,building_1.00,"['blue', 'green', 'white', 'gray', 'large', 'purple']"
+00070007_0177.jpg,214.00032,142.00002,232.00032,163.99998,1,man,man_214.00,"['open', 'white', 'small', 'black', 'red', 'green']"
+00070007_0177.jpg,231.99968,147.99996000000002,241.0,156.99996000000002,1,man,man_232.00,"['green', 'small', 'black', 'white', 'blue', 'red']"

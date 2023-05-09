@@ -1,0 +1,10 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0688.jpg,219.00047999999995,27.00007,353.00032,455.99977,1,man,man_219.00,"standing, walking, blue, white, green, wearing","standing, walking, blue, white, green, wearing"
+00070007_0688.jpg,690.0,1.0003700000000038,920.0,131.00011,1,tree,tree_690.00,"green, purple, white, pink, large, red","green, purple, white, pink, large, red"
+00070007_0688.jpg,0.9995799999999804,1.0000600000000048,645.99962,145.00002,1,trees,trees_1.00,"green, red, black, white, tall, leafy","green, red, black, white, tall, leafy"
+00070007_0688.jpg,0.9995799999999804,81.00020999999998,231.99962,175.00027,1,truck,truck_1.00,"black, parked, green, moving, red, gray","black, parked, green, moving, red, gray"
+00070007_0688.jpg,0.9995799999999236,135.99979000000002,919.99954,619.9996900000001,1,water,water_1.00,"wet, gray, dirty, white, concrete, green","wet, gray, dirty, white, concrete, green"
+00070007_0688.jpg,105.00005999999996,187.00037000000003,695.99978,545.0001500000001,1,barricade,barricade_105.00,"white, green, orange, colorful, blue, gray","white, green, orange, colorful, blue, gray"
+00070007_0688.jpg,633.9996,110.00009,679.9996,171.00003,1,bin,bin_634.00,"green, red, glass, blue, clear, small","green, red, glass, blue, clear, small"
+00070007_0688.jpg,616.00026,8.000169999999997,845.0002199999999,120.00007,1,building,building_616.00,"white, green, pink, large, purple, blue","white, green, pink, large, purple, blue"
+00070007_0688.jpg,342.99992,97.99968,405.99968,119.99976,1,car,car_343.00,"orange, black, white, large, red, double decker","orange, black, white, large, red, double decker"

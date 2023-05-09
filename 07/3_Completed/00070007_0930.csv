@@ -1,0 +1,10 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0930.jpg,2.0,2.000185000000016,65.0,291.000083,1,pole,pole_2.00,"green, black, purple, tall, metal, brown","black, metal"
+00070007_0930.jpg,762.0,10.000023,781.0,175.000177,1,pole,pole_762.00,"yellow, metal, gray, tall, silver, gold","metal, gray"
+00070007_0930.jpg,206.0,98.000045,260.0,161.00023500000003,1,sign,sign_206.00,"white, black, hanging, large, purple, square","white, square"
+00070007_0930.jpg,429.0,1.0000924999999938,800.0,161.0000095,1,trees,trees_429.00,"green, blue, purple, tall, white, cloudy",green
+00070007_0930.jpg,275.0,158.000183,790.0,371.000267,1,van,van_275.00,"silver, white, gray, parked, black, yellow","white, parked"
+00070007_0930.jpg,32.0,287.9998055,74.0,317.99987450000003,1,debris,debris_32.00,"yellow, white, black, small, gold, green","white, small"
+00070007_0930.jpg,136.0,289.9999905,163.0,306.0001175,1,debris,debris_136.00,"white, small, black, square, metal, silver","white, small"
+00070007_0930.jpg,2.0,103.0000565,645.0,188.9998935,1,building,building_2.00,"purple, pink, white, large, green, blue","white, large"
+00070007_0930.jpg,1.0,203.000061,354.0,266.000251,1,road,road_1.00,"yellow, black, white, gray, painted, long","black, gray"

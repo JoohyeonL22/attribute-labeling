@@ -1,0 +1,5 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0277.jpg,1.0001100000000065,139.0002,316.000098,454.00025,1,car,car_1.00,"['metal', 'gray', 'green', 'silver', 'black', 'white']"
+00070007_0277.jpg,254.000115,387.000075,298.000185,437.999875,1,debris,debris_254.00,"['small', 'white', 'square', 'black', 'framed', 'glass']"
+00070007_0277.jpg,212.000106,0.999875000000003,270.000126,407.999825,1,tree,tree_212.00,"['red', 'gray', 'brown', 'tall', 'metal', 'pink']"
+00070007_0277.jpg,0.99995100000001,1.0001125000000002,317.999841,207.9998875,1,trees,trees_1.00,"['green', 'red', 'tall', 'metal', 'gray', 'black']"

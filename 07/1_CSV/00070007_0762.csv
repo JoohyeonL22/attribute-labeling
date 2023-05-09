@@ -1,0 +1,10 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0762.jpg,1.0,0.999809999999968,1695.9984,952.99879,1,building,building_1.00,"['gray', 'white', 'large', 'blue', 'black', 'tall']"
+00070007_0762.jpg,0.9984000000000606,335.9996400000002,1492.9984,2024.999304,1,suv,suv_1.00,"['black', 'parked', 'dark', 'white', 'blue', 'gray']"
+00070007_0762.jpg,2241.0,1663.999124,3199.9984000000004,1829.999324,1,rope,rope_2241.00,"['green', 'blue', 'white', 'long', 'yellow', 'painted']"
+00070007_0762.jpg,1319.9999999999998,626.000614,2443.0016,1018.000194,1,fence,fence_1320.00,"['metal', 'white', 'silver', 'blue', 'gray', 'chain link']"
+00070007_0762.jpg,1569.0,956.000336,2223.0,1783.000848,1,man,man_1569.00,"['young', 'blue', 'sitting', 'standing', 'riding', 'wearing']"
+00070007_0762.jpg,1889.9984,1498.00104,2235.9984,1715.001072,1,chain,chain_1890.00,"['red', 'black', 'gray', 'white', 'orange', 'blue']"
+00070007_0762.jpg,859.0,938.000582,3200.0016,2116.001058,1,water,water_859.00,"['wet', 'gray', 'black', 'blue', 'calm', 'dark']"
+00070007_0762.jpg,1676.0,2.000678000000107,3200.0,1106.000402,1,building,building_1676.00,"['white', 'blue', 'gray', 'large', 'tan', 'painted']"
+00070007_0762.jpg,1288.0,1809.998892,3200.0,2114.999132,1,ramp,ramp_1288.00,"['black', 'wet', 'gray', 'paved', 'dark', 'concrete']"

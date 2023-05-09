@@ -1,0 +1,11 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0193.jpg,162.0,190.9998,498.0,373.9998,1,bus,bus_162.00,"yellow, parked, large, tan, white, black","yellow, parked, large, tan, white, black"
+00070007_0193.jpg,552.0,202.9998,697.0,589.9998,1,man,man_552.00,"standing, walking, smiling, wearing, young, looking","standing, walking, smiling, wearing, young, looking"
+00070007_0193.jpg,695.0,189.0003,800.0,548.0001,1,firefighter,firefighter_695.00,"standing, walking, black, smiling, young, wearing","standing, walking, black, smiling, young, wearing"
+00070007_0193.jpg,1.0,194.0001,725.0,600.0003,1,road,road_1.00,"gray, black, paved, wet, asphalt, concrete","gray, black, paved, wet, asphalt, concrete"
+00070007_0193.jpg,498.0,45.0,734.0,204.0,1,trees,trees_498.00,"tall, red, green, orange, large, blue","tall, red, green, orange, large, blue"
+00070007_0193.jpg,1.0,1.0002000000000066,589.0,370.0002,1,trees,trees_1.00,"bare, leafless, tall, brown, green, large","bare, leafless, tall, brown, green, large"
+00070007_0193.jpg,490.0,243.0,520.0,309.0,1,firefighter,firefighter_490.00,"green, walking, standing, blue, white, metal","green, walking, standing, blue, white, metal"
+00070007_0193.jpg,741.0,265.9998,800.0,301.9998,1,firefighter,firefighter_741.00,"black, orange, gray, red, white, large","black, orange, gray, red, white, large"
+00070007_0193.jpg,610.0,198.0,690.0,291.0,1,fire truck,fire truck_610.00,"yellow, black, orange, colorful, red, white","yellow, black, orange, colorful, red, white"
+00070007_0193.jpg,190.0,115.9998,469.0,202.9998,1,building,building_190.00,"tall, bare, brown, large, green, leafless","tall, bare, brown, large, green, leafless"

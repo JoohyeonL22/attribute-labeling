@@ -1,0 +1,15 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0238.jpg,17.000090000000057,74.000215,545.0001500000001,300.000051,1,car,car_17.00,"white, red, black, purple, silver, metal","white, metal"
+00070007_0238.jpg,290.00004,39.000052,374.00012,99.000132,1,suv,suv_290.00,"white, blue, green, black, red, small","white, small"
+00070007_0238.jpg,450.00034,71.00021100000001,490.00026,115.000037,1,car,car_450.00,"green, blue, white, glass, sitting, black",blue
+00070007_0238.jpg,498.00043,62.00019899999999,586.00013,115.000037,1,car,car_498.00,"green, silver, black, parked, gray, driving",silver
+00070007_0238.jpg,102.99967,34.9999885,207.99977,314.0000115,1,firefighter,firefighter_103.00,"standing, red, yellow, walking, black, wearing","standing, yellow"
+00070007_0238.jpg,220.00018,47.00000449999999,333.00014,320.0000195,1,firefighter,firefighter_220.00,"standing, sitting, young, wearing, walking, skiing","standing, wearing"
+00070007_0238.jpg,1.000060000000019,135.9998905,556.9999399999999,348.9998255,1,road,road_1.00,"white, red, gray, black, silver, wet",gray
+00070007_0238.jpg,389.00009,280.9999675,536.00023,319.0001345,1,debris,debris_389.00,"red, pink, metal, black, purple, white",black
+00070007_0238.jpg,92.99969,49.000123500000015,208.99983,301.0001105,1,firefighter,firefighter_93.00,"standing, red, yellow, walking, sitting, wearing","standing, yellow"
+00070007_0238.jpg,358.99984,34.99998849999999,411.99992,125.9999935,1,firefighter,firefighter_359.00,"sitting, yellow, standing, blue, white, looking","yellow, standing"
+00070007_0238.jpg,422.99965,40.0001115,456.99983,149.0001405,1,man,man_423.00,"standing, walking, sitting, watching, blurry, black","standing, watching"
+00070007_0238.jpg,61.99969,52.0001275,113.99971,110.0000885,1,man,man_62.00,"yellow, glass, clear, red, white, open",white
+00070007_0238.jpg,477.99985,49.99983399999999,505.99967,115.999922,1,woman,woman_478.00,"green, white, glass, open, black, metal",white
+00070007_0238.jpg,537.0002900000001,1.000059499999992,620.00031,346.0001705,1,van,van_537.00,"purple, pink, yellow, green, double decker, colorful",yellow

@@ -1,0 +1,6 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0661.jpg,42.99980800000003,188.999808,977.999872,510.999936,1,car,car_43.00,"black, gray, silver, white, parked, metal","gray, metal"
+00070007_0661.jpg,0.999936000000048,1.000319999999988,1023.999488,323.000448,1,fire truck,fire truck_1.00,"red, parked, white, gray, double decker, silver","red, parked"
+00070007_0661.jpg,12.000256000000036,671.000064,1011.00032,766.000128,1,sidewalk,sidewalk_12.00,"green, gray, concrete, black, cement, metal",gray
+00070007_0661.jpg,0.999936000000048,506.000256,1023.999488,712.0001279999999,1,grass,grass_1.00,"green, grassy, long, short, white, blue","green, grassy"
+00070007_0661.jpg,3.0003200000000447,242.0002560000001,1024.0,541.0003200000001,1,road,road_3.00,"black, gray, white, silver, metal, parked",gray

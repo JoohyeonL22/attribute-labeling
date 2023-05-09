@@ -1,0 +1,5 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0812.jpg,829.9991924999999,0.9996610000000032,1764.9991175,780.9993910000001,1,landslide,landslide_830.00,"brown, rocky, large, bare, tall, old","brown, rocky"
+00070007_0812.jpg,0.999872499999924,509.000614,1596.0003674999998,858.00029,1,debris,debris_1.00,"brown, red, wooden, wood, gray, large","brown, red"
+00070007_0812.jpg,0.999872499999924,229.00044,998.9997075,675.000692,1,trees,trees_1.00,"red, white, bare, gray, pink, black","bare, gray"
+00070007_0812.jpg,0.9998725000000376,832.9999600000001,1764.9991175,1174.0,1,water,water_1.00,"brown, calm, murky, green, clear, gray","murky, green"

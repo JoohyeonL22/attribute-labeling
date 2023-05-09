@@ -1,0 +1,12 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0734.jpg,472.9996739999999,901.000022,1700.999798,1190.000266,1,boat,boat_473.00,"white, blue, large, red, long, orange",white
+00070007_0734.jpg,1.0002299999999875,1.0004539999999906,1732.000866,691.000362,1,building,building_1.00,"large, red, green, brown, tall, colorful","large, red"
+00070007_0734.jpg,1345.001054,669.00054,1583.00037,1018.000516,1,man,man_1345.00,"sitting, standing, watching, bald, looking, wearing","sitting, watching"
+00070007_0734.jpg,185.000116,355.000308,305.000004,684.000772,1,man,man_185.00,"standing, walking, looking, white, blue, old","standing, looking"
+00070007_0734.jpg,463.9993359999999,1.0004539999999906,1732.0,1022.000538,1,tree,tree_464.00,"large, green, tall, red, big, colorful","large, green"
+00070007_0734.jpg,1283.0006500000002,818.99987,1422.999942,996.999354,1,man,man_1283.00,"sitting, white, standing, watching, wearing, green","white, watching"
+00070007_0734.jpg,1.0002299999999875,729.000272,1732.000866,1196.0,1,water,water_1.00,"white, large, blue, metal, red, yellow",red
+00070007_0734.jpg,921.99989,815.000446,1316.000446,1023.000394,1,man,man_922.00,"sitting, orange, blue, white, colorful, large","sitting, orange"
+00070007_0734.jpg,932.999822,847.000622,1085.999506,1022.000538,1,person,person_933.00,"sitting, colorful, blue, white, standing, watching","sitting, white"
+00070007_0734.jpg,1045.999832,801.9999260000001,1154.0004239999998,906.000498,1,man,man_1046.00,"clear, blue, glass, tall, small, empty",
+00070007_0734.jpg,661.0004799999999,784.9999819999999,854.000704,1011.999586,1,man,man_661.00,"sitting, watching, young, blue, standing, wearing","watching, wearing"

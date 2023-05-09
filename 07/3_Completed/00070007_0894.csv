@@ -1,0 +1,3 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0894.jpg,243.0,125.0001285,521.0,264.9999555,1,sign,sign_243.00,"pink, purple, white, black, small, blue","white, small"
+00070007_0894.jpg,1.0,0.9999660000000006,800.0,417.0,1,water,water_1.00,"brown, calm, gray, tan, wet, murky","brown, wet"

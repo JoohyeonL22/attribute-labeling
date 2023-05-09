@@ -1,0 +1,9 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0701.jpg,1079.0004,177.999589,1566.9996,1593.999203,1,firefighter,firefighter_1079.00,"gray, blue, white, large, black, green","gray, blue, white, large, black, green"
+00070007_0701.jpg,609.9995999999999,300.0003640000001,1325.9988,1594.0,1,firefighter,firefighter_610.00,"brown, tan, yellow, standing, white, blue","brown, tan, yellow, standing, white, blue"
+00070007_0701.jpg,3.001199999999983,728.9999600000001,416.0004,1594.0,1,fire,fire_3.00,"gray, blue, white, sitting, standing, brown","gray, blue, white, sitting, standing, brown"
+00070007_0701.jpg,657.9996,582.9999210000001,1694.9987999999998,1593.999203,1,hose,hose_658.00,"brown, tan, gray, white, large, blue","brown, tan, gray, white, large, blue"
+00070007_0701.jpg,1341.9996,68.00004000000001,2390.0004,1594.0,1,water,water_1342.00,"orange, white, red, large, pink, black","orange, white, red, large, pink, black"
+00070007_0701.jpg,648.9996,1.0002350000000888,2393.9988,1594.000797,1,fire,fire_649.00,"orange, white, large, black, gray, colorful","orange, white, large, black, gray, colorful"
+00070007_0701.jpg,0.9995999999999868,181.999732,458.9988,1301.000484,1,firefighter,firefighter_1.00,"brown, gray, tan, sitting, stuffed, standing","brown, gray, tan, sitting, stuffed, standing"
+00070007_0701.jpg,0.9995999999999868,1.0002350000000888,1118.0004,1594.000797,1,smoke,smoke_1.00,"white, gray, blue, colorful, green, painted","white, gray, blue, colorful, green, painted"

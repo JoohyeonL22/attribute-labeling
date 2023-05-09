@@ -1,0 +1,6 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0668.jpg,1282.00032,290.00027,1662.0,684.000422,1,car,car_1282.00,"white, parked, green, large, silver, big","white, big"
+00070007_0668.jpg,1.0005239999999986,0.9999149999999872,185.000544,840.999537,1,tree,tree_1.00,"green, tall, large, leafy, small, metal","green, leafy"
+00070007_0668.jpg,60.9995550000001,0.9999150000000157,1661.999169,372.000153,1,trees,trees_61.00,"green, white, blue, cloudy, large, tall","green, large"
+00070007_0668.jpg,113.99907300000008,294.999222,1475.9997629999998,906.999534,1,truck,truck_114.00,"red, parked, green, black, white, old",red
+00070007_0668.jpg,103.000788,259.999705,268.000824,321.000127,1,building,building_103.00,"green, white, blue, red, street, neon",white

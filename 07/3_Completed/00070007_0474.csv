@@ -1,0 +1,11 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0474.jpg,236.000086,153.999812,918.00051,388.999964,1,car,car_236.00,"red, parked, maroon, purple, black, brown",red
+00070007_0474.jpg,953.999863,213.000258,968.000077,236.000122,1,cone,cone_954.00,"pink, purple, small, white, red, black",small
+00070007_0474.jpg,460.000059,18.000014,485.000089,408.999918,1,pole,pole_460.00,"blue, metal, tall, gray, black, silver","metal, gray"
+00070007_0474.jpg,551.000464,214.000228,986,554,1,road,road_551.00,"gray, red, paved, wet, concrete, brick","gray, paved"
+00070007_0474.jpg,149.000376,379.000264,814.000188,554,1,sidewalk,sidewalk_149.00,"gray, concrete, brown, wet, white, paved","gray, brown"
+00070007_0474.jpg,610.000239,0.99997,986.000493,160.000186,1,trees,trees_610.00,"bare, brown, blue, black, leafless, purple","bare, brown"
+00070007_0474.jpg,887.000177,157.999969,983.000095,227.000115,1,truck,truck_887.00,"purple, pink, white, silver, gray, parked",white
+00070007_0474.jpg,231.00008,277.99997,342.000016,389.999934,1,debris,debris_231.00,"blue, metal, open, black, silver, clear","metal, black"
+00070007_0474.jpg,512.999531,71.999779,899.999601,211.000041,1,tank,tank_513.00,"pink, purple, red, metal, black, blue","red, metal"
+00070007_0474.jpg,383.000361,132.000195,510.999923,176.999953,1,tank,tank_383.00,"white, blue, parked, silver, large, small",white

@@ -1,0 +1,10 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0659.jpg,205.0,280.000184,483.0,397.000136,1,car,car_205.00,"['white', 'parked', 'purple', 'pink', 'red', 'moving']"
+00070007_0659.jpg,167.0,269.999832,225.0,434.999688,1,man,man_167.00,"['standing', 'walking', 'green', 'black', 'purple', 'young']"
+00070007_0659.jpg,472.0,0.999935999999991,520.0,391.999712,1,pole,pole_472.00,"['wooden', 'brown', 'wood', 'tall', 'large', 'purple']"
+00070007_0659.jpg,1.0,423.999896,800.0,495.999752,1,road,road_1.00,"['gray', 'yellow', 'paved', 'concrete', 'black', 'asphalt']"
+00070007_0659.jpg,404.0,231.000096,645.0,385.00016,1,ambulance,ambulance_404.00,"['colorful', 'double decker', 'white', 'large', 'purple', 'multi colored']"
+00070007_0659.jpg,1.0,398.99976,799.0,426.999952,1,sidewalk,sidewalk_1.00,"['yellow', 'green', 'gray', 'white', 'long', 'painted']"
+00070007_0659.jpg,18.0,262.99978400000003,178.0,393.999832,1,fence,fence_18.00,"['green', 'white', 'metal', 'blue', 'red', 'gray']"
+00070007_0659.jpg,520.0,265.99984,800.0,391.999712,1,fence,fence_520.00,"['large', 'white', 'gray', 'green', 'concrete', 'long']"
+00070007_0659.jpg,1.0,1.0001839999999902,799.0,352.999976,1,trees,trees_1.00,"['white', 'green', 'tall', 'bare', 'large', 'cloudy']"

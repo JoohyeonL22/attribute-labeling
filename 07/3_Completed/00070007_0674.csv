@@ -1,0 +1,10 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0674.jpg,149,251.99984,324,312.99992,1,boat,boat_149.00,"purple, pink, white, black, small, colorful",white
+00070007_0674.jpg,289,180.99985,429,213.99991,1,building,building_289.00,"black, large, white, glass, pink, open",white
+00070007_0674.jpg,308,225.99987,406,277.99981,1,car,car_308.00,"green, black, blue, red, white, double decker",black
+00070007_0674.jpg,94,192.00004,102,290.99988,1,pole,pole_94.00,"pink, red, purple, metal, long, tall","metal, long"
+00070007_0674.jpg,65,135.99983,131,197.99985,1,sign,sign_65.00,"white, black, red, street, square, pink",white
+00070007_0674.jpg,1,0.99994,129,250.9999,1,trees,trees_1.00,"green, tall, large, red, leafy, black","green, leafy"
+00070007_0674.jpg,128,1.00011,500,240.00005,1,trees,trees_128.00,"green, black, tall, dark, large, clear","green, large"
+00070007_0674.jpg,437,177.99986,500,211.99986,1,building,building_437.00,"pink, brown, purple, gray, large, white","gray, large"
+00070007_0674.jpg,1,225.99987,500,338.99989,1,water,water_1.00,"wet, clear, black, gray, glass, reflective","wet, reflective"

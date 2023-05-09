@@ -1,0 +1,7 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0570.jpg,1.0001949999999908,0.9999249999999976,410.0002050000001,67.000035,1,building,building_1.00,"['pink', 'white', 'brown', 'large', 'purple', 'tan']"
+00070007_0570.jpg,117.00006,101.00001500000002,398.00012,184.999925,1,car,car_117.00,"['silver', 'white', 'green', 'yellow', 'gray', 'moving']"
+00070007_0570.jpg,25.999945000000025,64.999955,409.999795,102.999865,1,fence,fence_26.00,"['white', 'pink', 'purple', 'metal', 'silver', 'gray']"
+00070007_0570.jpg,0.999990000000004,70.999965,122.00001,170.000015,1,truck,truck_1.00,"['white', 'green', 'parked', 'purple', 'pink', 'black']"
+00070007_0570.jpg,1.0001949999999908,155.00010499999996,410.0002050000001,230.000115,1,water,water_1.00,"['wet', 'brown', 'gray', 'yellow', 'concrete', 'black']"
+00070007_0570.jpg,242.000245,113.000035,259.000075,166.00008499999998,1,person,person_242.00,"['green', 'open', 'black', 'sitting', 'white', 'blue']"

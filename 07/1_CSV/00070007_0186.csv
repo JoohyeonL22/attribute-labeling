@@ -1,0 +1,10 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0186.jpg,80.00040000000001,292.0,1178.0004,734.0,1,bus,bus_80.00,"['red', 'white', 'double decker', 'parked', 'yellow', 'moving']"
+00070007_0186.jpg,567.0006,525.0,679.0002000000001,739.0,1,man,man_567.00,"['sitting', 'black', 'standing', 'yellow', 'white', 'wearing']"
+00070007_0186.jpg,813.9996,503.0,927.9996,781.0,1,man,man_814.00,"['standing', 'walking', 'young', 'playing', 'wearing', 'looking']"
+00070007_0186.jpg,100.00020000000006,1.0,1200.0005999999998,530.0,1,smoke,smoke_100.00,"['blue', 'white', 'cloudy', 'black', 'gray', 'red']"
+00070007_0186.jpg,88.99980000000005,316.0,397.0002,565.0,1,fire,fire_89.00,"['red', 'blue', 'silver', 'clear', 'large', 'white']"
+00070007_0186.jpg,559.9997999999999,526.0,578.9994,577.0,1,fire extinguisher,fire extinguisher_560.00,"['black', 'silver', 'red', 'white', 'yellow', 'metal']"
+00070007_0186.jpg,906.0006,465.0,961.0002,508.0,1,fire extinguisher,fire extinguisher_906.00,"['red', 'white', 'blue', 'black', 'pink', 'silver']"
+00070007_0186.jpg,1.0001999999999498,673.0,1200.0006,800.0,1,road,road_1.00,"['gray', 'yellow', 'red', 'white', 'paved', 'concrete']"
+00070007_0186.jpg,72.00059999999999,645.0,280.00019999999995,698.0,1,debris,debris_72.00,"['green', 'yellow', 'metal', 'black', 'red', 'wooden']"

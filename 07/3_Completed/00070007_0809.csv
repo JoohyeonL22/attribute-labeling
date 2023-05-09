@@ -1,0 +1,9 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0809.jpg,306.0,223.000114,1472.0,622.999594,1,building,building_306.00,"white, metal, gray, silver, brown, wooden","gray, brown"
+00070007_0809.jpg,647.0008,508.000032,716.0008,584.0001639999999,1,dog,dog_647.00,"orange, white, black, blue, standing, red","white, standing"
+00070007_0809.jpg,938.9992,309.00023300000004,1339.9992,949.000555,1,man,man_939.00,"standing, young, walking, smiling, looking, white","standing, looking"
+00070007_0809.jpg,1.0,0.9999410000000352,471.0,634.000099,1,tree,tree_1.00,"green, tall, leafy, large, brown, growing","green, leafy"
+00070007_0809.jpg,183.0,0.9999410000000352,1599.0,561.999731,1,trees,trees_183.00,"green, gray, tall, brown, orange, white","green, tall"
+00070007_0809.jpg,1.0008000000000266,563.999613,1600.0008,1153.999423,1,water,water_1.00,"green, calm, murky, clear, brown, dark","green, murky"
+00070007_0809.jpg,686.0008,428.000136,771.0008,587.000564,1,dog,dog_686.00,"white, standing, gray, black, orange, large","white, standing"
+00070007_0809.jpg,885.0,425.00031300000006,979.0,594.0001510000001,1,dog,dog_885.00,"green, red, blue, white, black, colorful",white

@@ -1,0 +1,7 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0164.jpg,208.99998,1.0000499999999874,630.0,259.000206,1,bus,bus_209.00,"yellow, black, green, metal, orange, white","yellow, metal"
+00070007_0164.jpg,144.000045,84.99982500000002,272.000295,353.999823,1,man,man_144.00,"standing, walking, wearing, looking, smiling, bald","standing, wearing"
+00070007_0164.jpg,222.00003,61.00004099999998,357.00021,353.000127,1,man,man_222.00,"standing, blue, gray, walking, black, young","standing, blue"
+00070007_0164.jpg,321.00012,18.999888,533.0001599999999,354.0,1,man,man_321.00,"standing, black, green, walking, yellow, white","standing, black"
+00070007_0164.jpg,1.0001249999999686,223.999872,630.000315,354.0,1,road,road_1.00,"gray, black, paved, concrete, wet, white","gray, paved"
+00070007_0164.jpg,529.0002900000001,22.999911000000004,600.00003,93.999921,1,sign,sign_529.00,"red, white, green, stop, metal, large","red, stop"

@@ -1,0 +1,12 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0466.jpg,1008.0,586.0008174999999,2878.000128,1645.0008225,1,car,car_1008.00,"black, white, gray, parked, silver, red","black, white, gray, parked, silver, red"
+00070007_0466.jpg,977.001984,471.0005125,1087.001088,604.0004074999999,1,car,car_977.00,"white, parked, green, large, red, pink","white, parked, green, large, red, pink"
+00070007_0466.jpg,0.9984000000000036,334.999315,923.999232,1199.999535,1,fence,fence_1.00,"metal, gray, chain link, wire, blue, green","metal, gray, chain link, wire, blue, green"
+00070007_0466.jpg,989.001216,599.00043,1241.000448,847.00063,1,sidewalk,sidewalk_989.00,"red, white, black, pink, green, gray","red, white, black, pink, green, gray"
+00070007_0466.jpg,1.0014719999999784,0.9993374999999672,869.0012160000001,486.9997825,1,trees,trees_1.00,"bare, leafless, brown, dead, tall, dry","bare, leafless, brown, dead, tall, dry"
+00070007_0466.jpg,1084.00128,255.9990125,1835.000832,720.9993875,1,fire truck,fire truck_1084.00,"white, double decker, red, large, parked, pink","white, double decker, red, large, parked, pink"
+00070007_0466.jpg,1526.9990400000002,105.00035000000004,2983.999488,1108.99978,1,van,van_1527.00,"white, green, double decker, blue, parked, red","white, green, double decker, blue, parked, red"
+00070007_0466.jpg,606.001152,489.00092500000005,877.000704,752.000235,1,car,car_606.00,"black, green, gray, large, parked, white","black, green, gray, large, parked, white"
+00070007_0466.jpg,996.999168,767.0001675,1080.999936,802.0008325,1,debris,debris_997.00,"red, black, parked, small, white, orange","red, black, parked, small, white, orange"
+00070007_0466.jpg,2492.000256,238.0002450000001,2737.999872,954.999815,1,man,man_2492.00,"standing, black, sitting, walking, looking, wearing","standing, black, sitting, walking, looking, wearing"
+00070007_0466.jpg,995.0008319999996,582.0001774999998,3072.001536,1645.0008225,1,road,road_995.00,"gray, black, white, parked, red, silver","gray, black, white, parked, red, silver"

@@ -1,0 +1,11 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0876.jpg,3.999600000000015,658.0,290.9988,830.0,1,truck,truck_4.00,"['black', 'parked', 'blue', 'white', 'dark', 'large']"
+00070007_0876.jpg,0.9995999999999868,725.0,1991.0004,1053.0,1,fence,fence_1.00,"['white', 'metal', 'wooden', 'silver', 'long', 'gray']"
+00070007_0876.jpg,2253.0,688.0,2397.0,818.0,1,fence,fence_2253.00,"['white', 'wooden', 'small', 'metal', 'brown', 'large']"
+00070007_0876.jpg,1370.0004,635.9992,1434.0012,1044.9992,1,post,post_1370.00,"['purple', 'pink', 'colorful', 'tall', 'red', 'standing']"
+00070007_0876.jpg,1811.0004,62.99919999999997,2391.0012,795.9992,1,tree,tree_1811.00,"['green', 'tall', 'large', 'leafy', 'pine', 'brown']"
+00070007_0876.jpg,0.9995999999999868,0.9991999999999734,2024.0004,883.9992,1,tree,tree_1.00,"['green', 'white', 'blue', 'large', 'tall', 'red']"
+00070007_0876.jpg,1.0008000000000266,1.0,1591.0008,633.0,1,trees,trees_1.00,"['green', 'red', 'large', 'orange', 'tall', 'white']"
+00070007_0876.jpg,0.999599999999873,814.0,2399.9988000000003,1600.0,1,water,water_1.00,"['calm', 'dark', 'green', 'brown', 'wet', 'murky']"
+00070007_0876.jpg,906.0012,590.0,1238.0004,1228.0,1,woman,woman_906.00,"['pink', 'standing', 'young', 'blonde', 'purple', 'walking']"
+00070007_0876.jpg,218.0004,460.0008,1809.9996,823.0008,1,building,building_218.00,"['blue', 'white', 'green', 'gray', 'large', 'long']"

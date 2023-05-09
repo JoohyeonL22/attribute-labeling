@@ -1,0 +1,4 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0565.jpg,0.999935999999991,0.999936000000048,992.0,558.0,1,debris,debris_1.00,"white, brown, old, blue, large, black","brown, old"
+00070007_0565.jpg,0.999935999999991,0.9999360000000196,532.9996160000001,174.000024,1,tree,tree_1.00,"blue, bare, leafless, large, clear, green","bare, leafless"
+00070007_0565.jpg,351.000352,100.000017,480.000032,492.000039,1,woman,woman_351.00,"blue, green, standing, long, old, white","green, standing"

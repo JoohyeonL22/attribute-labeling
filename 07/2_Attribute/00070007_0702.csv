@@ -1,0 +1,10 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0702.jpg,1.000044499999973,135.0,268.99991750000004,308.0,1,bus,bus_1.00,"yellow, green, white, moving, parked, blue","yellow, green, white, moving, parked, blue"
+00070007_0702.jpg,558.0000160000001,1.0,594.0002000000001,296.0,1,pole,pole_558.00,"yellow, black, metal, tall, blue, gray","yellow, black, metal, tall, blue, gray"
+00070007_0702.jpg,0.9996899999999868,249.0,709.0,400.0,1,road,road_1.00,"gray, black, wet, yellow, paved, white","gray, black, wet, yellow, paved, white"
+00070007_0702.jpg,100.00019599999996,86.0,709.0,199.0,1,trees,trees_100.00,"green, tall, black, dark, white, cloudy","green, tall, black, dark, white, cloudy"
+00070007_0702.jpg,270.999652,178.0,709.0,343.0,1,water,water_271.00,"yellow, purple, white, gray, long, pink","yellow, purple, white, gray, long, pink"
+00070007_0702.jpg,326.9996625,196.0,342.9996655,253.0,1,person,person_327.00,"red, pink, open, closed, glass, orange","red, pink, open, closed, glass, orange"
+00070007_0702.jpg,357.9999785,198.0,378.0001595,249.0,1,person,person_358.00,"green, standing, blue, walking, white, black","green, standing, blue, walking, white, black"
+00070007_0702.jpg,289.9997885,201.00000000000003,296.9997455,222.00000000000003,1,person,person_290.00,"green, blue, white, red, neon, yellow","green, blue, white, red, neon, yellow"
+00070007_0702.jpg,312.0000585,198.0,323.9998835,218.0,1,person,person_312.00,"pink, red, purple, small, lit, hanging","pink, red, purple, small, lit, hanging"

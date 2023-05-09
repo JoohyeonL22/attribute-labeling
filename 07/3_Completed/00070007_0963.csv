@@ -1,0 +1,10 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0963.jpg,428.9999445,86.9998635,452.0002095,104.0000565,1,car,car_429.00,"green, standing, white, sitting, small, watching",small
+00070007_0963.jpg,202.0000995,1.0001685,214.0001685,105.0000195,1,pole,pole_202.00,"blue, tall, metal, large, long, green","tall, metal"
+00070007_0963.jpg,283.000167,86.000106,478.000359,306.000186,1,sign,sign_283.00,"yellow, black, orange, white, red, green",yellow
+00070007_0963.jpg,43.0001145,57.0001515,186.0000075,124.0001385,1,jeep,jeep_43.00,"green, red, white, blue, double decker, black",red
+00070007_0963.jpg,18.0001035,1.0001685,89.9999865,77.0002335,1,tree,tree_18.00,"green, red, tall, large, leafy, black","green, leafy"
+00070007_0963.jpg,1.0001385,104.999814,531.0002655,411,1,water,water_1.00,"calm, green, wet, black, dark, gray","calm, wet"
+00070007_0963.jpg,269.9999595,144.0002205,504.9998505,360.0000375,1,barrier,barrier_270.00,"green, yellow, black, white, orange, red",white
+00070007_0963.jpg,505.000116,86.9998635,531,111.9997605,1,car,car_505.00,"red, yellow, black, white, orange, double decker",black
+00070007_0963.jpg,1.0001385,3.0000945,499.0000815,101.0001675,1,building,building_1.00,"blue, white, green, gray, large, tall","gray, large"

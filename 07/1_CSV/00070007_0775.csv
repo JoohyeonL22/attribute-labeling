@@ -1,0 +1,8 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute
+00070007_0775.jpg,295.99936,205.99992,718.99968,451.00008,1,car,car_296.00,"['black', 'parked', 'blue', 'dark', 'gray', 'small']"
+00070007_0775.jpg,833.9999999999999,1.000079999999997,860.0006399999999,329.99976000000004,1,pole,pole_834.00,"['black', 'metal', 'tall', 'red', 'long', 'silver']"
+00070007_0775.jpg,0.9996799999998984,1.000079999999997,1164.0,340.99992,1,trees,trees_1.00,"['green', 'red', 'tall', 'yellow', 'leafy', 'black']"
+00070007_0775.jpg,1.0003199999998742,222.9998400000001,1072.00064,720.0,1,water,water_1.00,"['wet', 'green', 'black', 'clear', 'yellow', 'calm']"
+00070007_0775.jpg,596.9996800000001,12.999600000000044,1280.0,718.99992,1,road,road_597.00,"['wet', 'green', 'clear', 'white', 'black', 'gray']"
+00070007_0775.jpg,773.99936,0.9997200000000036,917.99936,98.99964,1,sign,sign_774.00,"['red', 'white', 'glass', 'hanging', 'large', 'black']"
+00070007_0775.jpg,816.0,108.99972,880.0,172.9998,1,sign,sign_816.00,"['white', 'black', 'red', 'metal', 'pink', 'square']"

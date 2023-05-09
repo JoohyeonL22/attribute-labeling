@@ -1,0 +1,9 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0201.jpg,298.9998765,96.000235,554.0001155,323.000149,1,bus,bus_299.00,"yellow, orange, double decker, black, parked, large","orange, large"
+00070007_0201.jpg,0.9999015,184.000126,108.0000545,221.000114,1,car,car_1.00,"yellow, green, white, parked, gold, blue","white, parked"
+00070007_0201.jpg,578.9997915,201.00017,589.9996245000001,225.000286,1,cone,cone_579.00,"white, red, orange, metal, small, wooden","orange, small"
+00070007_0201.jpg,474.0000525,1.0002720000000025,484.0002895,105.000164,1,pole,pole_474.00,"yellow, metal, tall, gray, large, wooden","metal, gray"
+00070007_0201.jpg,0.9999014999999928,1.000042999999991,274.0002005,188.000069,1,tree,tree_1.00,"green, tall, large, leafy, blue, big","green, leafy"
+00070007_0201.jpg,183.0003045,46.99996,611.0003055,179.00014,1,trees,trees_183.00,"orange, white, blue, green, tall, gray",green
+00070007_0201.jpg,0.9999015000000212,206.000156,610.9996945,458.0,1,road,road_1.00,"gray, black, wet, paved, concrete, asphalt","gray, asphalt"
+00070007_0201.jpg,13.999842999999998,163.00013900000005,310.999611,360.00013700000005,1,suv,suv_14.00,"black, parked, white, yellow, gray, large","black, parked"

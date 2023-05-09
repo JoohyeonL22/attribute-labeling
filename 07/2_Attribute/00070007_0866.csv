@@ -1,0 +1,12 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0866.jpg,0.9994239999999764,832.9996799999999,1253.998592,1152.9991679999998,1,car,car_1.00,"green, white, gray, black, blue, colorful","green, white, gray, black, blue, colorful"
+00070007_0866.jpg,1760.0,7.999488000000042,2037.000192,591.998976,1,tree,tree_1760.00,"green, tall, large, leafy, big, blue","green, tall, large, leafy, big, blue"
+00070007_0866.jpg,0.9994239999999764,0.9991679999999404,1806.000128,807.9997440000001,1,container,container_1.00,"red, pink, orange, large, white, metal","red, pink, orange, large, white, metal"
+00070007_0866.jpg,0.99942400000009,704.000256,2048.0,1536.000768,1,road,road_1.00,"gray, paved, concrete, black, white, asphalt","gray, paved, concrete, black, white, asphalt"
+00070007_0866.jpg,163.99974400000002,1221.000192,270.999552,1286.0006399999995,1,debris,debris_164.00,"red, pink, green, orange, colorful, plastic","red, pink, green, orange, colorful, plastic"
+00070007_0866.jpg,802.999296,697.000704,1169.998848,842.00064,1,truck,truck_803.00,"green, black, blue, large, glass, clear","green, black, blue, large, glass, clear"
+00070007_0866.jpg,598.00064,725.9996160000001,658.000896,816.0,1,person,person_598.00,"blue, red, black, small, white, metal","blue, red, black, small, white, metal"
+00070007_0866.jpg,305.000448,752.0002559999999,398.999552,808.99968,1,person,person_305.00,"small, black, metal, white, open, silver","small, black, metal, white, open, silver"
+00070007_0866.jpg,1403.000832,601.999872,1630.001152,755.999232,1,people,people_1403.00,"watching, sitting, standing, green, blue, metal","watching, sitting, standing, green, blue, metal"
+00070007_0866.jpg,1167.000576,693.000192,1214.000128,764.000256,1,person,person_1167.00,"yellow, green, white, blue, black, small","yellow, green, white, blue, black, small"
+00070007_0866.jpg,1637.999616,543.999744,2047.998976,976.99968,1,people,people_1638.00,"standing, walking, watching, wearing, yellow, black","standing, walking, watching, wearing, yellow, black"

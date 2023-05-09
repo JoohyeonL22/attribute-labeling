@@ -1,0 +1,7 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0309.jpg,55.00031999999999,100.99969000000004,655.00032,383.99989,1,car,car_55.00,"old, black, orange, green, blue, parked","old, black"
+00070007_0309.jpg,446.000256,0.9999650000000316,528.0003839999999,377.000135,1,tree,tree_446.00,"brown, tall, orange, gray, large, long",brown
+00070007_0309.jpg,511.999872,1.0001800000000003,767.999616,368.00002,1,tree,tree_512.00,"green, tall, large, leafy, brown, growing","green, leafy"
+00070007_0309.jpg,0.9995519999999942,0.999750000000013,154.99968,120.99985,1,building,building_1.00,"white, large, red, pink, big, closed",white
+00070007_0309.jpg,566.000256,363.000195,649.0003200000001,422.000065,1,debris,debris_566.00,"red, blue, metal, orange, small, open","metal, small"
+00070007_0309.jpg,354.99955199999994,356.00001,565.9998719999999,416.99981,1,debris,debris_355.00,"blue, metal, rusty, orange, silver, gray",metal

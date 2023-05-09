@@ -1,0 +1,9 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0978.jpg,1.000140000000016,1.0000080000000082,474.0,316.00012000000004,1,building,building_1.00,"black, gray, green, white, wet, large","gray, wet"
+00070007_0978.jpg,1.000140000000016,159.99990400000002,474.0,344.0,1,water,water_1.00,"gray, wet, concrete, black, brown, purple","wet, brown"
+00070007_0978.jpg,315.999921,170.99999200000002,446.999775,302.000008,1,woman,woman_316.00,"pink, purple, small, colorful, little, black",pink
+00070007_0978.jpg,329.000082,128.99982799999998,376.000026,264.999884,1,boy,boy_329.00,"sitting, young, little, blonde, standing, small","young, little"
+00070007_0978.jpg,184.99983,158.00006000000002,224.999742,206.00010000000003,1,water,water_185.00,"white, clear, glass, small, open, framed",white
+00070007_0978.jpg,221.00013,142.99993999999998,248.000118,164.999772,1,bucket,bucket_221.00,"white, black, yellow, small, blue, gray","small, gray"
+00070007_0978.jpg,190.000056,223.00006400000004,298.000008,270.00009600000004,1,water,water_190.00,"blue, clear, white, glass, small, plastic",
+00070007_0978.jpg,295.99996500000003,204.99992,318.99986700000005,229.99977600000005,1,bowl,bowl_296.00,"red, black, blue, pink, purple, small",black

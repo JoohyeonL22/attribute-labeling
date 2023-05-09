@@ -1,0 +1,7 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0718.jpg,366.9999,74,599.9997,302,1,building,building_367.00,"red, black, white, gray, brown, large",gray
+00070007_0718.jpg,140.0001,10,477.0003,319,1,building,building_140.00,"white, blue, gray, large, red, silver","blue, gray"
+00070007_0718.jpg,369.9999,294,599.9997,325,1,debris,debris_370.00,"orange, red, white, metal, black, gray","metal, gray"
+00070007_0718.jpg,119.9997,195,183.9999,300,1,machine,machine_120.00,"blue, green, glass, white, open, metal",metal
+00070007_0718.jpg,51,131,93,217,1,sign,sign_51.00,"green, white, blue, black, large, tall",blue
+00070007_0718.jpg,0.9999,271,599.9997,400,1,parking lot,parking lot_1.00,"gray, wet, concrete, paved, yellow, cement","gray, paved"

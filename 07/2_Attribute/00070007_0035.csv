@@ -1,0 +1,3 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0035.jpg,1.0000499999999874,23.00019500000002,562.99983,315.000047,1,bus,bus_1.00,"white, black, silver, green, small, red","white, black, silver, green, small, red"
+00070007_0035.jpg,0.9997549999999932,250.9998755,589.999705,395.9997584999999,1,debris,debris_1.00,"pink, brown, white, metal, red, glass","pink, brown, white, metal, red, glass"

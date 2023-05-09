@@ -1,0 +1,5 @@
+img_name,xmin,ymin,xmax,ymax,class_confidence,class,class_tmp,attribute,attribute_refine
+00070007_0518.jpg,1.0003500000000258,426.00022,900.00045,530.0,1,road,road_1.00,"gray, black, paved, yellow, concrete, empty","gray, black, paved, yellow, concrete, empty"
+00070007_0518.jpg,1.000350000000083,0.9998449999999934,884.00025,448.999835,1,smoke,smoke_1.00,"blue, white, gray, black, dark, cloudy","blue, white, gray, black, dark, cloudy"
+00070007_0518.jpg,86.00039999999996,218.9999750000001,826.0002,467.999805,1,junk vehicle,junk vehicle_86.00,"black, red, silver, gray, white, orange","black, red, silver, gray, white, orange"
+00070007_0518.jpg,23.00039999999996,228.00017000000005,781.0002,480.99991,1,fire,fire_23.00,"black, silver, gray, white, orange, red","black, silver, gray, white, orange, red"

@@ -55,13 +55,13 @@ In 2_Attribute Checker - Mouse.py, there is a code for exceptional attribute.
 # Screenshots of disaster image labeling
 
 Before preprocessing
-https://github.com/JoohyeonL22/attribute-labeling/assets/106375416/cc7256a4-eac6-49b7-8e0e-7b60d3faf76e
+<img width="100%" src="https://github.com/JoohyeonL22/attribute-labeling/assets/106375416/cc7256a4-eac6-49b7-8e0e-7b60d3faf76e"/>
 
 - Hard to find matched object.
 - Hard to write down correct object.
 
 After preprocessing
-https://github.com/JoohyeonL22/attribute-labeling/assets/106375416/b7df8804-7cab-41a9-a2e9-17dcea579e7f
+<img width="100%" src="https://github.com/JoohyeonL22/attribute-labeling/assets/106375416/b7df8804-7cab-41a9-a2e9-17dcea579e7f"/>
 
 - Only shows an object which matched to attribute list.
 - Automatically write down the chosen attribute to .csv files.

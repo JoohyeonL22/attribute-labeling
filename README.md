@@ -60,8 +60,9 @@ Before preprocessing
 - Hard to find matched object.
 - Hard to write down correct object.
 
+
 After preprocessing
 <img width="100%" src="https://github.com/JoohyeonL22/attribute-labeling/assets/106375416/b7df8804-7cab-41a9-a2e9-17dcea579e7f"/>
 
 - Only shows an object which matched to attribute list.
-- Automatically write down the chosen attribute to .csv files.
+- Automatically save the chosen attribute to .csv files.
